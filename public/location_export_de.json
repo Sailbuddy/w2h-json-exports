@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Testort",
+    "lat": 45.5,
+    "lng": 13.5,
+    "category": "Restaurant"
+  }
+]
