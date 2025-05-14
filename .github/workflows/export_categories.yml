@@ -1,0 +1,58 @@
+name: Export Supabase Categories
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # täglich um 02:00 UTC (entspricht 04:00 MESZ)
+  workflow_dispatch:
+
+jobs:
+  export-categories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install fetch dependency
+        run: npm install node-fetch@2
+
+      - name: Fetch categories and write JSON
+        run: |
+          node -e "
+            const fetch = require('node-fetch');
+            const fs = require('fs');
+
+            const url = 'https://ufebkrjjnrfhupwxvpmb.supabase.co/rest/v1/categories';
+            const headers = {
+              'apikey': process.env.SUPABASE_ANON_KEY,
+              'Authorization': 'Bearer ' + process.env.SUPABASE_ANON_KEY
+            };
+
+            fetch(url, { headers })
+              .then(res => res.json())
+              .then(data => {
+                fs.mkdirSync('public/data', { recursive: true });
+                fs.writeFileSync('public/data/categories.json', JSON.stringify(data, null, 2));
+              })
+              .catch(err => {
+                console.error('Fehler beim Abrufen:', err);
+                process.exit(1);
+              });
+          "
+        env:
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add public/data/categories.json
+          git diff --cached --quiet || git commit -m '⛵ auto-export: aktualisierte categories.json'
+          git push
