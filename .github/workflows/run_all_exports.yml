@@ -1,0 +1,22 @@
+name: Run All Wind2Horizon Exports
+
+on:
+  workflow_dispatch:  # Manuell auslösbar
+
+jobs:
+  run_all_exports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger all export workflows
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflows: |
+            Export Supabase Locations (Deutsch)
+            Export Supabase Locations (Englisch)
+            Export Supabase Locations (Italienisch)
+            Export Supabase Locations (Kroatisch)
+            Export Supabase Locations (Französisch)
+            Export Supabase Categories
+            Export Supabase Location Values
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
