@@ -8,6 +8,8 @@ on:
 jobs:
   export-locations:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ erlaubt Push-Vorgänge ins Repo
 
     steps:
       - name: Checkout Repository
