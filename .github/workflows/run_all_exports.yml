@@ -4,23 +4,49 @@ on:
   workflow_dispatch:
 
 jobs:
-  export-locations-de:
-    uses: ./.github/workflows/export_locations_de.yml
+  trigger_exports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call each export workflow via GitHub API
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_locations_de.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-locations-en:
-    uses: ./.github/workflows/export_locations_en.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_locations_en.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-locations-it:
-    uses: ./.github/workflows/export_locations_it.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_locations_it.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-locations-hr:
-    uses: ./.github/workflows/export_locations_hr.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_locations_hr.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-locations-fr:
-    uses: ./.github/workflows/export_locations_fr.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_locations_fr.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-categories:
-    uses: ./.github/workflows/export_categories.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_categories.yml/dispatches \
+            -d '{"ref":"main"}'
 
-  export-location-values:
-    uses: ./.github/workflows/export_location_values.yml
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/export_location_values.yml/dispatches \
+            -d '{"ref":"main"}'
