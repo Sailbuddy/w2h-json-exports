@@ -22,7 +22,7 @@ jobs:
           node-version: 20
 
       - name: 📊 Generate stats.json
-        run: node stats/stats_generate.js
+        run: node public/stats/stats_generate.js
 
       - name: 💾 Commit stats.json
         run: |
