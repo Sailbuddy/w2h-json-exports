@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-05-15T13:31:00Z",
+  "timestamp": "2025-05-15T19:09:08.569Z",
   "counts": {
-    "locations": 123,
-    "location_values": 456,
-    "categories": 78
+    "locations": 1,
+    "location_values": 6,
+    "categories": 1
   }
 }
