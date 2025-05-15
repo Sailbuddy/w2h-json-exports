@@ -25,7 +25,7 @@ jobs:
       - name: Install fetch dependency
         run: npm install node-fetch@2
 
-      - name: Fetch Supabase data and write categories_de.json
+      - name: Fetch Supabase data and write categories_en.json
         run: |
           node <<'EOF'
           const fetch = require('node-fetch');
@@ -64,5 +64,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'action@github.com'
           git add public/data/categories_en.json
-          git diff --cached --quiet || git commit -m '🔄 auto-export: aktualisierte categories_de.json'
+          git diff --cached --quiet || git commit -m '🔄 auto-export: aktualisierte categories_en.json'
           git push
