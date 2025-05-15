@@ -2,6 +2,10 @@ name: Validate and Export Wind2Horizon JSON
 
 on:
   workflow_dispatch:
+  
+permissions:
+  actions: write
+  contents: read
 
 jobs:
   validate:
