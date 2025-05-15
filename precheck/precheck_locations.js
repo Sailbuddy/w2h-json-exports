@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const filePath = path.join(__dirname, '../../public/data/locations.json');
+const filePath = path.join(process.cwd(), 'public/data/locations.json');
 const rawData = fs.readFileSync(filePath, 'utf-8');
 const data = JSON.parse(rawData);
 
