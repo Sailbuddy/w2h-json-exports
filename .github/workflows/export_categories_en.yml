@@ -1,59 +1,68 @@
-name: Export Supabase Categories (English)
+
+name: Export Supabase Categories (Englisch)
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *' # daily at 02:00 UTC (04:00 MESZ)
+    - cron: '0 2 * * *' # täglich um 02:00 UTC (04:00 MEZ)
+  workflow_dispatch: # manuell auslösbar
+
+permissions:
+  contents: write
 
 jobs:
-  export-categories-en:
+  export-categories-de:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Install fetch dependency
-        run: npm install node-fetch
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      - name: Fetch Supabase data and write categories_en.json
+      - name: Install fetch dependency
+        run: npm install node-fetch@2
+
+      - name: Fetch Supabase data and write categories_de.json
+        run: |
+          node <<'EOF'
+          const fetch = require('node-fetch');
+          const fs = require('fs');
+          const headers = {
+            'apikey': process.env.SUPABASE_ANON_KEY,
+            'Authorization': `Bearer ${process.env.SUPABASE_ANON_KEY}`
+          };
+
+          fetch('https://ufebkrjjnrfhupwxvpmb.supabase.co/rest/v1/categories?active=eq.true&select=id,name_en,icon,sort_order,active', {
+            headers
+          })
+          .then(res => res.json())
+          .then(data => {
+            const mapped = data.map(item => ({
+              id: item.id,
+              name_en: item.name_en,
+              icon: item.icon,
+              sort_order: item.sort_order,
+              active: item.active
+            }));
+
+            fs.mkdirSync('public/data', { recursive: true });
+            fs.writeFileSync('public/data/categories_en.json', JSON.stringify(mapped, null, 2));
+          })
+          .catch(err => {
+            console.error('Fehler beim Abrufen:', err);
+            process.exit(1);
+          });
+          EOF
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-        run: |
-          node -e "
-            const fetch = require('node-fetch');
-            const fs = require('fs');
-
-            const url = 'https://ufebkrjjnrfhupwxvpmb.supabase.co/rest/v1/categories?active=eq.true&select=id,name_en,icon,sort_order,active';
-            const headers = {
-              'apikey': process.env.SUPABASE_ANON_KEY,
-              'Authorization': 'Bearer ' + process.env.SUPABASE_ANON_KEY
-            };
-
-            fetch(url, { headers })
-              .then(res => res.json())
-              .then(data => {
-                const mapped = data.map(item => ({
-                  id: item.id,
-                  name_en: item.name_en,
-                  icon: item.icon,
-                  sort_order: item.sort_order,
-                  active: item.active
-                }));
-
-                fs.mkdirSync('public/data', { recursive: true });
-                fs.writeFileSync('public/data/categories_en.json', JSON.stringify(mapped, null, 2));
-              })
-              .catch(err => {
-                console.error('Fehler beim Abrufen:', err);
-                process.exit(1);
-              });
-          "
 
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'action@github.com'
           git add public/data/categories_en.json
-          git diff --cached --quiet || git commit -m '🔄 auto-export: aktualisierte categories_en.json'
+          git diff --cached --quiet || git commit -m '🔄 auto-export: aktualisierte categories_de.json'
           git push
