@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  export-categories-de:
+  export-categories-fr:
     runs-on: ubuntu-latest
 
     steps:
