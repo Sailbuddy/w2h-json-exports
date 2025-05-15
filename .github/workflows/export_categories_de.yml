@@ -60,4 +60,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --global user.na
+          git config --global user.name 'github-actions'
+          git config --global user.email 'action@github.com'
+          git add public/data/categories_de.json
+          git diff --cached --quiet || git commit -m '🔄 auto-export: aktualisierte categories_de.json'
+          git push
