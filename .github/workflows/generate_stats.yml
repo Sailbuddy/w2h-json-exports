@@ -1,0 +1,33 @@
+name: 📊 Generate Stats JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 * * *' # täglich um 03:15 UTC
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📦 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🛠 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📊 Generate stats.json
+        run: node stats/stats_generate.js
+
+      - name: 💾 Commit stats.json
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'action@github.com'
+          git add public/stats/stats.json
+          git commit -m "📊 auto-stats: aktualisierte stats.json" || echo "Keine Änderungen"
+          git push
