@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name_it": "Ristorante",
+    "icon": "restaurant",
+    "sort_order": 1,
+    "active": true
+  }
+]
