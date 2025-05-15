@@ -1,0 +1,30 @@
+name: 📦 Snapshot Export Archive
+
+on:
+  workflow_dispatch:
+
+jobs:
+  snapshot-json-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🕒 Generate timestamp
+        id: vars
+        run: echo "ts=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_OUTPUT
+
+      - name: 🛠 Create snapshot directory
+        run: mkdir -p public/snapshots/${{ steps.vars.outputs.ts }}
+
+      - name: 📁 Copy current data to snapshot
+        run: |
+          cp public/data/*.json public/snapshots/${{ steps.vars.outputs.ts }}/
+
+      - name: 💾 Commit and push snapshot
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add public/snapshots/
+          git commit -m "📦 snapshot export: ${{ steps.vars.outputs.ts }}"
+          git push
