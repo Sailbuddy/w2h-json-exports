@@ -1,0 +1,21 @@
+name: Precheck categories.json
+
+on:
+  workflow_dispatch:
+
+jobs:
+  validate-json:
+    name: Run Precheck for categories.json
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run precheck_categories.js
+        run: node ./precheck/precheck_categories.js
