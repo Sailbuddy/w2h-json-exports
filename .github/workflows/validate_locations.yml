@@ -1,0 +1,21 @@
+name: Validate Supabase Locations
+
+on:
+  workflow_dispatch:
+
+jobs:
+  precheck-locations:
+    runs-on: ubuntu-latest
+    name: Precheck locations.json
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Precheck for locations.json
+        run: node .github/precheck/precheck_locations.js
