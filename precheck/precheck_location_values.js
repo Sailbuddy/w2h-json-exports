@@ -1,23 +1,22 @@
 const fs = require('fs');
-const path = './public/data/location_values.json';
+const path = require('path');
 
-try {
-  const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+const filePath = path.join(process.cwd(), 'public/data/location_values.json');
+const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-  const missing = data.filter((item) =>
-    item.id == null ||
-    item.location_id == null ||
-    item.attribute_id == null ||
-    item.language_code == null
-  );
+let hasError = false;
 
-  if (missing.length > 0) {
-    console.error('🚫 Ungültige Einträge gefunden:', missing);
-    process.exit(1);
+data.forEach((item, index) => {
+  if (!item.id || !item.location_id || !item.language || !item.name) {
+    console.error(`❌ Fehler bei Eintrag #${index + 1}:`, item);
+    hasError = true;
   }
+});
 
-  console.log('✅ location_values.json erfolgreich validiert.');
-} catch (err) {
-  console.error('❌ Fehler beim Parsen von location_values.json:', err.message);
+if (!hasError) {
+  console.log('✅ location_values.json wurde erfolgreich validiert.');
+  process.exit(0);
+} else {
+  console.log('❌ location_values.json enthält ungültige Einträge.');
   process.exit(1);
 }
