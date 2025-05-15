@@ -1,0 +1,43 @@
+name: Validate and Export Wind2Horizon JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: ✅ Precheck All JSON Files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🔍 Validate locations.json
+        run: node ./precheck/precheck_locations.js
+
+      - name: 🔍 Validate location_values.json
+        run: node ./precheck/precheck_location_values.js
+
+      - name: 🔍 Validate categories.json
+        run: node ./precheck/precheck_categories.js
+
+  export:
+    name: 🚢 Run All Wind2Horizon Exports
+    runs-on: ubuntu-latest
+    needs: validate
+    if: success()
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Trigger Export Workflow
+        run: |
+          gh workflow run run_all_exports.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
