@@ -2,7 +2,7 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
+    - cron: '10 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: 🔍 Letzte 5 GitHub-Workflows laden
         id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
