@@ -3,7 +3,7 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 on:
   schedule:
     - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
-  workflow_dispatch:       # ⬅️ Manuelle Auslösung möglich
+  workflow_dispatch:       # Manuell auslösbar für Testzwecke
 
 jobs:
   send_mail:
@@ -19,14 +19,19 @@ jobs:
               repo: context.repo.repo,
               per_page: 5
             });
+
             const recent = runs.workflow_runs.filter(run =>
               run.name.includes('Export') || run.name.includes('Snapshot') || run.name.includes('Statistik')
             );
+
+            if (recent.length === 0) {
+              return "⚠️ Keine passenden Workflows gefunden.";
+            }
+
             const failed = recent.find(run => run.conclusion !== 'success');
-            return {
-              status: failed ? '❌ FEHLER' : '✅ OK',
-              details: recent.map(r => `${r.name}: ${r.conclusion}`).join('\\n')
-            };
+            const details = recent.map(r => `${r.name}: ${r.conclusion}`).join('\n');
+
+            return failed ? `❌ FEHLER\n\n${details}` : `✅ OK\n\n${details}`;
 
       - name: 📬 Sende E-Mail mit Ergebnis
         uses: dawidd6/action-send-mail@v3
@@ -35,15 +40,14 @@ jobs:
           server_port: 587
           username: ${{ secrets.SMTP_USER }}
           password: ${{ secrets.SMTP_PASS }}
-          subject: |
-            [Backup-Status] ${{ steps.check.outputs.status }} - wind2horizon
+          subject: "[Backup-Status] - wind2horizon"
+          to: gerhard@wind2horizon.com
+          from: Wind2Horizon Backup <gerhard@wind2horizon.com>
           body: |
             Guten Morgen Gerhard! 😊
 
             Hier der aktuelle Status deiner GitHub-Workflows:
 
-            ${{ fromJSON(steps.check.outputs.result).details }}
+            ${{ steps.check.outputs.result }}
 
             Freundliche Grüße von deinem Backupbot 🚀
-          to: gerhard@wind2horizon.com
-          from: Wind2Horizon Backup <gerhard@wind2horizon.com>
