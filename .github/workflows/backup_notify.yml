@@ -9,7 +9,7 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse in einem Schritt aus
+      - name: 📋 Installiere & führe Analyse (mit PATH-Fix)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -18,6 +18,9 @@ jobs:
 
           sudo apt-get update
           sudo apt-get install -y jq
+
+          export PATH=$PATH:/usr/bin:/usr/local/bin
+          echo "🔍 jq-Pfad: $(which jq)" >> body.txt
 
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
@@ -32,9 +35,9 @@ jobs:
               ID=$(jq -r ".[$i].workflow_id" runs.json)
 
               WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID)
-              PATH=$(echo "$WF" | jq -r ".path")
+              PATHFILE=$(echo "$WF" | jq -r ".path")
 
-              echo "- 🛠 $PATH → $NAME: $STATUS" >> body.txt
+              echo "- 🛠 $PATHFILE → $NAME: $STATUS" >> body.txt
             done
           fi
 
