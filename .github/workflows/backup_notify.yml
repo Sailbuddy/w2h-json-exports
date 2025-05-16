@@ -9,26 +9,17 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📦 Installiere GitHub CLI + jq
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
-          type -p curl >/dev/null || (sudo apt install curl -y)
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \
-            sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-          sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
-          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | \
-            sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-          sudo apt update
-          sudo apt install gh -y
+      - name: 📦 Installiere jq explizit
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: 🔍 Analyse mit jq + gh
+      - name: 📋 Erstelle body.txt mit Workflow-Analyse
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
 
+          # Nutze direkt gh + jq (jq ist jetzt in PATH)
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
           COUNT=$(jq length runs.json)
