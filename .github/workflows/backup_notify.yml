@@ -9,16 +9,12 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📦 Installiere GitHub CLI und jq
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq gh
-
-      - name: 🔍 Letzte 5 GitHub-Workflows analysieren
-        id: check
+      - name: 🔍 Analyse & Workflow-Status mit Klartextpfaden
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          sudo apt-get update && sudo apt-get install -y jq gh
+
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
 
