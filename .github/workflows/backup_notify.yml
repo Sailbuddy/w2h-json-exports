@@ -9,17 +9,16 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📦 Installiere jq explizit
-        run: sudo apt-get update && sudo apt-get install -y jq
-
-      - name: 📋 Erstelle body.txt mit Workflow-Analyse
+      - name: 📋 Installiere & führe Analyse in einem Schritt aus
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
 
-          # Nutze direkt gh + jq (jq ist jetzt in PATH)
+          sudo apt-get update
+          sudo apt-get install -y jq
+
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
           COUNT=$(jq length runs.json)
