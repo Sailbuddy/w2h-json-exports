@@ -1,0 +1,48 @@
+name: 📬 Tägliche Sicherungsbenachrichtigung
+
+on:
+  schedule:
+    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
+
+jobs:
+  send_mail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔍 Zusammenfassung der letzten Workflows laden
+        uses: actions/github-script@v6
+        id: check
+        with:
+          script: |
+            const { data: runs } = await github.rest.actions.listWorkflowRunsForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 5
+            });
+            const recent = runs.workflow_runs.filter(run =>
+              run.name.includes('Export') || run.name.includes('Snapshot') || run.name.includes('Statistik')
+            );
+            const failed = recent.find(run => run.conclusion !== 'success');
+            return {
+              status: failed ? '❌ FEHLER' : '✅ OK',
+              details: recent.map(r => `${r.name}: ${r.conclusion}`).join('\\n')
+            };
+
+      - name: 📬 Sende E-Mail mit Ergebnis
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          subject: |
+            [Backup-Status] ${{ steps.check.outputs.status }} - wind2horizon
+          body: |
+            Guten Morgen Gerhard! 😊
+
+            Hier der aktuelle Status deiner GitHub-Workflows:
+
+            ${{ fromJSON(steps.check.outputs.result).details }}
+
+            Freundliche Grüße von deinem Backupbot 🚀
+          to: gerhard@wind2horizon.com
+          from: Wind2Horizon Backup <gerhard@wind2horizon.com>
