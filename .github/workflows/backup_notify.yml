@@ -9,6 +9,9 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
+      - name: 📦 jq installieren
+        run: sudo apt-get update && sudo apt-get install -y jq
+
       - name: 🔍 Letzte 5 GitHub-Workflows laden + Dateinamen ermitteln
         id: check
         env:
