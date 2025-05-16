@@ -2,14 +2,14 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
+    - cron: '10 4 * * *'
   workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse in einem Schritt aus
+      - name: 📋 Installiere & führe Analyse (mit PATH-Fix)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -20,6 +20,7 @@ jobs:
           sudo apt-get install -y jq
 
           export PATH=$PATH:/usr/bin:/usr/local/bin
+          echo "🔍 jq-Pfad: $(which jq)" >> body.txt
 
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
