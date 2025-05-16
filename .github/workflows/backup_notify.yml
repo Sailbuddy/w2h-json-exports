@@ -9,31 +9,40 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 🔍 Analyse mit sicherem jq-Pfad
+      - name: 📦 Installiere GitHub CLI + jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          type -p curl >/dev/null || (sudo apt install curl -y)
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \
+            sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | \
+            sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh -y
+
+      - name: 🔍 Analyse mit jq + gh
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          sudo apt-get update && sudo apt-get install -y jq gh
-
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
 
-          JQ=$(which jq)
-
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
-          COUNT=$($JQ length runs.json)
+          COUNT=$(jq length runs.json)
 
           if [ "$COUNT" -eq 0 ]; then
             echo "⚠️ Keine Workflows gefunden." >> body.txt
           else
             for i in $(seq 0 $(($COUNT - 1))); do
-              NAME=$($JQ -r ".[$i].name" runs.json)
-              STATUS=$($JQ -r ".[$i].conclusion" runs.json)
-              ID=$($JQ -r ".[$i].workflow_id" runs.json)
+              NAME=$(jq -r ".[$i].name" runs.json)
+              STATUS=$(jq -r ".[$i].conclusion" runs.json)
+              ID=$(jq -r ".[$i].workflow_id" runs.json)
 
               WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID)
-              PATH=$(echo "$WF" | $JQ -r ".path")
+              PATH=$(echo "$WF" | jq -r ".path")
 
               echo "- 🛠 $PATH → $NAME: $STATUS" >> body.txt
             done
