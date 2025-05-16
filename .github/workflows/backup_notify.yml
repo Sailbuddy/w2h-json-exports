@@ -3,6 +3,7 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 on:
   schedule:
     - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
+  workflow_dispatch:       # ⬅️ Manuelle Auslösung möglich
 
 jobs:
   send_mail:
