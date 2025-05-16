@@ -9,6 +9,7 @@
     "icon": "restaurant",
     "active": true,
     "sort_order": 1,
-    "google_cat_id": null
+    "google_cat_id": null,
+    "name_fr": null
   }
 ]
