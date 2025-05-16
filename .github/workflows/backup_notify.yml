@@ -3,34 +3,35 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 on:
   schedule:
     - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
-  workflow_dispatch:       # Manuell auslösbar für Testzwecke
+  workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
       - name: 🔍 Letzte 5 GitHub-Workflows laden
-        uses: actions/github-script@v6
         id: check
-        with:
-          script: |
-            const { data: runs } = await github.rest.actions.listWorkflowRunsForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              per_page: 5
-            });
+        run: |
+          echo "📋 Workflow Status:" > body.txt
+          echo "" >> body.txt
 
-            if (runs.workflow_runs.length === 0) {
-              return "⚠️ Keine Workflows gefunden.";
-            }
+          RESPONSE=$(gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]')
+          COUNT=$(echo "$RESPONSE" | jq length)
 
-            const recent = runs.workflow_runs.slice(0, 5);
-            const failed = recent.find(run => run.conclusion !== 'success');
-            const details = recent.map(r => `- ${r.name}: ${r.conclusion}`).join(String.fromCharCode(10));
+          if [ "$COUNT" -eq 0 ]; then
+            echo "⚠️ Keine Workflows gefunden." >> body.txt
+          else
+            for i in $(seq 0 $(($COUNT - 1))); do
+              NAME=$(echo "$RESPONSE" | jq -r ".[$i].name")
+              STATUS=$(echo "$RESPONSE" | jq -r ".[$i].conclusion")
+              echo "- $NAME: $STATUS" >> body.txt
+            done
+          fi
 
-            return failed ? `❌ FEHLER\n\n${details}` : `✅ OK\n\n${details}`;
+          echo "" >> body.txt
+          echo "👋 Freundliche Grüße von deinem Backupbot 🚀" >> body.txt
 
-      - name: 📬 Sende E-Mail mit Ergebnis
+      - name: 📬 Sende E-Mail mit echtem Umbruch
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -40,11 +41,4 @@ jobs:
           subject: "[Backup-Status] - wind2horizon"
           to: gerhard@wind2horizon.com
           from: Wind2Horizon Backup <gerhard@wind2horizon.com>
-          body: |
-            Guten Morgen Gerhard! 😊
-
-            Hier der aktuelle Status deiner GitHub-Workflows:
-
-            ${{ steps.check.outputs.result }}
-
-            Freundliche Grüße von deinem Backupbot 🚀
+          body: file://body.txt
