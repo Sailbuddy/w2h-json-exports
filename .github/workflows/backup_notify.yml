@@ -9,7 +9,7 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 🔍 Zusammenfassung der letzten Workflows laden
+      - name: 🔍 Letzte 5 GitHub-Workflows laden
         uses: actions/github-script@v6
         id: check
         with:
@@ -20,14 +20,11 @@ jobs:
               per_page: 5
             });
 
-            const recent = runs.workflow_runs.filter(run =>
-              run.name.includes('Export') || run.name.includes('Snapshot') || run.name.includes('Statistik')
-            );
-
-            if (recent.length === 0) {
-              return "⚠️ Keine passenden Workflows gefunden.";
+            if (runs.workflow_runs.length === 0) {
+              return "⚠️ Keine Workflows gefunden.";
             }
 
+            const recent = runs.workflow_runs.slice(0, 5);
             const failed = recent.find(run => run.conclusion !== 'success');
             const details = recent.map(r => `${r.name}: ${r.conclusion}`).join('\n');
 
