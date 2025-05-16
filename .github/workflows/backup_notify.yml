@@ -2,34 +2,44 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'
+    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
   workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Erstelle body.txt mit Workflows (ohne jq)
+      - name: 📦 Installiere GitHub CLI und jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq gh
+
+      - name: 🔍 Letzte 5 GitHub-Workflows analysieren
+        id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "📋 Workflow Status:" > body.txt
           echo "" >> body.txt
 
-          curl -s -H "Authorization: token $GH_TOKEN" \
-            https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=5 \
-            > runs.json
+          gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
-          echo "" >> body.txt
+          COUNT=$(jq length runs.json)
 
-          cat runs.json | grep '"name"\|"conclusion"\|"workflow_id"' | sed 's/[",]//g' | awk '
-            /name:/ {name=$2}
-            /conclusion:/ {status=$2}
-            /workflow_id:/ {
-              id=$2
-              printf "- Workflow ID %s → %s: %s\n", id, name, status
-            }
-          ' >> body.txt
+          if [ "$COUNT" -eq 0 ]; then
+            echo "⚠️ Keine Workflows gefunden." >> body.txt
+          else
+            for i in $(seq 0 $(($COUNT - 1))); do
+              NAME=$(jq -r ".[$i].name" runs.json)
+              STATUS=$(jq -r ".[$i].conclusion" runs.json)
+              ID=$(jq -r ".[$i].workflow_id" runs.json)
+
+              WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID)
+              PATH=$(echo "$WF" | jq -r ".path")
+
+              echo "- 🛠 $PATH → $NAME: $STATUS" >> body.txt
+            done
+          fi
 
           echo "" >> body.txt
           echo "👋 Freundliche Grüße von deinem Backupbot 🚀" >> body.txt
