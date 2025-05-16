@@ -2,14 +2,14 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'
+    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
   workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 🔍 Letzte 5 GitHub-Workflows laden
+      - name: 🔍 Letzte 5 GitHub-Workflows laden + Dateinamen ermitteln
         id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -26,7 +26,12 @@ jobs:
             for i in $(seq 0 $(($COUNT - 1))); do
               NAME=$(echo "$RESPONSE" | jq -r ".[$i].name")
               STATUS=$(echo "$RESPONSE" | jq -r ".[$i].conclusion")
-              echo "- $NAME: $STATUS" >> body.txt
+              ID=$(echo "$RESPONSE" | jq -r ".[$i].workflow_id")
+
+              WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID)
+              PATH=$(echo "$WF" | jq -r ".path")
+
+              echo "- 🛠 $PATH → $NAME: $STATUS" >> body.txt
             done
           fi
 
