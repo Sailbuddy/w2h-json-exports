@@ -9,7 +9,7 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse (mit JSON-Fix)
+      - name: 📋 Installiere & führe Analyse (ohne Pipes)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -32,7 +32,9 @@ jobs:
             echo "📦 Debug: Inhalt von runs.json:" >> body.txt
             cat runs.json >> body.txt
           else
-            jq -c '.[]' runs.json | while read -r run; do
+            for i in $(seq 0 $((COUNT - 1))); do
+              run=$(jq ".[$i]" runs.json)
+
               NAME=$(echo "$run" | jq -r ".name // \"(Kein Name)\"")
               STATUS=$(echo "$run" | jq -r ".status // \"(unbekannt)\"")
               CONCLUSION=$(echo "$run" | jq -r ".conclusion // \"(noch nicht abgeschlossen)\"")
