@@ -9,7 +9,7 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse (robust mit fallback)
+      - name: 📋 Installiere & führe Analyse (finale Version)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -32,11 +32,11 @@ jobs:
             echo "📦 Debug: Inhalt von runs.json:" >> body.txt
             cat runs.json >> body.txt
           else
-            for i in $(seq 0 $(($COUNT - 1))); do
-              NAME=$(jq -r ".[$i].name" runs.json)
-              STATUS=$(jq -r ".[$i].status" runs.json)
-              CONCLUSION=$(jq -r ".[$i].conclusion // \"(noch nicht abgeschlossen)\"" runs.json)
-              ID=$(jq -r ".[$i].workflow_id" runs.json)
+            jq -c '.[]' runs.json | while read -r run; do
+              NAME=$(echo "$run" | jq -r ".name")
+              STATUS=$(echo "$run" | jq -r ".status")
+              CONCLUSION=$(echo "$run" | jq -r ".conclusion // \"(noch nicht abgeschlossen)\"")
+              ID=$(echo "$run" | jq -r ".workflow_id")
 
               WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID)
               PATHFILE=$(echo "$WF" | jq -r ".path")
