@@ -2,14 +2,14 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'
+    - cron: '10 4 * * *'  # Täglich 04:10 UTC = 06:10 MESZ
   workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse (mit PATH-Fix)
+      - name: 📋 Installiere & führe Analyse (mit Fallback)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -28,6 +28,9 @@ jobs:
 
           if [ "$COUNT" -eq 0 ]; then
             echo "⚠️ Keine Workflows gefunden." >> body.txt
+            echo "" >> body.txt
+            echo "📦 Debug: Inhalt von runs.json:" >> body.txt
+            cat runs.json >> body.txt
           else
             for i in $(seq 0 $(($COUNT - 1))); do
               NAME=$(jq -r ".[$i].name" runs.json)
