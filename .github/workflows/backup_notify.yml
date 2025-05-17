@@ -2,14 +2,14 @@ name: 📬 Tägliche Sicherungsbenachrichtigung
 
 on:
   schedule:
-    - cron: '10 4 * * *'  # Täglich 04:10 UTC = 06:10 MESZ
+    - cron: '10 4 * * *'  # 04:10 UTC = 06:10 MESZ
   workflow_dispatch:
 
 jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse (mit Fallback)
+      - name: 📋 Installiere & führe Analyse (robust)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -24,10 +24,10 @@ jobs:
 
           gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' > runs.json
 
-          COUNT=$(jq length runs.json)
+          COUNT=$(jq length runs.json 2>/dev/null || echo 0)
 
-          if [ "$COUNT" -eq 0 ]; then
-            echo "⚠️ Keine Workflows gefunden." >> body.txt
+          if ! [[ "$COUNT" =~ ^[0-9]+$ ]] || [ "$COUNT" -eq 0 ]; then
+            echo "⚠️ Keine Workflows oder ungültiger JSON." >> body.txt
             echo "" >> body.txt
             echo "📦 Debug: Inhalt von runs.json:" >> body.txt
             cat runs.json >> body.txt
