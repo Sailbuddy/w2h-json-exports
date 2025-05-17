@@ -9,7 +9,7 @@ jobs:
   send_mail:
     runs-on: ubuntu-latest
     steps:
-      - name: 📋 Installiere & führe Analyse (mit Pfad-Fallback)
+      - name: 📋 Installiere & führe Analyse (mit JSON-Fix)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -33,14 +33,17 @@ jobs:
             cat runs.json >> body.txt
           else
             jq -c '.[]' runs.json | while read -r run; do
-              NAME=$(echo "$run" | jq -r ".name")
-              STATUS=$(echo "$run" | jq -r ".status")
+              NAME=$(echo "$run" | jq -r ".name // \"(Kein Name)\"")
+              STATUS=$(echo "$run" | jq -r ".status // \"(unbekannt)\"")
               CONCLUSION=$(echo "$run" | jq -r ".conclusion // \"(noch nicht abgeschlossen)\"")
-              ID=$(echo "$run" | jq -r ".workflow_id")
+              ID=$(echo "$run" | jq -r ".workflow_id // 0")
 
-              # Hole Workflow-Path oder setze Fallback
-              WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID 2>/dev/null || echo '{}')
-              PATHFILE=$(echo "$WF" | jq -r ".path // \"(Pfad unbekannt)\"")
+              if [ "$ID" -gt 0 ]; then
+                WF=$(gh api repos/${{ github.repository }}/actions/workflows/$ID 2>/dev/null || echo '{}')
+                PATHFILE=$(echo "$WF" | jq -r ".path // \"(Pfad unbekannt)\"")
+              else
+                PATHFILE="(unbekannte Workflow-Datei)"
+              fi
 
               echo "- 🛠 $PATHFILE → $NAME: $STATUS / $CONCLUSION" >> body.txt
             done
