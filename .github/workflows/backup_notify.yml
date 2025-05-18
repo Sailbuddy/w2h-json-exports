@@ -23,7 +23,7 @@ jobs:
           echo "🔍 jq-Pfad: $(which jq)" >> body.txt
 
           # Korrigierte Abfrage: kombiniert mehrere Arrays zu einem
-          gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:5]' | jq -s 'add' > runs.json
+          gh api repos/${{ github.repository }}/actions/runs --paginate -q '.workflow_runs[:20]' | jq -s 'add' > runs.json
 
           COUNT=$(jq -r 'length' runs.json 2>/dev/null)
 
