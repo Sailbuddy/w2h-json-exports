@@ -6,5 +6,29 @@
     "lng": 13.5681,
     "name_en": null,
     "description_en": null
+  },
+  {
+    "id": 8,
+    "wind2horizon_id": null,
+    "lat": 37.4220541,
+    "lng": -122.0853242,
+    "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 9,
+    "wind2horizon_id": null,
+    "lat": 37.4220541,
+    "lng": -122.0853242,
+    "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 10,
+    "wind2horizon_id": null,
+    "lat": 37.4220541,
+    "lng": -122.0853242,
+    "name_en": null,
+    "description_en": null
   }
 ]
