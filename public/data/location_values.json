@@ -8,7 +8,8 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T10:27:26.617295+00:00"
+    "updated_at": "2025-05-13T10:27:26.617295+00:00",
+    "name": null
   },
   {
     "id": 8,
@@ -19,7 +20,8 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T10:27:26.617295+00:00"
+    "updated_at": "2025-05-13T10:27:26.617295+00:00",
+    "name": null
   },
   {
     "id": 9,
@@ -30,7 +32,8 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T10:27:26.617295+00:00"
+    "updated_at": "2025-05-13T10:27:26.617295+00:00",
+    "name": null
   },
   {
     "id": 10,
@@ -41,7 +44,8 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T13:10:44.731411+00:00"
+    "updated_at": "2025-05-13T13:10:44.731411+00:00",
+    "name": null
   },
   {
     "id": 11,
@@ -52,7 +56,8 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T13:10:44.731411+00:00"
+    "updated_at": "2025-05-13T13:10:44.731411+00:00",
+    "name": null
   },
   {
     "id": 12,
@@ -63,6 +68,151 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-05-13T13:10:44.731411+00:00"
+    "updated_at": "2025-05-13T13:10:44.731411+00:00",
+    "name": null
+  },
+  {
+    "id": 17,
+    "location_id": 8,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 18,
+    "location_id": 8,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 19,
+    "location_id": 8,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 20,
+    "location_id": 8,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 21,
+    "location_id": 9,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 22,
+    "location_id": 9,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 23,
+    "location_id": 9,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 24,
+    "location_id": 9,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 25,
+    "location_id": 10,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 26,
+    "location_id": 10,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 27,
+    "location_id": 10,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": null,
+    "name": "Googleplex"
+  },
+  {
+    "id": 28,
+    "location_id": 10,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": null,
+    "name": "Googleplex"
   }
 ]
