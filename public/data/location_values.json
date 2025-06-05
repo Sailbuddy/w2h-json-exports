@@ -214,5 +214,53 @@
     "language_code": "hr",
     "updated_at": null,
     "name": "Googleplex"
+  },
+  {
+    "id": 29,
+    "location_id": 11,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": null,
+    "name": "8H95+3Q"
+  },
+  {
+    "id": 30,
+    "location_id": 11,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": null,
+    "name": "8H95+3Q"
+  },
+  {
+    "id": 31,
+    "location_id": 11,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": null,
+    "name": "8H95+3Q"
+  },
+  {
+    "id": 32,
+    "location_id": 11,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": null,
+    "name": "8H95+3Q"
   }
 ]
