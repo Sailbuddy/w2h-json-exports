@@ -38,5 +38,13 @@
     "lng": 13.5594375,
     "name_en": null,
     "description_en": null
+  },
+  {
+    "id": 12,
+    "wind2horizon_id": null,
+    "lat": 45.2019375,
+    "lng": 13.5938125,
+    "name_en": null,
+    "description_en": null
   }
 ]
