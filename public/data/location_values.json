@@ -310,5 +310,53 @@
     "language_code": "hr",
     "updated_at": null,
     "name": "6H2V+QG"
+  },
+  {
+    "id": 37,
+    "location_id": 13,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": null,
+    "name": "6H2V+QG"
+  },
+  {
+    "id": 38,
+    "location_id": 13,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": null,
+    "name": "6H2V+QG"
+  },
+  {
+    "id": 39,
+    "location_id": 13,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": null,
+    "name": "6H2V+QG"
+  },
+  {
+    "id": 40,
+    "location_id": 13,
+    "attribute_id": null,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": null,
+    "name": "6H2V+QG"
   }
 ]
