@@ -1,57 +1,25 @@
 [
   {
-    "id": 1,
-    "wind2horizon_id": "W2H-000001",
-    "lat": 45.5286,
-    "lng": 13.5681,
+    "id": 14,
+    "wind2horizon_id": null,
+    "lat": 45.6500625,
+    "lng": 13.7690625,
     "name_fr": null,
     "description_fr": null
   },
   {
-    "id": 8,
+    "id": 15,
     "wind2horizon_id": null,
-    "lat": 37.4220541,
-    "lng": -122.0853242,
+    "lat": 45.6519375,
+    "lng": 13.7739375,
     "name_fr": null,
     "description_fr": null
   },
   {
-    "id": 9,
+    "id": 16,
     "wind2horizon_id": null,
-    "lat": 37.4220541,
-    "lng": -122.0853242,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 10,
-    "wind2horizon_id": null,
-    "lat": 37.4220541,
-    "lng": -122.0853242,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 11,
-    "wind2horizon_id": null,
-    "lat": 45.3176875,
-    "lng": 13.5594375,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 12,
-    "wind2horizon_id": null,
-    "lat": 45.2019375,
-    "lng": 13.5938125,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 13,
-    "wind2horizon_id": null,
-    "lat": 45.2019375,
-    "lng": 13.5938125,
+    "lat": 45.6519375,
+    "lng": 13.7739375,
     "name_fr": null,
     "description_fr": null
   }
