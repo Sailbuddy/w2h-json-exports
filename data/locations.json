@@ -1,37 +1,5 @@
 [
   {
-    "id": 140,
-    "wind2horizon_id": null,
-    "category_id": 9,
-    "google_place_id": "EhtNUTI5KzJKLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUB_jQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
-    "plus_code": null,
-    "source_type": null,
-    "sync_enabled": null,
-    "last_sync": null,
-    "name_de": null,
-    "name_en": null,
-    "name_it": null,
-    "name_hr": null,
-    "description_de": null,
-    "description_en": null,
-    "description_it": null,
-    "description_hr": null,
-    "lat": null,
-    "lng": null,
-    "created_at": null,
-    "updated_at": "2025-06-10T00:58:11.852+00:00",
-    "description_fr": null,
-    "name_fr": null,
-    "translations": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "rating": null,
-    "price_level": null,
-    "active": true,
-    "display_name": "Aktualisiert für EhtNUTI5KzJKLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUB_jQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
-  },
-  {
     "id": 141,
     "wind2horizon_id": null,
     "category_id": 9,
@@ -61,7 +29,41 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EhtNUTJGK1FILCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNz-41GxVvvDUIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
+    "display_name": "Aktualisiert für EhtNUTJGK1FILCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNz-41GxVvvDUIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
+  },
+  {
+    "id": 140,
+    "wind2horizon_id": null,
+    "category_id": 9,
+    "google_place_id": "EhtNUTI5KzJKLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUB_jQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "plus_code": null,
+    "source_type": null,
+    "sync_enabled": null,
+    "last_sync": null,
+    "name_de": null,
+    "name_en": null,
+    "name_it": null,
+    "name_hr": null,
+    "description_de": null,
+    "description_en": null,
+    "description_it": null,
+    "description_hr": null,
+    "lat": null,
+    "lng": null,
+    "created_at": null,
+    "updated_at": "2025-06-10T00:58:11.852+00:00",
+    "description_fr": null,
+    "name_fr": null,
+    "translations": null,
+    "address": null,
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "price_level": null,
+    "active": true,
+    "display_name": "Aktualisiert für EhtNUTI5KzJKLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUB_jQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
   },
   {
     "id": 142,
@@ -93,7 +95,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJIYYKgHJre0cR7JUxzFDt124"
+    "display_name": "Aktualisiert für ChIJIYYKgHJre0cR7JUxzFDt124",
+    "maps_url": null
   },
   {
     "id": 143,
@@ -125,7 +128,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJ1xEveHJre0cRveOtRbxBhx8"
+    "display_name": "Aktualisiert für ChIJ1xEveHJre0cRveOtRbxBhx8",
+    "maps_url": null
   },
   {
     "id": 144,
@@ -157,7 +161,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJ6U0AKcJ6e0cRX8iURjj-AcI"
+    "display_name": "Aktualisiert für ChIJ6U0AKcJ6e0cRX8iURjj-AcI",
+    "maps_url": null
   },
   {
     "id": 145,
@@ -189,7 +194,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJ3fE25FSWfEcRmKwwUCgqnJI"
+    "display_name": "Aktualisiert für ChIJ3fE25FSWfEcRmKwwUCgqnJI",
+    "maps_url": null
   },
   {
     "id": 146,
@@ -221,7 +227,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJ5fL8UFKWfEcRuLu7TsZBMdM"
+    "display_name": "Aktualisiert für ChIJ5fL8UFKWfEcRuLu7TsZBMdM",
+    "maps_url": null
   },
   {
     "id": 147,
@@ -253,7 +260,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EhtNUTI5KzI0LCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUtzTQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
+    "display_name": "Aktualisiert für EhtNUTI5KzI0LCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNkaU1GxUtzTQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
   },
   {
     "id": 148,
@@ -285,7 +293,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EhtKUVg5K1Y3LCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoN65Y1GxXT2zQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
+    "display_name": "Aktualisiert für EhtKUVg5K1Y3LCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoN65Y1GxXT2zQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
   },
   {
     "id": 149,
@@ -317,7 +326,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EhtKUVg4K1hWLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNr6A1GxXDtDQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
+    "display_name": "Aktualisiert für EhtKUVg4K1hWLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNr6A1GxXDtDQIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
   },
   {
     "id": 150,
@@ -349,7 +359,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EiFNUUhKK1g4LCAzNDE1MSBPcGljaW5hIFRTLCBJdGFsaWEiJjokCgoNjzQ6GxX9yDYIEAoaFAoSCfOL6ZqwFHtHEVB884uJCQcK"
+    "display_name": "Aktualisiert für EiFNUUhKK1g4LCAzNDE1MSBPcGljaW5hIFRTLCBJdGFsaWEiJjokCgoNjzQ6GxX9yDYIEAoaFAoSCfOL6ZqwFHtHEVB884uJCQcK",
+    "maps_url": null
   },
   {
     "id": 151,
@@ -381,7 +392,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für EhtNUUc0KzdRLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNi445GxVfJDMIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm"
+    "display_name": "Aktualisiert für EhtNUUc0KzdRLCBUcmllc3RlIFRTLCBJdGFsaWEiJjokCgoNi445GxVfJDMIEAoaFAoSCTP17eQGa3tHEVAr3dSEJGpm",
+    "maps_url": null
   },
   {
     "id": 152,
@@ -413,7 +425,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für Eho5QzNXK1g3LCBXaWVuLCDDlnN0ZXJyZWljaCImOiQKCg2_YNIcFatpzQkQChoUChIJn8o2UZ4HbUcRRluiUYrlwv0"
+    "display_name": "Aktualisiert für Eho5QzNXK1g3LCBXaWVuLCDDlnN0ZXJyZWljaCImOiQKCg2_YNIcFatpzQkQChoUChIJn8o2UZ4HbUcRRluiUYrlwv0",
+    "maps_url": null
   },
   {
     "id": 153,
@@ -445,7 +458,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJhR7CxiwBe0cRUV3k5G27y6Y"
+    "display_name": "Aktualisiert für ChIJhR7CxiwBe0cRUV3k5G27y6Y",
+    "maps_url": null
   },
   {
     "id": 154,
@@ -477,7 +491,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJ0wgaOFqWfEcRdrtkEXlgyr0"
+    "display_name": "Aktualisiert für ChIJ0wgaOFqWfEcRdrtkEXlgyr0",
+    "maps_url": null
   },
   {
     "id": 130,
@@ -503,13 +518,14 @@
     "description_fr": null,
     "name_fr": null,
     "translations": null,
-    "address": "5622 Goldegg, Österreich",
+    "address": null,
     "phone": null,
     "website": null,
-    "rating": 4.8,
+    "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJB2SwJishd0cR4EF4tIQ0meA"
+    "display_name": "Aktualisiert für ChIJB2SwJishd0cR4EF4tIQ0meA",
+    "maps_url": null
   },
   {
     "id": 137,
@@ -541,7 +557,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJPy-Qb_Mgd0cRTHL_I8CW3uI"
+    "display_name": "Aktualisiert für ChIJPy-Qb_Mgd0cRTHL_I8CW3uI",
+    "maps_url": null
   },
   {
     "id": 138,
@@ -573,7 +590,8 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJxY41eIDfdkcR15KMar5VepA"
+    "display_name": "Aktualisiert für ChIJxY41eIDfdkcR15KMar5VepA",
+    "maps_url": null
   },
   {
     "id": 139,
@@ -605,6 +623,7 @@
     "rating": null,
     "price_level": null,
     "active": true,
-    "display_name": "Aktualisiert für ChIJzXUkfL7YdkcRRVEXGmFxDjQ"
+    "display_name": "Aktualisiert für ChIJzXUkfL7YdkcRRVEXGmFxDjQ",
+    "maps_url": null
   }
 ]
