@@ -166,5 +166,13 @@
     "lng": null,
     "name_it": null,
     "description_it": null
+  },
+  {
+    "id": 225,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_it": null,
+    "description_it": null
   }
 ]
