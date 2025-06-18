@@ -8,6 +8,30 @@
     "description_en": null
   },
   {
+    "id": 244,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 245,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 321,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 140,
     "wind2horizon_id": null,
     "lat": null,
@@ -152,7 +176,7 @@
     "description_en": null
   },
   {
-    "id": 244,
+    "id": 344,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -160,7 +184,7 @@
     "description_en": null
   },
   {
-    "id": 245,
+    "id": 332,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -209,6 +233,14 @@
   },
   {
     "id": 231,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 302,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
