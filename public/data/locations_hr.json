@@ -1,5 +1,21 @@
 [
   {
+    "id": 245,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_hr": null,
+    "description_hr": null
+  },
+  {
+    "id": 321,
+    "wind2horizon_id": null,
+    "lat": null,
+    "lng": null,
+    "name_hr": null,
+    "description_hr": null
+  },
+  {
     "id": 141,
     "wind2horizon_id": null,
     "lat": null,
@@ -8,15 +24,7 @@
     "description_hr": null
   },
   {
-    "id": 244,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 245,
+    "id": 344,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -168,15 +176,7 @@
     "description_hr": null
   },
   {
-    "id": 321,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 344,
+    "id": 244,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
