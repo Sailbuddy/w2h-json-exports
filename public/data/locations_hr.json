@@ -1,6 +1,6 @@
 [
   {
-    "id": 321,
+    "id": 665,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -8,7 +8,7 @@
     "description_hr": null
   },
   {
-    "id": 344,
+    "id": 666,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -16,7 +16,7 @@
     "description_hr": null
   },
   {
-    "id": 141,
+    "id": 667,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -24,7 +24,7 @@
     "description_hr": null
   },
   {
-    "id": 592,
+    "id": 668,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -32,7 +32,7 @@
     "description_hr": null
   },
   {
-    "id": 609,
+    "id": 669,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -40,7 +40,7 @@
     "description_hr": null
   },
   {
-    "id": 140,
+    "id": 670,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -48,7 +48,7 @@
     "description_hr": null
   },
   {
-    "id": 142,
+    "id": 681,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -56,7 +56,7 @@
     "description_hr": null
   },
   {
-    "id": 143,
+    "id": 682,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -64,7 +64,7 @@
     "description_hr": null
   },
   {
-    "id": 144,
+    "id": 683,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
@@ -72,215 +72,7 @@
     "description_hr": null
   },
   {
-    "id": 145,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 146,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 147,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 148,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 149,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 150,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 151,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 152,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 153,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 154,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 130,
-    "wind2horizon_id": null,
-    "lat": 47.32512819999999,
-    "lng": 13.0409817,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 137,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 138,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 139,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 244,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 245,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 211,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 214,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 225,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 229,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 230,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 231,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 302,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 332,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 357,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 607,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
-    "id": 608,
+    "id": 684,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
