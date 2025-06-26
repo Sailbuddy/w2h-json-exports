@@ -1,9 +1,65 @@
 [
   {
-    "id": 1,
+    "id": 70,
+    "name_it": "attrazione turistica",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 71,
+    "name_it": "Parco",
+    "icon": "park",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 72,
+    "name_it": "Punto di interesse",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 73,
+    "name_it": "istituzione",
+    "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 74,
+    "name_it": "Museo",
+    "icon": "museum",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 75,
+    "name_it": "alloggio",
+    "icon": "lodging",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 76,
+    "name_it": "punto di riferimento",
+    "icon": "landmark",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 77,
     "name_it": "Ristorante",
     "icon": "restaurant",
-    "sort_order": 1,
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 78,
+    "name_it": "cibo",
+    "icon": "food",
+    "sort_order": 9999,
     "active": true
   }
 ]
