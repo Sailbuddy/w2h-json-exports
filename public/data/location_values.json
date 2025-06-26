@@ -1,62 +1,50 @@
 [
   {
-    "id": 620,
-    "location_id": 130,
-    "attribute_id": null,
-    "value_text": null,
+    "id": 625,
+    "location_id": 681,
+    "attribute_id": 88,
+    "value_text": "Restaurant Viking Lim-Fjord",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "de",
     "updated_at": null,
-    "name": "Hirtenkapelle am Maiselstein"
+    "name": "preferred_name"
   },
   {
-    "id": 621,
-    "location_id": 130,
-    "attribute_id": null,
-    "value_text": null,
+    "id": 626,
+    "location_id": 682,
+    "attribute_id": 88,
+    "value_text": "Kolloseum Pula",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "en",
+    "language_code": "de",
     "updated_at": null,
-    "name": "Hirtenkapelle am Maiselstein"
+    "name": "preferred_name"
   },
   {
-    "id": 622,
-    "location_id": 130,
-    "attribute_id": null,
-    "value_text": null,
+    "id": 627,
+    "location_id": 683,
+    "attribute_id": 88,
+    "value_text": "street zero Pula",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "fr",
+    "language_code": "de",
     "updated_at": null,
-    "name": "Hirtenkapelle am Maiselstein"
+    "name": "preferred_name"
   },
   {
-    "id": 623,
-    "location_id": 130,
-    "attribute_id": null,
-    "value_text": null,
+    "id": 628,
+    "location_id": 684,
+    "attribute_id": 88,
+    "value_text": "villa Romana Porec",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "hr",
+    "language_code": "de",
     "updated_at": null,
-    "name": "Hirtenkapelle am Maiselstein"
-  },
-  {
-    "id": 624,
-    "location_id": 130,
-    "attribute_id": null,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": null,
-    "name": "Hirtenkapelle am Maiselstein"
+    "name": "preferred_name"
   }
 ]
