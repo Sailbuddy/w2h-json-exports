@@ -1,290 +1,194 @@
 [
   {
-    "id": 321,
+    "id": 850,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.3192308,
+    "lng": 13.100433,
+    "name_en": "Schloss Goldegg",
     "description_en": null
   },
   {
-    "id": 344,
+    "id": 854,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.355797,
+    "lng": 13.198321,
+    "name_en": "Würth GmbH Hochenburger",
     "description_en": null
   },
   {
-    "id": 141,
+    "id": 753,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.3218419,
+    "lng": 13.1545119,
+    "name_en": "Cardinal Schwarzenberg Hospital",
     "description_en": null
   },
   {
-    "id": 592,
+    "id": 804,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.3191667,
+    "lng": 13.0983333,
+    "name_en": "Hotel am Schloss",
+    "description_en": "Cozy rooms in a classic hotel offering a quaint restaurant, a bar & a lounge, as well as a spa area."
+  },
+  {
+    "id": 669,
+    "wind2horizon_id": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_en": "Savudrija Lighthouse",
     "description_en": null
   },
   {
-    "id": 140,
+    "id": 670,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 37.4220541,
+    "lng": -122.0853242,
+    "name_en": "Googleplex",
+    "description_en": "The global headquarters of Google, this campus encompasses offices, green space & recreation areas."
+  },
+  {
+    "id": 769,
+    "wind2horizon_id": null,
+    "lat": 47.3169161,
+    "lng": 13.1505311,
+    "name_en": "Glas + Metall Weissofner",
     "description_en": null
   },
   {
-    "id": 142,
+    "id": 811,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.31715389999999,
+    "lng": 13.099884,
+    "name_en": "Hotel zur Post",
+    "description_en": "Refined rooms in a chalet-style hotel offering a spa, a woodsy restaurant & free loaner bikes."
+  },
+  {
+    "id": 681,
+    "wind2horizon_id": null,
+    "lat": 45.1319027,
+    "lng": 13.7351437,
+    "name_en": "Restaurant Viking",
     "description_en": null
   },
   {
-    "id": 143,
+    "id": 684,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_en": "Villa Romana beach lounge & restaurant",
     "description_en": null
   },
   {
-    "id": 144,
+    "id": 665,
     "wind2horizon_id": null,
     "lat": null,
     "lng": null,
-    "name_en": null,
+    "name_en": "Nationalpark Hohe Tauern",
+    "description_en": "Sprawling national park featuring scenic hiking trails, ski slopes & panoramic alpine views."
+  },
+  {
+    "id": 667,
+    "wind2horizon_id": null,
+    "lat": 47.346309,
+    "lng": 13.2017865,
+    "name_en": "Hotel Alpenland St. Johann",
+    "description_en": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
+  },
+  {
+    "id": 668,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_en": "Liechtensteinklamm",
+    "description_en": "Deep, narrow gorge with footpaths, bridges, river & waterfall, only open in the summer months."
+  },
+  {
+    "id": 682,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_en": "Pula Arena",
+    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
+  },
+  {
+    "id": 698,
+    "wind2horizon_id": null,
+    "lat": 45.317633,
+    "lng": 13.5594205,
+    "name_en": "Half 8 Restaurant",
     "description_en": null
   },
   {
-    "id": 145,
+    "id": 709,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.3175306,
+    "lng": 13.0996556,
+    "name_en": "Hotel Seehof Goldegg",
+    "description_en": "Swanky hotel with a modern art gallery & lake views, plus a trendy restaurant & a tearoom."
+  },
+  {
+    "id": 711,
+    "wind2horizon_id": null,
+    "lat": 39.97096310000001,
+    "lng": -83.00292259999999,
+    "name_en": "Gallerie Bar and Bistro",
+    "description_en": "Contemporary hotel restaurant offering a la carte bistro fare like elevated burgers & a full bar."
+  },
+  {
+    "id": 738,
+    "wind2horizon_id": null,
+    "lat": 47.5193626,
+    "lng": 12.4394636,
+    "name_en": "Aufschnaiter Interior GmbH & Co. KG.",
     "description_en": null
   },
   {
-    "id": 146,
+    "id": 856,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.3562234,
+    "lng": 13.1995093,
+    "name_en": "Autohaus Vierthaler - St. Johann",
     "description_en": null
   },
   {
-    "id": 147,
+    "id": 724,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 47.34671909999999,
+    "lng": 13.2013403,
+    "name_en": "Stadtgalerie St. Johann",
     "description_en": null
   },
   {
-    "id": 148,
+    "id": 683,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
+    "lat": 44.8707672,
+    "lng": 13.8473422,
+    "name_en": "Zerostrasse",
+    "description_en": "Extensive system of subterranean tunnels & galleries first built as war shelters in the early 1900s."
+  },
+  {
+    "id": 666,
+    "wind2horizon_id": null,
+    "lat": 47.2790585,
+    "lng": 12.4780272,
+    "name_en": "Hohe Tauern National Park Information Centre",
+    "description_en": "Visitor center & interactive museum with info & a 3D film on the surrounding Alpine landscape."
+  },
+  {
+    "id": 786,
+    "wind2horizon_id": null,
+    "lat": 47.3238926,
+    "lng": 13.1739123,
+    "name_en": "KIA Center Rohrmoser & Hettegger GmbH",
     "description_en": null
   },
   {
-    "id": 149,
+    "id": 853,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 150,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 151,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 152,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 153,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 154,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 130,
-    "wind2horizon_id": null,
-    "lat": 47.32512819999999,
-    "lng": 13.0409817,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 137,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 138,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 139,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 609,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 244,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 245,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 211,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 214,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 225,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 229,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 230,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 231,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 302,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 332,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 357,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 607,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
-  },
-  {
-    "id": 608,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_en": null,
-    "description_en": null
+    "lat": 47.3222086,
+    "lng": 13.1942351,
+    "name_en": "Hotel Berghof | St. Johann in Salzburg",
+    "description_en": "Refined hotel offering a relaxed restaurant, a cozy bar & a spa, plus indoor & outdoor pools."
   }
 ]
