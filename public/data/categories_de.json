@@ -61,5 +61,61 @@
     "icon": "food",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 79,
+    "name_de": "Bar",
+    "icon": "bar",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 80,
+    "name_de": "Einkaufszentrum",
+    "icon": "shopping_mall",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 81,
+    "name_de": "Generalunternehmer",
+    "icon": "general_contractor",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 82,
+    "name_de": "Krankenhaus",
+    "icon": "hospital",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 83,
+    "name_de": "Gesundheit",
+    "icon": "health",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 84,
+    "name_de": "Autohändler",
+    "icon": "car_dealer",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 85,
+    "name_de": "Laden",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_de": "Medien",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
   }
 ]
