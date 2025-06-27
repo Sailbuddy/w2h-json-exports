@@ -1,9 +1,121 @@
 [
   {
-    "id": 1,
+    "id": 70,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 71,
+    "name_hr": "Park",
+    "icon": "park",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 72,
+    "name_hr": "Zanimljivo mjesto",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 73,
+    "name_hr": "ustanova",
+    "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 74,
+    "name_hr": "Muzej",
+    "icon": "museum",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 75,
+    "name_hr": "smještaj",
+    "icon": "lodging",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 76,
+    "name_hr": "orijentir",
+    "icon": "landmark",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 77,
     "name_hr": "Restoran",
     "icon": "restaurant",
-    "sort_order": 1,
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 78,
+    "name_hr": "hrana",
+    "icon": "food",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 79,
+    "name_hr": "Bar",
+    "icon": "bar",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 80,
+    "name_hr": "trgovački centar",
+    "icon": "shopping_mall",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 81,
+    "name_hr": "Glavni izvođač",
+    "icon": "general_contractor",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 82,
+    "name_hr": "bolnica",
+    "icon": "hospital",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 83,
+    "name_hr": "Zdravlje",
+    "icon": "health",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 84,
+    "name_hr": "prodavač automobila",
+    "icon": "car_dealer",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 85,
+    "name_hr": "Trgovina",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_hr": "Mediji",
+    "icon": "🖼️",
+    "sort_order": 20,
     "active": true
   }
 ]
