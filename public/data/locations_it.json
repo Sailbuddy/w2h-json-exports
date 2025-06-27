@@ -1,82 +1,194 @@
 [
   {
-    "id": 665,
+    "id": 850,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 47.3192308,
+    "lng": 13.100433,
+    "name_it": "Schloss Goldegg",
     "description_it": null
   },
   {
-    "id": 666,
+    "id": 854,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 47.355797,
+    "lng": 13.198321,
+    "name_it": "Würth GmbH Hochenburger",
     "description_it": null
   },
   {
-    "id": 667,
+    "id": 753,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 47.3218419,
+    "lng": 13.1545119,
+    "name_it": "Cardinal Schwarzenberg Hospital",
     "description_it": null
   },
   {
-    "id": 668,
+    "id": 804,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
-    "description_it": null
+    "lat": 47.3191667,
+    "lng": 13.0983333,
+    "name_it": "Hotel am Schloss",
+    "description_it": "Cozy rooms in a classic hotel offering a quaint restaurant, a bar & a lounge, as well as a spa area."
   },
   {
     "id": 669,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_it": "Faro di Salvore",
     "description_it": null
   },
   {
     "id": 670,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 37.4220541,
+    "lng": -122.0853242,
+    "name_it": "Googleplex",
+    "description_it": "Campus sede globale di Google, con uffici, spazio verdeggiante e aree ricreative."
+  },
+  {
+    "id": 769,
+    "wind2horizon_id": null,
+    "lat": 47.3169161,
+    "lng": 13.1505311,
+    "name_it": "Glas + Metall Weissofner",
     "description_it": null
+  },
+  {
+    "id": 811,
+    "wind2horizon_id": null,
+    "lat": 47.31715389999999,
+    "lng": 13.099884,
+    "name_it": "Hotel zur Post",
+    "description_it": "Refined rooms in a chalet-style hotel offering a spa, a woodsy restaurant & free loaner bikes."
   },
   {
     "id": 681,
     "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 682,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 683,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_it": null,
+    "lat": 45.1319027,
+    "lng": 13.7351437,
+    "name_it": "Restaurant Viking",
     "description_it": null
   },
   {
     "id": 684,
     "wind2horizon_id": null,
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_it": "Villa Romana beach lounge & restaurant",
+    "description_it": null
+  },
+  {
+    "id": 665,
+    "wind2horizon_id": null,
     "lat": null,
     "lng": null,
-    "name_it": null,
+    "name_it": "Parco nazionale Alti Tauri",
+    "description_it": "Ampio parco nazionale con sentieri escursionistici suggestivi, piste da sci e vista panoramica sui monti."
+  },
+  {
+    "id": 667,
+    "wind2horizon_id": null,
+    "lat": 47.346309,
+    "lng": 13.2017865,
+    "name_it": "Hotel Alpenland St. Johann",
+    "description_it": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
+  },
+  {
+    "id": 668,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_it": "Liechtensteinklamm",
+    "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
+  },
+  {
+    "id": 682,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_it": "Anfiteatro di Pola",
+    "description_it": "Enorme anfiteatro romano con mostra sotterranea sulle antiche tecniche di produzione di olio e vino."
+  },
+  {
+    "id": 698,
+    "wind2horizon_id": null,
+    "lat": 45.317633,
+    "lng": 13.5594205,
+    "name_it": "Half 8 Restaurant",
     "description_it": null
+  },
+  {
+    "id": 709,
+    "wind2horizon_id": null,
+    "lat": 47.3175306,
+    "lng": 13.0996556,
+    "name_it": "Hotel Seehof Goldegg",
+    "description_it": "Swanky hotel with a modern art gallery & lake views, plus a trendy restaurant & a tearoom."
+  },
+  {
+    "id": 711,
+    "wind2horizon_id": null,
+    "lat": 39.97096310000001,
+    "lng": -83.00292259999999,
+    "name_it": "Gallerie Bar and Bistro",
+    "description_it": "Contemporary hotel restaurant offering a la carte bistro fare like elevated burgers & a full bar."
+  },
+  {
+    "id": 738,
+    "wind2horizon_id": null,
+    "lat": 47.5193626,
+    "lng": 12.4394636,
+    "name_it": "Aufschnaiter Interior GmbH & Co. KG.",
+    "description_it": null
+  },
+  {
+    "id": 856,
+    "wind2horizon_id": null,
+    "lat": 47.3562234,
+    "lng": 13.1995093,
+    "name_it": "Autohaus Vierthaler - St. Johann",
+    "description_it": null
+  },
+  {
+    "id": 724,
+    "wind2horizon_id": null,
+    "lat": 47.34671909999999,
+    "lng": 13.2013403,
+    "name_it": "Stadtgalerie St. Johann",
+    "description_it": null
+  },
+  {
+    "id": 683,
+    "wind2horizon_id": null,
+    "lat": 44.8707672,
+    "lng": 13.8473422,
+    "name_it": "Zerostrasse - tunnel sotterranei",
+    "description_it": "Vasto sistema di tunnel e gallerie sotterranei, costruito originariamente come rifugio bellico a inizio Novecento."
+  },
+  {
+    "id": 666,
+    "wind2horizon_id": null,
+    "lat": 47.2790585,
+    "lng": 12.4780272,
+    "name_it": "Hohe Tauern National Park Information Centre",
+    "description_it": "Visitor center & interactive museum with info & a 3D film on the surrounding Alpine landscape."
+  },
+  {
+    "id": 786,
+    "wind2horizon_id": null,
+    "lat": 47.3238926,
+    "lng": 13.1739123,
+    "name_it": "KIA Center Rohrmoser & Hettegger GmbH",
+    "description_it": null
+  },
+  {
+    "id": 853,
+    "wind2horizon_id": null,
+    "lat": 47.3222086,
+    "lng": 13.1942351,
+    "name_it": "Hotel Berghof | St. Johann in Salzburg",
+    "description_it": "Refined hotel offering a relaxed restaurant, a cozy bar & a spa, plus indoor & outdoor pools."
   }
 ]
