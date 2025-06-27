@@ -61,5 +61,61 @@
     "icon": "food",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 79,
+    "name_en": "bar",
+    "icon": "bar",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 80,
+    "name_en": "shopping_mall",
+    "icon": "shopping_mall",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 81,
+    "name_en": "general_contractor",
+    "icon": "general_contractor",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 82,
+    "name_en": "hospital",
+    "icon": "hospital",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 83,
+    "name_en": "health",
+    "icon": "health",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 84,
+    "name_en": "car_dealer",
+    "icon": "car_dealer",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 85,
+    "name_en": "store",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_en": "Media",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
   }
 ]
