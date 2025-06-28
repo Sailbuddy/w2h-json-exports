@@ -1,121 +1,149 @@
 [
   {
-    "id": 70,
+    "id": 2,
+    "name_fr": "Médias",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
+  },
+  {
+    "id": 20,
     "name_fr": "attraction touristique",
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 71,
+    "id": 21,
     "name_fr": "Parc",
     "icon": "park",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 72,
+    "id": 22,
     "name_fr": "Point d'intérêt",
     "icon": "point_of_interest",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 73,
+    "id": 23,
     "name_fr": "établissement",
     "icon": "establishment",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 74,
+    "id": 24,
     "name_fr": "Musée",
     "icon": "museum",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 75,
+    "id": 25,
     "name_fr": "logement",
     "icon": "lodging",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 76,
+    "id": 26,
     "name_fr": "repère",
     "icon": "landmark",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 77,
+    "id": 27,
     "name_fr": "Restaurant",
     "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 78,
+    "id": 28,
     "name_fr": "nourriture",
     "icon": "food",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 79,
+    "id": 29,
     "name_fr": "Bar",
     "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 80,
+    "id": 30,
     "name_fr": "centre commercial",
     "icon": "shopping_mall",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 81,
+    "id": 31,
     "name_fr": "Entrepreneur général",
     "icon": "general_contractor",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 82,
+    "id": 32,
     "name_fr": "hôpital",
     "icon": "hospital",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 83,
+    "id": 33,
     "name_fr": "Santé",
     "icon": "health",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 84,
+    "id": 34,
     "name_fr": "concessionnaire automobile",
     "icon": "car_dealer",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 85,
+    "id": 35,
     "name_fr": "Magasin",
     "icon": "store",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 2,
-    "name_fr": "Médias",
-    "icon": "🖼️",
-    "sort_order": 20,
+    "id": 36,
+    "name_fr": "Réparation de voiture",
+    "icon": "car_repair",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 87,
+    "name_fr": "station-service",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 88,
+    "name_fr": "supermarché",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 89,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
     "active": true
   }
 ]
