@@ -1,102 +1,22 @@
 [
   {
-    "id": 850,
+    "id": 1,
     "wind2horizon_id": null,
-    "lat": 47.3192308,
-    "lng": 13.100433,
-    "name_de": "Schloss Goldegg",
-    "description_de": null
+    "lat": 48.20752099999999,
+    "lng": 16.378672,
+    "name_de": "Plachutta Wollzeile",
+    "description_de": "Schickes Restaurant für Tafelspitz und andere Klassiker der Wiener Küche mit Sitzgelegenheiten im Freien."
   },
   {
-    "id": 854,
+    "id": 3,
     "wind2horizon_id": null,
-    "lat": 47.355797,
-    "lng": 13.198321,
-    "name_de": "Würth Hochenburger Baustoffe St. Johann im Pongau",
-    "description_de": null
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_de": "Schloss Schönbrunn",
+    "description_de": "Sommerpalast aus dem 18. Jahrhundert, Führungen durch opulente Festsäle im Rokokostil und Park mit Irrgarten."
   },
   {
-    "id": 753,
-    "wind2horizon_id": null,
-    "lat": 47.3218419,
-    "lng": 13.1545119,
-    "name_de": "Kardinal Schwarzenberg Klinikum",
-    "description_de": null
-  },
-  {
-    "id": 804,
-    "wind2horizon_id": null,
-    "lat": 47.3191667,
-    "lng": 13.0983333,
-    "name_de": "Hotel am Schloss",
-    "description_de": "Gemütliche Zimmer in einem klassischen Hotel mit urigem Restaurant, Bar, Lounge und Spa."
-  },
-  {
-    "id": 669,
-    "wind2horizon_id": null,
-    "lat": 45.4900956,
-    "lng": 13.4910909,
-    "name_de": "Savudrija Lighthouse",
-    "description_de": null
-  },
-  {
-    "id": 670,
-    "wind2horizon_id": null,
-    "lat": 37.4220541,
-    "lng": -122.0853242,
-    "name_de": "Googleplex",
-    "description_de": "Der globale Hauptsitz von Google mit Büros, Grünanlagen und Freizeiteinrichtungen auf dem Campus."
-  },
-  {
-    "id": 769,
-    "wind2horizon_id": null,
-    "lat": 47.3169161,
-    "lng": 13.1505311,
-    "name_de": "Glas + Metall Weissofner",
-    "description_de": null
-  },
-  {
-    "id": 811,
-    "wind2horizon_id": null,
-    "lat": 47.31715389999999,
-    "lng": 13.099884,
-    "name_de": "Hotel zur Post",
-    "description_de": "Stilvolle Zimmer in einem Hotel im Chaletstil mit Spa, rustikalem Restaurant und kostenlosen Leihfahrrädern."
-  },
-  {
-    "id": 681,
-    "wind2horizon_id": null,
-    "lat": 45.1319027,
-    "lng": 13.7351437,
-    "name_de": "Restaurant Viking",
-    "description_de": null
-  },
-  {
-    "id": 684,
-    "wind2horizon_id": null,
-    "lat": 45.2025388,
-    "lng": 13.5883683,
-    "name_de": "Villa Romana beach lounge & restaurant",
-    "description_de": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": null,
-    "lng": null,
-    "name_de": "Nationalpark Hohe Tauern",
-    "description_de": "Weitläufiger Nationalpark mit malerischen Wanderwegen, Skipisten und Panoramablick auf die Alpen."
-  },
-  {
-    "id": 667,
-    "wind2horizon_id": null,
-    "lat": 47.346309,
-    "lng": 13.2017865,
-    "name_de": "Hotel Alpenland St. Johann",
-    "description_de": "Gemütliches Hotel mit Restaurant, englischem Pub, Bar, Innenpool, Saunas und Whirlpools."
-  },
-  {
-    "id": 668,
+    "id": 18,
     "wind2horizon_id": null,
     "lat": 47.3134265,
     "lng": 13.1896781,
@@ -104,91 +24,35 @@
     "description_de": "Tiefe, schmale Schlucht mit Wanderwegen, Brücken, Fluss und Wasserfall, nur in den Sommermonaten geöffnet."
   },
   {
-    "id": 682,
+    "id": 37,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_de": "Skilift Porec",
+    "description_de": null
+  },
+  {
+    "id": 2,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_de": "Hotel Sacher Wien",
+    "description_de": "Elegante Zimmer und Suiten in einem prächtigen Hotel mit 2 gehobenen Restaurants, Terrassenbar und Spa."
+  },
+  {
+    "id": 13,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_de": "JET Tankstelle",
+    "description_de": null
+  },
+  {
+    "id": 24,
     "wind2horizon_id": null,
     "lat": 44.87322990000001,
     "lng": 13.8502458,
     "name_de": "Amphitheater Pula",
     "description_de": "Riesiges römisches Amphitheater mit unterirdischer Ausstellung über die antike Produktion von Olivenöl & Wein."
-  },
-  {
-    "id": 698,
-    "wind2horizon_id": null,
-    "lat": 45.317633,
-    "lng": 13.5594205,
-    "name_de": "Half 8 Restaurant",
-    "description_de": null
-  },
-  {
-    "id": 709,
-    "wind2horizon_id": null,
-    "lat": 47.3175306,
-    "lng": 13.0996556,
-    "name_de": "Hotel Seehof Goldegg",
-    "description_de": "Elegantes Hotel mit Galerie für moderne Kunst, Seeblick, trendigem Restaurant und Teezimmer."
-  },
-  {
-    "id": 711,
-    "wind2horizon_id": null,
-    "lat": 39.97096310000001,
-    "lng": -83.00292259999999,
-    "name_de": "Gallerie Bar and Bistro",
-    "description_de": "Contemporary hotel restaurant offering a la carte bistro fare like elevated burgers & a full bar."
-  },
-  {
-    "id": 738,
-    "wind2horizon_id": null,
-    "lat": 47.5193626,
-    "lng": 12.4394636,
-    "name_de": "Aufschnaiter Interior GmbH & Co. KG.",
-    "description_de": null
-  },
-  {
-    "id": 856,
-    "wind2horizon_id": null,
-    "lat": 47.3562234,
-    "lng": 13.1995093,
-    "name_de": "Autohaus Vierthaler - St. Johann",
-    "description_de": null
-  },
-  {
-    "id": 724,
-    "wind2horizon_id": null,
-    "lat": 47.34671909999999,
-    "lng": 13.2013403,
-    "name_de": "Stadtgalerie St. Johann",
-    "description_de": null
-  },
-  {
-    "id": 683,
-    "wind2horizon_id": null,
-    "lat": 44.8707672,
-    "lng": 13.8473422,
-    "name_de": "Zerostrasse (Luftschutz-Festungstunnel)",
-    "description_de": "Im frühen 20. Jahrhundert als Luftschutzkeller erbautes weitläufiges System unterirdischer Tunnel und Stollen."
-  },
-  {
-    "id": 666,
-    "wind2horizon_id": null,
-    "lat": 47.2790585,
-    "lng": 12.4780272,
-    "name_de": "Nationalparkwelten Hohe Tauern",
-    "description_de": "Besucherzentrum und interaktives Museum mit Informationen und einem 3D-Film zur umliegenden Alpenlandschaft."
-  },
-  {
-    "id": 786,
-    "wind2horizon_id": null,
-    "lat": 47.3238926,
-    "lng": 13.1739123,
-    "name_de": "KIA Center Rohrmoser & Hettegger GmbH",
-    "description_de": null
-  },
-  {
-    "id": 853,
-    "wind2horizon_id": null,
-    "lat": 47.3222086,
-    "lng": 13.1942351,
-    "name_de": "Hotel Berghof | St. Johann in Salzburg",
-    "description_de": "Stilvolles Hotel mit legerem Restaurant, gemütlicher Bar, Spa sowie Innen- und Außenpools."
   }
 ]
