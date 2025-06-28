@@ -1,121 +1,149 @@
 [
   {
-    "id": 70,
+    "id": 2,
+    "name_hr": "Mediji",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
+  },
+  {
+    "id": 20,
     "name_hr": "turistička atrakcija",
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 71,
+    "id": 21,
     "name_hr": "Park",
     "icon": "park",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 72,
+    "id": 22,
     "name_hr": "Zanimljivo mjesto",
     "icon": "point_of_interest",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 73,
+    "id": 23,
     "name_hr": "ustanova",
     "icon": "establishment",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 74,
+    "id": 24,
     "name_hr": "Muzej",
     "icon": "museum",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 75,
+    "id": 25,
     "name_hr": "smještaj",
     "icon": "lodging",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 76,
+    "id": 26,
     "name_hr": "orijentir",
     "icon": "landmark",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 77,
+    "id": 27,
     "name_hr": "Restoran",
     "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 78,
+    "id": 28,
     "name_hr": "hrana",
     "icon": "food",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 79,
+    "id": 29,
     "name_hr": "Bar",
     "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 80,
+    "id": 30,
     "name_hr": "trgovački centar",
     "icon": "shopping_mall",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 81,
+    "id": 31,
     "name_hr": "Glavni izvođač",
     "icon": "general_contractor",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 82,
+    "id": 32,
     "name_hr": "bolnica",
     "icon": "hospital",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 83,
+    "id": 33,
     "name_hr": "Zdravlje",
     "icon": "health",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 84,
+    "id": 34,
     "name_hr": "prodavač automobila",
     "icon": "car_dealer",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 85,
+    "id": 35,
     "name_hr": "Trgovina",
     "icon": "store",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 2,
-    "name_hr": "Mediji",
-    "icon": "🖼️",
-    "sort_order": 20,
+    "id": 36,
+    "name_hr": "Popravak automobila",
+    "icon": "car_repair",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 87,
+    "name_hr": "benzinska postaja",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 88,
+    "name_hr": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 89,
+    "name_hr": "trgovina prehrambenim proizvodima ili supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
     "active": true
   }
 ]
