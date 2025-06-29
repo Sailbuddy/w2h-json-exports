@@ -145,5 +145,12 @@
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 90,
+    "name_fr": "pharmacie",
+    "icon": "pharmacy",
+    "sort_order": 9999,
+    "active": true
   }
 ]
