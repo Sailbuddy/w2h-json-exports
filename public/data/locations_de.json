@@ -32,38 +32,6 @@
     "description_de": "Riesiges römisches Amphitheater mit unterirdischer Ausstellung über die antike Produktion von Olivenöl & Wein."
   },
   {
-    "id": 99,
-    "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_de": "Snow Space Salzburg - St. Johann im Pongau",
-    "description_de": "Riesiges Resort mit 3 Skigebieten, Berghütten und modernen Seilbahnen sowie Wanderwegen im Sommer."
-  },
-  {
-    "id": 100,
-    "wind2horizon_id": null,
-    "lat": 47.4430868,
-    "lng": 12.3892092,
-    "name_de": "Bergbahn AG Kitzbühel – KitzSki",
-    "description_de": "Beliebtes Skigebiet mit einer Vielzahl von anspruchsvollen Abfahrten für Ski- und Snowboardfahrer."
-  },
-  {
-    "id": 88,
-    "wind2horizon_id": null,
-    "lat": 48.20752099999999,
-    "lng": 16.378672,
-    "name_de": "Plachutta Wollzeile",
-    "description_de": "Schickes Restaurant für Tafelspitz und andere Klassiker der Wiener Küche mit Sitzgelegenheiten im Freien."
-  },
-  {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_de": "Hotel Sacher Wien",
-    "description_de": "Elegante Zimmer und Suiten in einem prächtigen Hotel mit 2 gehobenen Restaurants, Terrassenbar und Spa."
-  },
-  {
     "id": 90,
     "wind2horizon_id": null,
     "lat": 48.1858124,
@@ -96,14 +64,6 @@
     "description_de": null
   },
   {
-    "id": 95,
-    "wind2horizon_id": null,
-    "lat": 47.3089895,
-    "lng": 13.0902492,
-    "name_de": "Golfclub Goldegg",
-    "description_de": null
-  },
-  {
     "id": 96,
     "wind2horizon_id": null,
     "lat": 47.8021621,
@@ -126,5 +86,45 @@
     "lng": 13.2021919,
     "name_de": "Johannes Stadtapotheke",
     "description_de": null
+  },
+  {
+    "id": 88,
+    "wind2horizon_id": null,
+    "lat": 48.20752099999999,
+    "lng": 16.378672,
+    "name_de": "Plachutta Wollzeile",
+    "description_de": "Schickes Restaurant für Tafelspitz und andere Klassiker der Wiener Küche mit Sitzgelegenheiten im Freien."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_de": "Hotel Sacher Wien",
+    "description_de": "Elegante Zimmer und Suiten in einem prächtigen Hotel mit 2 gehobenen Restaurants, Terrassenbar und Spa."
+  },
+  {
+    "id": 95,
+    "wind2horizon_id": null,
+    "lat": 47.3089895,
+    "lng": 13.0902492,
+    "name_de": "Golfclub Goldegg",
+    "description_de": null
+  },
+  {
+    "id": 99,
+    "wind2horizon_id": null,
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_de": "Snow Space Salzburg - St. Johann im Pongau",
+    "description_de": "Riesiges Resort mit 3 Skigebieten, Berghütten und modernen Seilbahnen sowie Wanderwegen im Sommer."
+  },
+  {
+    "id": 100,
+    "wind2horizon_id": null,
+    "lat": 47.4430868,
+    "lng": 12.3892092,
+    "name_de": "Bergbahn AG Kitzbühel – KitzSki",
+    "description_de": "Beliebtes Skigebiet mit einer Vielzahl von anspruchsvollen Abfahrten für Ski- und Snowboardfahrer."
   }
 ]
