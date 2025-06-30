@@ -306,5 +306,19 @@
     "google_cat_id": "grocery_or_supermarket",
     "name_fr": "épicerie ou supermarché",
     "is_manual": false
+  },
+  {
+    "id": 90,
+    "created_at": "2025-06-28T08:52:32.153413+00:00",
+    "name_de": "Apotheke",
+    "name_en": "pharmacy",
+    "name_it": "farmacia",
+    "name_hr": "ljekarna",
+    "icon": "pharmacy",
+    "active": true,
+    "sort_order": 9999,
+    "google_cat_id": "pharmacy",
+    "name_fr": "pharmacie",
+    "is_manual": false
   }
 ]
