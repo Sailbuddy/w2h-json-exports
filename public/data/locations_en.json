@@ -32,22 +32,6 @@
     "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_en": "Hotel Sacher Vienna",
-    "description_en": "Elegant quarters in a ornate hotel with 2 refined restaurants, a terrace bar & a full-service spa."
-  },
-  {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_en": "Schönbrunn Palace",
-    "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
-  },
-  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
@@ -102,6 +86,22 @@
     "lng": 16.378672,
     "name_en": "Plachutta Wollzeile",
     "description_en": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_en": "Hotel Sacher Vienna",
+    "description_en": "Elegant quarters in a ornate hotel with 2 refined restaurants, a terrace bar & a full-service spa."
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_en": "Schönbrunn Palace",
+    "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
   },
   {
     "id": 95,
