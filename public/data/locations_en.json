@@ -32,22 +32,6 @@
     "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_en": "JET Tankstelle",
-    "description_en": null
-  },
-  {
-    "id": 92,
-    "wind2horizon_id": null,
-    "lat": 47.3134265,
-    "lng": 13.1896781,
-    "name_en": "Liechtensteinklamm",
-    "description_en": "Deep, narrow gorge with footpaths, bridges, river & waterfall, only open in the summer months."
-  },
-  {
     "id": 94,
     "wind2horizon_id": null,
     "lat": 45.2038392,
@@ -102,6 +86,22 @@
     "lng": 16.3127641,
     "name_en": "Schönbrunn Palace",
     "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_en": "JET Tankstelle",
+    "description_en": null
+  },
+  {
+    "id": 92,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_en": "Liechtensteinklamm",
+    "description_en": "Deep, narrow gorge with footpaths, bridges, river & waterfall, only open in the summer months."
   },
   {
     "id": 95,
