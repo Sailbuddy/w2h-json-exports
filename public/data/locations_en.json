@@ -32,14 +32,6 @@
     "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 88,
-    "wind2horizon_id": null,
-    "lat": 48.20752099999999,
-    "lng": 16.378672,
-    "name_en": "Plachutta Wollzeile",
-    "description_en": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
-  },
-  {
     "id": 89,
     "wind2horizon_id": null,
     "lat": 48.2040009,
@@ -102,6 +94,14 @@
     "lng": 13.2021919,
     "name_en": "Johannes Stadtapotheke",
     "description_en": null
+  },
+  {
+    "id": 88,
+    "wind2horizon_id": null,
+    "lat": 48.20752099999999,
+    "lng": 16.378672,
+    "name_en": "Plachutta Wollzeile",
+    "description_en": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
   },
   {
     "id": 95,
