@@ -32,30 +32,6 @@
     "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 94,
-    "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_hr": "The Ski Lift Poreč",
-    "description_hr": null
-  },
-  {
-    "id": 96,
-    "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_hr": "Hotel Sacher Salzburg",
-    "description_hr": "Otmjeni hotel s tri profinjena restorana, kafićem, trgovinom čokolade i pogledom na rijeku."
-  },
-  {
-    "id": 97,
-    "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_hr": "Seefunkschule Adlmanninger",
-    "description_hr": null
-  },
-  {
     "id": 98,
     "wind2horizon_id": null,
     "lat": 47.34702619999999,
@@ -102,6 +78,30 @@
     "lng": 13.1896781,
     "name_hr": "Liechtensteinklamm",
     "description_hr": "Duboki uski klanac s pješačkim stazama, mostovima, rijekom i slapom otvoren samo tijekom ljetnih mjeseci."
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_hr": "The Ski Lift Poreč",
+    "description_hr": null
+  },
+  {
+    "id": 96,
+    "wind2horizon_id": null,
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_hr": "Hotel Sacher Salzburg",
+    "description_hr": "Otmjeni hotel s tri profinjena restorana, kafićem, trgovinom čokolade i pogledom na rijeku."
+  },
+  {
+    "id": 97,
+    "wind2horizon_id": null,
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_hr": "Seefunkschule Adlmanninger",
+    "description_hr": null
   },
   {
     "id": 95,
