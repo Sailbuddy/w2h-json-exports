@@ -32,22 +32,6 @@
     "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_hr": "Johannes Stadtapotheke",
-    "description_hr": null
-  },
-  {
-    "id": 88,
-    "wind2horizon_id": null,
-    "lat": 48.20752099999999,
-    "lng": 16.378672,
-    "name_hr": "Plachutta",
-    "description_hr": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
-  },
-  {
     "id": 89,
     "wind2horizon_id": null,
     "lat": 48.2040009,
@@ -102,6 +86,22 @@
     "lng": 13.7583526,
     "name_hr": "Seefunkschule Adlmanninger",
     "description_hr": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_hr": "Johannes Stadtapotheke",
+    "description_hr": null
+  },
+  {
+    "id": 88,
+    "wind2horizon_id": null,
+    "lat": 48.20752099999999,
+    "lng": 16.378672,
+    "name_hr": "Plachutta",
+    "description_hr": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
   },
   {
     "id": 95,
