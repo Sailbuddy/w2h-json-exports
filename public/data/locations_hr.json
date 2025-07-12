@@ -32,14 +32,6 @@
     "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_hr": "Hotel Sacher Vienna",
-    "description_hr": "Luksuzan smještaj u elitnom hotelu koji nudi dva vrhunska restorana, bar s terasom i spa s punom uslugom."
-  },
-  {
     "id": 90,
     "wind2horizon_id": null,
     "lat": 48.1858124,
@@ -102,6 +94,14 @@
     "lng": 16.378672,
     "name_hr": "Plachutta",
     "description_hr": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_hr": "Hotel Sacher Vienna",
+    "description_hr": "Luksuzan smještaj u elitnom hotelu koji nudi dva vrhunska restorana, bar s terasom i spa s punom uslugom."
   },
   {
     "id": 95,
