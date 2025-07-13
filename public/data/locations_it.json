@@ -32,22 +32,6 @@
     "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_it": "Hotel Sacher",
-    "description_it": "Sistemazioni eleganti in hotel ricercato che offre 2 ristoranti raffinati, bar con terrazza e spa completa."
-  },
-  {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_it": "Palazzo di Schönbrunn",
-    "description_it": "Residenza estiva del XVIII secolo con tour guidati nelle sale cerimoniali rococò e giardino con labirinto."
-  },
-  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
@@ -102,6 +86,22 @@
     "lng": 16.378672,
     "name_it": "Plachutta",
     "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_it": "Hotel Sacher",
+    "description_it": "Sistemazioni eleganti in hotel ricercato che offre 2 ristoranti raffinati, bar con terrazza e spa completa."
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_it": "Palazzo di Schönbrunn",
+    "description_it": "Residenza estiva del XVIII secolo con tour guidati nelle sale cerimoniali rococò e giardino con labirinto."
   },
   {
     "id": 95,
