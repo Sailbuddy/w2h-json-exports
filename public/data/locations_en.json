@@ -32,22 +32,6 @@
     "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 97,
-    "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_en": "Seefunkschule Adlmanninger",
-    "description_en": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_en": "Johannes Stadtapotheke",
-    "description_en": null
-  },
-  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.20752099999999,
@@ -102,6 +86,22 @@
     "lng": 13.0432009,
     "name_en": "Hotel Sacher Salzburg",
     "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
+  },
+  {
+    "id": 97,
+    "wind2horizon_id": null,
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_en": "Seefunkschule Adlmanninger",
+    "description_en": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_en": "Johannes Stadtapotheke",
+    "description_en": null
   },
   {
     "id": 95,
