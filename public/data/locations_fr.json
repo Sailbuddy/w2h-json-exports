@@ -32,22 +32,6 @@
     "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
-  },
-  {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_fr": "Château de Schönbrunn",
-    "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
-  },
-  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
@@ -102,6 +86,22 @@
     "lng": 16.378672,
     "name_fr": "Plachutta Wollzeile",
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_fr": "Château de Schönbrunn",
+    "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
   },
   {
     "id": 95,
