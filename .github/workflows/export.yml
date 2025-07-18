@@ -2,7 +2,7 @@ name: Export Supabase Locations
 
 on:
   schedule:
-    - cron: '0 2 * * *' # täglich um 02:00 UTC (entspricht 04:00 MESZ)
+    - cron: '0 2 * * *'  # täglich um 02:00 UTC (entspricht 04:00 MESZ)
   workflow_dispatch:      # manuell auslösbar
 
 jobs:
@@ -40,6 +40,10 @@ jobs:
               .then(data => {
                 fs.mkdirSync('data', { recursive: true });
                 fs.writeFileSync('data/locations.json', JSON.stringify(data, null, 2));
+
+                // ➕ auch für Netlify-Auslieferung:
+                fs.mkdirSync('public/data', { recursive: true });
+                fs.writeFileSync('public/data/locations.json', JSON.stringify(data, null, 2));
               })
               .catch(err => {
                 console.error('Fehler beim Abrufen:', err);
@@ -53,6 +57,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
-          git add data/locations.json
+          git add data/locations.json public/data/locations.json
           git diff --cached --quiet || git commit -m '⛵ auto-export: aktualisierte locations.json'
           git push
