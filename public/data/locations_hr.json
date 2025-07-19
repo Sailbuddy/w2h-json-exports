@@ -1,5 +1,21 @@
 [
   {
+    "id": 85,
+    "wind2horizon_id": null,
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_hr": "Gasthaus Eichenheim",
+    "description_hr": null
+  },
+  {
+    "id": 86,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_hr": "Gut Berg Naturhotel",
+    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -16,20 +32,12 @@
     "description_hr": "Velik rimski amfiteatar ispod kojeg je izložba posvećena drevnoj proizvodnji maslinova ulja i vina."
   },
   {
-    "id": 85,
+    "id": 427,
     "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_hr": "Gasthaus Eichenheim",
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_hr": "Villa Romana beach lounge & restaurant",
     "description_hr": null
-  },
-  {
-    "id": 86,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_hr": "Gut Berg Naturhotel",
-    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
     "id": 94,
