@@ -30,7 +30,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Gut Berg Naturhotel",
-    "maps_url": "https://maps.google.com/?cid=17171483200306717239"
+    "maps_url": "https://maps.google.com/?cid=17171483200306717239",
+    "category_name_de": "Bar",
+    "category_name_en": "bar",
+    "category_name_it": "Bar",
+    "category_name_hr": "Bar"
   },
   {
     "id": 87,
@@ -63,7 +67,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Sehen Wutscher 5600 St. Johann im Pongau",
-    "maps_url": "https://maps.google.com/?cid=5535897027859519866"
+    "maps_url": "https://maps.google.com/?cid=5535897027859519866",
+    "category_name_de": "Laden",
+    "category_name_en": "store",
+    "category_name_it": "Negozio",
+    "category_name_hr": "Trgovina"
   },
   {
     "id": 427,
@@ -96,7 +104,11 @@
     "price_level": null,
     "active": true,
     "display_name": "villa Romana Porec",
-    "maps_url": "https://maps.google.com/?cid=9642810664144999966"
+    "maps_url": "https://maps.google.com/?cid=9642810664144999966",
+    "category_name_de": "Restaurant",
+    "category_name_en": "restaurant",
+    "category_name_it": "Ristorante",
+    "category_name_hr": "Restoran"
   },
   {
     "id": 93,
@@ -129,7 +141,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Kolosseum Pula",
-    "maps_url": "https://maps.google.com/?cid=15736679909077202530"
+    "maps_url": "https://maps.google.com/?cid=15736679909077202530",
+    "category_name_de": "Touristenattraktion",
+    "category_name_en": "tourist_attraction",
+    "category_name_it": "attrazione turistica",
+    "category_name_hr": "turistička atrakcija"
   },
   {
     "id": 85,
@@ -162,7 +178,11 @@
     "price_level": null,
     "active": true,
     "display_name": "gasthaus eichenheim kitzbühel",
-    "maps_url": "https://maps.google.com/?cid=15334387389489966727"
+    "maps_url": "https://maps.google.com/?cid=15334387389489966727",
+    "category_name_de": "Restaurant",
+    "category_name_en": "restaurant",
+    "category_name_it": "Ristorante",
+    "category_name_hr": "Restoran"
   },
   {
     "id": 97,
@@ -195,7 +215,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Adlmanninger AltmÃƒÂ¼nster",
-    "maps_url": "https://maps.google.com/?cid=7546261504646811362"
+    "maps_url": "https://maps.google.com/?cid=7546261504646811362",
+    "category_name_de": "Sehenswürdigkeit",
+    "category_name_en": "point_of_interest",
+    "category_name_it": "Punto di interesse",
+    "category_name_hr": "Zanimljivo mjesto"
   },
   {
     "id": 98,
@@ -228,7 +252,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Stadtapotheke 5600 St. Johann im Pongau",
-    "maps_url": "https://maps.google.com/?cid=8271051657997719386"
+    "maps_url": "https://maps.google.com/?cid=8271051657997719386",
+    "category_name_de": "Apotheke",
+    "category_name_en": "pharmacy",
+    "category_name_it": "farmacia",
+    "category_name_hr": "ljekarna"
   },
   {
     "id": 88,
@@ -261,7 +289,11 @@
     "price_level": 3,
     "active": true,
     "display_name": "Plachutta Wollzeile, Wien",
-    "maps_url": "https://maps.google.com/?cid=13475423238775576813"
+    "maps_url": "https://maps.google.com/?cid=13475423238775576813",
+    "category_name_de": "Restaurant",
+    "category_name_en": "restaurant",
+    "category_name_it": "Ristorante",
+    "category_name_hr": "Restoran"
   },
   {
     "id": 89,
@@ -294,7 +326,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Hotel Sacher Wien",
-    "maps_url": "https://maps.google.com/?cid=5633144895339205256"
+    "maps_url": "https://maps.google.com/?cid=5633144895339205256",
+    "category_name_de": "Unterkunft",
+    "category_name_en": "lodging",
+    "category_name_it": "alloggio",
+    "category_name_hr": "smještaj"
   },
   {
     "id": 90,
@@ -327,7 +363,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Schloss SchÃƒÆ’Ã‚Â¶nbrunn",
-    "maps_url": "https://maps.google.com/?cid=5650252119948299209"
+    "maps_url": "https://maps.google.com/?cid=5650252119948299209",
+    "category_name_de": "Touristenattraktion",
+    "category_name_en": "tourist_attraction",
+    "category_name_it": "attrazione turistica",
+    "category_name_hr": "turistička atrakcija"
   },
   {
     "id": 91,
@@ -360,7 +400,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Jet Tankstelle 5600 St. Johann im Pongau",
-    "maps_url": "https://maps.google.com/?cid=7827533213666902449"
+    "maps_url": "https://maps.google.com/?cid=7827533213666902449",
+    "category_name_de": "Tankstelle",
+    "category_name_en": "gas_station",
+    "category_name_it": "stazione di servizio",
+    "category_name_hr": "benzinska postaja"
   },
   {
     "id": 92,
@@ -393,7 +437,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Liechtensteinklamm 5600 St. Johann im Pongau",
-    "maps_url": "https://maps.google.com/?cid=14566479454293403906"
+    "maps_url": "https://maps.google.com/?cid=14566479454293403906",
+    "category_name_de": "Touristenattraktion",
+    "category_name_en": "tourist_attraction",
+    "category_name_it": "attrazione turistica",
+    "category_name_hr": "turistička atrakcija"
   },
   {
     "id": 94,
@@ -426,7 +474,11 @@
     "price_level": null,
     "active": true,
     "display_name": "skilift Porec",
-    "maps_url": "https://maps.google.com/?cid=9229361766161396297"
+    "maps_url": "https://maps.google.com/?cid=9229361766161396297",
+    "category_name_de": "Restaurant",
+    "category_name_en": "restaurant",
+    "category_name_it": "Ristorante",
+    "category_name_hr": "Restoran"
   },
   {
     "id": 96,
@@ -459,7 +511,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Hotel Sacher Salzburg",
-    "maps_url": "https://maps.google.com/?cid=6180453557080522395"
+    "maps_url": "https://maps.google.com/?cid=6180453557080522395",
+    "category_name_de": "Unterkunft",
+    "category_name_en": "lodging",
+    "category_name_it": "alloggio",
+    "category_name_hr": "smještaj"
   },
   {
     "id": 95,
@@ -492,7 +548,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Golfplatz Goldegg",
-    "maps_url": "https://maps.google.com/?cid=8491536368973683954"
+    "maps_url": "https://maps.google.com/?cid=8491536368973683954",
+    "category_name_de": "Sehenswürdigkeit",
+    "category_name_en": "point_of_interest",
+    "category_name_it": "Punto di interesse",
+    "category_name_hr": "Zanimljivo mjesto"
   },
   {
     "id": 99,
@@ -525,7 +585,11 @@
     "price_level": null,
     "active": true,
     "display_name": "Alpendorf Bergbahnen 5600 St. Johann",
-    "maps_url": "https://maps.google.com/?cid=15882081889832149747"
+    "maps_url": "https://maps.google.com/?cid=15882081889832149747",
+    "category_name_de": "Park",
+    "category_name_en": "park",
+    "category_name_it": "Parco",
+    "category_name_hr": "Park"
   },
   {
     "id": 100,
@@ -558,6 +622,10 @@
     "price_level": null,
     "active": true,
     "display_name": "KitzSki KitzbÃ¼hel",
-    "maps_url": "https://maps.google.com/?cid=8104606377076856993"
+    "maps_url": "https://maps.google.com/?cid=8104606377076856993",
+    "category_name_de": "Sehenswürdigkeit",
+    "category_name_en": "point_of_interest",
+    "category_name_it": "Punto di interesse",
+    "category_name_hr": "Zanimljivo mjesto"
   }
 ]
