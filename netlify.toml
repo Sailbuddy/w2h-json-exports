@@ -1,5 +1,8 @@
+[build]
+  publish = "public"
+
 [[headers]]
-  for = "/data/locations.json"
+  for = "/data/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Methods = "GET"
