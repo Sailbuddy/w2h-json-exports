@@ -29,26 +29,46 @@ jobs:
             const fetch = require('node-fetch');
             const fs = require('fs');
 
-            const url = 'https://ufebkrjjnrfhupwxvpmb.supabase.co/rest/v1/locations';
+            const baseUrl = 'https://ufebkrjjnrfhupwxvpmb.supabase.co/rest/v1';
             const headers = {
               'apikey': process.env.SUPABASE_ANON_KEY,
               'Authorization': 'Bearer ' + process.env.SUPABASE_ANON_KEY
             };
 
-            fetch(url, { headers })
-              .then(res => res.json())
-              .then(data => {
-                fs.mkdirSync('data', { recursive: true });
-                fs.writeFileSync('data/locations.json', JSON.stringify(data, null, 2));
-
-                // ➕ auch für Netlify-Auslieferung:
-                fs.mkdirSync('public/data', { recursive: true });
-                fs.writeFileSync('public/data/locations.json', JSON.stringify(data, null, 2));
-              })
-              .catch(err => {
-                console.error('Fehler beim Abrufen:', err);
-                process.exit(1);
+            // Schritt 1: Kategorien laden
+            Promise.all([
+              fetch(\`\${baseUrl}/categories?select=id,name_de,name_en,name_it,name_hr\`, { headers }).then(res => res.json()),
+              fetch(\`\${baseUrl}/locations\`, { headers }).then(res => res.json())
+            ])
+            .then(([categories, locations]) => {
+              const lookup = {};
+              categories.forEach(cat => {
+                lookup[cat.id] = cat;
               });
+
+              // Schritt 2: Kategorienamen pro Sprache ergänzen
+              const enriched = locations.map(loc => {
+                const cat = lookup[loc.category_id] || {};
+                return {
+                  ...loc,
+                  category_name_de: cat.name_de || 'Unkategorisiert',
+                  category_name_en: cat.name_en || 'Uncategorized',
+                  category_name_it: cat.name_it || 'Non categorizzato',
+                  category_name_hr: cat.name_hr || 'Nekategorizirano'
+                };
+              });
+
+              // Schritt 3: JSON-Dateien schreiben
+              fs.mkdirSync('data', { recursive: true });
+              fs.writeFileSync('data/locations.json', JSON.stringify(enriched, null, 2));
+
+              fs.mkdirSync('public/data', { recursive: true });
+              fs.writeFileSync('public/data/locations.json', JSON.stringify(enriched, null, 2));
+            })
+            .catch(err => {
+              console.error('Fehler beim Abrufen:', err);
+              process.exit(1);
+            });
           "
         env:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
@@ -58,5 +78,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
           git add data/locations.json public/data/locations.json
-          git diff --cached --quiet || git commit -m '⛵ auto-export: aktualisierte locations.json'
+          git diff --cached --quiet || git commit -m '⛵ auto-export: mehrsprachige Kategorienamen ergänzt'
           git push
