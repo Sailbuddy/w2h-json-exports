@@ -1,13 +1,5 @@
 [
   {
-    "id": 85,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_de": "Gasthaus Eichenheim",
-    "description_de": null
-  },
-  {
     "id": 86,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -24,14 +16,6 @@
     "description_de": null
   },
   {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_de": "Amphitheater Pula",
-    "description_de": "Riesiges römisches Amphitheater mit unterirdischer Ausstellung über die antike Produktion von Olivenöl & Wein."
-  },
-  {
     "id": 427,
     "wind2horizon_id": null,
     "lat": 45.2025388,
@@ -40,20 +24,20 @@
     "description_de": null
   },
   {
-    "id": 94,
+    "id": 93,
     "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_de": "Skilift Porec",
-    "description_de": null
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_de": "Amphitheater Pula",
+    "description_de": "Riesiges römisches Amphitheater mit unterirdischer Ausstellung über die antike Produktion von Olivenöl & Wein."
   },
   {
-    "id": 96,
+    "id": 85,
     "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_de": "Hotel Sacher Salzburg",
-    "description_de": "Nobelhotel mit 3 stilvollen Restaurants, einem Café und einer Chocolaterie sowie Blick auf den Fluss."
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_de": "Gasthaus Eichenheim",
+    "description_de": null
   },
   {
     "id": 97,
@@ -110,6 +94,22 @@
     "lng": 13.1896781,
     "name_de": "Liechtensteinklamm",
     "description_de": "Tiefe, schmale Schlucht mit Wanderwegen, Brücken, Fluss und Wasserfall, nur in den Sommermonaten geöffnet."
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_de": "Skilift Porec",
+    "description_de": null
+  },
+  {
+    "id": 96,
+    "wind2horizon_id": null,
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_de": "Hotel Sacher Salzburg",
+    "description_de": "Nobelhotel mit 3 stilvollen Restaurants, einem Café und einer Chocolaterie sowie Blick auf den Fluss."
   },
   {
     "id": 95,
