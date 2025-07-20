@@ -1,13 +1,5 @@
 [
   {
-    "id": 85,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_en": "Gasthaus Eichenheim",
-    "description_en": null
-  },
-  {
     "id": 86,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -24,14 +16,6 @@
     "description_en": null
   },
   {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_en": "Pula Arena",
-    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
-  },
-  {
     "id": 427,
     "wind2horizon_id": null,
     "lat": 45.2025388,
@@ -40,20 +24,20 @@
     "description_en": null
   },
   {
-    "id": 94,
+    "id": 93,
     "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_en": "Skilift Porec",
-    "description_en": null
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_en": "Pula Arena",
+    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
   },
   {
-    "id": 96,
+    "id": 85,
     "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_en": "Hotel Sacher Salzburg",
-    "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_en": "Gasthaus Eichenheim",
+    "description_en": null
   },
   {
     "id": 97,
@@ -110,6 +94,22 @@
     "lng": 13.1896781,
     "name_en": "Liechtensteinklamm",
     "description_en": "Deep, narrow gorge with footpaths, bridges, river & waterfall, only open in the summer months."
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_en": "Skilift Porec",
+    "description_en": null
+  },
+  {
+    "id": 96,
+    "wind2horizon_id": null,
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_en": "Hotel Sacher Salzburg",
+    "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
   },
   {
     "id": 95,
