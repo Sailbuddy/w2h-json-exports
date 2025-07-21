@@ -1,5 +1,21 @@
 [
   {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_en": "Pula Arena",
+    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
+  },
+  {
+    "id": 85,
+    "wind2horizon_id": null,
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_en": "Gasthaus Eichenheim",
+    "description_en": null
+  },
+  {
     "id": 86,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -24,35 +40,11 @@
     "description_en": null
   },
   {
-    "id": 93,
+    "id": 466,
     "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_en": "Pula Arena",
-    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
-  },
-  {
-    "id": 85,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_en": "Gasthaus Eichenheim",
-    "description_en": null
-  },
-  {
-    "id": 97,
-    "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_en": "Seefunkschule Adlmanninger",
-    "description_en": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_en": "Johannes Stadtapotheke",
+    "lat": 45.0819593,
+    "lng": 13.6316562,
+    "name_en": "Rovinj Mali Raj",
     "description_en": null
   },
   {
@@ -110,6 +102,22 @@
     "lng": 13.0432009,
     "name_en": "Hotel Sacher Salzburg",
     "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
+  },
+  {
+    "id": 97,
+    "wind2horizon_id": null,
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_en": "Seefunkschule Adlmanninger",
+    "description_en": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_en": "Johannes Stadtapotheke",
+    "description_en": null
   },
   {
     "id": 95,
