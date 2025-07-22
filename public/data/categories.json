@@ -327,12 +327,12 @@
     "name_de": "Aussichtspunkt",
     "name_en": "viewpoint",
     "name_it": "belvedere",
-    "name_hr": null,
-    "icon": null,
-    "active": null,
-    "sort_order": null,
-    "google_cat_id": null,
-    "name_fr": null,
+    "name_hr": "vidikovac",
+    "icon": "viewpoint",
+    "active": true,
+    "sort_order": 9999,
+    "google_cat_id": "viewpoint",
+    "name_fr": "point de vue",
     "is_manual": false
   }
 ]
