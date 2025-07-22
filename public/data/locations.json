@@ -224,7 +224,7 @@
   {
     "id": 508,
     "wind2horizon_id": null,
-    "category_id": 20,
+    "category_id": 91,
     "google_place_id": "ChIJn8Gj0QeVfEcRbc4ma8dH2EY",
     "plus_code": "8FQM5J24+64",
     "source_type": null,
@@ -253,10 +253,10 @@
     "active": true,
     "display_name": "Viewpoint Casanova Vrsar",
     "maps_url": "https://maps.google.com/?cid=5104909099446226541",
-    "category_name_de": "Touristenattraktion",
-    "category_name_en": "tourist_attraction",
-    "category_name_it": "attrazione turistica",
-    "category_name_hr": "turistička atrakcija"
+    "category_name_de": "Aussichtspunkt",
+    "category_name_en": "viewpoint",
+    "category_name_it": "belvedere",
+    "category_name_hr": "vidikovac"
   },
   {
     "id": 91,
