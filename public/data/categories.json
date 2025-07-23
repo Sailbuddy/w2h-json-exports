@@ -334,5 +334,19 @@
     "google_cat_id": "viewpoint",
     "name_fr": "point de vue",
     "is_manual": false
+  },
+  {
+    "id": 92,
+    "created_at": "2025-07-22T20:03:08.393725+00:00",
+    "name_de": "Reisebüro",
+    "name_en": "travel_agency",
+    "name_it": "Agenzia di viaggi",
+    "name_hr": "Putnička agencija",
+    "icon": "travel_agency",
+    "active": true,
+    "sort_order": 9999,
+    "google_cat_id": "travel_agency",
+    "name_fr": "Agence de voyage",
+    "is_manual": false
   }
 ]
