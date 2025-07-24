@@ -54,6 +54,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
-          git add data/locations_en.json public/data/locations_en.json
+          git add public/data/locations_en.json
           git diff --cached --quiet || git commit -m '⛵ auto-export: locations_en.json (Englisch)'
           git push
