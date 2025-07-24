@@ -152,5 +152,19 @@
     "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 91,
+    "name_en": "viewpoint",
+    "icon": "viewpoint",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 92,
+    "name_en": "travel_agency",
+    "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
   }
 ]
