@@ -59,9 +59,7 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
 
       - name: 🔄 Pull latest main before push
-        run: |
-          git pull origin main --rebase
-
+        
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions'
