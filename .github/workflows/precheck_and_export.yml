@@ -2,7 +2,7 @@ name: Validate and Export Wind2Horizon JSON
 
 on:
   workflow_dispatch:
-  
+
 permissions:
   actions: write
   contents: read
@@ -26,6 +26,9 @@ jobs:
 
       - name: 🔍 Validate location_values.json
         run: node ./precheck/precheck_location_values.js
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE: ${{ secrets.SUPABASE_SERVICE_ROLE }}
 
       - name: 🔍 Validate categories.json
         run: node ./precheck/precheck_categories.js
