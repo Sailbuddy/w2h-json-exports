@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const fetch = require('node-fetch'); // Falls du Node <18 nutzt
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 // Umgebungsvariablen für Supabase
 const SUPABASE_URL = process.env.SUPABASE_URL;
