@@ -1,13 +1,5 @@
 [
   {
-    "id": 85,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_fr": "Gasthaus Eichenheim",
-    "description_fr": null
-  },
-  {
     "id": 86,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -48,6 +40,14 @@
     "description_fr": null
   },
   {
+    "id": 632,
+    "wind2horizon_id": null,
+    "lat": 43.8191033,
+    "lng": 15.9189997,
+    "name_fr": "ACI Marina Skradin",
+    "description_fr": null
+  },
+  {
     "id": 93,
     "wind2horizon_id": null,
     "lat": 44.87322990000001,
@@ -56,9 +56,17 @@
     "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
   },
   {
+    "id": 85,
+    "wind2horizon_id": null,
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_fr": "Gasthaus Eichenheim",
+    "description_fr": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
-    "lat": 48.207521,
+    "lat": 48.20752099999999,
     "lng": 16.378672,
     "name_fr": "Plachutta Wollzeile",
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
@@ -88,6 +96,14 @@
     "description_fr": "Grand instrument de musique expérimental installé sous un escalier et actionné par les vagues."
   },
   {
+    "id": 629,
+    "wind2horizon_id": null,
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_fr": "ACI Marina Vodice",
+    "description_fr": null
+  },
+  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
@@ -100,24 +116,16 @@
     "wind2horizon_id": null,
     "lat": 44.8731915,
     "lng": 13.8450158,
-    "name_fr": "ACI marina Pula",
+    "name_fr": "ACI marina Pulj",
     "description_fr": null
   },
   {
-    "id": 629,
+    "id": 89,
     "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_fr": "ACI Marina Vodice",
-    "description_fr": null
-  },
-  {
-    "id": 630,
-    "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_fr": "Palermo Pizzeria",
-    "description_fr": null
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
   },
   {
     "id": 90,
@@ -126,14 +134,6 @@
     "lng": 16.3127641,
     "name_fr": "Château de Schönbrunn",
     "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
-  },
-  {
-    "id": 94,
-    "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_fr": "Skilift Porec",
-    "description_fr": null
   },
   {
     "id": 95,
@@ -149,30 +149,6 @@
     "lat": 47.8997807,
     "lng": 13.7583526,
     "name_fr": "Seefunkschule Adlmanninger",
-    "description_fr": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_fr": "Johannes Stadtapotheke",
-    "description_fr": null
-  },
-  {
-    "id": 517,
-    "wind2horizon_id": null,
-    "lat": 45.1493381,
-    "lng": 13.6038832,
-    "name_fr": "Studenac Market",
-    "description_fr": null
-  },
-  {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_fr": "JET Tankstelle",
     "description_fr": null
   },
   {
@@ -192,6 +168,46 @@
     "description_fr": null
   },
   {
+    "id": 630,
+    "wind2horizon_id": null,
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_fr": "Palermo Pizzeria",
+    "description_fr": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_fr": "Johannes Stadtapotheke",
+    "description_fr": null
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_fr": "JET Tankstelle",
+    "description_fr": null
+  },
+  {
+    "id": 517,
+    "wind2horizon_id": null,
+    "lat": 45.1493381,
+    "lng": 13.6038832,
+    "name_fr": "Studenac Market",
+    "description_fr": null
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_fr": "Skilift Porec",
+    "description_fr": null
+  },
+  {
     "id": 96,
     "wind2horizon_id": null,
     "lat": 47.8021621,
@@ -200,12 +216,20 @@
     "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
-    "id": 89,
+    "id": 586,
     "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+    "lat": 44.821828,
+    "lng": 13.9022051,
+    "name_fr": "ACI Marina Pomer",
+    "description_fr": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_fr": "ACI Marina Piskera",
+    "description_fr": null
   },
   {
     "id": 99,
@@ -226,17 +250,9 @@
   {
     "id": 515,
     "wind2horizon_id": null,
-    "lat": 45.1507961,
+    "lat": 45.15079610000001,
     "lng": 13.5994712,
     "name_fr": "Restoran “Trošt”",
-    "description_fr": null
-  },
-  {
-    "id": 586,
-    "wind2horizon_id": null,
-    "lat": 44.821828,
-    "lng": 13.9022051,
-    "name_fr": "ACI Marina Pomer",
     "description_fr": null
   }
 ]
