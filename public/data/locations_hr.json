@@ -40,6 +40,14 @@
     "description_hr": null
   },
   {
+    "id": 632,
+    "wind2horizon_id": null,
+    "lat": 43.8191033,
+    "lng": 15.9189997,
+    "name_hr": "ACI Marina Skradin",
+    "description_hr": null
+  },
+  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -237,6 +245,14 @@
     "lat": 44.821828,
     "lng": 13.9022051,
     "name_hr": "ACI Marina Pomer",
+    "description_hr": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_hr": "ACI Marina Piskera",
     "description_hr": null
   }
 ]
