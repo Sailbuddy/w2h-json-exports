@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 📦 Install node-fetch
+        run: npm install node-fetch
+
       - name: 🔍 Validate locations.json
         run: node ./precheck/precheck_locations.js
 
