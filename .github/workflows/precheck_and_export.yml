@@ -1,36 +1,53 @@
-name: 📤 Precheck + Export location_values
+name: Validate and Export Wind2Horizon JSON
 
 on:
   workflow_dispatch:
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
-  export-location-values:
+  validate:
+    name: ✅ Precheck All JSON Files
     runs-on: ubuntu-latest
-    env:
-      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-      SUPABASE_SERVICE_ROLE: ${{ secrets.SUPABASE_SERVICE_ROLE }}
+
     steps:
-      - name: 📥 Repository klonen
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: 🧰 Node installieren
-        uses: actions/setup-node@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '20'
 
-      - name: 📦 Abhängigkeiten installieren
-        run: npm install
+      - name: 📦 Install node-fetch
+        run: npm install node-fetch
 
-      - name: 🧪 Precheck location_values mit to_review-Flag
-        run: node tools/precheck_location_values.js
+      - name: 🔍 Validate locations.json
+        run: node ./precheck/precheck_locations.js
 
-      - name: 📤 Export location_values.json
-        run: node tools/export_location_values.js
+      - name: 🔍 Validate location_values.json
+        run: node ./precheck/precheck_location_values.js
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE: ${{ secrets.SUPABASE_SERVICE_ROLE }}
 
-      - name: 💾 Commit exportierte Datei
+      - name: 🔍 Validate categories.json
+        run: node ./precheck/precheck_categories.js
+
+  export:
+    name: 🚢 Run All Wind2Horizon Exports
+    runs-on: ubuntu-latest
+    needs: validate
+    if: success()
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Trigger Export Workflow
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@users.noreply.github.com"
-          git add public/data/location_values.json public/data/location_values_to_review.json || true
-          git commit -m "🚥 Export location_values.json + Review Check" || echo "Nothing to commit"
-          git push
+          gh workflow run run_all_exports.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
