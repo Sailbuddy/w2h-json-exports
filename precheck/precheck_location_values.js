@@ -7,7 +7,7 @@ const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 let hasError = false;
 
 data.forEach((item, index) => {
-  if (!item.id || !item.location_id || !item.language || !item.name) {
+  if (!item.id || !item.location_id || !item.language_code || !item.name) {
     console.error(`❌ Fehler bei Eintrag #${index + 1}:`, item);
     hasError = true;
   }
