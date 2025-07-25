@@ -1,13 +1,5 @@
 [
   {
-    "id": 86,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_hr": "Gut Berg Naturhotel",
-    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
-  },
-  {
     "id": 527,
     "wind2horizon_id": null,
     "lat": 45.075565,
@@ -22,6 +14,14 @@
     "lng": 13.5883683,
     "name_hr": "Villa Romana beach lounge & restaurant",
     "description_hr": null
+  },
+  {
+    "id": 86,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_hr": "Gut Berg Naturhotel",
+    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
     "id": 600,
@@ -48,6 +48,14 @@
     "description_hr": null
   },
   {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_hr": "Arena",
+    "description_hr": "Velik rimski amfiteatar ispod kojeg je izložba posvećena drevnoj proizvodnji maslinova ulja i vina."
+  },
+  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -56,12 +64,12 @@
     "description_hr": null
   },
   {
-    "id": 93,
+    "id": 665,
     "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_hr": "Arena",
-    "description_hr": "Velik rimski amfiteatar ispod kojeg je izložba posvećena drevnoj proizvodnji maslinova ulja i vina."
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_hr": "Blitvenica Lighthouse",
+    "description_hr": null
   },
   {
     "id": 88,
@@ -104,14 +112,6 @@
     "description_hr": null
   },
   {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_hr": "Schönbrunn",
-    "description_hr": "Ljetna palača iz 18. st. koja nudi obilazak bogatih ceremonijalnih soba u stilu rokokoa i vrtove s labirintom."
-  },
-  {
     "id": 517,
     "wind2horizon_id": null,
     "lat": 45.1493381,
@@ -128,6 +128,14 @@
     "description_hr": "Luksuzan smještaj u elitnom hotelu koji nudi dva vrhunska restorana, bar s terasom i spa s punom uslugom."
   },
   {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_hr": "Schönbrunn",
+    "description_hr": "Ljetna palača iz 18. st. koja nudi obilazak bogatih ceremonijalnih soba u stilu rokokoa i vrtove s labirintom."
+  },
+  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
@@ -141,6 +149,14 @@
     "lat": 44.8731915,
     "lng": 13.8450158,
     "name_hr": "ACI marina Pulj",
+    "description_hr": null
+  },
+  {
+    "id": 630,
+    "wind2horizon_id": null,
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_hr": "Palermo Pizzeria",
     "description_hr": null
   },
   {
@@ -165,14 +181,6 @@
     "lat": 44.8439116,
     "lng": 13.8452287,
     "name_hr": "Pitter d.o.o.",
-    "description_hr": null
-  },
-  {
-    "id": 630,
-    "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_hr": "Palermo Pizzeria",
     "description_hr": null
   },
   {
@@ -208,35 +216,11 @@
     "description_hr": null
   },
   {
-    "id": 99,
-    "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_hr": "Alpendorf Bergbahnen",
-    "description_hr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
-  },
-  {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_hr": "JET Tankstelle",
-    "description_hr": null
-  },
-  {
     "id": 95,
     "wind2horizon_id": null,
     "lat": 47.3089895,
     "lng": 13.0902492,
     "name_hr": "Golfclub Goldegg",
-    "description_hr": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_hr": "Johannes Stadtapotheke",
     "description_hr": null
   },
   {
@@ -248,11 +232,35 @@
     "description_hr": "Popularno skijaško odmaralište s brojnim zahtjevnim spustovima za skijanje i daskanje na snijegu."
   },
   {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_hr": "Johannes Stadtapotheke",
+    "description_hr": null
+  },
+  {
     "id": 515,
     "wind2horizon_id": null,
     "lat": 45.15079610000001,
     "lng": 13.5994712,
     "name_hr": "Restoran “Trošt”",
     "description_hr": null
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_hr": "JET Tankstelle",
+    "description_hr": null
+  },
+  {
+    "id": 99,
+    "wind2horizon_id": null,
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_hr": "Alpendorf Bergbahnen",
+    "description_hr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   }
 ]
