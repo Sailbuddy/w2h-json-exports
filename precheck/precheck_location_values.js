@@ -7,8 +7,26 @@ const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 let hasError = false;
 
 data.forEach((item, index) => {
-  if (!item.id || !item.location_id || !item.language_code || !item.name) {
-    console.error(`❌ Fehler bei Eintrag #${index + 1}:`, item);
+  const errors = [];
+
+  if (!item.id) errors.push('Fehlende ID');
+  if (!item.location_id) errors.push('Fehlende Location-ID');
+  if (!item.language_code) errors.push('Fehlender language_code');
+  // Optional: item.name darf null sein
+  // if (!item.name) errors.push('Fehlender Name');
+
+  const hasValue =
+    item.value_text !== null ||
+    item.value_number !== null ||
+    item.value_bool !== null ||
+    item.value_option !== null ||
+    item.value_json !== null;
+
+  if (!hasValue) errors.push('Kein Wert angegeben (alle value_* Felder sind null)');
+
+  if (errors.length > 0) {
+    console.error(`❌ Fehler bei Eintrag #${index + 1}: ${errors.join(', ')}`);
+    console.error(item);
     hasError = true;
   }
 });
