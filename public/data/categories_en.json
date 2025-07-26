@@ -1,12 +1,5 @@
 [
   {
-    "id": 2,
-    "name_en": "Media",
-    "icon": "🖼️",
-    "sort_order": 20,
-    "active": true
-  },
-  {
     "id": 20,
     "name_en": "tourist_attraction",
     "icon": "tourist_attraction",
@@ -164,6 +157,27 @@
     "id": 92,
     "name_en": "travel_agency",
     "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 1,
+    "name_en": "Undefined",
+    "icon": "❓",
+    "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_en": "Media",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
+  },
+  {
+    "id": 93,
+    "name_en": "premise",
+    "icon": "premise",
     "sort_order": 9999,
     "active": true
   }
