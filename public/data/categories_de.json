@@ -1,12 +1,5 @@
 [
   {
-    "id": 2,
-    "name_de": "Medien",
-    "icon": "🖼️",
-    "sort_order": 20,
-    "active": true
-  },
-  {
     "id": 20,
     "name_de": "Touristenattraktion",
     "icon": "tourist_attraction",
@@ -164,6 +157,27 @@
     "id": 92,
     "name_de": "Reisebüro",
     "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 1,
+    "name_de": "Unbestimmt",
+    "icon": "❓",
+    "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_de": "Medien",
+    "icon": "🖼️",
+    "sort_order": 20,
+    "active": true
+  },
+  {
+    "id": 93,
+    "name_de": "Prämisse",
+    "icon": "premise",
     "sort_order": 9999,
     "active": true
   }
