@@ -16,12 +16,12 @@
     "description_en": null
   },
   {
-    "id": 85,
+    "id": 86,
     "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_en": "Gasthaus Eichenheim",
-    "description_en": null
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_en": "Gut Berg Naturhotel",
+    "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
     "id": 600,
@@ -40,11 +40,11 @@
     "description_en": null
   },
   {
-    "id": 87,
+    "id": 85,
     "wind2horizon_id": null,
-    "lat": 47.3475428,
-    "lng": 13.20184,
-    "name_en": "sehen!wutscher",
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_en": "Gasthaus Eichenheim",
     "description_en": null
   },
   {
@@ -56,12 +56,20 @@
     "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
   },
   {
-    "id": 86,
+    "id": 87,
     "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_en": "Gut Berg Naturhotel",
-    "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+    "lat": 47.3475428,
+    "lng": 13.20184,
+    "name_en": "sehen!wutscher",
+    "description_en": null
+  },
+  {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_en": "Blitvenica Lighthouse",
+    "description_en": null
   },
   {
     "id": 88,
@@ -104,6 +112,14 @@
     "description_en": null
   },
   {
+    "id": 517,
+    "wind2horizon_id": null,
+    "lat": 45.1493381,
+    "lng": 13.6038832,
+    "name_en": "Studenac Market",
+    "description_en": null
+  },
+  {
     "id": 89,
     "wind2horizon_id": null,
     "lat": 48.2040009,
@@ -118,14 +134,6 @@
     "lng": 16.3127641,
     "name_en": "Schönbrunn Palace",
     "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
-  },
-  {
-    "id": 517,
-    "wind2horizon_id": null,
-    "lat": 45.1493381,
-    "lng": 13.6038832,
-    "name_en": "Studenac Market",
-    "description_en": null
   },
   {
     "id": 508,
@@ -208,14 +216,6 @@
     "description_en": null
   },
   {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_en": "Johannes Stadtapotheke",
-    "description_en": null
-  },
-  {
     "id": 95,
     "wind2horizon_id": null,
     "lat": 47.3089895,
@@ -230,6 +230,14 @@
     "lng": 12.3892092,
     "name_en": "Bergbahn AG Kitzbühel - KitzSki",
     "description_en": "Popular ski resort featuring a wide variety of challenging skiing & snowboarding slopes."
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_en": "Johannes Stadtapotheke",
+    "description_en": null
   },
   {
     "id": 515,
