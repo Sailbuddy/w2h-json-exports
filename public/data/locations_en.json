@@ -1,37 +1,5 @@
 [
   {
-    "id": 527,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_en": "ACI Marina Rovinj",
-    "description_en": null
-  },
-  {
-    "id": 600,
-    "wind2horizon_id": null,
-    "lat": 44.9495486,
-    "lng": 14.4158599,
-    "name_en": "Apartment ACI Marina CRES",
-    "description_en": null
-  },
-  {
-    "id": 632,
-    "wind2horizon_id": null,
-    "lat": 43.8191033,
-    "lng": 15.9189997,
-    "name_en": "ACI Marina Skradin",
-    "description_en": null
-  },
-  {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_en": "Pula Arena",
-    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
-  },
-  {
     "id": 85,
     "wind2horizon_id": null,
     "lat": 47.4255636,
@@ -56,12 +24,44 @@
     "description_en": null
   },
   {
+    "id": 632,
+    "wind2horizon_id": null,
+    "lat": 43.8191033,
+    "lng": 15.9189997,
+    "name_en": "ACI Marina Skradin",
+    "description_en": null
+  },
+  {
     "id": 427,
     "wind2horizon_id": null,
     "lat": 45.2025388,
     "lng": 13.5883683,
     "name_en": "Villa Romana beach lounge & restaurant",
     "description_en": null
+  },
+  {
+    "id": 527,
+    "wind2horizon_id": null,
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_en": "ACI Marina Rovinj",
+    "description_en": null
+  },
+  {
+    "id": 600,
+    "wind2horizon_id": null,
+    "lat": 44.9495486,
+    "lng": 14.4158599,
+    "name_en": "Apartment ACI Marina CRES",
+    "description_en": null
+  },
+  {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_en": "Pula Arena",
+    "description_en": "Huge Roman amphitheater with an underground exhibition about ancient olive oil & wine production."
   },
   {
     "id": 88,
@@ -96,12 +96,20 @@
     "description_en": null
   },
   {
-    "id": 628,
+    "id": 89,
     "wind2horizon_id": null,
-    "lat": 44.11722,
-    "lng": 15.2199087,
-    "name_en": "Sea Organ",
-    "description_en": "Large experimental musical instrument mounted beneath a staircase & played by the waves on the sea."
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_en": "Hotel Sacher Vienna",
+    "description_en": "Elegant quarters in a ornate hotel with 2 refined restaurants, a terrace bar & a full-service spa."
+  },
+  {
+    "id": 517,
+    "wind2horizon_id": null,
+    "lat": 45.1493381,
+    "lng": 13.6038832,
+    "name_en": "Studenac Market",
+    "description_en": null
   },
   {
     "id": 90,
@@ -120,22 +128,6 @@
     "description_en": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
   },
   {
-    "id": 517,
-    "wind2horizon_id": null,
-    "lat": 45.1493381,
-    "lng": 13.6038832,
-    "name_en": "Studenac Market",
-    "description_en": null
-  },
-  {
-    "id": 629,
-    "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_en": "ACI Marina Vodice",
-    "description_en": null
-  },
-  {
     "id": 561,
     "wind2horizon_id": null,
     "lat": 44.8731915,
@@ -144,27 +136,19 @@
     "description_en": null
   },
   {
-    "id": 89,
+    "id": 628,
     "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_en": "Hotel Sacher Vienna",
-    "description_en": "Elegant quarters in a ornate hotel with 2 refined restaurants, a terrace bar & a full-service spa."
+    "lat": 44.11722,
+    "lng": 15.2199087,
+    "name_en": "Sea Organ",
+    "description_en": "Large experimental musical instrument mounted beneath a staircase & played by the waves on the sea."
   },
   {
-    "id": 97,
+    "id": 629,
     "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_en": "Seefunkschule Adlmanninger",
-    "description_en": null
-  },
-  {
-    "id": 516,
-    "wind2horizon_id": null,
-    "lat": 45.1508499,
-    "lng": 13.5999246,
-    "name_en": "Electric Vehicle Charging Station",
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_en": "ACI Marina Vodice",
     "description_en": null
   },
   {
@@ -184,6 +168,22 @@
     "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
   },
   {
+    "id": 97,
+    "wind2horizon_id": null,
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_en": "Seefunkschule Adlmanninger",
+    "description_en": null
+  },
+  {
+    "id": 516,
+    "wind2horizon_id": null,
+    "lat": 45.1508499,
+    "lng": 13.5999246,
+    "name_en": "Electric Vehicle Charging Station",
+    "description_en": null
+  },
+  {
     "id": 573,
     "wind2horizon_id": null,
     "lat": 44.8439116,
@@ -198,30 +198,6 @@
     "lng": 13.1608855,
     "name_en": "Palermo Pizzeria",
     "description_en": null
-  },
-  {
-    "id": 631,
-    "wind2horizon_id": null,
-    "lat": 43.7585415,
-    "lng": 15.3460817,
-    "name_en": "ACI Marina Piskera",
-    "description_en": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_en": "Johannes Stadtapotheke",
-    "description_en": null
-  },
-  {
-    "id": 99,
-    "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
-    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   },
   {
     "id": 100,
@@ -248,6 +224,14 @@
     "description_en": null
   },
   {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_en": "ACI Marina Piskera",
+    "description_en": null
+  },
+  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
@@ -262,5 +246,21 @@
     "lng": 13.0902492,
     "name_en": "Golfclub Goldegg",
     "description_en": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_en": "Johannes Stadtapotheke",
+    "description_en": null
+  },
+  {
+    "id": 99,
+    "wind2horizon_id": null,
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
+    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   }
 ]
