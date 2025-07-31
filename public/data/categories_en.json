@@ -180,5 +180,12 @@
     "icon": "premise",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 94,
+    "name_en": "street_address",
+    "icon": "street_address",
+    "sort_order": 9999,
+    "active": true
   }
 ]
