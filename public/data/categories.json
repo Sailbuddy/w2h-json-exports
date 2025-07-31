@@ -362,5 +362,33 @@
     "google_cat_id": "premise",
     "name_fr": "Prémisse",
     "is_manual": false
+  },
+  {
+    "id": 94,
+    "created_at": "2025-07-30T03:43:05.184827+00:00",
+    "name_de": "Straßenadresse",
+    "name_en": "street_address",
+    "name_it": "indirizzo",
+    "name_hr": "ulična adresa",
+    "icon": "street_address",
+    "active": true,
+    "sort_order": 9999,
+    "google_cat_id": "street_address",
+    "name_fr": "adresse de rue",
+    "is_manual": false
+  },
+  {
+    "id": 95,
+    "created_at": "2025-07-31T15:14:12.960524+00:00",
+    "name_de": "Naturmerkmal",
+    "name_en": "natural_feature",
+    "name_it": "Caratteristica naturale",
+    "name_hr": "Prirodna značajka",
+    "icon": "natural_feature",
+    "active": true,
+    "sort_order": 9999,
+    "google_cat_id": "natural_feature",
+    "name_fr": "Caractéristique naturelle",
+    "is_manual": false
   }
 ]
