@@ -8,6 +8,14 @@
     "description_fr": null
   },
   {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_fr": "Amphithéâtre de Pula",
+    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
+  },
+  {
     "id": 427,
     "wind2horizon_id": null,
     "lat": 45.2025388,
@@ -38,14 +46,6 @@
     "lng": 15.9189997,
     "name_fr": "ACI Marina Skradin",
     "description_fr": null
-  },
-  {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_fr": "Amphithéâtre de Pula",
-    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
   },
   {
     "id": 85,
@@ -96,12 +96,12 @@
     "description_fr": null
   },
   {
-    "id": 628,
+    "id": 508,
     "wind2horizon_id": null,
-    "lat": 44.11722,
-    "lng": 15.2199087,
-    "name_fr": "Orgue Marin",
-    "description_fr": "Grand instrument de musique expérimental installé sous un escalier et actionné par les vagues."
+    "lat": 45.1505492,
+    "lng": 13.6052522,
+    "name_fr": "Viewpoint Casanova",
+    "description_fr": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
   },
   {
     "id": 90,
@@ -112,6 +112,14 @@
     "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
   },
   {
+    "id": 628,
+    "wind2horizon_id": null,
+    "lat": 44.11722,
+    "lng": 15.2199087,
+    "name_fr": "Orgue Marin",
+    "description_fr": "Grand instrument de musique expérimental installé sous un escalier et actionné par les vagues."
+  },
+  {
     "id": 629,
     "wind2horizon_id": null,
     "lat": 43.7575498,
@@ -120,12 +128,28 @@
     "description_fr": null
   },
   {
-    "id": 508,
+    "id": 899,
     "wind2horizon_id": null,
-    "lat": 45.1505492,
-    "lng": 13.6052522,
-    "name_fr": "Viewpoint Casanova",
-    "description_fr": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_fr": "Sveti Andrija",
+    "description_fr": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+  },
+  {
+    "id": 100,
+    "wind2horizon_id": null,
+    "lat": 47.4430868,
+    "lng": 12.3892092,
+    "name_fr": "Bergbahn AG Kitzbühel - KitzSki",
+    "description_fr": "Station de ski très fréquentée offrant une grande diversité de pistes difficiles de ski et de snowboard."
   },
   {
     "id": 517,
@@ -141,22 +165,6 @@
     "lat": 44.8731915,
     "lng": 13.8450158,
     "name_fr": "ACI marina Pula",
-    "description_fr": null
-  },
-  {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
-  },
-  {
-    "id": 97,
-    "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_fr": "Seefunkschule Adlmanninger",
     "description_fr": null
   },
   {
@@ -176,6 +184,14 @@
     "description_fr": null
   },
   {
+    "id": 630,
+    "wind2horizon_id": null,
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_fr": "Palermo Pizzeria",
+    "description_fr": null
+  },
+  {
     "id": 94,
     "wind2horizon_id": null,
     "lat": 45.2038392,
@@ -192,19 +208,11 @@
     "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
-    "id": 630,
+    "id": 97,
     "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_fr": "Palermo Pizzeria",
-    "description_fr": null
-  },
-  {
-    "id": 631,
-    "wind2horizon_id": null,
-    "lat": 43.7585415,
-    "lng": 15.3460817,
-    "name_fr": "ACI Marina Piskera",
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_fr": "Seefunkschule Adlmanninger",
     "description_fr": null
   },
   {
@@ -224,14 +232,6 @@
     "description_fr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   },
   {
-    "id": 100,
-    "wind2horizon_id": null,
-    "lat": 47.4430868,
-    "lng": 12.3892092,
-    "name_fr": "Bergbahn AG Kitzbühel - KitzSki",
-    "description_fr": "Station de ski très fréquentée offrant une grande diversité de pistes difficiles de ski et de snowboard."
-  },
-  {
     "id": 515,
     "wind2horizon_id": null,
     "lat": 45.1507961,
@@ -245,6 +245,14 @@
     "lat": 44.821828,
     "lng": 13.9022051,
     "name_fr": "ACI Marina Pomer",
+    "description_fr": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_fr": "ACI Marina Piskera",
     "description_fr": null
   },
   {
@@ -262,5 +270,13 @@
     "lng": 13.0902492,
     "name_fr": "Golfclub Goldegg",
     "description_fr": null
+  },
+  {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_fr": "Maistra Select Island Hotel Istra",
+    "description_fr": "Complexe raffiné sur île isolée avec 5 restaurants, spa moderne et plages privées."
   }
 ]
