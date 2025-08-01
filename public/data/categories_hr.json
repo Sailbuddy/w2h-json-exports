@@ -187,5 +187,12 @@
     "icon": "street_address",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 95,
+    "name_hr": "Prirodna značajka",
+    "icon": "natural_feature",
+    "sort_order": 9999,
+    "active": true
   }
 ]
