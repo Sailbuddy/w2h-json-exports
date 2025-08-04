@@ -1,26 +1,10 @@
 [
   {
-    "id": 427,
-    "wind2horizon_id": null,
-    "lat": 45.2025388,
-    "lng": 13.5883683,
-    "name_en": "Villa Romana beach lounge & restaurant",
-    "description_en": null
-  },
-  {
     "id": 527,
     "wind2horizon_id": null,
     "lat": 45.075565,
     "lng": 13.636093,
     "name_en": "ACI Marina Rovinj",
-    "description_en": null
-  },
-  {
-    "id": 600,
-    "wind2horizon_id": null,
-    "lat": 44.9495486,
-    "lng": 14.4158599,
-    "name_en": "Apartment ACI Marina CRES",
     "description_en": null
   },
   {
@@ -48,6 +32,14 @@
     "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
+    "id": 600,
+    "wind2horizon_id": null,
+    "lat": 44.9495486,
+    "lng": 14.4158599,
+    "name_en": "Apartment ACI Marina CRES",
+    "description_en": null
+  },
+  {
     "id": 632,
     "wind2horizon_id": null,
     "lat": 43.81910329999999,
@@ -61,6 +53,14 @@
     "lat": 47.3475428,
     "lng": 13.20184,
     "name_en": "sehen!wutscher",
+    "description_en": null
+  },
+  {
+    "id": 427,
+    "wind2horizon_id": null,
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_en": "Villa Romana beach lounge & restaurant",
     "description_en": null
   },
   {
@@ -96,22 +96,6 @@
     "description_en": null
   },
   {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_en": "Schönbrunn Palace",
-    "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
-  },
-  {
-    "id": 629,
-    "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_en": "ACI Marina Vodice",
-    "description_en": null
-  },
-  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
@@ -128,6 +112,22 @@
     "description_en": "Elegant quarters in a ornate hotel with 2 refined restaurants, a terrace bar & a full-service spa."
   },
   {
+    "id": 629,
+    "wind2horizon_id": null,
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_en": "ACI Marina Vodice",
+    "description_en": null
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_en": "Schönbrunn Palace",
+    "description_en": "18th-century summer palace with tours of lavish rococo ceremonial rooms, plus gardens with a maze."
+  },
+  {
     "id": 100,
     "wind2horizon_id": null,
     "lat": 47.4430868,
@@ -136,19 +136,27 @@
     "description_en": "Popular ski resort featuring a wide variety of challenging skiing & snowboarding slopes."
   },
   {
-    "id": 517,
-    "wind2horizon_id": null,
-    "lat": 45.1493381,
-    "lng": 13.6038832,
-    "name_en": "Studenac Market",
-    "description_en": null
-  },
-  {
     "id": 561,
     "wind2horizon_id": null,
     "lat": 44.8731915,
     "lng": 13.8450158,
     "name_en": "ACI marina Pula",
+    "description_en": null
+  },
+  {
+    "id": 899,
+    "wind2horizon_id": null,
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_en": "Sveti Andrija",
+    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 517,
+    "wind2horizon_id": null,
+    "lat": 45.1493381,
+    "lng": 13.6038832,
+    "name_en": "Studenac Market",
     "description_en": null
   },
   {
@@ -160,12 +168,12 @@
     "description_en": "Large experimental musical instrument mounted beneath a staircase & played by the waves on the sea."
   },
   {
-    "id": 899,
+    "id": 630,
     "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_en": "Sveti Andrija",
-    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_en": "Palermo Pizzeria",
+    "description_en": null
   },
   {
     "id": 94,
@@ -208,38 +216,6 @@
     "description_en": null
   },
   {
-    "id": 630,
-    "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_en": "Palermo Pizzeria",
-    "description_en": null
-  },
-  {
-    "id": 95,
-    "wind2horizon_id": null,
-    "lat": 47.3089895,
-    "lng": 13.0902492,
-    "name_en": "Golfclub Goldegg",
-    "description_en": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_en": "Johannes Stadtapotheke",
-    "description_en": null
-  },
-  {
-    "id": 99,
-    "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
-    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
-  },
-  {
     "id": 515,
     "wind2horizon_id": null,
     "lat": 45.1507961,
@@ -270,6 +246,30 @@
     "lng": 13.1940298,
     "name_en": "JET Tankstelle",
     "description_en": null
+  },
+  {
+    "id": 95,
+    "wind2horizon_id": null,
+    "lat": 47.3089895,
+    "lng": 13.0902492,
+    "name_en": "Golfclub Goldegg",
+    "description_en": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_en": "Johannes Stadtapotheke",
+    "description_en": null
+  },
+  {
+    "id": 99,
+    "wind2horizon_id": null,
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
+    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   },
   {
     "id": 865,
