@@ -104,12 +104,12 @@
     "description_fr": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
   },
   {
-    "id": 89,
+    "id": 90,
     "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_fr": "Château de Schönbrunn",
+    "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
   },
   {
     "id": 629,
@@ -118,14 +118,6 @@
     "lng": 15.7800631,
     "name_fr": "ACI Marina Vodice",
     "description_fr": null
-  },
-  {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_fr": "Château de Schönbrunn",
-    "description_fr": "Palais d'été du XVIIIe avec visites des somptueuses salles de cérémonie rococo et jardins avec labyrinthe."
   },
   {
     "id": 100,
@@ -150,6 +142,14 @@
     "lng": 13.6237276,
     "name_fr": "Sveti Andrija",
     "description_fr": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
   },
   {
     "id": 517,
