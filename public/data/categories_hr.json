@@ -133,13 +133,6 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_hr": "trgovina prehrambenim proizvodima ili supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 90,
     "name_hr": "ljekarna",
     "icon": "pharmacy",
@@ -150,6 +143,13 @@
     "id": 91,
     "name_hr": "vidikovac",
     "icon": "viewpoint",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 89,
+    "name_hr": "trgovina prehrambenim proizvodima ili supermarket",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
