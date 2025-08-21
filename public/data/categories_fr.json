@@ -133,13 +133,6 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 90,
     "name_fr": "pharmacie",
     "icon": "pharmacy",
@@ -150,6 +143,13 @@
     "id": 91,
     "name_fr": "point de vue",
     "icon": "viewpoint",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 89,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
