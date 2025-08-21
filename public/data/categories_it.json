@@ -133,13 +133,6 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_it": "negozio di alimentari o supermercato",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 90,
     "name_it": "farmacia",
     "icon": "pharmacy",
@@ -150,6 +143,13 @@
     "id": 91,
     "name_it": "belvedere",
     "icon": "viewpoint",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 89,
+    "name_it": "negozio di alimentari o supermercato",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
