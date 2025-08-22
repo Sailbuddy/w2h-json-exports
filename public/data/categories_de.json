@@ -1,5 +1,12 @@
 [
   {
+    "id": 22,
+    "name_de": "Sehenswürdigkeit",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 20,
     "name_de": "Touristenattraktion",
     "icon": "tourist_attraction",
@@ -10,20 +17,6 @@
     "id": 21,
     "name_de": "Park",
     "icon": "park",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 22,
-    "name_de": "Sehenswürdigkeit",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 23,
-    "name_de": "Einrichtung",
-    "icon": "establishment",
     "sort_order": 9999,
     "active": true
   },
@@ -42,13 +35,6 @@
     "active": true
   },
   {
-    "id": 26,
-    "name_de": "Wahrzeichen",
-    "icon": "landmark",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 27,
     "name_de": "Restaurant",
     "icon": "restaurant",
@@ -56,16 +42,37 @@
     "active": true
   },
   {
-    "id": 28,
-    "name_de": "Essen",
-    "icon": "food",
+    "id": 29,
+    "name_de": "Bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 29,
-    "name_de": "Bar",
-    "icon": "bar",
+    "id": 88,
+    "name_de": "Supermarkt",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 23,
+    "name_de": "Einrichtung",
+    "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 26,
+    "name_de": "Wahrzeichen",
+    "icon": "landmark",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 28,
+    "name_de": "Essen",
+    "icon": "food",
     "sort_order": 9999,
     "active": true
   },
@@ -122,13 +129,6 @@
     "id": 87,
     "name_de": "Tankstelle",
     "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 88,
-    "name_de": "Supermarkt",
-    "icon": "supermarket",
     "sort_order": 9999,
     "active": true
   },
