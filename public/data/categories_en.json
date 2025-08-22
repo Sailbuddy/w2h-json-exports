@@ -1,5 +1,12 @@
 [
   {
+    "id": 22,
+    "name_en": "point_of_interest",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 20,
     "name_en": "tourist_attraction",
     "icon": "tourist_attraction",
@@ -10,20 +17,6 @@
     "id": 21,
     "name_en": "park",
     "icon": "park",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 22,
-    "name_en": "point_of_interest",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 23,
-    "name_en": "establishment",
-    "icon": "establishment",
     "sort_order": 9999,
     "active": true
   },
@@ -42,13 +35,6 @@
     "active": true
   },
   {
-    "id": 26,
-    "name_en": "landmark",
-    "icon": "landmark",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 27,
     "name_en": "restaurant",
     "icon": "restaurant",
@@ -56,16 +42,37 @@
     "active": true
   },
   {
-    "id": 28,
-    "name_en": "food",
-    "icon": "food",
+    "id": 29,
+    "name_en": "bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 29,
-    "name_en": "bar",
-    "icon": "bar",
+    "id": 88,
+    "name_en": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 23,
+    "name_en": "establishment",
+    "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 26,
+    "name_en": "landmark",
+    "icon": "landmark",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 28,
+    "name_en": "food",
+    "icon": "food",
     "sort_order": 9999,
     "active": true
   },
@@ -122,13 +129,6 @@
     "id": 87,
     "name_en": "gas_station",
     "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 88,
-    "name_en": "supermarket",
-    "icon": "supermarket",
     "sort_order": 9999,
     "active": true
   },
