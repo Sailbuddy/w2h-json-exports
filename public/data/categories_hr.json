@@ -1,5 +1,12 @@
 [
   {
+    "id": 22,
+    "name_hr": "Zanimljivo mjesto",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 20,
     "name_hr": "turistička atrakcija",
     "icon": "tourist_attraction",
@@ -10,20 +17,6 @@
     "id": 21,
     "name_hr": "Park",
     "icon": "park",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 22,
-    "name_hr": "Zanimljivo mjesto",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 23,
-    "name_hr": "ustanova",
-    "icon": "establishment",
     "sort_order": 9999,
     "active": true
   },
@@ -42,13 +35,6 @@
     "active": true
   },
   {
-    "id": 26,
-    "name_hr": "orijentir",
-    "icon": "landmark",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 27,
     "name_hr": "Restoran",
     "icon": "restaurant",
@@ -56,16 +42,37 @@
     "active": true
   },
   {
-    "id": 28,
-    "name_hr": "hrana",
-    "icon": "food",
+    "id": 29,
+    "name_hr": "Bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 29,
-    "name_hr": "Bar",
-    "icon": "bar",
+    "id": 88,
+    "name_hr": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 23,
+    "name_hr": "ustanova",
+    "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 26,
+    "name_hr": "orijentir",
+    "icon": "landmark",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 28,
+    "name_hr": "hrana",
+    "icon": "food",
     "sort_order": 9999,
     "active": true
   },
@@ -122,13 +129,6 @@
     "id": 87,
     "name_hr": "benzinska postaja",
     "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 88,
-    "name_hr": "supermarket",
-    "icon": "supermarket",
     "sort_order": 9999,
     "active": true
   },
