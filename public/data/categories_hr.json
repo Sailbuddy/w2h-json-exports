@@ -1,22 +1,8 @@
 [
   {
-    "id": 22,
-    "name_hr": "Zanimljivo mjesto",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 20,
     "name_hr": "turistička atrakcija",
     "icon": "tourist_attraction",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 21,
-    "name_hr": "Park",
-    "icon": "park",
     "sort_order": 9999,
     "active": true
   },
@@ -28,6 +14,20 @@
     "active": true
   },
   {
+    "id": 22,
+    "name_hr": "Zanimljivo mjesto",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 21,
+    "name_hr": "Park",
+    "icon": "park",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 25,
     "name_hr": "smještaj",
     "icon": "lodging",
@@ -35,16 +35,9 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_hr": "Restoran",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 29,
-    "name_hr": "Bar",
-    "icon": "bar",
+    "id": 90,
+    "name_hr": "ljekarna",
+    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -52,6 +45,20 @@
     "id": 88,
     "name_hr": "supermarket",
     "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 35,
+    "name_hr": "Trgovina",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 29,
+    "name_hr": "Bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
@@ -98,13 +105,6 @@
     "active": true
   },
   {
-    "id": 33,
-    "name_hr": "Zdravlje",
-    "icon": "health",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 34,
     "name_hr": "prodavač automobila",
     "icon": "car_dealer",
@@ -112,30 +112,9 @@
     "active": true
   },
   {
-    "id": 35,
-    "name_hr": "Trgovina",
-    "icon": "store",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 36,
     "name_hr": "Popravak automobila",
     "icon": "car_repair",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 87,
-    "name_hr": "benzinska postaja",
-    "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 90,
-    "name_hr": "ljekarna",
-    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -150,13 +129,6 @@
     "id": 89,
     "name_hr": "trgovina prehrambenim proizvodima ili supermarket",
     "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 92,
-    "name_hr": "Putnička agencija",
-    "icon": "travel_agency",
     "sort_order": 9999,
     "active": true
   },
@@ -189,9 +161,37 @@
     "active": true
   },
   {
+    "id": 27,
+    "name_hr": "Restoran",
+    "icon": "restaurant",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 95,
     "name_hr": "Prirodna značajka",
     "icon": "natural_feature",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 87,
+    "name_hr": "benzinska postaja",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 92,
+    "name_hr": "Putnička agencija",
+    "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 33,
+    "name_hr": "Zdravlje",
+    "icon": "health",
     "sort_order": 9999,
     "active": true
   }
