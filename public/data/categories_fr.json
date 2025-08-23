@@ -1,22 +1,8 @@
 [
   {
-    "id": 22,
-    "name_fr": "Point d'intérêt",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 20,
     "name_fr": "attraction touristique",
     "icon": "tourist_attraction",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 21,
-    "name_fr": "Parc",
-    "icon": "park",
     "sort_order": 9999,
     "active": true
   },
@@ -28,6 +14,20 @@
     "active": true
   },
   {
+    "id": 22,
+    "name_fr": "Point d'intérêt",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 21,
+    "name_fr": "Parc",
+    "icon": "park",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 25,
     "name_fr": "logement",
     "icon": "lodging",
@@ -35,16 +35,9 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_fr": "Restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 29,
-    "name_fr": "Bar",
-    "icon": "bar",
+    "id": 90,
+    "name_fr": "pharmacie",
+    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -52,6 +45,20 @@
     "id": 88,
     "name_fr": "supermarché",
     "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 35,
+    "name_fr": "Magasin",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 29,
+    "name_fr": "Bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
@@ -98,13 +105,6 @@
     "active": true
   },
   {
-    "id": 33,
-    "name_fr": "Santé",
-    "icon": "health",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 34,
     "name_fr": "concessionnaire automobile",
     "icon": "car_dealer",
@@ -112,30 +112,9 @@
     "active": true
   },
   {
-    "id": 35,
-    "name_fr": "Magasin",
-    "icon": "store",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 36,
     "name_fr": "Réparation de voiture",
     "icon": "car_repair",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 87,
-    "name_fr": "station-service",
-    "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 90,
-    "name_fr": "pharmacie",
-    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -150,13 +129,6 @@
     "id": 89,
     "name_fr": "épicerie ou supermarché",
     "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 92,
-    "name_fr": "Agence de voyage",
-    "icon": "travel_agency",
     "sort_order": 9999,
     "active": true
   },
@@ -189,9 +161,86 @@
     "active": true
   },
   {
+    "id": 27,
+    "name_fr": "Restaurant",
+    "icon": "restaurant",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 95,
     "name_fr": "Caractéristique naturelle",
     "icon": "natural_feature",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 87,
+    "name_fr": "station-service",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 92,
+    "name_fr": "Agence de voyage",
+    "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 33,
+    "name_fr": "Santé",
+    "icon": "health",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 96,
+    "name_fr": "Point d'intérêt",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 97,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 98,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 99,
+    "name_fr": "supermarché",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 100,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 101,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 102,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
   }
