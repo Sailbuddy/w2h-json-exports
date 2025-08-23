@@ -1,22 +1,8 @@
 [
   {
-    "id": 22,
-    "name_en": "point_of_interest",
-    "icon": "point_of_interest",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 20,
     "name_en": "tourist_attraction",
     "icon": "tourist_attraction",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 21,
-    "name_en": "park",
-    "icon": "park",
     "sort_order": 9999,
     "active": true
   },
@@ -28,6 +14,20 @@
     "active": true
   },
   {
+    "id": 22,
+    "name_en": "point_of_interest",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 21,
+    "name_en": "park",
+    "icon": "park",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 25,
     "name_en": "lodging",
     "icon": "lodging",
@@ -35,16 +35,9 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_en": "restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 29,
-    "name_en": "bar",
-    "icon": "bar",
+    "id": 90,
+    "name_en": "pharmacy",
+    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -52,6 +45,20 @@
     "id": 88,
     "name_en": "supermarket",
     "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 35,
+    "name_en": "store",
+    "icon": "store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 29,
+    "name_en": "bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
@@ -98,13 +105,6 @@
     "active": true
   },
   {
-    "id": 33,
-    "name_en": "health",
-    "icon": "health",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 34,
     "name_en": "car_dealer",
     "icon": "car_dealer",
@@ -112,30 +112,9 @@
     "active": true
   },
   {
-    "id": 35,
-    "name_en": "store",
-    "icon": "store",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 36,
     "name_en": "car_repair",
     "icon": "car_repair",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 87,
-    "name_en": "gas_station",
-    "icon": "gas_station",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 90,
-    "name_en": "pharmacy",
-    "icon": "pharmacy",
     "sort_order": 9999,
     "active": true
   },
@@ -150,13 +129,6 @@
     "id": 89,
     "name_en": "grocery_or_supermarket",
     "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 92,
-    "name_en": "travel_agency",
-    "icon": "travel_agency",
     "sort_order": 9999,
     "active": true
   },
@@ -189,9 +161,37 @@
     "active": true
   },
   {
+    "id": 27,
+    "name_en": "restaurant",
+    "icon": "restaurant",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 95,
     "name_en": "natural_feature",
     "icon": "natural_feature",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 87,
+    "name_en": "gas_station",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 92,
+    "name_en": "travel_agency",
+    "icon": "travel_agency",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 33,
+    "name_en": "health",
+    "icon": "health",
     "sort_order": 9999,
     "active": true
   }
