@@ -194,5 +194,68 @@
     "icon": "health",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 96,
+    "name_hr": "Zanimljivo mjesto",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 97,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 98,
+    "name_hr": "trgovina prehrambenih proizvoda ili supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 99,
+    "name_hr": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 100,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 101,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 102,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 103,
+    "name_hr": "trgovina prehrambenih proizvoda ili supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 104,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
   }
 ]
