@@ -194,5 +194,68 @@
     "icon": "health",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 96,
+    "name_en": "point_of_interest",
+    "icon": "point_of_interest",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 97,
+    "name_en": "tourist_attraction",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 98,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 99,
+    "name_en": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 100,
+    "name_en": "tourist_attraction",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 101,
+    "name_en": "tourist_attraction",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 102,
+    "name_en": "tourist_attraction",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 103,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 104,
+    "name_en": "tourist_attraction",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
   }
 ]
