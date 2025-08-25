@@ -161,6 +161,13 @@
     "active": true
   },
   {
+    "id": 116,
+    "name_de": "Touristenattraktion",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 27,
     "name_de": "Restaurant",
     "icon": "restaurant",
@@ -302,6 +309,48 @@
   },
   {
     "id": 111,
+    "name_de": "Touristenattraktion",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 112,
+    "name_de": "Touristenattraktion",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 113,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 114,
+    "name_de": "Touristenattraktion",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 115,
+    "name_de": "Touristenattraktion",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 117,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 118,
     "name_de": "Touristenattraktion",
     "icon": "tourist_attraction",
     "sort_order": 9999,
