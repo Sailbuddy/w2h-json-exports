@@ -1,27 +1,19 @@
 [
   {
-    "id": 87,
-    "wind2horizon_id": null,
-    "lat": 47.3475428,
-    "lng": 13.20184,
-    "name_fr": "sehen!wutscher",
-    "description_fr": null
-  },
-  {
-    "id": 427,
-    "wind2horizon_id": null,
-    "lat": 45.2025388,
-    "lng": 13.5883683,
-    "name_fr": "Villa Romana beach lounge & restaurant",
-    "description_fr": null
-  },
-  {
     "id": 527,
     "wind2horizon_id": null,
     "lat": 45.075565,
     "lng": 13.636093,
     "name_fr": "ACI Marina Rovinj",
     "description_fr": null
+  },
+  {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_fr": "Amphithéâtre de Pula",
+    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
   },
   {
     "id": 600,
@@ -40,14 +32,6 @@
     "description_fr": null
   },
   {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_fr": "Amphithéâtre de Pula",
-    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
-  },
-  {
     "id": 85,
     "wind2horizon_id": null,
     "lat": 47.4255636,
@@ -62,6 +46,22 @@
     "lng": 13.1991778,
     "name_fr": "Gut Berg Naturhotel",
     "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
+    "id": 87,
+    "wind2horizon_id": null,
+    "lat": 47.3475428,
+    "lng": 13.20184,
+    "name_fr": "sehen!wutscher",
+    "description_fr": null
+  },
+  {
+    "id": 427,
+    "wind2horizon_id": null,
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_fr": "Villa Romana beach lounge & restaurant",
+    "description_fr": null
   },
   {
     "id": 92,
@@ -96,6 +96,22 @@
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
   },
   {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+  },
+  {
+    "id": 629,
+    "wind2horizon_id": null,
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_fr": "ACI Marina Vodice",
+    "description_fr": null
+  },
+  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
@@ -128,22 +144,6 @@
     "description_fr": null
   },
   {
-    "id": 629,
-    "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_fr": "ACI Marina Vodice",
-    "description_fr": null
-  },
-  {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
-  },
-  {
     "id": 517,
     "wind2horizon_id": null,
     "lat": 45.1493381,
@@ -166,6 +166,30 @@
     "lng": 13.6237276,
     "name_fr": "Sveti Andrija",
     "description_fr": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 630,
+    "wind2horizon_id": null,
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_fr": "Palermo Pizzeria",
+    "description_fr": null
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_fr": "Skilift Porec",
+    "description_fr": null
+  },
+  {
+    "id": 96,
+    "wind2horizon_id": null,
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_fr": "Hotel Sacher Salzburg",
+    "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
     "id": 97,
@@ -192,28 +216,20 @@
     "description_fr": null
   },
   {
-    "id": 630,
+    "id": 99,
     "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_fr": "Palermo Pizzeria",
-    "description_fr": null
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_fr": "Snow Space Salzburg - St. Johann im Pongau",
+    "description_fr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
   },
   {
-    "id": 94,
+    "id": 515,
     "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_fr": "Skilift Porec",
+    "lat": 45.1507961,
+    "lng": 13.5994712,
+    "name_fr": "Restaurant “Trošt”",
     "description_fr": null
-  },
-  {
-    "id": 96,
-    "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_fr": "Hotel Sacher Salzburg",
-    "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
     "id": 586,
@@ -253,22 +269,6 @@
     "lat": 47.34702619999999,
     "lng": 13.2021919,
     "name_fr": "Johannes Stadtapotheke",
-    "description_fr": null
-  },
-  {
-    "id": 99,
-    "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_fr": "Snow Space Salzburg - St. Johann im Pongau",
-    "description_fr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
-  },
-  {
-    "id": 515,
-    "wind2horizon_id": null,
-    "lat": 45.1507961,
-    "lng": 13.5994712,
-    "name_fr": "Restaurant “Trošt”",
     "description_fr": null
   },
   {
