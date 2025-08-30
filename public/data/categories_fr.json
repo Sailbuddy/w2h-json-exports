@@ -502,5 +502,103 @@
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 140,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 141,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 142,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 143,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 144,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 145,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 146,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 147,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 148,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 149,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 150,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 151,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 152,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 153,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
   }
 ]
