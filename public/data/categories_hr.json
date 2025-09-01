@@ -600,5 +600,54 @@
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 154,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 155,
+    "name_hr": "trgovina prehrambenih proizvoda ili supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 156,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 157,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 158,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 159,
+    "name_hr": "trgovina prehrambenih proizvoda ili supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 160,
+    "name_hr": "turistička atrakcija",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
   }
 ]
