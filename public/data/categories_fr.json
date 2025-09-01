@@ -649,5 +649,54 @@
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 161,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 162,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 163,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 164,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 165,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 166,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 167,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
   }
 ]
