@@ -126,17 +126,10 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 2,
-    "name_de": "Medien",
-    "icon": "🖼️",
-    "sort_order": 20,
+    "id": 1,
+    "name_de": "Unbestimmt",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
@@ -151,6 +144,13 @@
     "name_de": "Straßenadresse",
     "icon": "street_address",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_de": "Medien",
+    "icon": "🖼️",
+    "sort_order": 20,
     "active": true
   },
   {
@@ -196,16 +196,30 @@
     "active": true
   },
   {
-    "id": 98,
+    "id": 99,
+    "name_de": "Supermarkt",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 175,
+    "name_de": "Unternehmen",
+    "icon": "🏢",
+    "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 89,
     "name_de": "Lebensmittelgeschäft oder Supermarkt",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 99,
-    "name_de": "Supermarkt",
-    "icon": "supermarket",
+    "id": 98,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
@@ -249,20 +263,6 @@
     "name_de": "Lebensmittelgeschäft oder Supermarkt",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 1,
-    "name_de": "Unbestimmt",
-    "icon": "⚓",
-    "sort_order": 50,
-    "active": true
-  },
-  {
-    "id": 175,
-    "name_de": "Unternehmen",
-    "icon": "🏢",
-    "sort_order": 999,
     "active": true
   },
   {
@@ -330,41 +330,6 @@
   },
   {
     "id": 155,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 159,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 162,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 166,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 169,
-    "name_de": "Lebensmittelgeschäft oder Supermarkt",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 173,
     "name_de": "Lebensmittelgeschäft oder Supermarkt",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
@@ -521,6 +486,41 @@
     "id": 128,
     "name_de": "Touristenattraktion",
     "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 159,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 162,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 166,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 169,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 173,
+    "name_de": "Lebensmittelgeschäft oder Supermarkt",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
