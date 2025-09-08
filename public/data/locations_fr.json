@@ -64,6 +64,14 @@
     "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
+    "id": 2026,
+    "wind2horizon_id": null,
+    "lat": 44.1234,
+    "lng": 14.9876,
+    "name_fr": null,
+    "description_fr": null
+  },
+  {
     "id": 92,
     "wind2horizon_id": null,
     "lat": 47.3134265,
@@ -85,6 +93,14 @@
     "lat": 43.6252323,
     "lng": 15.5745049,
     "name_fr": "Phare de Blitvenica",
+    "description_fr": null
+  },
+  {
+    "id": 2027,
+    "wind2horizon_id": null,
+    "lat": 44.12,
+    "lng": 14.98,
+    "name_fr": null,
     "description_fr": null
   },
   {
@@ -176,6 +192,14 @@
     "description_fr": null
   },
   {
+    "id": 2028,
+    "wind2horizon_id": null,
+    "lat": 44.03892636133072,
+    "lng": 15.055097809853564,
+    "name_fr": null,
+    "description_fr": null
+  },
+  {
     "id": 94,
     "wind2horizon_id": null,
     "lat": 45.2038392,
@@ -252,6 +276,14 @@
     "wind2horizon_id": null,
     "lat": -33.866489,
     "lng": 151.1958561,
+    "name_fr": null,
+    "description_fr": null
+  },
+  {
+    "id": 2029,
+    "wind2horizon_id": null,
+    "lat": 44.13602924559946,
+    "lng": 15.068412977946032,
     "name_fr": null,
     "description_fr": null
   },
