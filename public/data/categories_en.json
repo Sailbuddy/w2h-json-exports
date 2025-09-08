@@ -126,17 +126,10 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 2,
-    "name_en": "Media",
-    "icon": "🖼️",
-    "sort_order": 20,
+    "id": 1,
+    "name_en": "Undefined",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
@@ -151,6 +144,13 @@
     "name_en": "street_address",
     "icon": "street_address",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_en": "Media",
+    "icon": "🖼️",
+    "sort_order": 20,
     "active": true
   },
   {
@@ -196,16 +196,30 @@
     "active": true
   },
   {
-    "id": 98,
+    "id": 99,
+    "name_en": "supermarket",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 175,
+    "name_en": "Corporate Office",
+    "icon": "🏢",
+    "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 89,
     "name_en": "grocery_or_supermarket",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 99,
-    "name_en": "supermarket",
-    "icon": "supermarket",
+    "id": 98,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
@@ -249,20 +263,6 @@
     "name_en": "grocery_or_supermarket",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 1,
-    "name_en": "Undefined",
-    "icon": "⚓",
-    "sort_order": 50,
-    "active": true
-  },
-  {
-    "id": 175,
-    "name_en": "Corporate Office",
-    "icon": "🏢",
-    "sort_order": 999,
     "active": true
   },
   {
@@ -330,41 +330,6 @@
   },
   {
     "id": 155,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 159,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 162,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 166,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 169,
-    "name_en": "grocery_or_supermarket",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 173,
     "name_en": "grocery_or_supermarket",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
@@ -521,6 +486,41 @@
     "id": 128,
     "name_en": "tourist_attraction",
     "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 159,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 162,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 166,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 169,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 173,
+    "name_en": "grocery_or_supermarket",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
