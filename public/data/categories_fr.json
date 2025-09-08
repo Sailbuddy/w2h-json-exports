@@ -126,17 +126,10 @@
     "active": true
   },
   {
-    "id": 89,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 2,
-    "name_fr": "Médias",
-    "icon": "🖼️",
-    "sort_order": 20,
+    "id": 1,
+    "name_fr": "indéfinie",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
@@ -151,6 +144,13 @@
     "name_fr": "adresse de rue",
     "icon": "street_address",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name_fr": "Médias",
+    "icon": "🖼️",
+    "sort_order": 20,
     "active": true
   },
   {
@@ -196,16 +196,30 @@
     "active": true
   },
   {
-    "id": 98,
+    "id": 99,
+    "name_fr": "supermarché",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 175,
+    "name_fr": null,
+    "icon": "🏢",
+    "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 89,
     "name_fr": "épicerie ou supermarché",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
   {
-    "id": 99,
-    "name_fr": "supermarché",
-    "icon": "supermarket",
+    "id": 98,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
@@ -249,20 +263,6 @@
     "name_fr": "épicerie ou supermarché",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 1,
-    "name_fr": "indéfinie",
-    "icon": "⚓",
-    "sort_order": 50,
-    "active": true
-  },
-  {
-    "id": 175,
-    "name_fr": null,
-    "icon": "🏢",
-    "sort_order": 999,
     "active": true
   },
   {
@@ -330,41 +330,6 @@
   },
   {
     "id": 155,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 159,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 162,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 166,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 169,
-    "name_fr": "épicerie ou supermarché",
-    "icon": "grocery_or_supermarket",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 173,
     "name_fr": "épicerie ou supermarché",
     "icon": "grocery_or_supermarket",
     "sort_order": 9999,
@@ -521,6 +486,41 @@
     "id": 128,
     "name_fr": "attraction touristique",
     "icon": "tourist_attraction",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 159,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 162,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 166,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 169,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 173,
+    "name_fr": "épicerie ou supermarché",
+    "icon": "grocery_or_supermarket",
     "sort_order": 9999,
     "active": true
   },
