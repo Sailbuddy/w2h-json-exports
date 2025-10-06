@@ -176,6 +176,14 @@
     "description_fr": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
+    "id": 2031,
+    "wind2horizon_id": null,
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_fr": null,
+    "description_fr": null
+  },
+  {
     "id": 628,
     "wind2horizon_id": null,
     "lat": 44.11722,
