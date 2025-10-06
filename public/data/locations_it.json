@@ -176,6 +176,14 @@
     "description_it": "Isolotto nel Mar Adriatico con hotel, spiaggia e centro per sport acquatici."
   },
   {
+    "id": 2031,
+    "wind2horizon_id": null,
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_it": null,
+    "description_it": null
+  },
+  {
     "id": 628,
     "wind2horizon_id": null,
     "lat": 44.11722,
