@@ -12045,6 +12045,21 @@
     "locked": false
   },
   {
+    "id": 52388,
+    "location_id": 93,
+    "attribute_id": 37,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-10-12T19:01:01.42+00:00",
+    "name": null,
+    "value_json": "von 0:00 bis 23:59",
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 27057,
     "location_id": 899,
     "attribute_id": 12,
