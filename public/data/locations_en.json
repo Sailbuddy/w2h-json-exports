@@ -160,14 +160,6 @@
     "description_en": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
   },
   {
-    "id": 2031,
-    "wind2horizon_id": null,
-    "lat": 43.8463981769064,
-    "lng": 14.370066406249995,
-    "name_en": null,
-    "description_en": null
-  },
-  {
     "id": 628,
     "wind2horizon_id": null,
     "lat": 44.11722,
@@ -190,6 +182,14 @@
     "lng": 13.6237276,
     "name_en": "Sveti Andrija",
     "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 2031,
+    "wind2horizon_id": null,
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_en": null,
+    "description_en": "Test of module B Now also a test whether the data is displayed in the map."
   },
   {
     "id": 2028,
