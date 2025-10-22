@@ -160,14 +160,6 @@
     "description_hr": "Vidikovac na vrhu brda s pogledom na luku za jahte, staru gradsku jezgru Vrsara i more."
   },
   {
-    "id": 2031,
-    "wind2horizon_id": null,
-    "lat": 43.8463981769064,
-    "lng": 14.370066406249995,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
     "id": 628,
     "wind2horizon_id": null,
     "lat": 44.11722,
@@ -190,6 +182,14 @@
     "lng": 13.6237276,
     "name_hr": "Otočić Sveti Andrija",
     "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
+  },
+  {
+    "id": 2031,
+    "wind2horizon_id": null,
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_hr": null,
+    "description_hr": "Test modula B Sada i test prikazuju li se podaci na karti."
   },
   {
     "id": 2028,
