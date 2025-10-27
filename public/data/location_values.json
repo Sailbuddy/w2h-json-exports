@@ -12255,6 +12255,21 @@
     "locked": false
   },
   {
+    "id": 52398,
+    "location_id": 2033,
+    "attribute_id": 1,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-10-26T12:57:27.313+00:00",
+    "name": null,
+    "value_json": true,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5041,
     "location_id": 91,
     "attribute_id": 31,
