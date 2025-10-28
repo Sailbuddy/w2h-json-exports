@@ -256,14 +256,6 @@
     "description_en": null
   },
   {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_en": "JET Tankstelle",
-    "description_en": null
-  },
-  {
     "id": 515,
     "wind2horizon_id": null,
     "lat": 45.1507961,
@@ -333,6 +325,14 @@
     "lat": 47.34702619999999,
     "lng": 13.2021919,
     "name_en": "Johannes Stadtapotheke",
+    "description_en": null
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_en": "JET Tankstelle (next to the supermarket \"Billa\")",
     "description_en": null
   },
   {
