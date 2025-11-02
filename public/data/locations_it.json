@@ -40,6 +40,14 @@
     "description_it": null
   },
   {
+    "id": 2074,
+    "wind2horizon_id": null,
+    "lat": 43.295828,
+    "lng": 10.5971138,
+    "name_it": "Podere Treggiaia",
+    "description_it": null
+  },
+  {
     "id": 2026,
     "wind2horizon_id": null,
     "lat": 44.1234,
