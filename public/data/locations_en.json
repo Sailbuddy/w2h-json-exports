@@ -120,6 +120,38 @@
     "description_en": null
   },
   {
+    "id": 2076,
+    "wind2horizon_id": null,
+    "lat": 47.3469009,
+    "lng": 13.2024019,
+    "name_en": "Metzgerei Rettensteiner-Scharfetter",
+    "description_en": null
+  },
+  {
+    "id": 2078,
+    "wind2horizon_id": null,
+    "lat": 47.34846839999999,
+    "lng": 13.2018103,
+    "name_en": "Urban - Die Fleischerei",
+    "description_en": null
+  },
+  {
+    "id": 2080,
+    "wind2horizon_id": null,
+    "lat": 45.5169439,
+    "lng": 13.5697685,
+    "name_en": "Grand Hotel Bernardin",
+    "description_en": "Laid-back seafront hotel featuring a spa & a seasonal indoor pool, plus dining, bars & a terrace."
+  },
+  {
+    "id": 2082,
+    "wind2horizon_id": null,
+    "lat": 45.1726543,
+    "lng": 13.6055542,
+    "name_en": "More",
+    "description_en": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -134,6 +166,30 @@
     "lng": 13.6237276,
     "name_en": "Sveti Andrija",
     "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 2077,
+    "wind2horizon_id": null,
+    "lat": 45.5293377,
+    "lng": 13.5658504,
+    "name_en": "Fritolin Pri Cantini",
+    "description_en": null
+  },
+  {
+    "id": 2081,
+    "wind2horizon_id": null,
+    "lat": 38.7401303,
+    "lng": -9.1803574,
+    "name_en": "Palace Fronteira",
+    "description_en": "17th-century palace open for guided tours, with traditional azulejo tiling, paintings and furniture."
+  },
+  {
+    "id": 2083,
+    "wind2horizon_id": null,
+    "lat": 47.34251400000001,
+    "lng": 13.1986437,
+    "name_en": "Hotel Lerch",
+    "description_en": "Polished chalet lodging offering kids’ activities & a spa with 2 pools, plus a restaurant."
   },
   {
     "id": 100,
@@ -222,6 +278,14 @@
     "lng": 13.5947036,
     "name_en": "Skilift Porec",
     "description_en": null
+  },
+  {
+    "id": 2079,
+    "wind2horizon_id": null,
+    "lat": 47.346309,
+    "lng": 13.2017865,
+    "name_en": "Hotel Alpenland St. Johann",
+    "description_en": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   },
   {
     "id": 96,
