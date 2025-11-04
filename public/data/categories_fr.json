@@ -1,5 +1,12 @@
 [
   {
+    "id": 176,
+    "name_fr": "Café",
+    "icon": "cafe",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 20,
     "name_fr": "attraction touristique",
     "icon": "tourist_attraction",
