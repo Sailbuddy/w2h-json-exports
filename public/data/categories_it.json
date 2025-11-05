@@ -203,6 +203,13 @@
     "active": true
   },
   {
+    "id": 177,
+    "name_it": "negozio di articoli per la casa",
+    "icon": "home_goods_store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 99,
     "name_it": "supermercato",
     "icon": "supermarket",
