@@ -203,6 +203,13 @@
     "active": true
   },
   {
+    "id": 177,
+    "name_fr": "magasin d'articles ménagers",
+    "icon": "home_goods_store",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 99,
     "name_fr": "supermarché",
     "icon": "supermarket",
