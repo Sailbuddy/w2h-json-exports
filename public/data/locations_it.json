@@ -1,21 +1,5 @@
 [
   {
-    "id": 632,
-    "wind2horizon_id": null,
-    "lat": 43.81910329999999,
-    "lng": 15.9189997,
-    "name_it": "ACI Marina Skradin",
-    "description_it": null
-  },
-  {
-    "id": 2074,
-    "wind2horizon_id": null,
-    "lat": 43.295828,
-    "lng": 10.5971138,
-    "name_it": "Podere Treggiaia",
-    "description_it": null
-  },
-  {
     "id": 93,
     "wind2horizon_id": null,
     "lat": 44.87322990000001,
@@ -24,12 +8,12 @@
     "description_it": "Enorme anfiteatro romano con mostra sotterranea sulle antiche tecniche di produzione di olio e vino."
   },
   {
-    "id": 86,
+    "id": 527,
     "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_it": "Gut Berg Naturhotel",
-    "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_it": "ACI Marina Rovinj",
+    "description_it": null
   },
   {
     "id": 2083,
@@ -38,6 +22,14 @@
     "lng": 13.1986437,
     "name_it": "Hotel Lerch",
     "description_it": "Hotel raffinato in stile chalet che offre attività per bambini, spa con 2 piscine e ristorante."
+  },
+  {
+    "id": 86,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_it": "Gut Berg Naturhotel",
+    "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
     "id": 87,
@@ -56,14 +48,6 @@
     "description_it": null
   },
   {
-    "id": 527,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_it": "ACI Marina Rovinj",
-    "description_it": null
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -72,10 +56,58 @@
     "description_it": null
   },
   {
+    "id": 632,
+    "wind2horizon_id": null,
+    "lat": 43.81910329999999,
+    "lng": 15.9189997,
+    "name_it": "ACI Marina Skradin",
+    "description_it": null
+  },
+  {
+    "id": 2074,
+    "wind2horizon_id": null,
+    "lat": 43.295828,
+    "lng": 10.5971138,
+    "name_it": "Podere Treggiaia",
+    "description_it": null
+  },
+  {
     "id": 2026,
     "wind2horizon_id": null,
     "lat": 44.1234,
     "lng": 14.9876,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 92,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_it": "Liechtensteinklamm",
+    "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
+  },
+  {
+    "id": 2082,
+    "wind2horizon_id": null,
+    "lat": 45.1726543,
+    "lng": 13.6055542,
+    "name_it": "More",
+    "description_it": null
+  },
+  {
+    "id": 2027,
+    "wind2horizon_id": null,
+    "lat": 44.12,
+    "lng": 14.98,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
     "name_it": null,
     "description_it": null
   },
@@ -96,60 +128,12 @@
     "description_it": null
   },
   {
-    "id": 2080,
-    "wind2horizon_id": null,
-    "lat": 45.5169439,
-    "lng": 13.5697685,
-    "name_it": "Grand Hotel Bernardin",
-    "description_it": "Hotel dall'atmosfera rilassata sul mare con ristoranti, bar, terrazza, spa e piscina stagionale coperta."
-  },
-  {
-    "id": 2027,
-    "wind2horizon_id": null,
-    "lat": 44.12,
-    "lng": 14.98,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 92,
-    "wind2horizon_id": null,
-    "lat": 47.3134265,
-    "lng": 13.1896781,
-    "name_it": "Liechtensteinklamm",
-    "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
-  },
-  {
     "id": 466,
     "wind2horizon_id": null,
     "lat": 45.0819593,
     "lng": 13.6316562,
     "name_it": "Rovinj Mali Raj",
     "description_it": null
-  },
-  {
-    "id": 2082,
-    "wind2horizon_id": null,
-    "lat": 45.1726543,
-    "lng": 13.6055542,
-    "name_it": "More",
-    "description_it": null
-  },
-  {
-    "id": 88,
-    "wind2horizon_id": null,
-    "lat": 48.207521,
-    "lng": 16.378672,
-    "name_it": "Plachutta",
-    "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
   },
   {
     "id": 665,
@@ -168,20 +152,28 @@
     "description_it": null
   },
   {
+    "id": 88,
+    "wind2horizon_id": null,
+    "lat": 48.207521,
+    "lng": 16.378672,
+    "name_it": "Plachutta",
+    "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
+  },
+  {
+    "id": 2080,
+    "wind2horizon_id": null,
+    "lat": 45.5169439,
+    "lng": 13.5697685,
+    "name_it": "Grand Hotel Bernardin",
+    "description_it": "Hotel dall'atmosfera rilassata sul mare con ristoranti, bar, terrazza, spa e piscina stagionale coperta."
+  },
+  {
     "id": 2077,
     "wind2horizon_id": null,
     "lat": 45.5293377,
     "lng": 13.5658504,
     "name_it": "Fritolin Pri Cantini",
     "description_it": null
-  },
-  {
-    "id": 2081,
-    "wind2horizon_id": null,
-    "lat": 38.7401303,
-    "lng": -9.1803574,
-    "name_it": "Palazzo dei Marchesi di Fronteira",
-    "description_it": "Palazzo secentesco aperto a tour guidati, con piastrelle azulejo, dipinti e arredi tradizionali."
   },
   {
     "id": 508,
@@ -192,6 +184,22 @@
     "description_it": "Belvedere su una collina con vista sul porto turistico, sul centro storico di Orsera e sul mare Adriatico."
   },
   {
+    "id": 628,
+    "wind2horizon_id": null,
+    "lat": 44.11722,
+    "lng": 15.2199087,
+    "name_it": "Organo Marino",
+    "description_it": "Grande strumento musicale sperimentale montato sotto una scalinata e suonato dalle onde del mare."
+  },
+  {
+    "id": 2081,
+    "wind2horizon_id": null,
+    "lat": 38.7401303,
+    "lng": -9.1803574,
+    "name_it": "Palazzo dei Marchesi di Fronteira",
+    "description_it": "Palazzo secentesco aperto a tour guidati, con piastrelle azulejo, dipinti e arredi tradizionali."
+  },
+  {
     "id": 517,
     "wind2horizon_id": null,
     "lat": 45.1493381,
@@ -200,12 +208,12 @@
     "description_it": null
   },
   {
-    "id": 628,
+    "id": 561,
     "wind2horizon_id": null,
-    "lat": 44.11722,
-    "lng": 15.2199087,
-    "name_it": "Organo Marino",
-    "description_it": "Grande strumento musicale sperimentale montato sotto una scalinata e suonato dalle onde del mare."
+    "lat": 44.8731915,
+    "lng": 13.8450158,
+    "name_it": "ACI marina Pula",
+    "description_it": null
   },
   {
     "id": 629,
@@ -224,14 +232,6 @@
     "description_it": "Isolotto nel Mar Adriatico con hotel, spiaggia e centro per sport acquatici."
   },
   {
-    "id": 561,
-    "wind2horizon_id": null,
-    "lat": 44.8731915,
-    "lng": 13.8450158,
-    "name_it": "ACI marina Pula",
-    "description_it": null
-  },
-  {
     "id": 2031,
     "wind2horizon_id": null,
     "lat": 43.8463981769064,
@@ -240,11 +240,19 @@
     "description_it": "Test del modulo B Ora anche un test per verificare se i dati vengono visualizzati nella mappa."
   },
   {
-    "id": 516,
+    "id": 865,
     "wind2horizon_id": null,
-    "lat": 45.1508499,
-    "lng": 13.5999246,
-    "name_it": "Electric Vehicle Charging Station",
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_it": "Maistra Select Island Hotel Istra",
+    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_it": "Ski Lift Poreč",
     "description_it": null
   },
   {
@@ -272,11 +280,11 @@
     "description_it": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   },
   {
-    "id": 94,
+    "id": 97,
     "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_it": "Ski Lift Poreč",
+    "lat": 47.8997807,
+    "lng": 13.7583526,
+    "name_it": "Seefunkschule Adlmanninger",
     "description_it": null
   },
   {
@@ -285,6 +293,22 @@
     "lat": 44.8439116,
     "lng": 13.8452287,
     "name_it": "Pitter d.o.o.",
+    "description_it": null
+  },
+  {
+    "id": 89,
+    "wind2horizon_id": null,
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_it": "Hotel Sacher",
+    "description_it": "Sistemazioni eleganti in hotel ricercato che offre 2 ristoranti raffinati, bar con terrazza e spa completa."
+  },
+  {
+    "id": 516,
+    "wind2horizon_id": null,
+    "lat": 45.1508499,
+    "lng": 13.5999246,
+    "name_it": "Electric Vehicle Charging Station",
     "description_it": null
   },
   {
@@ -304,46 +328,6 @@
     "description_it": "Hotel esclusivo con 3 ristoranti raffinati, caffè, cioccolateria e vista sul fiume."
   },
   {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_it": "Hotel Sacher",
-    "description_it": "Sistemazioni eleganti in hotel ricercato che offre 2 ristoranti raffinati, bar con terrazza e spa completa."
-  },
-  {
-    "id": 97,
-    "wind2horizon_id": null,
-    "lat": 47.8997807,
-    "lng": 13.7583526,
-    "name_it": "Seefunkschule Adlmanninger",
-    "description_it": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_it": "Maistra Select Island Hotel Istra",
-    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
-  },
-  {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_it": "JET Tankstelle",
-    "description_it": null
-  },
-  {
-    "id": 98,
-    "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_it": "Johannes Stadtapotheke",
-    "description_it": null
-  },
-  {
     "id": 2049,
     "wind2horizon_id": null,
     "lat": 47.4255636,
@@ -352,75 +336,11 @@
     "description_it": null
   },
   {
-    "id": 515,
-    "wind2horizon_id": null,
-    "lat": 45.1507961,
-    "lng": 13.5994712,
-    "name_it": "Restoran “Trošt”",
-    "description_it": null
-  },
-  {
     "id": 586,
     "wind2horizon_id": null,
     "lat": 44.821828,
     "lng": 13.9022051,
     "name_it": "ACI Marina Pomer",
-    "description_it": null
-  },
-  {
-    "id": 2207,
-    "wind2horizon_id": null,
-    "lat": 47.3481374,
-    "lng": 13.2015831,
-    "name_it": "Farben Steger - Farben, Lacke, Künstler- und Malerbedarf, Wohnaccessoires, Kerzen, Räucherwerk",
-    "description_it": null
-  },
-  {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_it": "Palazzo di Schönbrunn",
-    "description_it": "Residenza estiva del XVIII secolo con tour guidati nelle sale cerimoniali rococò e giardino con labirinto."
-  },
-  {
-    "id": 95,
-    "wind2horizon_id": null,
-    "lat": 47.3089895,
-    "lng": 13.0902492,
-    "name_it": "Golfclub Goldegg",
-    "description_it": null
-  },
-  {
-    "id": 100,
-    "wind2horizon_id": null,
-    "lat": 47.4430868,
-    "lng": 12.3892092,
-    "name_it": "Bergbahn AG Kitzbühel - KitzSki",
-    "description_it": "Popolare località sciistica con ampia scelta di piste entusiasmanti per sci e snowboard."
-  },
-  {
-    "id": 2025,
-    "wind2horizon_id": null,
-    "lat": -33.866489,
-    "lng": 151.1958561,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 2029,
-    "wind2horizon_id": null,
-    "lat": 44.13602924559946,
-    "lng": 15.068412977946032,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 631,
-    "wind2horizon_id": null,
-    "lat": 43.7585415,
-    "lng": 15.3460817,
-    "name_it": "ACI Marina Piškera",
     "description_it": null
   },
   {
@@ -440,11 +360,91 @@
     "description_it": null
   },
   {
+    "id": 2207,
+    "wind2horizon_id": null,
+    "lat": 47.3481374,
+    "lng": 13.2015831,
+    "name_it": "Farben Steger - Farben, Lacke, Künstler- und Malerbedarf, Wohnaccessoires, Kerzen, Räucherwerk",
+    "description_it": null
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_it": "JET Tankstelle",
+    "description_it": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_it": "Johannes Stadtapotheke",
+    "description_it": null
+  },
+  {
+    "id": 515,
+    "wind2horizon_id": null,
+    "lat": 45.1507961,
+    "lng": 13.5994712,
+    "name_it": "Restoran “Trošt”",
+    "description_it": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_it": "ACI Marina Piškera",
+    "description_it": null
+  },
+  {
+    "id": 2025,
+    "wind2horizon_id": null,
+    "lat": -33.866489,
+    "lng": 151.1958561,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 2029,
+    "wind2horizon_id": null,
+    "lat": 44.13602924559946,
+    "lng": 15.068412977946032,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 95,
+    "wind2horizon_id": null,
+    "lat": 47.3089895,
+    "lng": 13.0902492,
+    "name_it": "Golfclub Goldegg",
+    "description_it": null
+  },
+  {
+    "id": 100,
+    "wind2horizon_id": null,
+    "lat": 47.4430868,
+    "lng": 12.3892092,
+    "name_it": "Bergbahn AG Kitzbühel - KitzSki",
+    "description_it": "Popolare località sciistica con ampia scelta di piste entusiasmanti per sci e snowboard."
+  },
+  {
     "id": 99,
     "wind2horizon_id": null,
     "lat": 47.321454,
     "lng": 13.195048,
     "name_it": "Snow Space Salzburg - St. Johann im Pongau",
     "description_it": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_it": "Palazzo di Schönbrunn",
+    "description_it": "Residenza estiva del XVIII secolo con tour guidati nelle sale cerimoniali rococò e giardino con labirinto."
   }
 ]
