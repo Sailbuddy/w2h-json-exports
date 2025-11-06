@@ -1,5 +1,37 @@
 [
   {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_hr": "Arena",
+    "description_hr": "Velik rimski amfiteatar ispod kojeg je izložba posvećena drevnoj proizvodnji maslinova ulja i vina."
+  },
+  {
+    "id": 527,
+    "wind2horizon_id": null,
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_hr": "ACI Marina Rovinj",
+    "description_hr": null
+  },
+  {
+    "id": 2083,
+    "wind2horizon_id": null,
+    "lat": 47.34251400000001,
+    "lng": 13.1986437,
+    "name_hr": "Hotel Lerch",
+    "description_hr": "Polished chalet lodging offering kids’ activities & a spa with 2 pools, plus a restaurant."
+  },
+  {
+    "id": 86,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_hr": "Gut Berg Naturhotel",
+    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -16,27 +48,19 @@
     "description_hr": null
   },
   {
-    "id": 632,
-    "wind2horizon_id": null,
-    "lat": 43.81910329999999,
-    "lng": 15.9189997,
-    "name_hr": "ACI Marina Skradin",
-    "description_hr": null
-  },
-  {
-    "id": 527,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_hr": "ACI Marina Rovinj",
-    "description_hr": null
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
     "lng": 14.4158599,
     "name_hr": "ACI Marina CRES Apartments",
+    "description_hr": null
+  },
+  {
+    "id": 632,
+    "wind2horizon_id": null,
+    "lat": 43.81910329999999,
+    "lng": 15.9189997,
+    "name_hr": "ACI Marina Skradin",
     "description_hr": null
   },
   {
@@ -56,38 +80,6 @@
     "description_hr": null
   },
   {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_hr": "Arena",
-    "description_hr": "Velik rimski amfiteatar ispod kojeg je izložba posvećena drevnoj proizvodnji maslinova ulja i vina."
-  },
-  {
-    "id": 86,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_hr": "Gut Berg Naturhotel",
-    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_hr": "Blitvenica Lighthouse",
-    "description_hr": null
-  },
-  {
-    "id": 2034,
-    "wind2horizon_id": null,
-    "lat": 47.42541139999999,
-    "lng": 12.4202027,
-    "name_hr": "Golf Eichenheim",
-    "description_hr": null
-  },
-  {
     "id": 92,
     "wind2horizon_id": null,
     "lat": 47.3134265,
@@ -96,11 +88,11 @@
     "description_hr": "Duboki uski klanac s pješačkim stazama, mostovima, rijekom i slapom otvoren samo tijekom ljetnih mjeseci."
   },
   {
-    "id": 466,
+    "id": 2082,
     "wind2horizon_id": null,
-    "lat": 45.0819593,
-    "lng": 13.6316562,
-    "name_hr": "Rovinj Mali Raj",
+    "lat": 45.1726543,
+    "lng": 13.6055542,
+    "name_hr": "More",
     "description_hr": null
   },
   {
@@ -120,6 +112,46 @@
     "description_hr": null
   },
   {
+    "id": 2034,
+    "wind2horizon_id": null,
+    "lat": 47.42541139999999,
+    "lng": 12.4202027,
+    "name_hr": "Golf Eichenheim",
+    "description_hr": null
+  },
+  {
+    "id": 2078,
+    "wind2horizon_id": null,
+    "lat": 47.34846839999999,
+    "lng": 13.2018103,
+    "name_hr": "Urban - Die Fleischerei",
+    "description_hr": null
+  },
+  {
+    "id": 466,
+    "wind2horizon_id": null,
+    "lat": 45.0819593,
+    "lng": 13.6316562,
+    "name_hr": "Rovinj Mali Raj",
+    "description_hr": null
+  },
+  {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_hr": "Blitvenica Lighthouse",
+    "description_hr": null
+  },
+  {
+    "id": 2076,
+    "wind2horizon_id": null,
+    "lat": 47.3469009,
+    "lng": 13.2024019,
+    "name_hr": "Metzgerei Rettensteiner-Scharfetter",
+    "description_hr": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -128,20 +160,20 @@
     "description_hr": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
   },
   {
-    "id": 899,
+    "id": 2080,
     "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_hr": "Otočić Sveti Andrija",
-    "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
+    "lat": 45.5169439,
+    "lng": 13.5697685,
+    "name_hr": "Grand Hotel Bernardin",
+    "description_hr": "Opušten hotel uz more koji obuhvaća spa-centar, sezonski unutarnji bazen, restorane, barove i terasu."
   },
   {
-    "id": 100,
+    "id": 2077,
     "wind2horizon_id": null,
-    "lat": 47.4430868,
-    "lng": 12.3892092,
-    "name_hr": "Bergbahn Kitzbühel",
-    "description_hr": "Popularno skijaško odmaralište s brojnim zahtjevnim spustovima za skijanje i daskanje na snijegu."
+    "lat": 45.5293377,
+    "lng": 13.5658504,
+    "name_hr": "Fritolin Pri Cantini",
+    "description_hr": null
   },
   {
     "id": 508,
@@ -152,12 +184,20 @@
     "description_hr": "Vidikovac na vrhu brda s pogledom na luku za jahte, staru gradsku jezgru Vrsara i more."
   },
   {
-    "id": 561,
+    "id": 628,
     "wind2horizon_id": null,
-    "lat": 44.8731915,
-    "lng": 13.8450158,
-    "name_hr": "ACI marina Pula",
-    "description_hr": null
+    "lat": 44.11722,
+    "lng": 15.2199087,
+    "name_hr": "Morske orgulje",
+    "description_hr": "Veliki eksperimentalni glazbeni instrument podno stuba na kojem \"sviraju\" morski valovi."
+  },
+  {
+    "id": 2081,
+    "wind2horizon_id": null,
+    "lat": 38.7401303,
+    "lng": -9.1803574,
+    "name_hr": "Palace Fronteira",
+    "description_hr": "17th-century palace open for guided tours, with traditional azulejo tiling, paintings and furniture."
   },
   {
     "id": 517,
@@ -168,20 +208,12 @@
     "description_hr": null
   },
   {
-    "id": 2031,
+    "id": 561,
     "wind2horizon_id": null,
-    "lat": 43.8463981769064,
-    "lng": 14.370066406249995,
-    "name_hr": null,
-    "description_hr": "Test modula B Sada i test prikazuju li se podaci na karti."
-  },
-  {
-    "id": 628,
-    "wind2horizon_id": null,
-    "lat": 44.11722,
-    "lng": 15.2199087,
-    "name_hr": "Morske orgulje",
-    "description_hr": "Veliki eksperimentalni glazbeni instrument podno stuba na kojem \"sviraju\" morski valovi."
+    "lat": 44.8731915,
+    "lng": 13.8450158,
+    "name_hr": "ACI marina Pula",
+    "description_hr": null
   },
   {
     "id": 629,
@@ -192,11 +224,35 @@
     "description_hr": null
   },
   {
-    "id": 630,
+    "id": 899,
     "wind2horizon_id": null,
-    "lat": 47.3226363,
-    "lng": 13.1608855,
-    "name_hr": "Palermo Pizzeria",
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_hr": "Otočić Sveti Andrija",
+    "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
+  },
+  {
+    "id": 2031,
+    "wind2horizon_id": null,
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_hr": null,
+    "description_hr": "Test modula B Sada i test prikazuju li se podaci na karti."
+  },
+  {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_hr": "Maistra Select Island Hotel Istra",
+    "description_hr": "Profinjeno odmaralište na skrivenom otoku s pet restorana, modernim spa-centrom i privatnim plažama."
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_hr": "The Ski Lift Poreč",
     "description_hr": null
   },
   {
@@ -216,20 +272,12 @@
     "description_hr": null
   },
   {
-    "id": 94,
+    "id": 2079,
     "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_hr": "The Ski Lift Poreč",
-    "description_hr": null
-  },
-  {
-    "id": 96,
-    "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_hr": "Hotel Sacher Salzburg",
-    "description_hr": "Otmjeni hotel s tri profinjena restorana, kafićem, trgovinom čokolade i pogledom na rijeku."
+    "lat": 47.346309,
+    "lng": 13.2017865,
+    "name_hr": "Hotel Alpenland St. Johann",
+    "description_hr": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   },
   {
     "id": 97,
@@ -237,14 +285,6 @@
     "lat": 47.8997807,
     "lng": 13.7583526,
     "name_hr": "Seefunkschule Adlmanninger",
-    "description_hr": null
-  },
-  {
-    "id": 516,
-    "wind2horizon_id": null,
-    "lat": 45.1508499,
-    "lng": 13.5999246,
-    "name_hr": "Stanica za napajanje električnih vozila",
     "description_hr": null
   },
   {
@@ -256,11 +296,51 @@
     "description_hr": null
   },
   {
-    "id": 631,
+    "id": 89,
     "wind2horizon_id": null,
-    "lat": 43.7585415,
-    "lng": 15.3460817,
-    "name_hr": "ACI Marina Piskera",
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_hr": "Hotel Sacher Vienna",
+    "description_hr": "Luksuzan smještaj u elitnom hotelu koji nudi dva vrhunska restorana, bar s terasom i spa s punom uslugom."
+  },
+  {
+    "id": 516,
+    "wind2horizon_id": null,
+    "lat": 45.1508499,
+    "lng": 13.5999246,
+    "name_hr": "Stanica za napajanje električnih vozila",
+    "description_hr": null
+  },
+  {
+    "id": 630,
+    "wind2horizon_id": null,
+    "lat": 47.3226363,
+    "lng": 13.1608855,
+    "name_hr": "Palermo Pizzeria",
+    "description_hr": null
+  },
+  {
+    "id": 96,
+    "wind2horizon_id": null,
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_hr": "Hotel Sacher Salzburg",
+    "description_hr": "Otmjeni hotel s tri profinjena restorana, kafićem, trgovinom čokolade i pogledom na rijeku."
+  },
+  {
+    "id": 2049,
+    "wind2horizon_id": null,
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_hr": "Gasthaus Eichenheim",
+    "description_hr": null
+  },
+  {
+    "id": 586,
+    "wind2horizon_id": null,
+    "lat": 44.821828,
+    "lng": 13.9022051,
+    "name_hr": "ACI Marina Pomer",
     "description_hr": null
   },
   {
@@ -280,12 +360,44 @@
     "description_hr": null
   },
   {
-    "id": 89,
+    "id": 2207,
     "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_hr": "Hotel Sacher Vienna",
-    "description_hr": "Luksuzan smještaj u elitnom hotelu koji nudi dva vrhunska restorana, bar s terasom i spa s punom uslugom."
+    "lat": 47.3481374,
+    "lng": 13.2015831,
+    "name_hr": "Farben Steger - Farben, Lacke, Künstler- und Malerbedarf, Wohnaccessoires, Kerzen, Räucherwerk",
+    "description_hr": null
+  },
+  {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_hr": "JET Tankstelle",
+    "description_hr": null
+  },
+  {
+    "id": 98,
+    "wind2horizon_id": null,
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_hr": "Johannes Stadtapotheke",
+    "description_hr": null
+  },
+  {
+    "id": 515,
+    "wind2horizon_id": null,
+    "lat": 45.1507961,
+    "lng": 13.5994712,
+    "name_hr": "Restoran “Trošt”",
+    "description_hr": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_hr": "ACI Marina Piskera",
+    "description_hr": null
   },
   {
     "id": 2025,
@@ -304,22 +416,6 @@
     "description_hr": null
   },
   {
-    "id": 90,
-    "wind2horizon_id": null,
-    "lat": 48.1858124,
-    "lng": 16.3127641,
-    "name_hr": "Schönbrunn",
-    "description_hr": "Ljetna palača iz 18. st. koja nudi obilazak bogatih ceremonijalnih soba u stilu rokokoa i vrtove s labirintom."
-  },
-  {
-    "id": 91,
-    "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_hr": "JET Tankstelle",
-    "description_hr": null
-  },
-  {
     "id": 95,
     "wind2horizon_id": null,
     "lat": 47.3089895,
@@ -328,44 +424,12 @@
     "description_hr": null
   },
   {
-    "id": 98,
+    "id": 100,
     "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_hr": "Johannes Stadtapotheke",
-    "description_hr": null
-  },
-  {
-    "id": 2049,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_hr": "Gasthaus Eichenheim",
-    "description_hr": null
-  },
-  {
-    "id": 515,
-    "wind2horizon_id": null,
-    "lat": 45.1507961,
-    "lng": 13.5994712,
-    "name_hr": "Restoran “Trošt”",
-    "description_hr": null
-  },
-  {
-    "id": 586,
-    "wind2horizon_id": null,
-    "lat": 44.821828,
-    "lng": 13.9022051,
-    "name_hr": "ACI Marina Pomer",
-    "description_hr": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_hr": "Maistra Select Island Hotel Istra",
-    "description_hr": "Profinjeno odmaralište na skrivenom otoku s pet restorana, modernim spa-centrom i privatnim plažama."
+    "lat": 47.4430868,
+    "lng": 12.3892092,
+    "name_hr": "Bergbahn Kitzbühel",
+    "description_hr": "Popularno skijaško odmaralište s brojnim zahtjevnim spustovima za skijanje i daskanje na snijegu."
   },
   {
     "id": 99,
@@ -374,5 +438,13 @@
     "lng": 13.195048,
     "name_hr": "Alpendorf Bergbahnen",
     "description_hr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
+  },
+  {
+    "id": 90,
+    "wind2horizon_id": null,
+    "lat": 48.1858124,
+    "lng": 16.3127641,
+    "name_hr": "Schönbrunn",
+    "description_hr": "Ljetna palača iz 18. st. koja nudi obilazak bogatih ceremonijalnih soba u stilu rokokoa i vrtove s labirintom."
   }
 ]
