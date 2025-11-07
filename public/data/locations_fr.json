@@ -104,14 +104,6 @@
     "description_fr": null
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
     "id": 2034,
     "wind2horizon_id": null,
     "lat": 47.42541139999999,
@@ -158,6 +150,14 @@
     "lng": 16.378672,
     "name_fr": "Plachutta Wollzeile",
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_fr": null,
+    "description_fr": null
   },
   {
     "id": 2080,
