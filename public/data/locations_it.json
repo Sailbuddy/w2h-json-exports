@@ -104,14 +104,6 @@
     "description_it": null
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_it": null,
-    "description_it": null
-  },
-  {
     "id": 2034,
     "wind2horizon_id": null,
     "lat": 47.42541139999999,
@@ -158,6 +150,14 @@
     "lng": 16.378672,
     "name_it": "Plachutta",
     "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_it": null,
+    "description_it": null
   },
   {
     "id": 2080,
