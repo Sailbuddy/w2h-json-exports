@@ -152,20 +152,20 @@
     "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_it": null,
-    "description_it": null
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_it": "Grand Hotel Bernardin",
     "description_it": "Hotel dall'atmosfera rilassata sul mare con ristoranti, bar, terrazza, spa e piscina stagionale coperta."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_it": null,
+    "description_it": null
   },
   {
     "id": 2077,
