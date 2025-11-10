@@ -152,20 +152,20 @@
     "description_hr": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_hr": "Grand Hotel Bernardin",
     "description_hr": "Opušten hotel uz more koji obuhvaća spa-centar, sezonski unutarnji bazen, restorane, barove i terasu."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_hr": null,
+    "description_hr": null
   },
   {
     "id": 2077,
