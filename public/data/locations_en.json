@@ -152,20 +152,20 @@
     "description_en": "Smart venue for Tafelspitz boiled beef & other classics of Viennese cuisine, with outdoor seating."
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_en": null,
-    "description_en": null
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_en": "Grand Hotel Bernardin",
     "description_en": "Laid-back seafront hotel featuring a spa & a seasonal indoor pool, plus dining, bars & a terrace."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_en": null,
+    "description_en": null
   },
   {
     "id": 2077,
