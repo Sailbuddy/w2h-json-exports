@@ -152,20 +152,20 @@
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
   },
   {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_fr": "Grand Hotel Bernardin",
     "description_fr": "Hôtel balnéaire à l'ambiance détendue avec spa, piscine intérieure ouverte en saison, restaurants, bars et terrasse."
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_fr": null,
+    "description_fr": null
   },
   {
     "id": 2077,
