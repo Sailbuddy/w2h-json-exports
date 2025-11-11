@@ -1,50 +1,10 @@
 [
   {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_fr": "Amphithéâtre de Pula",
-    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
-  },
-  {
     "id": 527,
     "wind2horizon_id": null,
     "lat": 45.075565,
     "lng": 13.636093,
     "name_fr": "ACI Marina Rovinj",
-    "description_fr": null
-  },
-  {
-    "id": 2083,
-    "wind2horizon_id": null,
-    "lat": 47.34251400000001,
-    "lng": 13.1986437,
-    "name_fr": "Hotel Lerch",
-    "description_fr": "Hôtel-chalet chic offrant des activités pour les enfants, un restaurant et un spa avec 2 piscines."
-  },
-  {
-    "id": 86,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_fr": "Gut Berg Naturhotel",
-    "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
-  },
-  {
-    "id": 87,
-    "wind2horizon_id": null,
-    "lat": 47.3475428,
-    "lng": 13.20184,
-    "name_fr": "sehen!wutscher",
-    "description_fr": null
-  },
-  {
-    "id": 427,
-    "wind2horizon_id": null,
-    "lat": 45.2025388,
-    "lng": 13.5883683,
-    "name_fr": "Villa Romana beach lounge & restaurant",
     "description_fr": null
   },
   {
@@ -56,11 +16,51 @@
     "description_fr": null
   },
   {
+    "id": 86,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_fr": "Gut Berg Naturhotel",
+    "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
+    "id": 2083,
+    "wind2horizon_id": null,
+    "lat": 47.34251400000001,
+    "lng": 13.1986437,
+    "name_fr": "Hotel Lerch",
+    "description_fr": "Hôtel-chalet chic offrant des activités pour les enfants, un restaurant et un spa avec 2 piscines."
+  },
+  {
+    "id": 87,
+    "wind2horizon_id": null,
+    "lat": 47.3475428,
+    "lng": 13.20184,
+    "name_fr": "sehen!wutscher",
+    "description_fr": null
+  },
+  {
     "id": 632,
     "wind2horizon_id": null,
     "lat": 43.81910329999999,
     "lng": 15.9189997,
     "name_fr": "ACI Marina Skradin",
+    "description_fr": null
+  },
+  {
+    "id": 93,
+    "wind2horizon_id": null,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_fr": "Amphithéâtre de Pula",
+    "description_fr": "Vaste amphithéâtre romain avec expositions souterraines sur production huile d'olive et vin dans l'Antiquité."
+  },
+  {
+    "id": 427,
+    "wind2horizon_id": null,
+    "lat": 45.2025388,
+    "lng": 13.5883683,
+    "name_fr": "Villa Romana beach lounge & restaurant",
     "description_fr": null
   },
   {
@@ -80,59 +80,11 @@
     "description_fr": null
   },
   {
-    "id": 92,
-    "wind2horizon_id": null,
-    "lat": 47.3134265,
-    "lng": 13.1896781,
-    "name_fr": "Liechtensteinklamm",
-    "description_fr": "Gorge étroite et profonde avec sentiers pédestres, ponts, rivière et cascade, ouverte en été uniquement."
-  },
-  {
-    "id": 2082,
-    "wind2horizon_id": null,
-    "lat": 45.1726543,
-    "lng": 13.6055542,
-    "name_fr": "More",
-    "description_fr": null
-  },
-  {
-    "id": 2027,
-    "wind2horizon_id": null,
-    "lat": 44.12,
-    "lng": 14.98,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 2034,
-    "wind2horizon_id": null,
-    "lat": 47.42541139999999,
-    "lng": 12.4202027,
-    "name_fr": "Golf Eichenheim",
-    "description_fr": null
-  },
-  {
-    "id": 2078,
-    "wind2horizon_id": null,
-    "lat": 47.34846839999999,
-    "lng": 13.2018103,
-    "name_fr": "Urban - Die Fleischerei",
-    "description_fr": null
-  },
-  {
     "id": 466,
     "wind2horizon_id": null,
     "lat": 45.0819593,
     "lng": 13.6316562,
     "name_fr": "Rovinj Mali Raj",
-    "description_fr": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_fr": "Phare de Blitvenica",
     "description_fr": null
   },
   {
@@ -144,6 +96,14 @@
     "description_fr": null
   },
   {
+    "id": 2082,
+    "wind2horizon_id": null,
+    "lat": 45.1726543,
+    "lng": 13.6055542,
+    "name_fr": "More",
+    "description_fr": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -152,12 +112,52 @@
     "description_fr": "Restaurant chic avec terrasse, servant du Tafelspitz (bœuf bouilli) et d'autres spécialités de la cuisine viennoise."
   },
   {
+    "id": 2027,
+    "wind2horizon_id": null,
+    "lat": 44.12,
+    "lng": 14.98,
+    "name_fr": null,
+    "description_fr": null
+  },
+  {
+    "id": 92,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_fr": "Liechtensteinklamm",
+    "description_fr": "Gorge étroite et profonde avec sentiers pédestres, ponts, rivière et cascade, ouverte en été uniquement."
+  },
+  {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_fr": "Phare de Blitvenica",
+    "description_fr": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_fr": "Grand Hotel Bernardin",
     "description_fr": "Hôtel balnéaire à l'ambiance détendue avec spa, piscine intérieure ouverte en saison, restaurants, bars et terrasse."
+  },
+  {
+    "id": 2078,
+    "wind2horizon_id": null,
+    "lat": 47.34846839999999,
+    "lng": 13.2018103,
+    "name_fr": "Urban - Die Fleischerei",
+    "description_fr": null
+  },
+  {
+    "id": 2034,
+    "wind2horizon_id": null,
+    "lat": 47.42541139999999,
+    "lng": 12.4202027,
+    "name_fr": "Golf Eichenheim",
+    "description_fr": null
   },
   {
     "id": 2030,
@@ -176,6 +176,14 @@
     "description_fr": null
   },
   {
+    "id": 2081,
+    "wind2horizon_id": null,
+    "lat": 38.7401303,
+    "lng": -9.1803574,
+    "name_fr": "Fondation des Maisons de Frontières et Alorna",
+    "description_fr": "Palais du XVIIe siècle avec visites guidées, azulejos traditionnels, tableaux et mobilier."
+  },
+  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
@@ -192,12 +200,12 @@
     "description_fr": "Grand instrument de musique expérimental installé sous un escalier et actionné par les vagues."
   },
   {
-    "id": 2081,
+    "id": 629,
     "wind2horizon_id": null,
-    "lat": 38.7401303,
-    "lng": -9.1803574,
-    "name_fr": "Fondation des Maisons de Frontières et Alorna",
-    "description_fr": "Palais du XVIIe siècle avec visites guidées, azulejos traditionnels, tableaux et mobilier."
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_fr": "ACI Marina Vodice",
+    "description_fr": null
   },
   {
     "id": 517,
@@ -216,12 +224,12 @@
     "description_fr": null
   },
   {
-    "id": 629,
+    "id": 2031,
     "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_fr": "ACI Marina Vodice",
-    "description_fr": null
+    "lat": 43.8463981769064,
+    "lng": 14.370066406249995,
+    "name_fr": null,
+    "description_fr": "Test du module B Maintenant, un test pour savoir si les données sont affichées sur la carte."
   },
   {
     "id": 899,
@@ -232,27 +240,19 @@
     "description_fr": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
-    "id": 2031,
+    "id": 89,
     "wind2horizon_id": null,
-    "lat": 43.8463981769064,
-    "lng": 14.370066406249995,
-    "name_fr": null,
-    "description_fr": "Test du module B Maintenant, un test pour savoir si les données sont affichées sur la carte."
+    "lat": 48.2040009,
+    "lng": 16.3697963,
+    "name_fr": "Hôtel Sacher",
+    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
   },
   {
-    "id": 865,
+    "id": 573,
     "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_fr": "Maistra Select Island Hotel Istra",
-    "description_fr": "Complexe raffiné sur île isolée avec 5 restaurants, spa moderne et plages privées."
-  },
-  {
-    "id": 94,
-    "wind2horizon_id": null,
-    "lat": 45.2038392,
-    "lng": 13.5947036,
-    "name_fr": "Skilift Porec",
+    "lat": 44.8439116,
+    "lng": 13.8452287,
+    "name_fr": "Pitter d.o.o.",
     "description_fr": null
   },
   {
@@ -280,6 +280,22 @@
     "description_fr": "Hôtel de style décontracté avec restaurant, pub, bar, piscine intérieure, saunas et bains à remous."
   },
   {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_fr": "Maistra Select Island Hotel Istra",
+    "description_fr": "Complexe raffiné sur île isolée avec 5 restaurants, spa moderne et plages privées."
+  },
+  {
+    "id": 94,
+    "wind2horizon_id": null,
+    "lat": 45.2038392,
+    "lng": 13.5947036,
+    "name_fr": "Skilift Porec",
+    "description_fr": null
+  },
+  {
     "id": 97,
     "wind2horizon_id": null,
     "lat": 47.8997807,
@@ -288,20 +304,12 @@
     "description_fr": null
   },
   {
-    "id": 573,
+    "id": 96,
     "wind2horizon_id": null,
-    "lat": 44.8439116,
-    "lng": 13.8452287,
-    "name_fr": "Pitter d.o.o.",
-    "description_fr": null
-  },
-  {
-    "id": 89,
-    "wind2horizon_id": null,
-    "lat": 48.2040009,
-    "lng": 16.3697963,
-    "name_fr": "Hôtel Sacher",
-    "description_fr": "Hôtel richement décoré, logements chics, 2 restaurants raffinés, spa à service complet et bar avec terrasse."
+    "lat": 47.8021621,
+    "lng": 13.0432009,
+    "name_fr": "Hotel Sacher Salzburg",
+    "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
     "id": 516,
@@ -320,43 +328,11 @@
     "description_fr": null
   },
   {
-    "id": 96,
-    "wind2horizon_id": null,
-    "lat": 47.8021621,
-    "lng": 13.0432009,
-    "name_fr": "Hotel Sacher Salzburg",
-    "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
-  },
-  {
-    "id": 2049,
-    "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_fr": "Gasthaus Eichenheim",
-    "description_fr": null
-  },
-  {
-    "id": 586,
-    "wind2horizon_id": null,
-    "lat": 44.821828,
-    "lng": 13.9022051,
-    "name_fr": "ACI Marina Pomer",
-    "description_fr": null
-  },
-  {
     "id": 2033,
     "wind2horizon_id": null,
     "lat": 47.1145299,
     "lng": 13.1370978,
     "name_fr": "A-ROSA Collection Straubinger Grand Hotel Bad Gastein",
-    "description_fr": null
-  },
-  {
-    "id": 2035,
-    "wind2horizon_id": null,
-    "lat": 47.1139945,
-    "lng": 13.1369949,
-    "name_fr": "Urban Nature Bad Gastein - Badeschloss",
     "description_fr": null
   },
   {
@@ -376,27 +352,35 @@
     "description_fr": null
   },
   {
-    "id": 98,
+    "id": 95,
     "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_fr": "Johannes Stadtapotheke",
+    "lat": 47.3089895,
+    "lng": 13.0902492,
+    "name_fr": "Golfclub Goldegg",
     "description_fr": null
   },
   {
-    "id": 515,
+    "id": 2049,
     "wind2horizon_id": null,
-    "lat": 45.1507961,
-    "lng": 13.5994712,
-    "name_fr": "Restaurant “Trošt”",
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_fr": "Gasthaus Eichenheim",
     "description_fr": null
   },
   {
-    "id": 631,
+    "id": 586,
     "wind2horizon_id": null,
-    "lat": 43.7585415,
-    "lng": 15.3460817,
-    "name_fr": "ACI Marina Piskera",
+    "lat": 44.821828,
+    "lng": 13.9022051,
+    "name_fr": "ACI Marina Pomer",
+    "description_fr": null
+  },
+  {
+    "id": 2035,
+    "wind2horizon_id": null,
+    "lat": 47.1139945,
+    "lng": 13.1369949,
+    "name_fr": "Urban Nature Bad Gastein - Badeschloss",
     "description_fr": null
   },
   {
@@ -416,11 +400,11 @@
     "description_fr": null
   },
   {
-    "id": 95,
+    "id": 98,
     "wind2horizon_id": null,
-    "lat": 47.3089895,
-    "lng": 13.0902492,
-    "name_fr": "Golfclub Goldegg",
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_fr": "Johannes Stadtapotheke",
     "description_fr": null
   },
   {
@@ -432,12 +416,36 @@
     "description_fr": "Station de ski très fréquentée offrant une grande diversité de pistes difficiles de ski et de snowboard."
   },
   {
+    "id": 515,
+    "wind2horizon_id": null,
+    "lat": 45.1507961,
+    "lng": 13.5994712,
+    "name_fr": "Restaurant “Trošt”",
+    "description_fr": null
+  },
+  {
+    "id": 631,
+    "wind2horizon_id": null,
+    "lat": 43.7585415,
+    "lng": 15.3460817,
+    "name_fr": "ACI Marina Piskera",
+    "description_fr": null
+  },
+  {
     "id": 99,
     "wind2horizon_id": null,
     "lat": 47.321454,
     "lng": 13.195048,
     "name_fr": "Snow Space Salzburg - St. Johann im Pongau",
     "description_fr": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
+  },
+  {
+    "id": 2332,
+    "wind2horizon_id": null,
+    "lat": 47.3471104,
+    "lng": 13.2041664,
+    "name_fr": "TUI ReiseCenter Reisebüro Stranger",
+    "description_fr": null
   },
   {
     "id": 90,
