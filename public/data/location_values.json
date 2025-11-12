@@ -5029,6 +5029,44 @@
     "locked": false
   },
   {
+    "id": 56859,
+    "location_id": 665,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": false,
+        "NO": true,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": false,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "wind_relevant": true
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5094,
     "location_id": 95,
     "attribute_id": 13,
