@@ -5458,6 +5458,23 @@
     "locked": false
   },
   {
+    "id": 56863,
+    "location_id": 665,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5119,
     "location_id": 95,
     "attribute_id": 7,
@@ -6252,6 +6269,44 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 56865,
+    "location_id": 665,
+    "attribute_id": 3,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": true,
+        "O": true,
+        "S": false,
+        "W": true,
+        "NO": true,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "wind_relevant": true
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -11176,21 +11231,6 @@
     "locked": false
   },
   {
-    "id": 22594,
-    "location_id": 665,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=1273818606722892450",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:51:34.504+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 22596,
     "location_id": 665,
     "attribute_id": 25,
@@ -11370,6 +11410,29 @@
     "value_json": [
       "Etablissement",
       "natürliches Merkmal",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 22594,
+    "location_id": 665,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=1273818606722892450",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "name": null,
+    "value_json": [
+      "https://maps.google.com/?cid=1273818606722892450",
       {
         "ai": false
       },
@@ -12526,6 +12589,29 @@
     "locked": false
   },
   {
+    "id": 22589,
+    "location_id": 665,
+    "attribute_id": 28,
+    "value_text": "Žirje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "name": null,
+    "value_json": [
+      "Žirje",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5054,
     "location_id": 91,
     "attribute_id": 24,
@@ -12771,21 +12857,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-10T11:51:28.056+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 22589,
-    "location_id": 665,
-    "attribute_id": 28,
-    "value_text": "Žirje",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:51:28.823+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -13426,21 +13497,6 @@
     "locked": false
   },
   {
-    "id": 22560,
-    "location_id": 665,
-    "attribute_id": 13,
-    "value_text": "Blitvenica Leuchtturm",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:51:07.601+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 22561,
     "location_id": 665,
     "attribute_id": 13,
@@ -13708,6 +13764,29 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 22560,
+    "location_id": 665,
+    "attribute_id": 13,
+    "value_text": "Blitvenica Leuchtturm",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "name": null,
+    "value_json": [
+      "Blitvenica Leuchtturm",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
