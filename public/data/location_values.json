@@ -5458,23 +5458,6 @@
     "locked": false
   },
   {
-    "id": 56863,
-    "location_id": 665,
-    "attribute_id": 102,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-12T13:29:17.501+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5119,
     "location_id": 95,
     "attribute_id": 7,
@@ -6273,44 +6256,6 @@
     "locked": false
   },
   {
-    "id": 56865,
-    "location_id": 665,
-    "attribute_id": 3,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": null,
-    "name": null,
-    "value_json": {
-      "ai": false,
-      "wind": {
-        "N": true,
-        "O": true,
-        "S": false,
-        "W": true,
-        "NO": true,
-        "NW": false,
-        "SO": false,
-        "SW": true
-      },
-      "swell": {
-        "N": false,
-        "O": false,
-        "S": false,
-        "W": true,
-        "NO": false,
-        "NW": false,
-        "SO": false,
-        "SW": true
-      },
-      "wind_relevant": true
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5179,
     "location_id": 98,
     "attribute_id": 4,
@@ -6502,6 +6447,44 @@
     "updated_at": "2025-11-10T11:47:11.872+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 56865,
+    "location_id": 665,
+    "attribute_id": 3,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": true,
+        "O": true,
+        "S": false,
+        "W": true,
+        "NO": true,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "wind_relevant": true
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -6882,6 +6865,44 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 56868,
+    "location_id": 86,
+    "attribute_id": 3,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": false,
+        "NO": true,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "swell": {
+        "N": false,
+        "O": true,
+        "S": false,
+        "W": false,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "wind_relevant": true
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -7915,6 +7936,26 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 56870,
+    "location_id": 665,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-13T19:40:12.624+00:00",
+    "name": null,
+    "value_json": [
+      "Liegt mitten im Wasser daher aus allen Windrichtungen Vorsicht geboten....",
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
