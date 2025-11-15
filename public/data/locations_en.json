@@ -128,14 +128,6 @@
     "description_en": "Deep, narrow gorge with footpaths, bridges, river & waterfall, only open in the summer months."
   },
   {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_en": "Blitvenica Lighthouse",
-    "description_en": null
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -152,6 +144,14 @@
     "description_en": null
   },
   {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 2034,
     "wind2horizon_id": null,
     "lat": 47.42541139999999,
@@ -160,11 +160,11 @@
     "description_en": null
   },
   {
-    "id": 2030,
+    "id": 665,
     "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_en": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_en": "Blitvenica Lighthouse",
     "description_en": null
   },
   {
