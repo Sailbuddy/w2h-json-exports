@@ -128,6 +128,14 @@
     "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
   },
   {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_it": "Blitvenica Lighthouse",
+    "description_it": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -157,14 +165,6 @@
     "lat": 47.42541139999999,
     "lng": 12.4202027,
     "name_it": "Golf Eichenheim",
-    "description_it": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_it": "Blitvenica Lighthouse",
     "description_it": null
   },
   {
