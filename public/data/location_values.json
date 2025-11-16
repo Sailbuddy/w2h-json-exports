@@ -2153,21 +2153,6 @@
     "locked": false
   },
   {
-    "id": 4893,
-    "location_id": 87,
-    "attribute_id": 13,
-    "value_text": "sehen!wutscher",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:48:15.916+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4894,
     "location_id": 87,
     "attribute_id": 13,
@@ -2194,6 +2179,29 @@
     "updated_at": "2025-11-10T11:48:23.199+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4893,
+    "location_id": 87,
+    "attribute_id": 13,
+    "value_text": "sehen!wutscher",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T22:09:34.386+00:00",
+    "name": null,
+    "value_json": [
+      "sehen!wutscher",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -2805,6 +2813,29 @@
     "locked": false
   },
   {
+    "id": 4948,
+    "location_id": 87,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=5535897027859519866",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T22:09:34.386+00:00",
+    "name": null,
+    "value_json": [
+      "https://maps.google.com/?cid=5535897027859519866",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52792,
     "location_id": 2049,
     "attribute_id": 13,
@@ -2895,21 +2926,6 @@
     "locked": false
   },
   {
-    "id": 4948,
-    "location_id": 87,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=5535897027859519866",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:48:49.931+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4949,
     "location_id": 87,
     "attribute_id": 25,
@@ -2970,21 +2986,6 @@
     "locked": false
   },
   {
-    "id": 4953,
-    "location_id": 87,
-    "attribute_id": 30,
-    "value_text": "06412 66248",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:48:55.401+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4954,
     "location_id": 87,
     "attribute_id": 30,
@@ -3026,6 +3027,52 @@
     "updated_at": "2025-11-10T11:48:57.158+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4942,
+    "location_id": 87,
+    "attribute_id": 28,
+    "value_text": "Hauptstraße 49 8, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T22:09:34.386+00:00",
+    "name": null,
+    "value_json": [
+      "Hauptstraße 49 8, St. Johann im Pongau",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4953,
+    "location_id": 87,
+    "attribute_id": 30,
+    "value_text": "06412 66248",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T22:09:34.386+00:00",
+    "name": null,
+    "value_json": [
+      "06412 66248",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -3220,21 +3267,6 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-10T11:48:45.545+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4942,
-    "location_id": 87,
-    "attribute_id": 28,
-    "value_text": "Hauptstraße 49 8, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-10T11:48:46.26+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -7775,6 +7807,32 @@
     "locked": false
   },
   {
+    "id": 56870,
+    "location_id": 665,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T16:49:31.576+00:00",
+    "name": null,
+    "value_json": [
+      "Liegt mitten im Wasser daher aus allen Windrichtungen Vorsicht geboten....",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54048,
     "location_id": 2076,
     "attribute_id": 30,
@@ -7822,26 +7880,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56870,
-    "location_id": 665,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-13T19:40:12.624+00:00",
-    "name": null,
-    "value_json": [
-      "Liegt mitten im Wasser daher aus allen Windrichtungen Vorsicht geboten....",
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -11376,10 +11414,16 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "updated_at": "2025-11-15T16:49:31.576+00:00",
     "name": null,
     "value_json": [
       "https://maps.google.com/?cid=1273818606722892450",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
       {
         "ai": false
       },
@@ -12544,10 +12588,16 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-12T13:29:17.501+00:00",
+    "updated_at": "2025-11-15T16:49:31.576+00:00",
     "name": null,
     "value_json": [
       "Žirje",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
       {
         "ai": false
       },
@@ -13715,29 +13765,6 @@
     "locked": false
   },
   {
-    "id": 22560,
-    "location_id": 665,
-    "attribute_id": 13,
-    "value_text": "Blitvenica Leuchtturm",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-12T13:29:17.501+00:00",
-    "name": null,
-    "value_json": [
-      "Blitvenica Leuchtturm",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 21170,
     "location_id": 630,
     "attribute_id": 16,
@@ -13778,6 +13805,35 @@
     "updated_at": "2025-11-10T11:51:03.023+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 22560,
+    "location_id": 665,
+    "attribute_id": 13,
+    "value_text": "Blitvenica Leuchtturm",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T16:49:31.576+00:00",
+    "name": null,
+    "value_json": [
+      "Blitvenica Leuchtturm",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -15694,6 +15750,23 @@
     "locked": false
   },
   {
+    "id": 56899,
+    "location_id": 665,
+    "attribute_id": 107,
+    "value_text": "16108",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 20514,
     "location_id": 88,
     "attribute_id": 10,
@@ -16284,6 +16357,26 @@
       {
         "ai": false
       },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 56904,
+    "location_id": 87,
+    "attribute_id": 107,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-15T22:09:34.386+00:00",
+    "name": null,
+    "value_json": [
+      "11034",
       {
         "ai": false
       }
