@@ -128,6 +128,14 @@
     "description_fr": "Gorge étroite et profonde avec sentiers pédestres, ponts, rivière et cascade, ouverte en été uniquement."
   },
   {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_fr": "Phare de Blitvenica",
+    "description_fr": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -157,14 +165,6 @@
     "lat": 47.42541139999999,
     "lng": 12.4202027,
     "name_fr": "Golf Eichenheim",
-    "description_fr": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_fr": "Phare de Blitvenica",
     "description_fr": null
   },
   {
