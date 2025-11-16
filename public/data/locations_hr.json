@@ -128,6 +128,14 @@
     "description_hr": "Duboki uski klanac s pješačkim stazama, mostovima, rijekom i slapom otvoren samo tijekom ljetnih mjeseci."
   },
   {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_hr": "Blitvenica Lighthouse",
+    "description_hr": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -157,14 +165,6 @@
     "lat": 47.42541139999999,
     "lng": 12.4202027,
     "name_hr": "Golf Eichenheim",
-    "description_hr": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_hr": "Blitvenica Lighthouse",
     "description_hr": null
   },
   {
