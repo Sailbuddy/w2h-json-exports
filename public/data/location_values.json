@@ -3394,6 +3394,29 @@
     "locked": false
   },
   {
+    "id": 4968,
+    "location_id": 90,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T11:16:55.208+00:00",
+    "name": null,
+    "value_json": [
+      "Schloss Schönbrunn",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4964,
     "location_id": 88,
     "attribute_id": 21,
@@ -3403,21 +3426,6 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-16T08:49:08.709+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4968,
-    "location_id": 90,
-    "attribute_id": 13,
-    "value_text": "Schloss Schönbrunn",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:49:18.531+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -3712,21 +3720,6 @@
     "locked": false
   },
   {
-    "id": 5023,
-    "location_id": 90,
-    "attribute_id": 30,
-    "value_text": "01 811130",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:49:51.147+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5046,
     "location_id": 91,
     "attribute_id": 22,
@@ -3751,21 +3744,6 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-16T08:49:46.618+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5018,
-    "location_id": 90,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=5650252119948299209",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:49:47.326+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -4050,21 +4028,6 @@
     "locked": false
   },
   {
-    "id": 5012,
-    "location_id": 90,
-    "attribute_id": 28,
-    "value_text": "Schönbrunner Schloßstraße 47, Wien",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:49:44.221+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5036,
     "location_id": 91,
     "attribute_id": 27,
@@ -4336,6 +4299,75 @@
       "Lebensmittel",
       "Interessenspunkt",
       "Restaurant",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5018,
+    "location_id": 90,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T11:16:55.208+00:00",
+    "name": null,
+    "value_json": [
+      "https://maps.google.com/?cid=5650252119948299209",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5012,
+    "location_id": 90,
+    "attribute_id": 28,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T11:16:55.208+00:00",
+    "name": null,
+    "value_json": [
+      "Schönbrunner Schloßstraße 47, Wien",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5023,
+    "location_id": 90,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T11:16:55.208+00:00",
+    "name": null,
+    "value_json": [
+      "01 811130",
       {
         "ai": false
       },
@@ -17896,6 +17928,23 @@
     "locked": false
   },
   {
+    "id": 57845,
+    "location_id": 90,
+    "attribute_id": 107,
+    "value_text": "14301",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T11:16:55.208+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5104,
     "location_id": 95,
     "attribute_id": 31,
@@ -18328,6 +18377,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 57846,
+    "location_id": 515,
+    "attribute_id": 107,
+    "value_text": "14308",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-17T17:29:15.896+00:00",
+    "name": "Pazin",
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
