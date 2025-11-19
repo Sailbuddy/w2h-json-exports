@@ -280,6 +280,13 @@
     "active": true
   },
   {
+    "id": 178,
+    "name_fr": "galerie d'art",
+    "icon": "art_gallery",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 124,
     "name_fr": "épicerie ou supermarché",
     "icon": "grocery_or_supermarket",
