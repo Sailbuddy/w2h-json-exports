@@ -280,6 +280,13 @@
     "active": true
   },
   {
+    "id": 178,
+    "name_it": "galleria d'arte",
+    "icon": "art_gallery",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 124,
     "name_it": "negozio di alimentari o supermercato",
     "icon": "grocery_or_supermarket",
