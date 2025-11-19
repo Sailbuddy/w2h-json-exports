@@ -280,6 +280,13 @@
     "active": true
   },
   {
+    "id": 178,
+    "name_en": "art_gallery",
+    "icon": "art_gallery",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 124,
     "name_en": "grocery_or_supermarket",
     "icon": "grocery_or_supermarket",
