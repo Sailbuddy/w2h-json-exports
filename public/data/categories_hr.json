@@ -280,6 +280,13 @@
     "active": true
   },
   {
+    "id": 178,
+    "name_hr": "umjetnička galerija",
+    "icon": "art_gallery",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 124,
     "name_hr": "trgovina prehrambenih proizvoda ili supermarket",
     "icon": "grocery_or_supermarket",
