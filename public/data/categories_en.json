@@ -357,6 +357,13 @@
     "active": true
   },
   {
+    "id": 179,
+    "name_en": "route",
+    "icon": "route",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 116,
     "name_en": "tourist_attraction",
     "icon": "tourist_attraction",
