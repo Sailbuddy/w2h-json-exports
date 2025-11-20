@@ -357,6 +357,13 @@
     "active": true
   },
   {
+    "id": 179,
+    "name_fr": "Itinéraire",
+    "icon": "route",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 116,
     "name_fr": "attraction touristique",
     "icon": "tourist_attraction",
