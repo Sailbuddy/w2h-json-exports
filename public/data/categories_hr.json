@@ -357,6 +357,13 @@
     "active": true
   },
   {
+    "id": 179,
+    "name_hr": "Ruta",
+    "icon": "route",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 116,
     "name_hr": "turistička atrakcija",
     "icon": "tourist_attraction",
