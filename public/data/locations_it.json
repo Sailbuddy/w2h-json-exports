@@ -1,27 +1,11 @@
 [
   {
-    "id": 527,
+    "id": 632,
     "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_it": "ACI Marina Rovinj",
+    "lat": 43.81910329999999,
+    "lng": 15.9189997,
+    "name_it": "ACI Marina Skradin",
     "description_it": null
-  },
-  {
-    "id": 2083,
-    "wind2horizon_id": null,
-    "lat": 47.34251400000001,
-    "lng": 13.1986437,
-    "name_it": "Hotel Lerch",
-    "description_it": "Hotel raffinato in stile chalet che offre attività per bambini, spa con 2 piscine e ristorante."
-  },
-  {
-    "id": 93,
-    "wind2horizon_id": null,
-    "lat": 44.87322990000001,
-    "lng": 13.8502458,
-    "name_it": "Anfiteatro di Pola",
-    "description_it": "Enorme anfiteatro romano con mostra sotterranea sulle antiche tecniche di produzione di olio e vino."
   },
   {
     "id": 86,
@@ -32,38 +16,6 @@
     "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 632,
-    "wind2horizon_id": null,
-    "lat": 43.81910329999999,
-    "lng": 15.9189997,
-    "name_it": "ACI Marina Skradin",
-    "description_it": null
-  },
-  {
-    "id": 2333,
-    "wind2horizon_id": null,
-    "lat": 45.21870753072248,
-    "lng": 12.9848735910356,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 2397,
-    "wind2horizon_id": null,
-    "lat": 47.273843,
-    "lng": 12.7574626,
-    "name_it": "Kitzsteinhorn - Gletscherbahnen Kaprun AG",
-    "description_it": null
-  },
-  {
-    "id": 2074,
-    "wind2horizon_id": null,
-    "lat": 43.295828,
-    "lng": 10.5971138,
-    "name_it": "Podere Treggiaia",
-    "description_it": null
-  },
-  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -72,27 +24,27 @@
     "description_it": null
   },
   {
-    "id": 2621,
+    "id": 527,
     "wind2horizon_id": null,
-    "lat": 45.5135253,
-    "lng": 13.5933814,
-    "name_it": "Cacao Portorož",
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_it": "ACI Marina Rovinj",
     "description_it": null
   },
   {
-    "id": 2026,
+    "id": 93,
     "wind2horizon_id": null,
-    "lat": 44.1234,
-    "lng": 14.9876,
+    "lat": 44.87322990000001,
+    "lng": 13.8502458,
+    "name_it": "Anfiteatro di Pola",
+    "description_it": "Enorme anfiteatro romano con mostra sotterranea sulle antiche tecniche di produzione di olio e vino."
+  },
+  {
+    "id": 2333,
+    "wind2horizon_id": null,
+    "lat": 45.21870753072248,
+    "lng": 12.9848735910356,
     "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 600,
-    "wind2horizon_id": null,
-    "lat": 44.9495486,
-    "lng": 14.4158599,
-    "name_it": "Apartment ACI Marina CRES",
     "description_it": null
   },
   {
@@ -104,43 +56,67 @@
     "description_it": null
   },
   {
-    "id": 2530,
+    "id": 2083,
     "wind2horizon_id": null,
-    "lat": 45.5255518,
-    "lng": 13.5672595,
-    "name_it": "Mejni prehod za mednarodni morski promet Piran",
+    "lat": 47.34251400000001,
+    "lng": 13.1986437,
+    "name_it": "Hotel Lerch",
+    "description_it": "Hotel raffinato in stile chalet che offre attività per bambini, spa con 2 piscine e ristorante."
+  },
+  {
+    "id": 2074,
+    "wind2horizon_id": null,
+    "lat": 43.295828,
+    "lng": 10.5971138,
+    "name_it": "Podere Treggiaia",
     "description_it": null
   },
   {
-    "id": 2034,
+    "id": 2397,
     "wind2horizon_id": null,
-    "lat": 47.42541139999999,
-    "lng": 12.4202027,
-    "name_it": "Golf Eichenheim",
+    "lat": 47.273843,
+    "lng": 12.7574626,
+    "name_it": "Kitzsteinhorn - Gletscherbahnen Kaprun AG",
     "description_it": null
   },
   {
-    "id": 2030,
+    "id": 2026,
     "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
+    "lat": 44.1234,
+    "lng": 14.9876,
     "name_it": null,
     "description_it": null
   },
   {
-    "id": 92,
+    "id": 2621,
     "wind2horizon_id": null,
-    "lat": 47.3134265,
-    "lng": 13.1896781,
-    "name_it": "Liechtensteinklamm",
-    "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
+    "lat": 45.5135253,
+    "lng": 13.5933814,
+    "name_it": "Cacao Portorož",
+    "description_it": null
   },
   {
-    "id": 2027,
+    "id": 600,
     "wind2horizon_id": null,
-    "lat": 44.12,
-    "lng": 14.98,
-    "name_it": null,
+    "lat": 44.9495486,
+    "lng": 14.4158599,
+    "name_it": "Apartment ACI Marina CRES",
+    "description_it": null
+  },
+  {
+    "id": 2893,
+    "wind2horizon_id": null,
+    "lat": 45.5279616,
+    "lng": 13.5678655,
+    "name_it": "Port Piran",
+    "description_it": null
+  },
+  {
+    "id": 2898,
+    "wind2horizon_id": null,
+    "lat": 45.3204658,
+    "lng": 13.5637114,
+    "name_it": "Marina Nautica Novigrad",
     "description_it": null
   },
   {
@@ -152,6 +128,22 @@
     "description_it": null
   },
   {
+    "id": 2526,
+    "wind2horizon_id": null,
+    "lat": 45.5498488,
+    "lng": 13.7277917,
+    "name_it": "Marina Koper",
+    "description_it": null
+  },
+  {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_it": null,
+    "description_it": null
+  },
+  {
     "id": 628,
     "wind2horizon_id": null,
     "lat": 44.11722,
@@ -160,19 +152,35 @@
     "description_it": "Grande strumento musicale sperimentale montato sotto una scalinata e suonato dalle onde del mare."
   },
   {
-    "id": 466,
+    "id": 2027,
     "wind2horizon_id": null,
-    "lat": 45.0819593,
-    "lng": 13.6316562,
-    "name_it": "Rovinj Mali Raj",
+    "lat": 44.12,
+    "lng": 14.98,
+    "name_it": null,
     "description_it": null
   },
   {
-    "id": 2526,
+    "id": 2806,
     "wind2horizon_id": null,
-    "lat": 45.5498488,
-    "lng": 13.7277917,
-    "name_it": "Marina Koper",
+    "lat": 45.4409582,
+    "lng": 13.5132327,
+    "name_it": "ACI Marina Umag",
+    "description_it": null
+  },
+  {
+    "id": 2530,
+    "wind2horizon_id": null,
+    "lat": 45.5255518,
+    "lng": 13.5672595,
+    "name_it": "Mejni prehod za mednarodni morski promet Piran",
+    "description_it": null
+  },
+  {
+    "id": 2899,
+    "wind2horizon_id": null,
+    "lat": 45.5371509,
+    "lng": 13.7321521,
+    "name_it": "Maxen Bencinski servis",
     "description_it": null
   },
   {
@@ -184,11 +192,11 @@
     "description_it": null
   },
   {
-    "id": 2078,
+    "id": 2532,
     "wind2horizon_id": null,
-    "lat": 47.34846839999999,
-    "lng": 13.2018103,
-    "name_it": "Urban - Die Fleischerei",
+    "lat": 45.52798079999999,
+    "lng": 13.5720991,
+    "name_it": "Viewpoint",
     "description_it": null
   },
   {
@@ -200,11 +208,27 @@
     "description_it": null
   },
   {
-    "id": 2532,
+    "id": 2033,
     "wind2horizon_id": null,
-    "lat": 45.52798079999999,
-    "lng": 13.5720991,
-    "name_it": "Viewpoint",
+    "lat": 47.1145299,
+    "lng": 13.1370978,
+    "name_it": "A-ROSA Collection Straubinger Grand Hotel Bad Gastein",
+    "description_it": null
+  },
+  {
+    "id": 2034,
+    "wind2horizon_id": null,
+    "lat": 47.42541139999999,
+    "lng": 12.4202027,
+    "name_it": "Golf Eichenheim",
+    "description_it": null
+  },
+  {
+    "id": 466,
+    "wind2horizon_id": null,
+    "lat": 45.0819593,
+    "lng": 13.6316562,
+    "name_it": "Rovinj Mali Raj",
     "description_it": null
   },
   {
@@ -216,6 +240,54 @@
     "description_it": null
   },
   {
+    "id": 2078,
+    "wind2horizon_id": null,
+    "lat": 47.34846839999999,
+    "lng": 13.2018103,
+    "name_it": "Urban - Die Fleischerei",
+    "description_it": null
+  },
+  {
+    "id": 2901,
+    "wind2horizon_id": null,
+    "lat": 45.5355223,
+    "lng": 13.6717353,
+    "name_it": "Petrol, BS Izola - Industrijska",
+    "description_it": null
+  },
+  {
+    "id": 2902,
+    "wind2horizon_id": null,
+    "lat": 45.550768,
+    "lng": 13.7277044,
+    "name_it": "MOL",
+    "description_it": null
+  },
+  {
+    "id": 2529,
+    "wind2horizon_id": null,
+    "lat": 45.5049004,
+    "lng": 13.5976743,
+    "name_it": "Marina Portorož",
+    "description_it": null
+  },
+  {
+    "id": 2077,
+    "wind2horizon_id": null,
+    "lat": 45.5293377,
+    "lng": 13.5658504,
+    "name_it": "Fritolin Pri Cantini",
+    "description_it": null
+  },
+  {
+    "id": 517,
+    "wind2horizon_id": null,
+    "lat": 45.1493381,
+    "lng": 13.6038832,
+    "name_it": "Studenac Market",
+    "description_it": null
+  },
+  {
     "id": 2081,
     "wind2horizon_id": null,
     "lat": 38.7401303,
@@ -224,20 +296,28 @@
     "description_it": "Palazzo secentesco aperto a tour guidati, con piastrelle azulejo, dipinti e arredi tradizionali."
   },
   {
-    "id": 508,
-    "wind2horizon_id": null,
-    "lat": 45.1505492,
-    "lng": 13.6052522,
-    "name_it": "Belvedere Casanova",
-    "description_it": "Belvedere su una collina con vista sul porto turistico, sul centro storico di Orsera e sul mare Adriatico."
-  },
-  {
     "id": 2031,
     "wind2horizon_id": null,
     "lat": 43.8463981769064,
     "lng": 14.370066406249995,
     "name_it": null,
     "description_it": "Test del modulo B Ora anche un test per verificare se i dati vengono visualizzati nella mappa."
+  },
+  {
+    "id": 561,
+    "wind2horizon_id": null,
+    "lat": 44.8731915,
+    "lng": 13.8450158,
+    "name_it": "ACI marina Pula",
+    "description_it": null
+  },
+  {
+    "id": 508,
+    "wind2horizon_id": null,
+    "lat": 45.1505492,
+    "lng": 13.6052522,
+    "name_it": "Belvedere Casanova",
+    "description_it": "Belvedere su una collina con vista sul porto turistico, sul centro storico di Orsera e sul mare Adriatico."
   },
   {
     "id": 629,
@@ -264,43 +344,27 @@
     "description_it": null
   },
   {
-    "id": 517,
-    "wind2horizon_id": null,
-    "lat": 45.1493381,
-    "lng": 13.6038832,
-    "name_it": "Studenac Market",
-    "description_it": null
-  },
-  {
-    "id": 2077,
-    "wind2horizon_id": null,
-    "lat": 45.5293377,
-    "lng": 13.5658504,
-    "name_it": "Fritolin Pri Cantini",
-    "description_it": null
-  },
-  {
-    "id": 561,
-    "wind2horizon_id": null,
-    "lat": 44.8731915,
-    "lng": 13.8450158,
-    "name_it": "ACI marina Pula",
-    "description_it": null
-  },
-  {
-    "id": 2529,
-    "wind2horizon_id": null,
-    "lat": 45.5049004,
-    "lng": 13.5976743,
-    "name_it": "Marina Portorož",
-    "description_it": null
-  },
-  {
     "id": 630,
     "wind2horizon_id": null,
     "lat": 47.3226363,
     "lng": 13.1608855,
     "name_it": "Palermo Pizzeria",
+    "description_it": null
+  },
+  {
+    "id": 2028,
+    "wind2horizon_id": null,
+    "lat": 44.03892636133072,
+    "lng": 15.055097809853564,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 2903,
+    "wind2horizon_id": null,
+    "lat": 45.53846859999999,
+    "lng": 13.6563578,
+    "name_it": "DISCONT Oil – Bencinska črpalka Izola",
     "description_it": null
   },
   {
@@ -312,11 +376,11 @@
     "description_it": "Sistemazioni eleganti in hotel ricercato che offre 2 ristoranti raffinati, bar con terrazza e spa completa."
   },
   {
-    "id": 2028,
+    "id": 2889,
     "wind2horizon_id": null,
-    "lat": 44.03892636133072,
-    "lng": 15.055097809853564,
-    "name_it": null,
+    "lat": 45.31783739999999,
+    "lng": 13.5594487,
+    "name_it": "Amore Bar",
     "description_it": null
   },
   {
@@ -344,22 +408,6 @@
     "description_it": null
   },
   {
-    "id": 573,
-    "wind2horizon_id": null,
-    "lat": 44.8439116,
-    "lng": 13.8452287,
-    "name_it": "Pitter d.o.o.",
-    "description_it": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_it": "Maistra Select Island Hotel Istra",
-    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
-  },
-  {
     "id": 2032,
     "wind2horizon_id": null,
     "lat": 43.655935077637004,
@@ -368,11 +416,91 @@
     "description_it": null
   },
   {
-    "id": 2049,
+    "id": 573,
     "wind2horizon_id": null,
-    "lat": 47.4255636,
-    "lng": 12.4200354,
-    "name_it": "Gasthaus Eichenheim",
+    "lat": 44.8439116,
+    "lng": 13.8452287,
+    "name_it": "Pitter d.o.o.",
+    "description_it": null
+  },
+  {
+    "id": 2904,
+    "wind2horizon_id": null,
+    "lat": 45.5052807,
+    "lng": 13.5967624,
+    "name_it": "MOL",
+    "description_it": null
+  },
+  {
+    "id": 2905,
+    "wind2horizon_id": null,
+    "lat": 45.5404958,
+    "lng": 13.7260184,
+    "name_it": "MOL",
+    "description_it": null
+  },
+  {
+    "id": 2906,
+    "wind2horizon_id": null,
+    "lat": 45.50043,
+    "lng": 13.61022,
+    "name_it": "MOL",
+    "description_it": null
+  },
+  {
+    "id": 2907,
+    "wind2horizon_id": null,
+    "lat": 45.5247017,
+    "lng": 13.6507286,
+    "name_it": "Petrol BS - Jagodje - South",
+    "description_it": null
+  },
+  {
+    "id": 2908,
+    "wind2horizon_id": null,
+    "lat": 45.5151236,
+    "lng": 13.5807993,
+    "name_it": "MOL",
+    "description_it": null
+  },
+  {
+    "id": 2909,
+    "wind2horizon_id": null,
+    "lat": 45.431259,
+    "lng": 13.5265464,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2910,
+    "wind2horizon_id": null,
+    "lat": 45.4399661,
+    "lng": 13.519012,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2911,
+    "wind2horizon_id": null,
+    "lat": 45.4312421,
+    "lng": 13.5301577,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2912,
+    "wind2horizon_id": null,
+    "lat": 45.492115,
+    "lng": 13.508227,
+    "name_it": "Crodux",
+    "description_it": null
+  },
+  {
+    "id": 586,
+    "wind2horizon_id": null,
+    "lat": 44.821828,
+    "lng": 13.9022051,
+    "name_it": "ACI Marina Pomer",
     "description_it": null
   },
   {
@@ -384,59 +512,19 @@
     "description_it": null
   },
   {
-    "id": 2035,
+    "id": 2808,
     "wind2horizon_id": null,
-    "lat": 47.1139945,
-    "lng": 13.1369949,
-    "name_it": "Urban Nature Bad Gastein - Badeschloss",
-    "description_it": null
+    "lat": 41.0904424,
+    "lng": 13.5594377,
+    "name_it": "Amore Cucina & Bar",
+    "description_it": "A Food Network chef serves wood-fired pizzas, Italian favorites, brunch & drinks in a warm setting."
   },
   {
-    "id": 91,
+    "id": 98,
     "wind2horizon_id": null,
-    "lat": 47.35044120000001,
-    "lng": 13.1940298,
-    "name_it": "JET Tankstelle",
-    "description_it": null
-  },
-  {
-    "id": 2207,
-    "wind2horizon_id": null,
-    "lat": 47.3481374,
-    "lng": 13.2015831,
-    "name_it": "Farben Steger - Farben, Lacke, Künstler- und Malerbedarf, Wohnaccessoires, Kerzen, Räucherwerk",
-    "description_it": null
-  },
-  {
-    "id": 515,
-    "wind2horizon_id": null,
-    "lat": 45.1507961,
-    "lng": 13.5994712,
-    "name_it": "Restoran “Trošt”",
-    "description_it": null
-  },
-  {
-    "id": 2025,
-    "wind2horizon_id": null,
-    "lat": -33.866489,
-    "lng": 151.1958561,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 2029,
-    "wind2horizon_id": null,
-    "lat": 44.13602924559946,
-    "lng": 15.068412977946032,
-    "name_it": null,
-    "description_it": null
-  },
-  {
-    "id": 2033,
-    "wind2horizon_id": null,
-    "lat": 47.1145299,
-    "lng": 13.1370978,
-    "name_it": "A-ROSA Collection Straubinger Grand Hotel Bad Gastein",
+    "lat": 47.34702619999999,
+    "lng": 13.2021919,
+    "name_it": "Johannes Stadtapotheke",
     "description_it": null
   },
   {
@@ -448,6 +536,38 @@
     "description_it": "Vivace piazza con monumento centrale, circondata da bar e ristoranti."
   },
   {
+    "id": 91,
+    "wind2horizon_id": null,
+    "lat": 47.35044120000001,
+    "lng": 13.1940298,
+    "name_it": "JET Tankstelle",
+    "description_it": null
+  },
+  {
+    "id": 2035,
+    "wind2horizon_id": null,
+    "lat": 47.1139945,
+    "lng": 13.1369949,
+    "name_it": "Urban Nature Bad Gastein - Badeschloss",
+    "description_it": null
+  },
+  {
+    "id": 2029,
+    "wind2horizon_id": null,
+    "lat": 44.13602924559946,
+    "lng": 15.068412977946032,
+    "name_it": null,
+    "description_it": null
+  },
+  {
+    "id": 2207,
+    "wind2horizon_id": null,
+    "lat": 47.3481374,
+    "lng": 13.2015831,
+    "name_it": "Farben Steger - Farben, Lacke, Künstler- und Malerbedarf, Wohnaccessoires, Kerzen, Räucherwerk",
+    "description_it": null
+  },
+  {
     "id": 95,
     "wind2horizon_id": null,
     "lat": 47.3089895,
@@ -456,19 +576,43 @@
     "description_it": null
   },
   {
-    "id": 98,
+    "id": 2049,
     "wind2horizon_id": null,
-    "lat": 47.34702619999999,
-    "lng": 13.2021919,
-    "name_it": "Johannes Stadtapotheke",
+    "lat": 47.4255636,
+    "lng": 12.4200354,
+    "name_it": "Gasthaus Eichenheim",
     "description_it": null
   },
   {
-    "id": 586,
+    "id": 2025,
     "wind2horizon_id": null,
-    "lat": 44.821828,
-    "lng": 13.9022051,
-    "name_it": "ACI Marina Pomer",
+    "lat": -33.866489,
+    "lng": 151.1958561,
+    "name_it": "Google Sydney - Pirrama Road",
+    "description_it": null
+  },
+  {
+    "id": 515,
+    "wind2horizon_id": null,
+    "lat": 45.1507961,
+    "lng": 13.5994712,
+    "name_it": "Restoran “Trošt”",
+    "description_it": null
+  },
+  {
+    "id": 2892,
+    "wind2horizon_id": null,
+    "lat": 45.5286508,
+    "lng": 13.5686185,
+    "name_it": "Piazza Giuseppe Tartini",
+    "description_it": null
+  },
+  {
+    "id": 2914,
+    "wind2horizon_id": null,
+    "lat": 45.299453,
+    "lng": 13.622188,
+    "name_it": "INA",
     "description_it": null
   },
   {
@@ -496,6 +640,14 @@
     "description_it": null
   },
   {
+    "id": 88,
+    "wind2horizon_id": null,
+    "lat": 48.207521,
+    "lng": 16.378672,
+    "name_it": "Plachutta",
+    "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
+  },
+  {
     "id": 90,
     "wind2horizon_id": null,
     "lat": 48.1858124,
@@ -520,20 +672,36 @@
     "description_it": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   },
   {
-    "id": 88,
-    "wind2horizon_id": null,
-    "lat": 48.207521,
-    "lng": 16.378672,
-    "name_it": "Plachutta",
-    "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
-  },
-  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_it": "Grand Hotel Bernardin",
     "description_it": "Hotel dall'atmosfera rilassata sul mare con ristoranti, bar, terrazza, spa e piscina stagionale coperta."
+  },
+  {
+    "id": 2887,
+    "wind2horizon_id": null,
+    "lat": 45.3176465,
+    "lng": 13.5594377,
+    "name_it": "Half 8 Restaurant, Novigrad",
+    "description_it": null
+  },
+  {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_it": "Maistra Select Island Hotel Istra",
+    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
+  },
+  {
+    "id": 92,
+    "wind2horizon_id": null,
+    "lat": 47.3134265,
+    "lng": 13.1896781,
+    "name_it": "Liechtensteinklamm",
+    "description_it": "Gola profonda e stretta con sentieri, ponti, fiume e cascata, aperta solo nei mesi estivi."
   },
   {
     "id": 100,
@@ -550,5 +718,1093 @@
     "lng": 13.5681324,
     "name_it": "Museo del mare Sergej Mašera Pirano",
     "description_it": "Palazzo risalente al 1800 che ospita un museo marittimo con mostre navali, fotografie e modellini di navi."
+  },
+  {
+    "id": 2895,
+    "wind2horizon_id": null,
+    "lat": 45.486393,
+    "lng": 13.5984581,
+    "name_it": "Parco Naturale delle Saline di Sicciole",
+    "description_it": "Saline in attività da circa 700 anni, in un parco che ospita aironi, artemie e piante rare."
+  },
+  {
+    "id": 2896,
+    "wind2horizon_id": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_it": "Faro di Salvore",
+    "description_it": null
+  },
+  {
+    "id": 2900,
+    "wind2horizon_id": null,
+    "lat": 45.59283,
+    "lng": 13.72411,
+    "name_it": "INA Lazaret",
+    "description_it": null
+  },
+  {
+    "id": 2913,
+    "wind2horizon_id": null,
+    "lat": 45.43249,
+    "lng": 13.530883,
+    "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 2916,
+    "wind2horizon_id": null,
+    "lat": 45.3187536,
+    "lng": 13.5739196,
+    "name_it": "Crodux",
+    "description_it": null
+  },
+  {
+    "id": 2921,
+    "wind2horizon_id": null,
+    "lat": 45.2394883,
+    "lng": 13.6243333,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2924,
+    "wind2horizon_id": null,
+    "lat": 45.22586620000001,
+    "lng": 13.6015772,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2915,
+    "wind2horizon_id": null,
+    "lat": 45.31852199999999,
+    "lng": 13.5648114,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2922,
+    "wind2horizon_id": null,
+    "lat": 45.2364008,
+    "lng": 13.6039619,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2917,
+    "wind2horizon_id": null,
+    "lat": 45.29811429999999,
+    "lng": 13.6217294,
+    "name_it": "Aldo Commerce",
+    "description_it": null
+  },
+  {
+    "id": 2925,
+    "wind2horizon_id": null,
+    "lat": 45.1482682,
+    "lng": 13.6042558,
+    "name_it": "Crodux",
+    "description_it": null
+  },
+  {
+    "id": 2926,
+    "wind2horizon_id": null,
+    "lat": 45.2245414,
+    "lng": 13.5962814,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2927,
+    "wind2horizon_id": null,
+    "lat": 45.21885779999999,
+    "lng": 13.6488741,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2928,
+    "wind2horizon_id": null,
+    "lat": 45.22463130000001,
+    "lng": 13.5950942,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2929,
+    "wind2horizon_id": null,
+    "lat": 45.2070655,
+    "lng": 13.6033321,
+    "name_it": "Aldo Commerce Ltd. Porec",
+    "description_it": null
+  },
+  {
+    "id": 2930,
+    "wind2horizon_id": null,
+    "lat": 45.22103329999999,
+    "lng": 13.6382312,
+    "name_it": "Gas Oil",
+    "description_it": null
+  },
+  {
+    "id": 2931,
+    "wind2horizon_id": null,
+    "lat": 45.0906883,
+    "lng": 13.6588764,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2932,
+    "wind2horizon_id": null,
+    "lat": 45.0799225,
+    "lng": 13.6534463,
+    "name_it": "Ina",
+    "description_it": null
+  },
+  {
+    "id": 2933,
+    "wind2horizon_id": null,
+    "lat": 45.07953759999999,
+    "lng": 13.662411,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2934,
+    "wind2horizon_id": null,
+    "lat": 45.0844545,
+    "lng": 13.6350083,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2936,
+    "wind2horizon_id": null,
+    "lat": 45.0922445,
+    "lng": 13.6695332,
+    "name_it": "Shell BS",
+    "description_it": null
+  },
+  {
+    "id": 2938,
+    "wind2horizon_id": null,
+    "lat": 44.82705079999999,
+    "lng": 13.8790314,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2937,
+    "wind2horizon_id": null,
+    "lat": 44.83856309999999,
+    "lng": 13.8432696,
+    "name_it": "FLASH ENERGY",
+    "description_it": null
+  },
+  {
+    "id": 2935,
+    "wind2horizon_id": null,
+    "lat": 45.0847285,
+    "lng": 13.6344352,
+    "name_it": "Boat fueling station",
+    "description_it": null
+  },
+  {
+    "id": 2943,
+    "wind2horizon_id": null,
+    "lat": 44.9327085,
+    "lng": 13.8913341,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2944,
+    "wind2horizon_id": null,
+    "lat": 44.93359239999999,
+    "lng": 13.8893216,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2945,
+    "wind2horizon_id": null,
+    "lat": 44.8553489,
+    "lng": 13.8426913,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2946,
+    "wind2horizon_id": null,
+    "lat": 44.87669570000001,
+    "lng": 13.8533948,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2951,
+    "wind2horizon_id": null,
+    "lat": 44.925644,
+    "lng": 13.803978,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2948,
+    "wind2horizon_id": null,
+    "lat": 44.8926855,
+    "lng": 13.8462941,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2949,
+    "wind2horizon_id": null,
+    "lat": 44.8792396,
+    "lng": 13.8664444,
+    "name_it": "Crodux",
+    "description_it": null
+  },
+  {
+    "id": 2939,
+    "wind2horizon_id": null,
+    "lat": 44.82056840000001,
+    "lng": 13.9312875,
+    "name_it": "INA Medulin",
+    "description_it": null
+  },
+  {
+    "id": 2953,
+    "wind2horizon_id": null,
+    "lat": 44.8734465,
+    "lng": 13.8472214,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2940,
+    "wind2horizon_id": null,
+    "lat": 44.8381197,
+    "lng": 13.8433856,
+    "name_it": "Boat Gas station Marina Veruda BP Crno Zlato",
+    "description_it": null
+  },
+  {
+    "id": 2941,
+    "wind2horizon_id": null,
+    "lat": 44.834197,
+    "lng": 13.922191,
+    "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 2942,
+    "wind2horizon_id": null,
+    "lat": 44.8143153,
+    "lng": 13.9274306,
+    "name_it": "Petrol Station Flash, za brodove (boats)",
+    "description_it": null
+  },
+  {
+    "id": 2957,
+    "wind2horizon_id": null,
+    "lat": 44.8573716,
+    "lng": 13.877445,
+    "name_it": "Tankstella",
+    "description_it": null
+  },
+  {
+    "id": 2960,
+    "wind2horizon_id": null,
+    "lat": 44.9548735,
+    "lng": 13.8493735,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2962,
+    "wind2horizon_id": null,
+    "lat": 45.0301159,
+    "lng": 14.5875163,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2964,
+    "wind2horizon_id": null,
+    "lat": 44.9585424,
+    "lng": 14.4101666,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2966,
+    "wind2horizon_id": null,
+    "lat": 44.9509484,
+    "lng": 14.4146147,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2970,
+    "wind2horizon_id": null,
+    "lat": 44.5453817,
+    "lng": 14.4554674,
+    "name_it": "Adria Oil BP Mali Lošinj",
+    "description_it": null
+  },
+  {
+    "id": 2972,
+    "wind2horizon_id": null,
+    "lat": 45.1112391,
+    "lng": 14.5460215,
+    "name_it": "Adria Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2976,
+    "wind2horizon_id": null,
+    "lat": 45.1254476,
+    "lng": 14.7927579,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2978,
+    "wind2horizon_id": null,
+    "lat": 44.7578594,
+    "lng": 14.7633297,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2980,
+    "wind2horizon_id": null,
+    "lat": 44.823513,
+    "lng": 14.715167,
+    "name_it": "Perductor d.o.o",
+    "description_it": null
+  },
+  {
+    "id": 2982,
+    "wind2horizon_id": null,
+    "lat": 44.7580686,
+    "lng": 14.7625887,
+    "name_it": "Tankstelle RAB Hafen",
+    "description_it": null
+  },
+  {
+    "id": 2984,
+    "wind2horizon_id": null,
+    "lat": 44.54743010000001,
+    "lng": 14.8938699,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2986,
+    "wind2horizon_id": null,
+    "lat": 44.5344975,
+    "lng": 14.9130783,
+    "name_it": "Tifon",
+    "description_it": null
+  },
+  {
+    "id": 2990,
+    "wind2horizon_id": null,
+    "lat": 44.07645309999999,
+    "lng": 15.193731,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2992,
+    "wind2horizon_id": null,
+    "lat": 44.1052121,
+    "lng": 15.2600577,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2994,
+    "wind2horizon_id": null,
+    "lat": 44.1155374,
+    "lng": 15.259644,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2996,
+    "wind2horizon_id": null,
+    "lat": 44.1178619,
+    "lng": 15.2286932,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2998,
+    "wind2horizon_id": null,
+    "lat": 44.0948569,
+    "lng": 15.2590458,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3000,
+    "wind2horizon_id": null,
+    "lat": 44.1375292,
+    "lng": 15.2402687,
+    "name_it": "Adria Oil BP Zadar",
+    "description_it": null
+  },
+  {
+    "id": 3002,
+    "wind2horizon_id": null,
+    "lat": 44.0500828,
+    "lng": 15.3121901,
+    "name_it": "Tri Bartola d.o.o.",
+    "description_it": null
+  },
+  {
+    "id": 3006,
+    "wind2horizon_id": null,
+    "lat": 44.1390771,
+    "lng": 15.3107892,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2961,
+    "wind2horizon_id": null,
+    "lat": 44.85750059999999,
+    "lng": 13.87769,
+    "name_it": "Gas Oil Pula",
+    "description_it": null
+  },
+  {
+    "id": 2963,
+    "wind2horizon_id": null,
+    "lat": 45.0244483,
+    "lng": 14.5707578,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2967,
+    "wind2horizon_id": null,
+    "lat": 45.029034,
+    "lng": 14.497961,
+    "name_it": "Gas station Valbiska",
+    "description_it": null
+  },
+  {
+    "id": 2969,
+    "wind2horizon_id": null,
+    "lat": 44.5341392,
+    "lng": 14.4722168,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2971,
+    "wind2horizon_id": null,
+    "lat": 44.5338295,
+    "lng": 14.4633172,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2975,
+    "wind2horizon_id": null,
+    "lat": 45.0391533,
+    "lng": 14.5694439,
+    "name_it": "In'sol",
+    "description_it": null
+  },
+  {
+    "id": 2977,
+    "wind2horizon_id": null,
+    "lat": 45.125895,
+    "lng": 14.788212,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2979,
+    "wind2horizon_id": null,
+    "lat": 44.74775,
+    "lng": 14.7891886,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2981,
+    "wind2horizon_id": null,
+    "lat": 44.7121691,
+    "lng": 14.9193095,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2983,
+    "wind2horizon_id": null,
+    "lat": 44.441341,
+    "lng": 15.061923,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2985,
+    "wind2horizon_id": null,
+    "lat": 44.5298226,
+    "lng": 15.069826,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2987,
+    "wind2horizon_id": null,
+    "lat": 44.54933459999999,
+    "lng": 14.9021366,
+    "name_it": "Lukoil",
+    "description_it": null
+  },
+  {
+    "id": 2989,
+    "wind2horizon_id": null,
+    "lat": 44.4376284,
+    "lng": 15.0647818,
+    "name_it": "Rijeka Trans",
+    "description_it": null
+  },
+  {
+    "id": 2991,
+    "wind2horizon_id": null,
+    "lat": 44.13192900000001,
+    "lng": 15.2115527,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2993,
+    "wind2horizon_id": null,
+    "lat": 44.1178978,
+    "lng": 15.228701,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2997,
+    "wind2horizon_id": null,
+    "lat": 44.11058389999999,
+    "lng": 15.2340203,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 2999,
+    "wind2horizon_id": null,
+    "lat": 44.0527655,
+    "lng": 15.2974138,
+    "name_it": "Asmira Marine Fuel Station",
+    "description_it": null
+  },
+  {
+    "id": 3001,
+    "wind2horizon_id": null,
+    "lat": 44.0527413,
+    "lng": 15.297396,
+    "name_it": "Petrol Station",
+    "description_it": null
+  },
+  {
+    "id": 3003,
+    "wind2horizon_id": null,
+    "lat": 44.2269856,
+    "lng": 15.1790813,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3007,
+    "wind2horizon_id": null,
+    "lat": 44.118574,
+    "lng": 15.271994,
+    "name_it": "Shell BS Zadar Crno",
+    "description_it": null
+  },
+  {
+    "id": 3008,
+    "wind2horizon_id": null,
+    "lat": 44.121267,
+    "lng": 15.2609898,
+    "name_it": "LPG kamp gas fill station",
+    "description_it": null
+  },
+  {
+    "id": 3010,
+    "wind2horizon_id": null,
+    "lat": 44.114187,
+    "lng": 15.40713,
+    "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 3012,
+    "wind2horizon_id": null,
+    "lat": 45.3600742,
+    "lng": 14.4935488,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3014,
+    "wind2horizon_id": null,
+    "lat": 45.3635043,
+    "lng": 14.3265821,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3016,
+    "wind2horizon_id": null,
+    "lat": 45.3564626,
+    "lng": 14.4874776,
+    "name_it": "Ina Čavle",
+    "description_it": null
+  },
+  {
+    "id": 3018,
+    "wind2horizon_id": null,
+    "lat": 45.3420561,
+    "lng": 14.3712217,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3020,
+    "wind2horizon_id": null,
+    "lat": 45.2871904,
+    "lng": 14.546653,
+    "name_it": "Ina RIJEKA PUNILIŠTE",
+    "description_it": null
+  },
+  {
+    "id": 3022,
+    "wind2horizon_id": null,
+    "lat": 45.33434889999999,
+    "lng": 14.4217676,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3024,
+    "wind2horizon_id": null,
+    "lat": 45.3417116,
+    "lng": 14.371831,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3026,
+    "wind2horizon_id": null,
+    "lat": 45.3608874,
+    "lng": 14.3296183,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3028,
+    "wind2horizon_id": null,
+    "lat": 45.4431236,
+    "lng": 14.2734547,
+    "name_it": "Crodux Brgud Zapad",
+    "description_it": null
+  },
+  {
+    "id": 3030,
+    "wind2horizon_id": null,
+    "lat": 45.3742499,
+    "lng": 14.3867563,
+    "name_it": "Adria Oil BP Viškovo",
+    "description_it": null
+  },
+  {
+    "id": 3032,
+    "wind2horizon_id": null,
+    "lat": 45.33541210000001,
+    "lng": 14.3110078,
+    "name_it": "Ina",
+    "description_it": null
+  },
+  {
+    "id": 3034,
+    "wind2horizon_id": null,
+    "lat": 45.296351,
+    "lng": 14.2757542,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3036,
+    "wind2horizon_id": null,
+    "lat": 45.3551753,
+    "lng": 14.3496619,
+    "name_it": "Crodux - Vrata Jadrana South",
+    "description_it": null
+  },
+  {
+    "id": 3011,
+    "wind2horizon_id": null,
+    "lat": 44.2855676,
+    "lng": 15.1229848,
+    "name_it": "Tri Bartola d.o.o.",
+    "description_it": null
+  },
+  {
+    "id": 3015,
+    "wind2horizon_id": null,
+    "lat": 45.328088,
+    "lng": 14.4479858,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3017,
+    "wind2horizon_id": null,
+    "lat": 45.3862753,
+    "lng": 14.313788,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3019,
+    "wind2horizon_id": null,
+    "lat": 45.4420942,
+    "lng": 14.2751499,
+    "name_it": "Petrol Crodux Brgud East",
+    "description_it": null
+  },
+  {
+    "id": 3021,
+    "wind2horizon_id": null,
+    "lat": 45.3484305,
+    "lng": 14.4199107,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3023,
+    "wind2horizon_id": null,
+    "lat": 45.2719051,
+    "lng": 14.5768156,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3025,
+    "wind2horizon_id": null,
+    "lat": 45.332861,
+    "lng": 14.3026401,
+    "name_it": "Ina",
+    "description_it": null
+  },
+  {
+    "id": 3029,
+    "wind2horizon_id": null,
+    "lat": 45.3730757,
+    "lng": 14.3390351,
+    "name_it": "Adria Oil BP Spinčići",
+    "description_it": null
+  },
+  {
+    "id": 3031,
+    "wind2horizon_id": null,
+    "lat": 45.2566899,
+    "lng": 14.5810568,
+    "name_it": "Tifon",
+    "description_it": null
+  },
+  {
+    "id": 3033,
+    "wind2horizon_id": null,
+    "lat": 45.3553562,
+    "lng": 14.3534385,
+    "name_it": "Crodux - Vrata Jadrana North",
+    "description_it": null
+  },
+  {
+    "id": 3035,
+    "wind2horizon_id": null,
+    "lat": 45.3722451,
+    "lng": 14.3577942,
+    "name_it": "Tifon",
+    "description_it": null
+  },
+  {
+    "id": 3038,
+    "wind2horizon_id": null,
+    "lat": 45.36312789999999,
+    "lng": 14.4910799,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3039,
+    "wind2horizon_id": null,
+    "lat": 45.358184,
+    "lng": 14.3271482,
+    "name_it": "Adria Oil BP Opatija",
+    "description_it": null
+  },
+  {
+    "id": 3040,
+    "wind2horizon_id": null,
+    "lat": 45.323124,
+    "lng": 14.4677187,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3041,
+    "wind2horizon_id": null,
+    "lat": 45.2563509,
+    "lng": 14.5813226,
+    "name_it": "Tifon",
+    "description_it": null
+  },
+  {
+    "id": 3043,
+    "wind2horizon_id": null,
+    "lat": 45.3342598,
+    "lng": 14.4160594,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3044,
+    "wind2horizon_id": null,
+    "lat": 45.285028,
+    "lng": 14.534661,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3045,
+    "wind2horizon_id": null,
+    "lat": 45.3254457,
+    "lng": 14.477691,
+    "name_it": "Ina",
+    "description_it": null
+  },
+  {
+    "id": 3046,
+    "wind2horizon_id": null,
+    "lat": 45.3542047,
+    "lng": 14.3656205,
+    "name_it": "Adria Oil BP Martinkovac",
+    "description_it": null
+  },
+  {
+    "id": 3047,
+    "wind2horizon_id": null,
+    "lat": 45.3295162,
+    "lng": 14.5092148,
+    "name_it": "Adria Oil BP Kukuljanovo",
+    "description_it": null
+  },
+  {
+    "id": 2958,
+    "wind2horizon_id": null,
+    "lat": 44.8618367,
+    "lng": 13.8632213,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 2968,
+    "wind2horizon_id": null,
+    "lat": 45.0241543,
+    "lng": 14.5737785,
+    "name_it": "Krk boat fuel station",
+    "description_it": null
+  },
+  {
+    "id": 2974,
+    "wind2horizon_id": null,
+    "lat": 44.9742854,
+    "lng": 14.7434823,
+    "name_it": "Benzinska postaja In’Sol",
+    "description_it": null
+  },
+  {
+    "id": 2988,
+    "wind2horizon_id": null,
+    "lat": 44.5570496,
+    "lng": 14.8813777,
+    "name_it": "Sea Gas Point Novalja",
+    "description_it": null
+  },
+  {
+    "id": 3004,
+    "wind2horizon_id": null,
+    "lat": 44.140518,
+    "lng": 15.228063,
+    "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 3042,
+    "wind2horizon_id": null,
+    "lat": 45.3084576,
+    "lng": 14.4925455,
+    "name_it": "Ina Industrija Nafte D.D. - Služba Održavanja Rafinerije Nafte",
+    "description_it": null
+  },
+  {
+    "id": 3048,
+    "wind2horizon_id": null,
+    "lat": 45.32371879999999,
+    "lng": 14.5114535,
+    "name_it": "Rijeka Trans D.O.O. BP",
+    "description_it": null
+  },
+  {
+    "id": 3050,
+    "wind2horizon_id": null,
+    "lat": 45.3553104,
+    "lng": 14.3915237,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3052,
+    "wind2horizon_id": null,
+    "lat": 45.3098795,
+    "lng": 14.4880617,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3054,
+    "wind2horizon_id": null,
+    "lat": 45.3825235,
+    "lng": 14.3834932,
+    "name_it": "Petrol, PM Rijeka - Viškovo",
+    "description_it": null
+  },
+  {
+    "id": 3056,
+    "wind2horizon_id": null,
+    "lat": 45.340117,
+    "lng": 14.4130269,
+    "name_it": "Ina",
+    "description_it": null
+  },
+  {
+    "id": 2959,
+    "wind2horizon_id": null,
+    "lat": 44.8575902,
+    "lng": 13.8773086,
+    "name_it": "Myjnia samochodowa",
+    "description_it": null
+  },
+  {
+    "id": 2965,
+    "wind2horizon_id": null,
+    "lat": 45.0241133,
+    "lng": 14.5737744,
+    "name_it": "Crno Zlato d o o BP KRK",
+    "description_it": null
+  },
+  {
+    "id": 2973,
+    "wind2horizon_id": null,
+    "lat": 45.123068,
+    "lng": 14.527419,
+    "name_it": "Trgovina Krk d.d. Petrol station",
+    "description_it": null
+  },
+  {
+    "id": 2995,
+    "wind2horizon_id": null,
+    "lat": 44.19007819999999,
+    "lng": 15.1805238,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3005,
+    "wind2horizon_id": null,
+    "lat": 44.1395167,
+    "lng": 15.3104242,
+    "name_it": "Petrol Murvica West",
+    "description_it": null
+  },
+  {
+    "id": 3009,
+    "wind2horizon_id": null,
+    "lat": 44.10154199999999,
+    "lng": 15.2536782,
+    "name_it": "Tri Bartola",
+    "description_it": null
+  },
+  {
+    "id": 3013,
+    "wind2horizon_id": null,
+    "lat": 45.2768923,
+    "lng": 14.5708358,
+    "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3027,
+    "wind2horizon_id": null,
+    "lat": 45.3487792,
+    "lng": 14.4949469,
+    "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3037,
+    "wind2horizon_id": null,
+    "lat": 45.2173052,
+    "lng": 14.5641424,
+    "name_it": "Gas Station GPP Mikic",
+    "description_it": null
+  },
+  {
+    "id": 3049,
+    "wind2horizon_id": null,
+    "lat": 45.3436969,
+    "lng": 14.4088104,
+    "name_it": "Crodux",
+    "description_it": null
+  },
+  {
+    "id": 3051,
+    "wind2horizon_id": null,
+    "lat": 45.335311,
+    "lng": 14.4182236,
+    "name_it": "CRODUX Rijeka, Mlaka - grupa Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3053,
+    "wind2horizon_id": null,
+    "lat": 45.3358648,
+    "lng": 14.51435,
+    "name_it": "Rijeka Trans Pumpa",
+    "description_it": null
+  },
+  {
+    "id": 3055,
+    "wind2horizon_id": null,
+    "lat": 45.31403,
+    "lng": 14.24979,
+    "name_it": "INA Kvarner",
+    "description_it": null
   }
 ]
