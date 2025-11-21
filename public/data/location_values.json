@@ -990,6 +990,23 @@
     "locked": false
   },
   {
+    "id": 63593,
+    "location_id": 2938,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:07:48.318+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54028,
     "location_id": 2076,
     "attribute_id": 14,
@@ -1428,6 +1445,40 @@
     "locked": false
   },
   {
+    "id": 63594,
+    "location_id": 2938,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:07:48.88+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63595,
+    "location_id": 2938,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:07:49.485+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54039,
     "location_id": 2076,
     "attribute_id": 28,
@@ -1588,6 +1639,23 @@
     "locked": false
   },
   {
+    "id": 63596,
+    "location_id": 2938,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:07:50.347+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4835,
     "location_id": 86,
     "attribute_id": 27,
@@ -1674,6 +1742,243 @@
     "updated_at": "2025-11-19T19:16:37.938+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63597,
+    "location_id": 2938,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-20T18:07:51.5+00:00",
+    "name": null,
+    "value_json": [
+      "Geldautomat",
+      "Einrichtung",
+      "Finanzen",
+      "Tankstelle",
+      "Interessanter Ort",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63598,
+    "location_id": 2938,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:07:51.656+00:00",
+    "name": null,
+    "value_json": [
+      "atm",
+      "establishment",
+      "finance",
+      "gas_station",
+      "point_of_interest",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63599,
+    "location_id": 2938,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:07:53.526+00:00",
+    "name": null,
+    "value_json": [
+      "bancomat",
+      "istituzione",
+      "finanza",
+      "stazione di servizio",
+      "punto di interesse",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63600,
+    "location_id": 2938,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:07:54.297+00:00",
+    "name": null,
+    "value_json": [
+      "distributeur automatique",
+      "établissement",
+      "finance",
+      "station-service",
+      "point d'intérêt",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63601,
+    "location_id": 2938,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:07:56.951+00:00",
+    "name": null,
+    "value_json": [
+      "bankomat",
+      "ustanova",
+      "financije",
+      "benzinska postaja",
+      "točka interesa",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63602,
+    "location_id": 2938,
+    "attribute_id": 4,
+    "value_text": "<span class=\"street-address\">Kamik 27</span>, <span class=\"postal-code\">52100</span>, <span class=\"locality\">Banjole</span>, <span class=\"country-name\">Croatia</span>",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.118+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63603,
+    "location_id": 2938,
+    "attribute_id": 6,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 44.8270508,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.283+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63604,
+    "location_id": 2938,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.8790314,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.433+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63605,
+    "location_id": 2938,
+    "attribute_id": 8,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 44.8284000302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.576+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63606,
+    "location_id": 2938,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.8803786302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.797+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63607,
+    "location_id": 2938,
+    "attribute_id": 10,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 44.8257020697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:57.965+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1896,6 +2201,91 @@
     "locked": false
   },
   {
+    "id": 63608,
+    "location_id": 2938,
+    "attribute_id": 11,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.8776806697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.117+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63609,
+    "location_id": 2938,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.27+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63610,
+    "location_id": 2938,
+    "attribute_id": 18,
+    "value_text": "ChIJN1sgBWArY0cRQYZMJW-Aws0",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.425+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63611,
+    "location_id": 2938,
+    "attribute_id": 19,
+    "value_text": "RVGH+RJ Banjole, Croatia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.576+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63612,
+    "location_id": 2938,
+    "attribute_id": 20,
+    "value_text": "8FPMRVGH+RJ",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.725+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4865,
     "location_id": 86,
     "attribute_id": 11,
@@ -1907,6 +2297,115 @@
     "updated_at": "2025-11-19T19:16:45.488+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63613,
+    "location_id": 2938,
+    "attribute_id": 14,
+    "value_text": null,
+    "value_bool": true,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:58.864+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63614,
+    "location_id": 2938,
+    "attribute_id": 15,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:59.013+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0600"
+        },
+        "close": {
+          "day": 0,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "0600"
+        },
+        "close": {
+          "day": 1,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0600"
+        },
+        "close": {
+          "day": 2,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0600"
+        },
+        "close": {
+          "day": 3,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0600"
+        },
+        "close": {
+          "day": 4,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0600"
+        },
+        "close": {
+          "day": 5,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0600"
+        },
+        "close": {
+          "day": 6,
+          "time": "2200"
+        }
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -2012,6 +2511,35 @@
     "updated_at": "2025-11-19T19:17:05.081+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63615,
+    "location_id": 2938,
+    "attribute_id": 16,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:07:59.165+00:00",
+    "name": null,
+    "value_json": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -2312,6 +2840,57 @@
     "updated_at": "2025-11-19T19:17:42.485+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63616,
+    "location_id": 2938,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 85,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-20T18:07:59.654+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63617,
+    "location_id": 2938,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 85,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:07:59.803+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63618,
+    "location_id": 2938,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:08:00.744+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -2749,6 +3328,57 @@
     "locked": false
   },
   {
+    "id": 63619,
+    "location_id": 2938,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:08:01.484+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63620,
+    "location_id": 2938,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 85,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:08:02.016+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63621,
+    "location_id": 2938,
+    "attribute_id": 28,
+    "value_text": "Kamik 27, Banjole",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-20T18:08:02.644+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52796,
     "location_id": 2049,
     "attribute_id": 27,
@@ -3023,6 +3653,40 @@
     "locked": false
   },
   {
+    "id": 63622,
+    "location_id": 2938,
+    "attribute_id": 28,
+    "value_text": "Kamik 27, Banjole",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:08:02.791+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63623,
+    "location_id": 2938,
+    "attribute_id": 28,
+    "value_text": "Kamik 27, Banjole",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:08:03.538+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4914,
     "location_id": 87,
     "attribute_id": 23,
@@ -3064,6 +3728,23 @@
     "updated_at": "2025-07-23T18:09:58.176+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63624,
+    "location_id": 2938,
+    "attribute_id": 28,
+    "value_text": "Kamik 27, Banjole",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:08:04.083+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -3694,6 +4375,159 @@
     "updated_at": "2025-11-19T19:10:26.408+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63626,
+    "location_id": 2938,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=14826554138112591425",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-20T18:08:05.742+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63627,
+    "location_id": 2938,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=14826554138112591425",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:08:05.914+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63628,
+    "location_id": 2938,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=14826554138112591425",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:08:07.17+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63629,
+    "location_id": 2938,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=14826554138112591425",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:08:08.016+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63630,
+    "location_id": 2938,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=14826554138112591425",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:08:08.784+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63631,
+    "location_id": 2938,
+    "attribute_id": 30,
+    "value_text": "091 638 6610",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-20T18:08:09.485+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63632,
+    "location_id": 2938,
+    "attribute_id": 30,
+    "value_text": "091 638 6610",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-20T18:08:09.631+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63633,
+    "location_id": 2938,
+    "attribute_id": 30,
+    "value_text": "091 638 6610",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-20T18:08:10.218+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63634,
+    "location_id": 2938,
+    "attribute_id": 30,
+    "value_text": "091 638 6610",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:08:10.899+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -4691,6 +5525,159 @@
     "updated_at": "2025-11-19T19:11:01.923+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63635,
+    "location_id": 2938,
+    "attribute_id": 30,
+    "value_text": "091 638 6610",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:08:11.48+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63636,
+    "location_id": 2938,
+    "attribute_id": 5,
+    "value_text": "Kamik 27, 52100, Banjole, Croatia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:08:11.625+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63637,
+    "location_id": 2938,
+    "attribute_id": 29,
+    "value_text": "https://www.petrol.si/prodajna-mesta?utm_source%20googlemybusiness&utm_medium=organic",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:08:11.784+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63638,
+    "location_id": 2938,
+    "attribute_id": 17,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-20T18:08:11.938+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "AWn5SU645GSuLolOzyi4Swa7iT8tsjNbruKVUPDG4pBA8sg6hxvmokm524YNdyy7zI-yzNnpngyeJHA5N4rvldGSv3MLFvclzfIjLv_N13tcAh32xN5YrrEs7aAut0T3kXiTN1nraV2l_YTiBFlZFEu9hQCEp_GGp1JVfdSaMY-gUJ-gHy16ktYW61LLbpbgiCX0k-XtxLaOIs33Q4veWHVnFLAghVSAAqLnNAqiMaxuMYyqV6BwAXdc_cXmtNA_BdijkJSs4vL0XXTmFApCPS-7g_CaGJPZsb1anVMz8VTXy9BliWbH0VRFUzlA9xZw0idsSWhmUfgkWcj1gXdLCskFT2CFt3lAdJDtYP6Cpri6cF0LWDNbBLNR7MDe0jNo0a-BZuYBJl1Vhu62K_kk6xPRdzl0M-sbz5CT6Y3bkBuouXxkQook",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105005531547049497890\">Žiga Deisinger</a>"
+        ]
+      },
+      {
+        "width": 4608,
+        "height": 2240,
+        "photo_reference": "AWn5SU59nCKCw0Pp4xFrZVIZkOsX3-KPSg3tYg_OWu7QtxdhoIObTwhsbMidJP5KR7yNGZMkXYZ5GXr6pd-edPHb8sGkvo0_tdL0V0Wjv_4AH8Cn4-rDxXwhQvrvJvUXvpP15NlcVrMgWt6s1DH21jI2tZ-wpmW9cw6I9u0zUl3aTF5q40UzvYb0wIgUXuHM3QLaXGB9OxERofQ3l1x8AorFIQ6KXxELSzEwBDi7QVr59G_ikrh-OUt7XPOWGsfkfedDxSEZRCZqmOBOWHeCkm49RqEW7q9BWKuB1GMphzIIeep3mNIu74b6Xk4sGCHfgurARHYe5cYEkWFODD3xn_Sfoyd7-8LoGxeaA5TmURsb_19n7wBevwcZ9OxuVtLt_qg9r_Cjcmbl17l3Yu9ngdl2uETVFDdP8Dq-QlJqiUSSt84",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104405475295824571634\">Go Hargo</a>"
+        ]
+      },
+      {
+        "width": 3096,
+        "height": 4128,
+        "photo_reference": "AWn5SU4ZSWkyApjOwsdjiyfjmjVvHQQ4SlqSnRQCWTv_NW_0A1MaMWXKcl-NoO2m__D1NIsfPpRiivv4zwSJZ88LzTP7jaAZofvw9QtE9KT8nfof4UaKCgsezD9BXDr2xxEOwR3o7GV3KcAA9dd66mDpN0X2-eO2q89YlBPWoL3IkKhkL_bXdhsTBw3oH9h3pp-sVn15X_yUZGLI2q_gmdQhv6A2ZbHcSMKPTKh8WQoamD0jpVNGsuGu1etRtnHjBkIG6II4kGZ4koyQ8kslQS9B6BmwC5tQ0QG28Mufg_WhFkKv8ek0B0qbyh0WQYtWsEN2nVn7CAtaWeU2ofKBQcs5YA4s7kiUZOJXSkziYSi-FXEA_7FBIiystQbWsD1iVMV5L_ZjG_UX1y3TActBKe-cGfkUvxAT4LO42OQlwbJRRxTlzg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114634048486360134721\">Fin Fin</a>"
+        ]
+      },
+      {
+        "width": 3264,
+        "height": 1952,
+        "photo_reference": "AWn5SU5TwLCuhqhJWDXu8dT8Srp3jqlYNVpnfIe0JcltMTiK1skxVzqCTeiH5HbH7_xEzEu4Ti6ooba6BUAkeHtkSyXzmT1SChnb_rPmvcNR6ejfJH9H49OQ5FMmaLDQKe5GhWZCsQfCOE8LEATTEd7LqZXfLzD2S7LPz3Mav7S_H3xtpilaQhFjG5kQ9mzsf-FO6Bprd3Y0K4KDtnD34Q9uSbqT-dWiMoW2X18NElNR9MfkWOyK43xkb5MzFprqMTyJgVRqUM3UdjmqiS2lE8zlE937NfwRmqwdOHRpZKCHXOj6_gpMFHSEdiu7YDGqVCFKMLKcrL6Ohn9cATzociMgyJgfV_rbUlWnPwp1ltamr-L6mw06oI6Vm5RUNA9gzFzNo3_nFpTKn4AZWmXa-Jstd3F1lBLDBnB_M1IJBofqr2OaBA8K",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101751309132877670347\">dragan p</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "AWn5SU5d9G25rlksUCk_dn_3WAMTcIiLODALnoQBAtd_xLlm99BKASVOcz7NmoiSS1RMyJME9mjoWNKLQwnvGKdE-UiN0XyPQKKhHahaP-I52NiACTrd1heVa27yXbX6LVCDeY-ztl55udJpfjIlFBu-dQvyRgSdPB8OhufuoASuBdEQqVFwAGcekoXNqGcsFmQpeadJG5sgVYHarIWZyJOlYv4KsltgSL5cMZ6v_Q0fTJCSif4paqfWl2CKIDOQloBtY1hcBtQEFe3kEDtKi_HJPyGRh2qCFVAW5UyJeCiRjtHeIx1P5fhPyM85G579xwWbordp8sx20vJ1MrgXdcs-LgzRnSq6em5hfcQsE7pU6Fx9GP5XImJceQqkBy__D6A-JSi6eQYQmE2uWrxeryzEV8G3pV2w9FdYhxkhQDES_eUm81Q",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114122518842513808141\">Lorenzo Azzarri</a>"
+        ]
+      },
+      {
+        "width": 642,
+        "height": 642,
+        "photo_reference": "AWn5SU4iqMUZUqCUscgu-unjfMEIOdrJSkcyh7svfLZkYYTUGuVvxRO7JpJ90fgR3XvAf6CjQXzv6wHo-vcAs-bUPZ-tM68AIKnUG6lKIl3mp6dlrgtezqliSHkI3QOWyUb0Ly1B9lEI4kneCffD9WIJX0d2HJadfhJ6RmUZcwPKdcAngn412rnd9fXNFC8MK_C42OjDsYqiD3BuRSXbQ9LW95OR7zCPbEHQwYnx56Ew1TNFO4CI6VmKzoP9rQWgt-Bxpyu7vfhhn3ns98aK4UIyiGhAdfhWyIZjXusRAqnX6n_4iQ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105318360025983996859\">Petrol</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "AWn5SU4ChHycPcABqZb1Mn5x4alcvJINxV05cnKA0lX8Pn6OfFMU5Tv8CIhmxe8Dg_TpcGK-245bmxPIvNHbFaY2plV0s3hCeL5o2gvuaqeEerNkGhMZJ6ut1NKcd5P-vq-lmO--tDVzeQZXkM9qh89OPQ9Ziprjgcu0ofw_cxW0i3fpavUHmXAZWuDxgNK3lBuMTo_zV4-3xDad1k1Vs3YJEFUpbmGutX73jhJ7mvWL6RjX8olWj5gOSUBwBCrP8HAwXQW3cf-meuW-eU_wu3xKiEWFcF1hSN8b4ycICHr7bGXUuWjl6MyANqFe6xuxp9aUTcAU2sNF0D1e0JUwcV_43tJHx_C5XmafI-yZHbbwv_PA0feqwFwTlO84GpzT1DzeZC5rDpnvmXkRZ1_11XUagPOO85aEl3fe_Eb7PABhSm4PkA",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105005531547049497890\">Žiga Deisinger</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "AWn5SU7Y5JhZXKVUGNroHLCRrRRooP88y1MWIEvSaizZMev-_WU5NHSf-pbZoabzGJMHE6abWNP043IQNWWR0mi4svP2IhDjC1W792aktorM0mvNeT4T7FdTpPZ7iZSWklDqGceCSqO4gjzRUHP2jZqW7lcsSXYpVEiHdOYLGzfdX1pvM6j3LXeCvjBeW3xwhim7_iacKMvJgPuvpHRFzXAPt2bXtbBEZiJbCNbgJZVLvkWhFcYn_NhsiTkLdXZJpYZnNn16Lkx-caDeh_r6DdKwV5WpAJkit9hMz1i8kGPXBC9lOpFa7grAPMLNulmwl7JTHl3NCDRXVN-RikAGBkgx9jujDL2EvLX9M10Kqo7JlEZYELF8eQENVdz9CCzb-TbL1g9ESs20dtisNEDuMfB5hpdzC-e9_3f75O-W-8kPuvHL0qz5",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105005531547049497890\">Žiga Deisinger</a>"
+        ]
+      },
+      {
+        "width": 4032,
+        "height": 3024,
+        "photo_reference": "AWn5SU72i6bauBpPp0z503GwlPxnzNn6ZboVOBqb_wsgxU8IyqAyrJ0XGJ0fHGmuLz58FxITNkkGVAEomA7R809j42btvhIWSrar7ZYEUdMvjKsOr2wimA0Qq6jvpmYMEo3LvCDibzSxim7YUmDCAsJUr5WzGJiASzgzyrC2l5n7lmrbSzA4cSCPDQsxh1nBQb4lZIf76Slr8CBe8Hw1xHIe_P70c8umCO1oryTv94s1g2Pc_kBlPoGQlyZ9nOUvsHJ1MkaGbNjV948qGbXabrZ5LiKgWzrxBEhFbfhWYuHqAVN4MWQbpkI9YG8IK7SB0wgfLe1S3b4E8lLI6N0W6onXhLmnQXeB9mhACtPccLw9Afh_6yFnsoQ70wLik4c_fsVSCkYY_XS7KcWPmDfD6h0Z5HRfwfegRxv8eqlQdJelTfxAZz06",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116092495346830719982\">Agnieszka Swidowska</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "AWn5SU5txTEqYgCFKv92ynzA81XAnX3bmkMNW_ot8UgNsYe3CtefXA1iTqwK2txah1M0-Y0Bx4MQ3CLH2-e4YwvbqktbCOu5uLVsB8edQTmRxhXXYOsVYjiS5RcOWqZZ2GHsUp8n7Yb79TXNfib9YEPLD2z7d_xM-PB_rCkbJoNKDTX89CeTJoY9XquNdZ51u1JHr6t8ALUyTeTYEIro2Q3sPBPlD0W0rOvSZI6IL3W0HaWN7oLd4XfpSGm0uYQmLDGttFUNgaY9WAJr4ryQh-nLDZGIAQWMtB2qAWcwP1gbaUk83TZSnDhj6ax8bhbwOmK6uEZibj4gLO9vaJtj5zcSlH9HEcjSgzqhW5HAfUJipxwxUzEYzKhz-Oz2syNr2cxQ1yf5dFKLNWBVZppa7_H0PcxUL_3LmdRDFSvl-6-YItUznw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105005531547049497890\">Žiga Deisinger</a>"
+        ]
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -10227,6 +11214,81 @@
     "locked": false
   },
   {
+    "id": 63590,
+    "location_id": 2938,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-20T18:07:44.894+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "27",
+        "short_name": "27"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Kamik",
+        "short_name": "Kamik"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Banjole",
+        "short_name": "Banjole"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Općina Medulin",
+        "short_name": "Općina Medulin"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Istarska županija",
+        "short_name": "Istarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatie",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52100",
+        "short_name": "52100"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18248,
     "location_id": 517,
     "attribute_id": 26,
@@ -10266,6 +11328,23 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:22:48.857+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63625,
+    "location_id": 2938,
+    "attribute_id": 28,
+    "value_text": "Kamik 27, Banjole",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-20T18:08:04.744+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -20722,2193 +21801,6 @@
         ],
         "long_name": "6370",
         "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18213,
-    "location_id": 517,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"11B\",\"short_name\":\"11B\",\"types\":[\"street_number\"]},{\"long_name\":\"Obala Maršala Tita\",\"short_name\":\"Obala Maršala Tita\",\"types\":[\"route\"]},{\"long_name\":\"Vrsar\",\"short_name\":\"Vrsar\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Općina Vrsar\",\"short_name\":\"Općina Vrsar\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Istarska županija\",\"short_name\":\"Istarska županija\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croatia\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52440\",\"short_name\":\"52440\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:18:03.397+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "11B",
-        "short_name": "11B"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Obala Maršala Tita",
-        "short_name": "Obala Maršala Tita"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Vrsar",
-        "short_name": "Vrsar"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Općina Vrsar",
-        "short_name": "Općina Vrsar"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Istarska županija",
-        "short_name": "Istarska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatia",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52440",
-        "short_name": "52440"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5165,
-    "location_id": 98,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:14:21.437+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4842,
-    "location_id": 86,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"31\",\"short_name\":\"31\",\"types\":[\"street_number\"]},{\"long_name\":\"Alpendorfstraße\",\"short_name\":\"Alpendorfstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:32.771+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "31",
-        "short_name": "31"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorfstraße",
-        "short_name": "Alpendorfstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzbourg",
-        "short_name": "Salzbourg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4904,
-    "location_id": 87,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"49 8\",\"short_name\":\"49 8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hauptstraße\",\"short_name\":\"Hauptstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:17:09.953+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "49 8",
-        "short_name": "49 8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hauptstraße",
-        "short_name": "Hauptstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18212,
-    "location_id": 517,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"11B\",\"short_name\":\"11B\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Obala Maršala Tita\",\"short_name\":\"Obala Maršala Tita\",\"types\":[\"Route\"]},{\"long_name\":\"Vrsar\",\"short_name\":\"Vrsar\",\"types\":[\"Ort\",\"politisch\"]},{\"long_name\":\"Općina Vrsar\",\"short_name\":\"Općina Vrsar\",\"types\":[\"Verwaltungsgebietsebene 2\",\"politisch\"]},{\"long_name\":\"Istarska županija\",\"short_name\":\"Istarska županija\",\"types\":[\"Verwaltungsgebietsebene 1\",\"politisch\"]},{\"long_name\":\"Kroatien\",\"short_name\":\"HR\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"52440\",\"short_name\":\"52440\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:18:03.191+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "11B",
-        "short_name": "11B"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Obala Maršala Tita",
-        "short_name": "Obala Maršala Tita"
-      },
-      {
-        "types": [
-          "Ort",
-          "politisch"
-        ],
-        "long_name": "Vrsar",
-        "short_name": "Vrsar"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 2",
-          "politisch"
-        ],
-        "long_name": "Gemeinde Vrsar",
-        "short_name": "Gemeinde Vrsar"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 1",
-          "politisch"
-        ],
-        "long_name": "Gespanschaft Istrien",
-        "short_name": "Gespanschaft Istrien"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Kroatien",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "52440",
-        "short_name": "52440"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 61721,
-    "location_id": 2621,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-18T19:12:57.941+00:00",
-    "name": null,
-    "value_json": [
-      "Die Terasse ist gegen südliche Winde offen. Aber es gibt einen großen Innenbereich.",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4840,
-    "location_id": 86,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"31\",\"short_name\":\"31\",\"types\":[\"street_number\"]},{\"long_name\":\"Alpendorfstraße\",\"short_name\":\"Alpendorfstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:27.265+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "31",
-        "short_name": "31"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorfstraße",
-        "short_name": "Alpendorfstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19107,
-    "location_id": 527,
-    "attribute_id": 31,
-    "value_text": "[{\"nom_long\":\"ACI Rovinj\",\"nom_court\":\"\",\"types\":[]},{\"nom_long\":\"1\",\"nom_court\":\"1\",\"types\":[\"numéro_de_rue\"]},{\"nom_long\":\"Šetalište Vijeća Europe\",\"nom_court\":\"Šetalište Vijeća Europe\",\"types\":[\"route\"]},{\"nom_long\":\"Rovinj\",\"nom_court\":\"Rovinj\",\"types\":[\"localité\",\"politique\"]},{\"nom_long\":\"Ville de Rovinj\",\"nom_court\":\"Ville de Rovinj\",\"types\":[\"niveau_administratif_2\",\"politique\"]},{\"nom_long\":\"Comté d'Istrie\",\"nom_court\":\"Comté d'Istrie\",\"types\":[\"niveau_administratif_1\",\"politique\"]},{\"nom_long\":\"Croatie\",\"nom_court\":\"HR\",\"types\":[\"pays\",\"politique\"]},{\"nom_long\":\"52210\",\"nom_court\":\"52210\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:29.06+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Promenade du Conseil de l'Europe",
-        "short_name": "Promenade du Conseil de l'Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Ville de Rovinj",
-        "short_name": "Ville de Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Comté d'Istrie",
-        "short_name": "Comté d'Istrie"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5227,
-    "location_id": 99,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"2\",\"short_name\":\"2\",\"types\":[\"street_number\"]},{\"long_name\":\"Alpendorf\",\"short_name\":\"Alpendorf\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:14:59.848+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "2",
-        "short_name": "2"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorf",
-        "short_name": "Alpendorf"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54002,
-    "location_id": 2076,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"9\",\"short_name\":\"9\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsgebietsebene_2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsgebietsebene_1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:22:12.822+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "9",
-        "short_name": "9"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungseinheit auf zweiter Ebene",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungseinheit auf erster Ebene",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 61722,
-    "location_id": 2621,
-    "attribute_id": 3,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-18T19:13:38.376+00:00",
-    "name": null,
-    "value_json": [
-      true,
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 61723,
-    "location_id": 2621,
-    "attribute_id": 107,
-    "value_text": "13105",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-18T19:13:38.376+00:00",
-    "name": "Portoroz",
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18215,
-    "location_id": 517,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"11B\",\"short_name\":\"11B\",\"types\":[\"street_number\"]},{\"long_name\":\"Obala Maršala Tita\",\"short_name\":\"Obala Maršala Tita\",\"types\":[\"route\"]},{\"long_name\":\"Vrsar\",\"short_name\":\"Vrsar\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Općina Vrsar\",\"short_name\":\"Općina Vrsar\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Comitat d'Istrie\",\"short_name\":\"Comitat d'Istrie\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croatie\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52440\",\"short_name\":\"52440\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:18:13.289+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "numéro de rue"
-        ],
-        "long_name": "11B",
-        "short_name": "11B"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Obala Maršala Tita",
-        "short_name": "Obala Maršala Tita"
-      },
-      {
-        "types": [
-          "localité",
-          "politique"
-        ],
-        "long_name": "Vrsar",
-        "short_name": "Vrsar"
-      },
-      {
-        "types": [
-          "niveau administratif 2",
-          "politique"
-        ],
-        "long_name": "Municipalité de Vrsar",
-        "short_name": "Municipalité de Vrsar"
-      },
-      {
-        "types": [
-          "niveau administratif 1",
-          "politique"
-        ],
-        "long_name": "Comitat d'Istrie",
-        "short_name": "Comitat d'Istrie"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "code postal"
-        ],
-        "long_name": "52440",
-        "short_name": "52440"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 61724,
-    "location_id": 2621,
-    "attribute_id": 102,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": null,
-    "name": null,
-    "value_json": {
-      "ai": false,
-      "wind": {
-        "N": false,
-        "O": false,
-        "S": false,
-        "W": false,
-        "NO": false,
-        "NW": false,
-        "SO": true,
-        "SW": false
-      },
-      "swell": {
-        "N": false,
-        "O": false,
-        "S": false,
-        "W": false,
-        "NO": false,
-        "NW": false,
-        "SO": true,
-        "SW": false
-      },
-      "wind_relevant": true
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20496,
-    "location_id": 88,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"38\",\"short_name\":\"38\",\"types\":[\"street_number\"]},{\"long_name\":\"Wollzeile\",\"short_name\":\"Wollzeile\",\"types\":[\"route\"]},{\"long_name\":\"Innere Stadt\",\"short_name\":\"Innere Stadt\",\"types\":[\"political\",\"sublocality\",\"sublocality_level_1\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"1010\",\"short_name\":\"1010\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:09:44.473+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "38",
-        "short_name": "38"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Wollzeile",
-        "short_name": "Wollzeile"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Innere Stadt",
-        "short_name": "Innere Stadt"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1010",
-        "short_name": "1010"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54006,
-    "location_id": 2076,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"9\",\"short_name\":\"9\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:22:22.373+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "9",
-        "short_name": "9"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Ulica Hansa Kappachera",
-        "short_name": "Ulica Hansa Kappachera"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4981,
-    "location_id": 90,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"47\",\"short_name\":\"47\",\"types\":[\"numéro_de_rue\"]},{\"long_name\":\"Schönbrunner Schloßstraße\",\"short_name\":\"Schönbrunner Schloßstraße\",\"types\":[\"route\"]},{\"long_name\":\"Hietzing\",\"short_name\":\"Hietzing\",\"types\":[\"politique\",\"sous-localité\",\"niveau_de_sous-localité_1\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"niveau_régional_2\",\"politique\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"niveau_régional_1\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"1130\",\"short_name\":\"1130\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:10:37.452+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "47",
-        "short_name": "47"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Schönbrunner Schloßstraße",
-        "short_name": "Schönbrunner Schloßstraße"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Hietzing",
-        "short_name": "Hietzing"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1130",
-        "short_name": "1130"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5130,
-    "location_id": 95,
-    "attribute_id": 16,
-    "value_text": "[\"Monday: 9:00 AM – 4:00 PM\",\"Tuesday: 9:00 AM – 4:00 PM\",\"Wednesday: 9:00 AM – 4:00 PM\",\"Thursday: 9:00 AM – 4:00 PM\",\"Friday: 9:00 AM – 4:00 PM\",\"Saturday: 9:00 AM – 4:00 PM\",\"Sunday: 9:00 AM – 4:00 PM\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:13:54.191+00:00",
-    "name": null,
-    "value_json": [
-      "Monday: 9:00 AM – 4:00 PM",
-      "Tuesday: 9:00 AM – 4:00 PM",
-      "Wednesday: 9:00 AM – 4:00 PM",
-      "Thursday: 9:00 AM – 4:00 PM",
-      "Friday: 9:00 AM – 4:00 PM",
-      "Saturday: 9:00 AM – 4:00 PM",
-      "Sunday: 9:00 AM – 4:00 PM",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5166,
-    "location_id": 98,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:14:24.608+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4907,
-    "location_id": 87,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"49 8\",\"short_name\":\"49 8\",\"types\":[\"broj ulice\"]},{\"long_name\":\"Hauptstraße\",\"short_name\":\"Hauptstraße\",\"types\":[\"ruta\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"lokalitet\",\"politički\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"razina_2_administrativno_područje\",\"politički\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"razina_1_administrativno_područje\",\"politički\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"država\",\"politički\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"poštanski_broj\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:17:17.113+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "broj ulice"
-        ],
-        "long_name": "49 8",
-        "short_name": "49 8"
-      },
-      {
-        "types": [
-          "ruta"
-        ],
-        "long_name": "Hauptstraße",
-        "short_name": "Hauptstraße"
-      },
-      {
-        "types": [
-          "mjesto",
-          "političko"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "jedinica lokalne samouprave razina 2",
-          "političko"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "jedinica lokalne samouprave razina 1",
-          "političko"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "država",
-          "političko"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "poštanski broj"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4903,
-    "location_id": 87,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"49 8\",\"short_name\":\"49 8\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Hauptstraße\",\"short_name\":\"Hauptstraße\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsgebietsebene 2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsgebietsebene 1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:17:09.726+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Hausnummer"
-        ],
-        "long_name": "49 8",
-        "short_name": "49 8"
-      },
-      {
-        "types": [
-          "Straße"
-        ],
-        "long_name": "Hauptstraße",
-        "short_name": "Hauptstraße"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4905,
-    "location_id": 87,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"49 8\",\"short_name\":\"49 8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hauptstraße\",\"short_name\":\"Hauptstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:17:12.285+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "49 8",
-        "short_name": "49 8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hauptstraße",
-        "short_name": "Hauptstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4906,
-    "location_id": 87,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"49 8\",\"short_name\":\"49 8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hauptstraße\",\"short_name\":\"Hauptstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:17:14.388+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "49 8",
-        "short_name": "49 8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hauptstraße",
-        "short_name": "Hauptstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19106,
-    "location_id": 527,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"ACI Rovigno\",\"short_name\":\"\",\"types\":[]},{\"long_name\":\"1\",\"short_name\":\"1\",\"types\":[\"street_number\"]},{\"long_name\":\"Šetalište Vijeća Europe\",\"short_name\":\"Šetalište Vijeća Europe\",\"types\":[\"route\"]},{\"long_name\":\"Rovigno\",\"short_name\":\"Rovigno\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Città di Rovigno\",\"short_name\":\"Città di Rovigno\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Regione Istriana\",\"short_name\":\"Regione Istriana\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croazia\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52210\",\"short_name\":\"52210\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:26.845+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovigno",
-        "short_name": "Rovigno"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Città di Rovigno",
-        "short_name": "Città di Rovigno"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Regione istriana",
-        "short_name": "Regione istriana"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croazia",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19108,
-    "location_id": 527,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"ACI Rovinj\",\"short_name\":\"\",\"types\":[]},{\"long_name\":\"1\",\"short_name\":\"1\",\"types\":[\"street_number\"]},{\"long_name\":\"Šetalište Vijeća Europe\",\"short_name\":\"Šetalište Vijeća Europe\",\"types\":[\"route\"]},{\"long_name\":\"Rovinj\",\"short_name\":\"Rovinj\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Grad Rovinj\",\"short_name\":\"Grad Rovinj\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Istarska županija\",\"short_name\":\"Istarska županija\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Hrvatska\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52210\",\"short_name\":\"52210\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:30.422+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Grad Rovinj",
-        "short_name": "Grad Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Istarska županija",
-        "short_name": "Istarska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Hrvatska",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19104,
-    "location_id": 527,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"ACI Rovinj\",\"short_name\":\"\",\"types\":[]},{\"long_name\":\"1\",\"short_name\":\"1\",\"types\":[\"street_number\"]},{\"long_name\":\"Šetalište Vijeća Europe\",\"short_name\":\"Šetalište Vijeća Europe\",\"types\":[\"route\"]},{\"long_name\":\"Rovinj\",\"short_name\":\"Rovinj\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Stadt Rovinj\",\"short_name\":\"Stadt Rovinj\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Region Istrien\",\"short_name\":\"Region Istrien\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Kroatien\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52210\",\"short_name\":\"52210\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:23.358+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Stadt Rovinj",
-        "short_name": "Stadt Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Gespanschaft Istrien",
-        "short_name": "Gespanschaft Istrien"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Kroatien",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18216,
-    "location_id": 517,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"11B\",\"short_name\":\"11B\",\"types\":[\"street_number\"]},{\"long_name\":\"Obala Maršala Tita\",\"short_name\":\"Obala Maršala Tita\",\"types\":[\"route\"]},{\"long_name\":\"Vrsar\",\"short_name\":\"Vrsar\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Općina Vrsar\",\"short_name\":\"Općina Vrsar\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Istarska županija\",\"short_name\":\"Istarska županija\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Hrvatska\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52440\",\"short_name\":\"52440\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:18:15.574+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "11B",
-        "short_name": "11B"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Obala Maršala Tita",
-        "short_name": "Obala Maršala Tita"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Vrsar",
-        "short_name": "Vrsar"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Općina Vrsar",
-        "short_name": "Općina Vrsar"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Istarska županija",
-        "short_name": "Istarska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Hrvatska",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52440",
-        "short_name": "52440"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 22574,
-    "location_id": 665,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"Svjetionik Blitvenica\",\"short_name\":\"Svjetionik Blitvenica\",\"types\":[\"premise\"]},{\"long_name\":\"Žirje\",\"short_name\":\"Žirje\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Grad Šibenik\",\"short_name\":\"Grad Šibenik\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Šibensko-kninska županija\",\"short_name\":\"Šibensko-kninska županija\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Hrvatska\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:20:19.614+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "premise"
-        ],
-        "long_name": "Svjetionik Blitvenica",
-        "short_name": "Svjetionik Blitvenica"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Žirje",
-        "short_name": "Žirje"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Grad Šibenik",
-        "short_name": "Grad Šibenik"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Šibensko-kninska županija",
-        "short_name": "Šibensko-kninska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Hrvatska",
-        "short_name": "HR"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54004,
-    "location_id": 2076,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"9\",\"short_name\":\"9\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:22:16.665+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "9",
-        "short_name": "9"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5043,
-    "location_id": 91,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"18\",\"short_name\":\"18\",\"types\":[\"street_number\"]},{\"long_name\":\"Bundesstraße\",\"short_name\":\"Bundesstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:11:19.215+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "18",
-        "short_name": "18"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Bundesstraße",
-        "short_name": "Bundesstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19105,
-    "location_id": 527,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"ACI Rovinj\",\"short_name\":\"\",\"types\":[]},{\"long_name\":\"1\",\"short_name\":\"1\",\"types\":[\"street_number\"]},{\"long_name\":\"Šetalište Vijeća Europe\",\"short_name\":\"Šetalište Vijeća Europe\",\"types\":[\"route\"]},{\"long_name\":\"Rovinj\",\"short_name\":\"Rovinj\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Grad Rovinj\",\"short_name\":\"Grad Rovinj\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Istarska županija\",\"short_name\":\"Istarska županija\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croatia\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"52210\",\"short_name\":\"52210\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:23.624+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Grad Rovinj",
-        "short_name": "Grad Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Istarska županija",
-        "short_name": "Istarska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatia",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20497,
-    "location_id": 88,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"38\",\"short_name\":\"38\",\"types\":[\"numéro_de_rue\"]},{\"long_name\":\"Wollzeile\",\"short_name\":\"Wollzeile\",\"types\":[\"route\"]},{\"long_name\":\"Innere Stadt\",\"short_name\":\"Innere Stadt\",\"types\":[\"politique\",\"sous-localité\",\"sous-niveau_1\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"niveau_administratif_2\",\"politique\"]},{\"long_name\":\"Vienne\",\"short_name\":\"Vienne\",\"types\":[\"niveau_administratif_1\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"1010\",\"short_name\":\"1010\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:09:46.489+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "numéro_de_rue"
-        ],
-        "long_name": "38",
-        "short_name": "38"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Wollzeile",
-        "short_name": "Wollzeile"
-      },
-      {
-        "types": [
-          "politique",
-          "sous-localité",
-          "sous_localité_niveau_1"
-        ],
-        "long_name": "Innere Stadt",
-        "short_name": "Innere Stadt"
-      },
-      {
-        "types": [
-          "localité",
-          "politique"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "niveau_administratif_2",
-          "politique"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "niveau_administratif_1",
-          "politique"
-        ],
-        "long_name": "Vienne",
-        "short_name": "Vienne"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "code_postal"
-        ],
-        "long_name": "1010",
-        "short_name": "1010"
       },
       {
         "ai": false
