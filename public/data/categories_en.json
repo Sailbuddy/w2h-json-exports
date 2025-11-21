@@ -782,5 +782,33 @@
     "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
+  },
+  {
+    "id": 180,
+    "name_en": "atm",
+    "icon": "atm",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 181,
+    "name_en": "car_wash",
+    "icon": "car_wash",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 182,
+    "name_en": "finance",
+    "icon": "finance",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 183,
+    "name_en": "convenience_store",
+    "icon": "convenience_store",
+    "sort_order": 9999,
+    "active": true
   }
 ]
