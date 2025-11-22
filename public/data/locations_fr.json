@@ -176,14 +176,6 @@
     "description_fr": null
   },
   {
-    "id": 2899,
-    "wind2horizon_id": null,
-    "lat": 45.5371509,
-    "lng": 13.7321521,
-    "name_fr": "Maxen Bencinski servis",
-    "description_fr": null
-  },
-  {
     "id": 665,
     "wind2horizon_id": null,
     "lat": 43.6252323,
@@ -256,11 +248,11 @@
     "description_fr": null
   },
   {
-    "id": 2902,
+    "id": 2899,
     "wind2horizon_id": null,
-    "lat": 45.550768,
-    "lng": 13.7277044,
-    "name_fr": "MOL",
+    "lat": 45.5371509,
+    "lng": 13.7321521,
+    "name_fr": "Maxen Bencinski servis",
     "description_fr": null
   },
   {
@@ -344,6 +336,14 @@
     "description_fr": null
   },
   {
+    "id": 3181,
+    "wind2horizon_id": null,
+    "lat": 45.5805933,
+    "lng": 13.7288714,
+    "name_fr": "Oddelek B",
+    "description_fr": null
+  },
+  {
     "id": 630,
     "wind2horizon_id": null,
     "lat": 47.3226363,
@@ -357,14 +357,6 @@
     "lat": 44.03892636133072,
     "lng": 15.055097809853564,
     "name_fr": null,
-    "description_fr": null
-  },
-  {
-    "id": 2903,
-    "wind2horizon_id": null,
-    "lat": 45.53846859999999,
-    "lng": 13.6563578,
-    "name_fr": "DISCONT Oil – Bencinska črpalka Izola",
     "description_fr": null
   },
   {
@@ -424,75 +416,43 @@
     "description_fr": null
   },
   {
+    "id": 3201,
+    "wind2horizon_id": null,
+    "lat": 45.6577318,
+    "lng": 13.7728599,
+    "name_fr": "Centro Benefits",
+    "description_fr": null
+  },
+  {
+    "id": 3194,
+    "wind2horizon_id": null,
+    "lat": 45.6493858,
+    "lng": 13.7810595,
+    "name_fr": "Ospedale Maggiore di Trieste Trieste",
+    "description_fr": null
+  },
+  {
+    "id": 3197,
+    "wind2horizon_id": null,
+    "lat": 45.6329133,
+    "lng": 13.8260535,
+    "name_fr": "Cardiology Center",
+    "description_fr": null
+  },
+  {
+    "id": 3189,
+    "wind2horizon_id": null,
+    "lat": 45.5423594,
+    "lng": 13.7312269,
+    "name_fr": "Zdravstvene masaže, Hongzhou Liu, s.p.",
+    "description_fr": null
+  },
+  {
     "id": 2904,
     "wind2horizon_id": null,
     "lat": 45.5052807,
     "lng": 13.5967624,
     "name_fr": "MOL",
-    "description_fr": null
-  },
-  {
-    "id": 2905,
-    "wind2horizon_id": null,
-    "lat": 45.5404958,
-    "lng": 13.7260184,
-    "name_fr": "MOL",
-    "description_fr": null
-  },
-  {
-    "id": 2906,
-    "wind2horizon_id": null,
-    "lat": 45.50043,
-    "lng": 13.61022,
-    "name_fr": "MOL",
-    "description_fr": null
-  },
-  {
-    "id": 2907,
-    "wind2horizon_id": null,
-    "lat": 45.5247017,
-    "lng": 13.6507286,
-    "name_fr": "Petrol BS - Jagodje - South",
-    "description_fr": null
-  },
-  {
-    "id": 2908,
-    "wind2horizon_id": null,
-    "lat": 45.5151236,
-    "lng": 13.5807993,
-    "name_fr": "MOL",
-    "description_fr": null
-  },
-  {
-    "id": 2909,
-    "wind2horizon_id": null,
-    "lat": 45.431259,
-    "lng": 13.5265464,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2910,
-    "wind2horizon_id": null,
-    "lat": 45.4399661,
-    "lng": 13.519012,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2911,
-    "wind2horizon_id": null,
-    "lat": 45.4312421,
-    "lng": 13.5301577,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 2912,
-    "wind2horizon_id": null,
-    "lat": 45.492115,
-    "lng": 13.508227,
-    "name_fr": "Crodux",
     "description_fr": null
   },
   {
@@ -640,6 +600,14 @@
     "description_fr": null
   },
   {
+    "id": 3202,
+    "wind2horizon_id": null,
+    "lat": 45.6502218,
+    "lng": 13.7830973,
+    "name_fr": "Pronto Soccorso - Ospedale Maggiore",
+    "description_fr": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -672,12 +640,36 @@
     "description_fr": "Hôtel de style décontracté avec restaurant, pub, bar, piscine intérieure, saunas et bains à remous."
   },
   {
+    "id": 3242,
+    "wind2horizon_id": null,
+    "lat": 45.32660689999999,
+    "lng": 14.4695779,
+    "name_fr": "Rađaonica",
+    "description_fr": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
     "lng": 13.5697685,
     "name_fr": "Grand Hotel Bernardin",
     "description_fr": "Hôtel balnéaire à l'ambiance détendue avec spa, piscine intérieure ouverte en saison, restaurants, bars et terrasse."
+  },
+  {
+    "id": 3203,
+    "wind2horizon_id": null,
+    "lat": 45.6801725,
+    "lng": 13.7538708,
+    "name_fr": "Centro Salute Mentale CSM - Sede di Barcola - ASUITS",
+    "description_fr": null
+  },
+  {
+    "id": 3204,
+    "wind2horizon_id": null,
+    "lat": 45.6576977,
+    "lng": 13.801051,
+    "name_fr": "Comprensorio Sanitario di Trieste (Guardiella) \"san Cilino\"",
+    "description_fr": null
   },
   {
     "id": 2887,
@@ -720,6 +712,22 @@
     "description_fr": "Palais datant du XIXe siècle abritant musée maritime avec expositions navales, photos et maquettes de bateaux."
   },
   {
+    "id": 3205,
+    "wind2horizon_id": null,
+    "lat": 45.6154603,
+    "lng": 13.8214136,
+    "name_fr": "Assistenza Farmaceutica AAS1 Triestina",
+    "description_fr": null
+  },
+  {
+    "id": 3215,
+    "wind2horizon_id": null,
+    "lat": 45.2273297,
+    "lng": 13.6056128,
+    "name_fr": "Hospital porec",
+    "description_fr": null
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -736,11 +744,11 @@
     "description_fr": null
   },
   {
-    "id": 2900,
+    "id": 3218,
     "wind2horizon_id": null,
-    "lat": 45.59283,
-    "lng": 13.72411,
-    "name_fr": "INA Lazaret",
+    "lat": 44.8659542,
+    "lng": 13.857433,
+    "name_fr": "Opća bolnica Pula",
     "description_fr": null
   },
   {
@@ -752,27 +760,955 @@
     "description_fr": null
   },
   {
-    "id": 2916,
+    "id": 3220,
     "wind2horizon_id": null,
-    "lat": 45.3187536,
-    "lng": 13.5739196,
-    "name_fr": "Crodux",
+    "lat": 44.8667913,
+    "lng": 13.8462449,
+    "name_fr": "Specijalna bolnica Sveta Katarina Zabok",
     "description_fr": null
   },
   {
-    "id": 2921,
+    "id": 2938,
     "wind2horizon_id": null,
-    "lat": 45.2394883,
-    "lng": 13.6243333,
+    "lat": 44.82705079999999,
+    "lng": 13.8790314,
     "name_fr": "Petrol",
     "description_fr": null
   },
   {
-    "id": 2924,
+    "id": 2900,
     "wind2horizon_id": null,
-    "lat": 45.22586620000001,
-    "lng": 13.6015772,
+    "lat": 45.59283,
+    "lng": 13.72411,
+    "name_fr": "INA Lazaret",
+    "description_fr": null
+  },
+  {
+    "id": 3226,
+    "wind2horizon_id": null,
+    "lat": 44.5172791,
+    "lng": 14.5019926,
+    "name_fr": "Sanatorium Veli Lošinj",
+    "description_fr": null
+  },
+  {
+    "id": 3227,
+    "wind2horizon_id": null,
+    "lat": 44.5191313,
+    "lng": 14.5022154,
+    "name_fr": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
+    "description_fr": null
+  },
+  {
+    "id": 3230,
+    "wind2horizon_id": null,
+    "lat": 45.3326229,
+    "lng": 14.4256751,
+    "name_fr": "Clinical Hospital Center Rijeka",
+    "description_fr": null
+  },
+  {
+    "id": 3231,
+    "wind2horizon_id": null,
+    "lat": 45.3256413,
+    "lng": 14.4700225,
+    "name_fr": "Rijeka Clinical Hospital Center Sušak Locality",
+    "description_fr": null
+  },
+  {
+    "id": 3232,
+    "wind2horizon_id": null,
+    "lat": 45.299176,
+    "lng": 14.2781813,
+    "name_fr": "Clinic for Orthopedics Lovran",
+    "description_fr": null
+  },
+  {
+    "id": 2935,
+    "wind2horizon_id": null,
+    "lat": 45.0847285,
+    "lng": 13.6344352,
+    "name_fr": "Boat fueling station",
+    "description_fr": null
+  },
+  {
+    "id": 2939,
+    "wind2horizon_id": null,
+    "lat": 44.82056840000001,
+    "lng": 13.9312875,
+    "name_fr": "INA Medulin",
+    "description_fr": null
+  },
+  {
+    "id": 2940,
+    "wind2horizon_id": null,
+    "lat": 44.8381197,
+    "lng": 13.8433856,
+    "name_fr": "Boat Gas station Marina Veruda BP Crno Zlato",
+    "description_fr": null
+  },
+  {
+    "id": 2941,
+    "wind2horizon_id": null,
+    "lat": 44.834197,
+    "lng": 13.922191,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 2942,
+    "wind2horizon_id": null,
+    "lat": 44.8143153,
+    "lng": 13.9274306,
+    "name_fr": "Petrol Station Flash, za brodove (boats)",
+    "description_fr": null
+  },
+  {
+    "id": 2943,
+    "wind2horizon_id": null,
+    "lat": 44.9327085,
+    "lng": 13.8913341,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2944,
+    "wind2horizon_id": null,
+    "lat": 44.93359239999999,
+    "lng": 13.8893216,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2945,
+    "wind2horizon_id": null,
+    "lat": 44.8553489,
+    "lng": 13.8426913,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3234,
+    "wind2horizon_id": null,
+    "lat": 45.32719849999999,
+    "lng": 14.4468397,
+    "name_fr": "Specialty hospital MEDICO",
+    "description_fr": null
+  },
+  {
+    "id": 3235,
+    "wind2horizon_id": null,
+    "lat": 45.3271224,
+    "lng": 14.4692725,
+    "name_fr": "Bolnica za majku i dijete Rijeka",
+    "description_fr": null
+  },
+  {
+    "id": 3236,
+    "wind2horizon_id": null,
+    "lat": 45.3319306,
+    "lng": 14.4270913,
+    "name_fr": "KBC Rijeka - lokalitet Rijeka",
+    "description_fr": null
+  },
+  {
+    "id": 2960,
+    "wind2horizon_id": null,
+    "lat": 44.9548735,
+    "lng": 13.8493735,
     "name_fr": "Pompe à essence Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3207,
+    "wind2horizon_id": null,
+    "lat": 45.6565347,
+    "lng": 13.801055,
+    "name_fr": "ASUGI",
+    "description_fr": null
+  },
+  {
+    "id": 3309,
+    "wind2horizon_id": null,
+    "lat": 43.9381175,
+    "lng": 15.4458679,
+    "name_fr": "Poliklinika More Med",
+    "description_fr": null
+  },
+  {
+    "id": 2961,
+    "wind2horizon_id": null,
+    "lat": 44.85750059999999,
+    "lng": 13.87769,
+    "name_fr": "Gas Oil Pula",
+    "description_fr": null
+  },
+  {
+    "id": 3007,
+    "wind2horizon_id": null,
+    "lat": 44.118574,
+    "lng": 15.271994,
+    "name_fr": "Shell BS Zadar Crno",
+    "description_fr": null
+  },
+  {
+    "id": 2963,
+    "wind2horizon_id": null,
+    "lat": 45.0244483,
+    "lng": 14.5707578,
+    "name_fr": "Station service maritime",
+    "description_fr": null
+  },
+  {
+    "id": 3237,
+    "wind2horizon_id": null,
+    "lat": 45.3306692,
+    "lng": 14.4393738,
+    "name_fr": "DR. DARKO JAKOVAC, specialist clinic",
+    "description_fr": null
+  },
+  {
+    "id": 3012,
+    "wind2horizon_id": null,
+    "lat": 45.3600742,
+    "lng": 14.4935488,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3014,
+    "wind2horizon_id": null,
+    "lat": 45.3635043,
+    "lng": 14.3265821,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3238,
+    "wind2horizon_id": null,
+    "lat": 45.3329236,
+    "lng": 14.4279685,
+    "name_fr": "Bolnice lokalitet Rijeka",
+    "description_fr": null
+  },
+  {
+    "id": 3016,
+    "wind2horizon_id": null,
+    "lat": 45.3564626,
+    "lng": 14.4874776,
+    "name_fr": "Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3010,
+    "wind2horizon_id": null,
+    "lat": 44.114187,
+    "lng": 15.40713,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 3008,
+    "wind2horizon_id": null,
+    "lat": 44.121267,
+    "lng": 15.2609898,
+    "name_fr": "LPG kamp gas fill station",
+    "description_fr": null
+  },
+  {
+    "id": 3018,
+    "wind2horizon_id": null,
+    "lat": 45.3420561,
+    "lng": 14.3712217,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3020,
+    "wind2horizon_id": null,
+    "lat": 45.2871904,
+    "lng": 14.546653,
+    "name_fr": "Ina RIJEKA PUNILIŠTE",
+    "description_fr": null
+  },
+  {
+    "id": 3196,
+    "wind2horizon_id": null,
+    "lat": 45.6354644,
+    "lng": 13.7853973,
+    "name_fr": "Children's hospital \"Burlo Garofolo\"",
+    "description_fr": null
+  },
+  {
+    "id": 3199,
+    "wind2horizon_id": null,
+    "lat": 45.64485380000001,
+    "lng": 13.7632968,
+    "name_fr": "Casa di Cura Salus",
+    "description_fr": null
+  },
+  {
+    "id": 3176,
+    "wind2horizon_id": null,
+    "lat": 45.5810028,
+    "lng": 13.7274851,
+    "name_fr": "Orthopedic Hospital Valdoltra",
+    "description_fr": null
+  },
+  {
+    "id": 3011,
+    "wind2horizon_id": null,
+    "lat": 44.2855676,
+    "lng": 15.1229848,
+    "name_fr": "Tri Bartola d.o.o.",
+    "description_fr": null
+  },
+  {
+    "id": 2968,
+    "wind2horizon_id": null,
+    "lat": 45.0241543,
+    "lng": 14.5737785,
+    "name_fr": "Krk boat fuel station",
+    "description_fr": null
+  },
+  {
+    "id": 3004,
+    "wind2horizon_id": null,
+    "lat": 44.140518,
+    "lng": 15.228063,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 2958,
+    "wind2horizon_id": null,
+    "lat": 44.8618367,
+    "lng": 13.8632213,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 2974,
+    "wind2horizon_id": null,
+    "lat": 44.9742854,
+    "lng": 14.7434823,
+    "name_fr": "Benzinska postaja In’Sol",
+    "description_fr": null
+  },
+  {
+    "id": 2988,
+    "wind2horizon_id": null,
+    "lat": 44.5570496,
+    "lng": 14.8813777,
+    "name_fr": "Sea Gas Point Novalja",
+    "description_fr": null
+  },
+  {
+    "id": 3042,
+    "wind2horizon_id": null,
+    "lat": 45.3084576,
+    "lng": 14.4925455,
+    "name_fr": "Ina Industrija Nafte D.D. - Služba Održavanja Rafinerije Nafte",
+    "description_fr": null
+  },
+  {
+    "id": 3048,
+    "wind2horizon_id": null,
+    "lat": 45.32371879999999,
+    "lng": 14.5114535,
+    "name_fr": "Rijeka Trans D.O.O. BP",
+    "description_fr": null
+  },
+  {
+    "id": 3050,
+    "wind2horizon_id": null,
+    "lat": 45.3553104,
+    "lng": 14.3915237,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3239,
+    "wind2horizon_id": null,
+    "lat": 45.36404719999999,
+    "lng": 14.3134776,
+    "name_fr": "Specijalna bolnica dr. Nemec",
+    "description_fr": null
+  },
+  {
+    "id": 3240,
+    "wind2horizon_id": null,
+    "lat": 45.3336307,
+    "lng": 14.4276439,
+    "name_fr": "KBC Rijeka, Klinika za otorinolaringologiju i kirurgiju glave i vrata",
+    "description_fr": null
+  },
+  {
+    "id": 2995,
+    "wind2horizon_id": null,
+    "lat": 44.19007819999999,
+    "lng": 15.1805238,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 2959,
+    "wind2horizon_id": null,
+    "lat": 44.8575902,
+    "lng": 13.8773086,
+    "name_fr": "Myjnia samochodowa",
+    "description_fr": null
+  },
+  {
+    "id": 2965,
+    "wind2horizon_id": null,
+    "lat": 45.0241133,
+    "lng": 14.5737744,
+    "name_fr": "Crno Zlato d o o BP KRK",
+    "description_fr": null
+  },
+  {
+    "id": 3221,
+    "wind2horizon_id": null,
+    "lat": 44.8671303,
+    "lng": 13.847715,
+    "name_fr": "AED Definrillatob",
+    "description_fr": null
+  },
+  {
+    "id": 3243,
+    "wind2horizon_id": null,
+    "lat": 45.3357685,
+    "lng": 14.3060018,
+    "name_fr": "Emergency",
+    "description_fr": null
+  },
+  {
+    "id": 3368,
+    "wind2horizon_id": null,
+    "lat": 43.1730855,
+    "lng": 16.4358767,
+    "name_fr": "DZ Hvar",
+    "description_fr": null
+  },
+  {
+    "id": 3102,
+    "wind2horizon_id": null,
+    "lat": 43.7762875,
+    "lng": 15.9598427,
+    "name_fr": "Tromilja benzin",
+    "description_fr": null
+  },
+  {
+    "id": 3083,
+    "wind2horizon_id": null,
+    "lat": 44.0303662,
+    "lng": 15.6088012,
+    "name_fr": "Asseria oil",
+    "description_fr": null
+  },
+  {
+    "id": 3084,
+    "wind2horizon_id": null,
+    "lat": 44.0780186,
+    "lng": 15.3883917,
+    "name_fr": "Galovac Essence",
+    "description_fr": null
+  },
+  {
+    "id": 3244,
+    "wind2horizon_id": null,
+    "lat": 45.3325578,
+    "lng": 14.4265063,
+    "name_fr": "Poliklinika",
+    "description_fr": null
+  },
+  {
+    "id": 3245,
+    "wind2horizon_id": null,
+    "lat": 45.331796,
+    "lng": 14.4293391,
+    "name_fr": "City Of Rijeka CHC - IT department",
+    "description_fr": null
+  },
+  {
+    "id": 3246,
+    "wind2horizon_id": null,
+    "lat": 45.3223364,
+    "lng": 14.5278019,
+    "name_fr": "Health centar Skrljevo",
+    "description_fr": null
+  },
+  {
+    "id": 3247,
+    "wind2horizon_id": null,
+    "lat": 45.3337016,
+    "lng": 14.4275875,
+    "name_fr": "Dnevna bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3248,
+    "wind2horizon_id": null,
+    "lat": 45.3795395,
+    "lng": 14.3855507,
+    "name_fr": "Ordinacija Opće Medicine",
+    "description_fr": null
+  },
+  {
+    "id": 3233,
+    "wind2horizon_id": null,
+    "lat": 45.32687610000001,
+    "lng": 14.4690603,
+    "name_fr": "Dječja bolnica Sušak",
+    "description_fr": null
+  },
+  {
+    "id": 3249,
+    "wind2horizon_id": null,
+    "lat": 45.326071,
+    "lng": 14.471317,
+    "name_fr": "KBC Rijeka Rodilište",
+    "description_fr": null
+  },
+  {
+    "id": 3250,
+    "wind2horizon_id": null,
+    "lat": 45.3779738,
+    "lng": 14.441012,
+    "name_fr": "Lopača Psychiatric Hospital",
+    "description_fr": null
+  },
+  {
+    "id": 3251,
+    "wind2horizon_id": null,
+    "lat": 45.3323303,
+    "lng": 14.4287206,
+    "name_fr": "Klinika za psihijatriju",
+    "description_fr": null
+  },
+  {
+    "id": 3110,
+    "wind2horizon_id": null,
+    "lat": 43.69163469999999,
+    "lng": 16.0366598,
+    "name_fr": "Lukoil - Vrpolje West",
+    "description_fr": null
+  },
+  {
+    "id": 3252,
+    "wind2horizon_id": null,
+    "lat": 45.3329844,
+    "lng": 14.427775,
+    "name_fr": "Klinika za neurologiju",
+    "description_fr": null
+  },
+  {
+    "id": 3255,
+    "wind2horizon_id": null,
+    "lat": 45.3472203,
+    "lng": 14.3146184,
+    "name_fr": "Center of cosmetic surgery dr.Žgaljardić",
+    "description_fr": null
+  },
+  {
+    "id": 3256,
+    "wind2horizon_id": null,
+    "lat": 45.3632835,
+    "lng": 14.3213847,
+    "name_fr": "Ordinacija dentalne medicine dr.med.dent. Zoran Puškarić",
+    "description_fr": null
+  },
+  {
+    "id": 3257,
+    "wind2horizon_id": null,
+    "lat": 45.3320037,
+    "lng": 14.4274276,
+    "name_fr": "Department of digestive surgery",
+    "description_fr": null
+  },
+  {
+    "id": 3241,
+    "wind2horizon_id": null,
+    "lat": 45.3289888,
+    "lng": 14.3001353,
+    "name_fr": "Thalassotherapy Opatija",
+    "description_fr": null
+  },
+  {
+    "id": 3258,
+    "wind2horizon_id": null,
+    "lat": 45.3392552,
+    "lng": 14.4005347,
+    "name_fr": "AlphaMedic - Walk in klinika (pregled liječnika bez naručivanja) i DripLounge (vitaminske infuzije)",
+    "description_fr": null
+  },
+  {
+    "id": 3259,
+    "wind2horizon_id": null,
+    "lat": 45.3322408,
+    "lng": 14.4293082,
+    "name_fr": "Clinic for Infectious Diseases",
+    "description_fr": null
+  },
+  {
+    "id": 3254,
+    "wind2horizon_id": null,
+    "lat": 45.3487592,
+    "lng": 14.4206559,
+    "name_fr": "KRGA-GARDIĆ JADRANKA dr.",
+    "description_fr": null
+  },
+  {
+    "id": 3260,
+    "wind2horizon_id": null,
+    "lat": 45.3415529,
+    "lng": 14.4079636,
+    "name_fr": "Dom Turnić",
+    "description_fr": null
+  },
+  {
+    "id": 3262,
+    "wind2horizon_id": null,
+    "lat": 45.3430111,
+    "lng": 14.390577,
+    "name_fr": "Služba školske medicine, Ambulanta Zamet,",
+    "description_fr": null
+  },
+  {
+    "id": 3263,
+    "wind2horizon_id": null,
+    "lat": 45.35859869999999,
+    "lng": 14.489749,
+    "name_fr": "Poliklinika Laser RI",
+    "description_fr": null
+  },
+  {
+    "id": 3264,
+    "wind2horizon_id": null,
+    "lat": 45.327039,
+    "lng": 14.4689787,
+    "name_fr": "Odjel za intenzivno liječenje novorođenčadi",
+    "description_fr": null
+  },
+  {
+    "id": 3145,
+    "wind2horizon_id": null,
+    "lat": 43.50680089999999,
+    "lng": 16.5069299,
+    "name_fr": "NORMA d.o.o.",
+    "description_fr": null
+  },
+  {
+    "id": 3147,
+    "wind2horizon_id": null,
+    "lat": 43.549903,
+    "lng": 16.304622,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 3156,
+    "wind2horizon_id": null,
+    "lat": 43.17987,
+    "lng": 16.57961,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 3134,
+    "wind2horizon_id": null,
+    "lat": 43.5122467,
+    "lng": 16.4574129,
+    "name_fr": "Ina Plokite",
+    "description_fr": null
+  },
+  {
+    "id": 3261,
+    "wind2horizon_id": null,
+    "lat": 45.3270631,
+    "lng": 14.442176,
+    "name_fr": "Policlinico rident",
+    "description_fr": null
+  },
+  {
+    "id": 3266,
+    "wind2horizon_id": null,
+    "lat": 45.3467785,
+    "lng": 14.3510663,
+    "name_fr": "Informativni ured Acibadem Hrvatska",
+    "description_fr": null
+  },
+  {
+    "id": 3265,
+    "wind2horizon_id": null,
+    "lat": 45.3332553,
+    "lng": 14.4273269,
+    "name_fr": "Odjel Audiologije, Rijeka",
+    "description_fr": null
+  },
+  {
+    "id": 3267,
+    "wind2horizon_id": null,
+    "lat": 45.3608604,
+    "lng": 14.3544891,
+    "name_fr": "Fiorella La Guardina 5",
+    "description_fr": null
+  },
+  {
+    "id": 3268,
+    "wind2horizon_id": null,
+    "lat": 45.3392,
+    "lng": 14.3846424,
+    "name_fr": "Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom",
+    "description_fr": null
+  },
+  {
+    "id": 3269,
+    "wind2horizon_id": null,
+    "lat": 45.3215156,
+    "lng": 14.4684321,
+    "name_fr": "SANTETSKI PRIJEVOZ NEPOKRETNIH I TESKO POKRETNIH ,AMBULANTNI PRJEVOZ PRIJEVOZ INVALIDA",
+    "description_fr": null
+  },
+  {
+    "id": 3270,
+    "wind2horizon_id": null,
+    "lat": 45.3262875,
+    "lng": 14.4445882,
+    "name_fr": "Rogatec Bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3271,
+    "wind2horizon_id": null,
+    "lat": 45.3326222,
+    "lng": 14.4256781,
+    "name_fr": "Ligonine",
+    "description_fr": null
+  },
+  {
+    "id": 3272,
+    "wind2horizon_id": null,
+    "lat": 45.3270631,
+    "lng": 14.442176,
+    "name_fr": "Policlinico Zambelli",
+    "description_fr": null
+  },
+  {
+    "id": 3273,
+    "wind2horizon_id": null,
+    "lat": 45.3269923,
+    "lng": 14.4465544,
+    "name_fr": "Prilaz Monte Cappelletta 5, 52100 Pula",
+    "description_fr": null
+  },
+  {
+    "id": 3274,
+    "wind2horizon_id": null,
+    "lat": 45.3258567,
+    "lng": 14.4704996,
+    "name_fr": "Pulmologija",
+    "description_fr": null
+  },
+  {
+    "id": 3275,
+    "wind2horizon_id": null,
+    "lat": 45.3258567,
+    "lng": 14.4704996,
+    "name_fr": "Radiologija Magnetska rezonanca",
+    "description_fr": null
+  },
+  {
+    "id": 3276,
+    "wind2horizon_id": null,
+    "lat": 45.3320454,
+    "lng": 14.4271091,
+    "name_fr": "Radiologija Magnetska rezonanca",
+    "description_fr": null
+  },
+  {
+    "id": 3277,
+    "wind2horizon_id": null,
+    "lat": 45.3320454,
+    "lng": 14.4271091,
+    "name_fr": "Radiologija utz",
+    "description_fr": null
+  },
+  {
+    "id": 3278,
+    "wind2horizon_id": null,
+    "lat": 45.3892387,
+    "lng": 14.4665187,
+    "name_fr": "Privatna fizikalna terapija Maja Maržić",
+    "description_fr": null
+  },
+  {
+    "id": 3082,
+    "wind2horizon_id": null,
+    "lat": 44.0308664,
+    "lng": 15.6065099,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3179,
+    "wind2horizon_id": null,
+    "lat": 45.5444241,
+    "lng": 13.6870967,
+    "name_fr": "Oddelek za Kirurgijo",
+    "description_fr": null
+  },
+  {
+    "id": 3183,
+    "wind2horizon_id": null,
+    "lat": 45.5444241,
+    "lng": 13.6870966,
+    "name_fr": "Heliport Splošne Bolnišnice Izola",
+    "description_fr": null
+  },
+  {
+    "id": 3185,
+    "wind2horizon_id": null,
+    "lat": 45.5085335,
+    "lng": 13.5958488,
+    "name_fr": "Ginekoloska ambulanta mladen mrkajoc",
+    "description_fr": null
+  },
+  {
+    "id": 3186,
+    "wind2horizon_id": null,
+    "lat": 45.5346565,
+    "lng": 13.6608324,
+    "name_fr": "Medical Center Izola",
+    "description_fr": null
+  },
+  {
+    "id": 3190,
+    "wind2horizon_id": null,
+    "lat": 45.5479957,
+    "lng": 13.7301732,
+    "name_fr": "Ijaz House",
+    "description_fr": null
+  },
+  {
+    "id": 3191,
+    "wind2horizon_id": null,
+    "lat": 45.4326918,
+    "lng": 13.5247141,
+    "name_fr": "Health Center Umag Ambulance",
+    "description_fr": null
+  },
+  {
+    "id": 3149,
+    "wind2horizon_id": null,
+    "lat": 43.589227,
+    "lng": 16.577613,
+    "name_fr": "Shell",
+    "description_fr": null
+  },
+  {
+    "id": 3192,
+    "wind2horizon_id": null,
+    "lat": 45.436877,
+    "lng": 13.5303697,
+    "name_fr": "Darija Juričić",
+    "description_fr": null
+  },
+  {
+    "id": 3195,
+    "wind2horizon_id": null,
+    "lat": 45.6463447,
+    "lng": 13.7893646,
+    "name_fr": "Sanatorio Triestino",
+    "description_fr": null
+  },
+  {
+    "id": 3286,
+    "wind2horizon_id": null,
+    "lat": 44.5465579,
+    "lng": 14.8918129,
+    "name_fr": "Poliklinika",
+    "description_fr": null
+  },
+  {
+    "id": 2902,
+    "wind2horizon_id": null,
+    "lat": 45.550768,
+    "lng": 13.7277044,
+    "name_fr": "MOL",
+    "description_fr": null
+  },
+  {
+    "id": 2903,
+    "wind2horizon_id": null,
+    "lat": 45.53846859999999,
+    "lng": 13.6563578,
+    "name_fr": "DISCONT Oil – Bencinska črpalka Izola",
+    "description_fr": null
+  },
+  {
+    "id": 2905,
+    "wind2horizon_id": null,
+    "lat": 45.5404958,
+    "lng": 13.7260184,
+    "name_fr": "MOL",
+    "description_fr": null
+  },
+  {
+    "id": 2906,
+    "wind2horizon_id": null,
+    "lat": 45.50043,
+    "lng": 13.61022,
+    "name_fr": "MOL",
+    "description_fr": null
+  },
+  {
+    "id": 2907,
+    "wind2horizon_id": null,
+    "lat": 45.5247017,
+    "lng": 13.6507286,
+    "name_fr": "Petrol BS - Jagodje - South",
+    "description_fr": null
+  },
+  {
+    "id": 2908,
+    "wind2horizon_id": null,
+    "lat": 45.5151236,
+    "lng": 13.5807993,
+    "name_fr": "MOL",
+    "description_fr": null
+  },
+  {
+    "id": 2909,
+    "wind2horizon_id": null,
+    "lat": 45.431259,
+    "lng": 13.5265464,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2910,
+    "wind2horizon_id": null,
+    "lat": 45.4399661,
+    "lng": 13.519012,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2911,
+    "wind2horizon_id": null,
+    "lat": 45.4312421,
+    "lng": 13.5301577,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 2912,
+    "wind2horizon_id": null,
+    "lat": 45.492115,
+    "lng": 13.508227,
+    "name_fr": "Crodux",
     "description_fr": null
   },
   {
@@ -784,11 +1720,11 @@
     "description_fr": null
   },
   {
-    "id": 2922,
+    "id": 2916,
     "wind2horizon_id": null,
-    "lat": 45.2364008,
-    "lng": 13.6039619,
-    "name_fr": "Petrol",
+    "lat": 45.3187536,
+    "lng": 13.5739196,
+    "name_fr": "Crodux",
     "description_fr": null
   },
   {
@@ -797,6 +1733,30 @@
     "lat": 45.29811429999999,
     "lng": 13.6217294,
     "name_fr": "Aldo Commerce",
+    "description_fr": null
+  },
+  {
+    "id": 2921,
+    "wind2horizon_id": null,
+    "lat": 45.2394883,
+    "lng": 13.6243333,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 2922,
+    "wind2horizon_id": null,
+    "lat": 45.2364008,
+    "lng": 13.6039619,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 2924,
+    "wind2horizon_id": null,
+    "lat": 45.22586620000001,
+    "lng": 13.6015772,
+    "name_fr": "Pompe à essence Ina",
     "description_fr": null
   },
   {
@@ -888,14 +1848,6 @@
     "description_fr": null
   },
   {
-    "id": 2938,
-    "wind2horizon_id": null,
-    "lat": 44.82705079999999,
-    "lng": 13.8790314,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
     "id": 2937,
     "wind2horizon_id": null,
     "lat": 44.83856309999999,
@@ -904,50 +1856,10 @@
     "description_fr": null
   },
   {
-    "id": 2935,
-    "wind2horizon_id": null,
-    "lat": 45.0847285,
-    "lng": 13.6344352,
-    "name_fr": "Boat fueling station",
-    "description_fr": null
-  },
-  {
-    "id": 2943,
-    "wind2horizon_id": null,
-    "lat": 44.9327085,
-    "lng": 13.8913341,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2944,
-    "wind2horizon_id": null,
-    "lat": 44.93359239999999,
-    "lng": 13.8893216,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2945,
-    "wind2horizon_id": null,
-    "lat": 44.8553489,
-    "lng": 13.8426913,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
     "id": 2946,
     "wind2horizon_id": null,
     "lat": 44.87669570000001,
     "lng": 13.8533948,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2951,
-    "wind2horizon_id": null,
-    "lat": 44.925644,
-    "lng": 13.803978,
     "name_fr": "INA",
     "description_fr": null
   },
@@ -968,11 +1880,11 @@
     "description_fr": null
   },
   {
-    "id": 2939,
+    "id": 2951,
     "wind2horizon_id": null,
-    "lat": 44.82056840000001,
-    "lng": 13.9312875,
-    "name_fr": "INA Medulin",
+    "lat": 44.925644,
+    "lng": 13.803978,
+    "name_fr": "INA",
     "description_fr": null
   },
   {
@@ -984,43 +1896,11 @@
     "description_fr": null
   },
   {
-    "id": 2940,
-    "wind2horizon_id": null,
-    "lat": 44.8381197,
-    "lng": 13.8433856,
-    "name_fr": "Boat Gas station Marina Veruda BP Crno Zlato",
-    "description_fr": null
-  },
-  {
-    "id": 2941,
-    "wind2horizon_id": null,
-    "lat": 44.834197,
-    "lng": 13.922191,
-    "name_fr": "Shell",
-    "description_fr": null
-  },
-  {
-    "id": 2942,
-    "wind2horizon_id": null,
-    "lat": 44.8143153,
-    "lng": 13.9274306,
-    "name_fr": "Petrol Station Flash, za brodove (boats)",
-    "description_fr": null
-  },
-  {
     "id": 2957,
     "wind2horizon_id": null,
     "lat": 44.8573716,
     "lng": 13.877445,
     "name_fr": "Tankstella",
-    "description_fr": null
-  },
-  {
-    "id": 2960,
-    "wind2horizon_id": null,
-    "lat": 44.9548735,
-    "lng": 13.8493735,
-    "name_fr": "Pompe à essence Ina",
     "description_fr": null
   },
   {
@@ -1048,11 +1928,35 @@
     "description_fr": null
   },
   {
+    "id": 2967,
+    "wind2horizon_id": null,
+    "lat": 45.029034,
+    "lng": 14.497961,
+    "name_fr": "Gas station Valbiska",
+    "description_fr": null
+  },
+  {
+    "id": 2969,
+    "wind2horizon_id": null,
+    "lat": 44.5341392,
+    "lng": 14.4722168,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 2970,
     "wind2horizon_id": null,
     "lat": 44.5453817,
     "lng": 14.4554674,
     "name_fr": "Adria Oil BP Mali Lošinj",
+    "description_fr": null
+  },
+  {
+    "id": 2971,
+    "wind2horizon_id": null,
+    "lat": 44.5338295,
+    "lng": 14.4633172,
+    "name_fr": "INA",
     "description_fr": null
   },
   {
@@ -1064,6 +1968,22 @@
     "description_fr": null
   },
   {
+    "id": 2973,
+    "wind2horizon_id": null,
+    "lat": 45.123068,
+    "lng": 14.527419,
+    "name_fr": "Trgovina Krk d.d. Petrol station",
+    "description_fr": null
+  },
+  {
+    "id": 2975,
+    "wind2horizon_id": null,
+    "lat": 45.0391533,
+    "lng": 14.5694439,
+    "name_fr": "In'sol",
+    "description_fr": null
+  },
+  {
     "id": 2976,
     "wind2horizon_id": null,
     "lat": 45.1254476,
@@ -1072,10 +1992,26 @@
     "description_fr": null
   },
   {
+    "id": 2977,
+    "wind2horizon_id": null,
+    "lat": 45.125895,
+    "lng": 14.788212,
+    "name_fr": "Pompe à essence Ina",
+    "description_fr": null
+  },
+  {
     "id": 2978,
     "wind2horizon_id": null,
     "lat": 44.7578594,
     "lng": 14.7633297,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2979,
+    "wind2horizon_id": null,
+    "lat": 44.74775,
+    "lng": 14.7891886,
     "name_fr": "INA",
     "description_fr": null
   },
@@ -1088,6 +2024,14 @@
     "description_fr": null
   },
   {
+    "id": 2981,
+    "wind2horizon_id": null,
+    "lat": 44.7121691,
+    "lng": 14.9193095,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 2982,
     "wind2horizon_id": null,
     "lat": 44.7580686,
@@ -1096,10 +2040,26 @@
     "description_fr": null
   },
   {
+    "id": 2983,
+    "wind2horizon_id": null,
+    "lat": 44.441341,
+    "lng": 15.061923,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 2984,
     "wind2horizon_id": null,
     "lat": 44.54743010000001,
     "lng": 14.8938699,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2985,
+    "wind2horizon_id": null,
+    "lat": 44.5298226,
+    "lng": 15.069826,
     "name_fr": "INA",
     "description_fr": null
   },
@@ -1112,6 +2072,22 @@
     "description_fr": null
   },
   {
+    "id": 2987,
+    "wind2horizon_id": null,
+    "lat": 44.54933459999999,
+    "lng": 14.9021366,
+    "name_fr": "Lukoil",
+    "description_fr": null
+  },
+  {
+    "id": 2989,
+    "wind2horizon_id": null,
+    "lat": 44.4376284,
+    "lng": 15.0647818,
+    "name_fr": "Rijeka Trans",
+    "description_fr": null
+  },
+  {
     "id": 2990,
     "wind2horizon_id": null,
     "lat": 44.07645309999999,
@@ -1120,10 +2096,26 @@
     "description_fr": null
   },
   {
+    "id": 2991,
+    "wind2horizon_id": null,
+    "lat": 44.13192900000001,
+    "lng": 15.2115527,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 2992,
     "wind2horizon_id": null,
     "lat": 44.1052121,
     "lng": 15.2600577,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2993,
+    "wind2horizon_id": null,
+    "lat": 44.1178978,
+    "lng": 15.228701,
     "name_fr": "INA",
     "description_fr": null
   },
@@ -1144,163 +2136,19 @@
     "description_fr": null
   },
   {
-    "id": 2998,
-    "wind2horizon_id": null,
-    "lat": 44.0948569,
-    "lng": 15.2590458,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 3000,
-    "wind2horizon_id": null,
-    "lat": 44.1375292,
-    "lng": 15.2402687,
-    "name_fr": "Adria Oil BP Zadar",
-    "description_fr": null
-  },
-  {
-    "id": 3002,
-    "wind2horizon_id": null,
-    "lat": 44.0500828,
-    "lng": 15.3121901,
-    "name_fr": "Tri Bartola d.o.o.",
-    "description_fr": null
-  },
-  {
-    "id": 3006,
-    "wind2horizon_id": null,
-    "lat": 44.1390771,
-    "lng": 15.3107892,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 2961,
-    "wind2horizon_id": null,
-    "lat": 44.85750059999999,
-    "lng": 13.87769,
-    "name_fr": "Gas Oil Pula",
-    "description_fr": null
-  },
-  {
-    "id": 2963,
-    "wind2horizon_id": null,
-    "lat": 45.0244483,
-    "lng": 14.5707578,
-    "name_fr": "Station service maritime",
-    "description_fr": null
-  },
-  {
-    "id": 2967,
-    "wind2horizon_id": null,
-    "lat": 45.029034,
-    "lng": 14.497961,
-    "name_fr": "Gas station Valbiska",
-    "description_fr": null
-  },
-  {
-    "id": 2969,
-    "wind2horizon_id": null,
-    "lat": 44.5341392,
-    "lng": 14.4722168,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2971,
-    "wind2horizon_id": null,
-    "lat": 44.5338295,
-    "lng": 14.4633172,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2975,
-    "wind2horizon_id": null,
-    "lat": 45.0391533,
-    "lng": 14.5694439,
-    "name_fr": "In'sol",
-    "description_fr": null
-  },
-  {
-    "id": 2977,
-    "wind2horizon_id": null,
-    "lat": 45.125895,
-    "lng": 14.788212,
-    "name_fr": "Pompe à essence Ina",
-    "description_fr": null
-  },
-  {
-    "id": 2979,
-    "wind2horizon_id": null,
-    "lat": 44.74775,
-    "lng": 14.7891886,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2981,
-    "wind2horizon_id": null,
-    "lat": 44.7121691,
-    "lng": 14.9193095,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2983,
-    "wind2horizon_id": null,
-    "lat": 44.441341,
-    "lng": 15.061923,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2985,
-    "wind2horizon_id": null,
-    "lat": 44.5298226,
-    "lng": 15.069826,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2987,
-    "wind2horizon_id": null,
-    "lat": 44.54933459999999,
-    "lng": 14.9021366,
-    "name_fr": "Lukoil",
-    "description_fr": null
-  },
-  {
-    "id": 2989,
-    "wind2horizon_id": null,
-    "lat": 44.4376284,
-    "lng": 15.0647818,
-    "name_fr": "Rijeka Trans",
-    "description_fr": null
-  },
-  {
-    "id": 2991,
-    "wind2horizon_id": null,
-    "lat": 44.13192900000001,
-    "lng": 15.2115527,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 2993,
-    "wind2horizon_id": null,
-    "lat": 44.1178978,
-    "lng": 15.228701,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
     "id": 2997,
     "wind2horizon_id": null,
     "lat": 44.11058389999999,
     "lng": 15.2340203,
     "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 2998,
+    "wind2horizon_id": null,
+    "lat": 44.0948569,
+    "lng": 15.2590458,
+    "name_fr": "Petrol",
     "description_fr": null
   },
   {
@@ -1312,11 +2160,27 @@
     "description_fr": null
   },
   {
+    "id": 3000,
+    "wind2horizon_id": null,
+    "lat": 44.1375292,
+    "lng": 15.2402687,
+    "name_fr": "Adria Oil BP Zadar",
+    "description_fr": null
+  },
+  {
     "id": 3001,
     "wind2horizon_id": null,
     "lat": 44.0527413,
     "lng": 15.297396,
     "name_fr": "Station d'essence",
+    "description_fr": null
+  },
+  {
+    "id": 3002,
+    "wind2horizon_id": null,
+    "lat": 44.0500828,
+    "lng": 15.3121901,
+    "name_fr": "Tri Bartola d.o.o.",
     "description_fr": null
   },
   {
@@ -1328,139 +2192,35 @@
     "description_fr": null
   },
   {
-    "id": 3007,
+    "id": 3005,
     "wind2horizon_id": null,
-    "lat": 44.118574,
-    "lng": 15.271994,
-    "name_fr": "Shell BS Zadar Crno",
+    "lat": 44.1395167,
+    "lng": 15.3104242,
+    "name_fr": "Petrol Murvica West",
     "description_fr": null
   },
   {
-    "id": 3008,
+    "id": 3006,
     "wind2horizon_id": null,
-    "lat": 44.121267,
-    "lng": 15.2609898,
-    "name_fr": "LPG kamp gas fill station",
-    "description_fr": null
-  },
-  {
-    "id": 3010,
-    "wind2horizon_id": null,
-    "lat": 44.114187,
-    "lng": 15.40713,
-    "name_fr": "Shell",
-    "description_fr": null
-  },
-  {
-    "id": 3012,
-    "wind2horizon_id": null,
-    "lat": 45.3600742,
-    "lng": 14.4935488,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3014,
-    "wind2horizon_id": null,
-    "lat": 45.3635043,
-    "lng": 14.3265821,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3016,
-    "wind2horizon_id": null,
-    "lat": 45.3564626,
-    "lng": 14.4874776,
-    "name_fr": "Ina",
-    "description_fr": null
-  },
-  {
-    "id": 3018,
-    "wind2horizon_id": null,
-    "lat": 45.3420561,
-    "lng": 14.3712217,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3020,
-    "wind2horizon_id": null,
-    "lat": 45.2871904,
-    "lng": 14.546653,
-    "name_fr": "Ina RIJEKA PUNILIŠTE",
-    "description_fr": null
-  },
-  {
-    "id": 3022,
-    "wind2horizon_id": null,
-    "lat": 45.33434889999999,
-    "lng": 14.4217676,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3024,
-    "wind2horizon_id": null,
-    "lat": 45.3417116,
-    "lng": 14.371831,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3026,
-    "wind2horizon_id": null,
-    "lat": 45.3608874,
-    "lng": 14.3296183,
+    "lat": 44.1390771,
+    "lng": 15.3107892,
     "name_fr": "Petrol",
     "description_fr": null
   },
   {
-    "id": 3028,
+    "id": 3009,
     "wind2horizon_id": null,
-    "lat": 45.4431236,
-    "lng": 14.2734547,
-    "name_fr": "Crodux Brgud Zapad",
+    "lat": 44.10154199999999,
+    "lng": 15.2536782,
+    "name_fr": "Tri Bartola",
     "description_fr": null
   },
   {
-    "id": 3030,
+    "id": 3013,
     "wind2horizon_id": null,
-    "lat": 45.3742499,
-    "lng": 14.3867563,
-    "name_fr": "Adria Oil BP Viškovo",
-    "description_fr": null
-  },
-  {
-    "id": 3032,
-    "wind2horizon_id": null,
-    "lat": 45.33541210000001,
-    "lng": 14.3110078,
-    "name_fr": "Ina",
-    "description_fr": null
-  },
-  {
-    "id": 3034,
-    "wind2horizon_id": null,
-    "lat": 45.296351,
-    "lng": 14.2757542,
-    "name_fr": "Pompe à essence Ina",
-    "description_fr": null
-  },
-  {
-    "id": 3036,
-    "wind2horizon_id": null,
-    "lat": 45.3551753,
-    "lng": 14.3496619,
-    "name_fr": "Crodux - Vrata Jadrana South",
-    "description_fr": null
-  },
-  {
-    "id": 3011,
-    "wind2horizon_id": null,
-    "lat": 44.2855676,
-    "lng": 15.1229848,
-    "name_fr": "Tri Bartola d.o.o.",
+    "lat": 45.2768923,
+    "lng": 14.5708358,
+    "name_fr": "INA",
     "description_fr": null
   },
   {
@@ -1496,11 +2256,27 @@
     "description_fr": null
   },
   {
+    "id": 3022,
+    "wind2horizon_id": null,
+    "lat": 45.33434889999999,
+    "lng": 14.4217676,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 3023,
     "wind2horizon_id": null,
     "lat": 45.2719051,
     "lng": 14.5768156,
     "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3024,
+    "wind2horizon_id": null,
+    "lat": 45.3417116,
+    "lng": 14.371831,
+    "name_fr": "INA",
     "description_fr": null
   },
   {
@@ -1512,11 +2288,43 @@
     "description_fr": null
   },
   {
+    "id": 3026,
+    "wind2horizon_id": null,
+    "lat": 45.3608874,
+    "lng": 14.3296183,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3027,
+    "wind2horizon_id": null,
+    "lat": 45.3487792,
+    "lng": 14.4949469,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3028,
+    "wind2horizon_id": null,
+    "lat": 45.4431236,
+    "lng": 14.2734547,
+    "name_fr": "Crodux Brgud Zapad",
+    "description_fr": null
+  },
+  {
     "id": 3029,
     "wind2horizon_id": null,
     "lat": 45.3730757,
     "lng": 14.3390351,
     "name_fr": "Adria Oil BP Spinčići",
+    "description_fr": null
+  },
+  {
+    "id": 3030,
+    "wind2horizon_id": null,
+    "lat": 45.3742499,
+    "lng": 14.3867563,
+    "name_fr": "Adria Oil BP Viškovo",
     "description_fr": null
   },
   {
@@ -1528,6 +2336,14 @@
     "description_fr": null
   },
   {
+    "id": 3032,
+    "wind2horizon_id": null,
+    "lat": 45.33541210000001,
+    "lng": 14.3110078,
+    "name_fr": "Ina",
+    "description_fr": null
+  },
+  {
     "id": 3033,
     "wind2horizon_id": null,
     "lat": 45.3553562,
@@ -1536,11 +2352,35 @@
     "description_fr": null
   },
   {
+    "id": 3034,
+    "wind2horizon_id": null,
+    "lat": 45.296351,
+    "lng": 14.2757542,
+    "name_fr": "Pompe à essence Ina",
+    "description_fr": null
+  },
+  {
     "id": 3035,
     "wind2horizon_id": null,
     "lat": 45.3722451,
     "lng": 14.3577942,
     "name_fr": "Tifon",
+    "description_fr": null
+  },
+  {
+    "id": 3036,
+    "wind2horizon_id": null,
+    "lat": 45.3551753,
+    "lng": 14.3496619,
+    "name_fr": "Crodux - Vrata Jadrana South",
+    "description_fr": null
+  },
+  {
+    "id": 3037,
+    "wind2horizon_id": null,
+    "lat": 45.2173052,
+    "lng": 14.5641424,
+    "name_fr": "Gas Station GPP Mikic",
     "description_fr": null
   },
   {
@@ -1616,166 +2456,6 @@
     "description_fr": null
   },
   {
-    "id": 2958,
-    "wind2horizon_id": null,
-    "lat": 44.8618367,
-    "lng": 13.8632213,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 2968,
-    "wind2horizon_id": null,
-    "lat": 45.0241543,
-    "lng": 14.5737785,
-    "name_fr": "Krk boat fuel station",
-    "description_fr": null
-  },
-  {
-    "id": 2974,
-    "wind2horizon_id": null,
-    "lat": 44.9742854,
-    "lng": 14.7434823,
-    "name_fr": "Benzinska postaja In’Sol",
-    "description_fr": null
-  },
-  {
-    "id": 2988,
-    "wind2horizon_id": null,
-    "lat": 44.5570496,
-    "lng": 14.8813777,
-    "name_fr": "Sea Gas Point Novalja",
-    "description_fr": null
-  },
-  {
-    "id": 3004,
-    "wind2horizon_id": null,
-    "lat": 44.140518,
-    "lng": 15.228063,
-    "name_fr": "Shell",
-    "description_fr": null
-  },
-  {
-    "id": 3042,
-    "wind2horizon_id": null,
-    "lat": 45.3084576,
-    "lng": 14.4925455,
-    "name_fr": "Ina Industrija Nafte D.D. - Služba Održavanja Rafinerije Nafte",
-    "description_fr": null
-  },
-  {
-    "id": 3048,
-    "wind2horizon_id": null,
-    "lat": 45.32371879999999,
-    "lng": 14.5114535,
-    "name_fr": "Rijeka Trans D.O.O. BP",
-    "description_fr": null
-  },
-  {
-    "id": 3050,
-    "wind2horizon_id": null,
-    "lat": 45.3553104,
-    "lng": 14.3915237,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 3052,
-    "wind2horizon_id": null,
-    "lat": 45.3098795,
-    "lng": 14.4880617,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3054,
-    "wind2horizon_id": null,
-    "lat": 45.3825235,
-    "lng": 14.3834932,
-    "name_fr": "Petrol, PM Rijeka - Viškovo",
-    "description_fr": null
-  },
-  {
-    "id": 3056,
-    "wind2horizon_id": null,
-    "lat": 45.340117,
-    "lng": 14.4130269,
-    "name_fr": "Pompe à essence Ina",
-    "description_fr": null
-  },
-  {
-    "id": 2959,
-    "wind2horizon_id": null,
-    "lat": 44.8575902,
-    "lng": 13.8773086,
-    "name_fr": "Myjnia samochodowa",
-    "description_fr": null
-  },
-  {
-    "id": 2965,
-    "wind2horizon_id": null,
-    "lat": 45.0241133,
-    "lng": 14.5737744,
-    "name_fr": "Crno Zlato d o o BP KRK",
-    "description_fr": null
-  },
-  {
-    "id": 2973,
-    "wind2horizon_id": null,
-    "lat": 45.123068,
-    "lng": 14.527419,
-    "name_fr": "Trgovina Krk d.d. Petrol station",
-    "description_fr": null
-  },
-  {
-    "id": 2995,
-    "wind2horizon_id": null,
-    "lat": 44.19007819999999,
-    "lng": 15.1805238,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 3005,
-    "wind2horizon_id": null,
-    "lat": 44.1395167,
-    "lng": 15.3104242,
-    "name_fr": "Petrol Murvica West",
-    "description_fr": null
-  },
-  {
-    "id": 3009,
-    "wind2horizon_id": null,
-    "lat": 44.10154199999999,
-    "lng": 15.2536782,
-    "name_fr": "Tri Bartola",
-    "description_fr": null
-  },
-  {
-    "id": 3013,
-    "wind2horizon_id": null,
-    "lat": 45.2768923,
-    "lng": 14.5708358,
-    "name_fr": "INA",
-    "description_fr": null
-  },
-  {
-    "id": 3027,
-    "wind2horizon_id": null,
-    "lat": 45.3487792,
-    "lng": 14.4949469,
-    "name_fr": "Petrol",
-    "description_fr": null
-  },
-  {
-    "id": 3037,
-    "wind2horizon_id": null,
-    "lat": 45.2173052,
-    "lng": 14.5641424,
-    "name_fr": "Gas Station GPP Mikic",
-    "description_fr": null
-  },
-  {
     "id": 3049,
     "wind2horizon_id": null,
     "lat": 45.3436969,
@@ -1792,6 +2472,14 @@
     "description_fr": null
   },
   {
+    "id": 3052,
+    "wind2horizon_id": null,
+    "lat": 45.3098795,
+    "lng": 14.4880617,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
     "id": 3053,
     "wind2horizon_id": null,
     "lat": 45.3358648,
@@ -1800,11 +2488,1755 @@
     "description_fr": null
   },
   {
+    "id": 3054,
+    "wind2horizon_id": null,
+    "lat": 45.3825235,
+    "lng": 14.3834932,
+    "name_fr": "Petrol, PM Rijeka - Viškovo",
+    "description_fr": null
+  },
+  {
     "id": 3055,
     "wind2horizon_id": null,
     "lat": 45.31403,
     "lng": 14.24979,
     "name_fr": "INA Kvarner",
+    "description_fr": null
+  },
+  {
+    "id": 3056,
+    "wind2horizon_id": null,
+    "lat": 45.340117,
+    "lng": 14.4130269,
+    "name_fr": "Pompe à essence Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3058,
+    "wind2horizon_id": null,
+    "lat": 44.1922976,
+    "lng": 15.4222057,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3061,
+    "wind2horizon_id": null,
+    "lat": 44.1915844,
+    "lng": 15.42073,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3079,
+    "wind2horizon_id": null,
+    "lat": 44.0626801,
+    "lng": 15.5287001,
+    "name_fr": "Crodux",
+    "description_fr": null
+  },
+  {
+    "id": 3080,
+    "wind2horizon_id": null,
+    "lat": 44.0617019,
+    "lng": 15.531974,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3081,
+    "wind2horizon_id": null,
+    "lat": 43.9439997,
+    "lng": 15.455519,
+    "name_fr": "Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3085,
+    "wind2horizon_id": null,
+    "lat": 44.00169289999999,
+    "lng": 15.5019253,
+    "name_fr": "Šimun Oil",
+    "description_fr": null
+  },
+  {
+    "id": 3086,
+    "wind2horizon_id": null,
+    "lat": 43.9403517,
+    "lng": 15.4478817,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3087,
+    "wind2horizon_id": null,
+    "lat": 43.824503,
+    "lng": 15.593997,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3088,
+    "wind2horizon_id": null,
+    "lat": 43.9387408,
+    "lng": 15.4399216,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3089,
+    "wind2horizon_id": null,
+    "lat": 43.8251812,
+    "lng": 15.5928293,
+    "name_fr": "FLASH ENERGY",
+    "description_fr": null
+  },
+  {
+    "id": 3090,
+    "wind2horizon_id": null,
+    "lat": 43.9132369,
+    "lng": 15.5121818,
+    "name_fr": "Petrol - Pakoštane",
+    "description_fr": null
+  },
+  {
+    "id": 3091,
+    "wind2horizon_id": null,
+    "lat": 43.824786,
+    "lng": 15.5931462,
+    "name_fr": "Bootstankstelle",
+    "description_fr": null
+  },
+  {
+    "id": 3092,
+    "wind2horizon_id": null,
+    "lat": 43.9387633,
+    "lng": 15.4397215,
+    "name_fr": "BOAT Gas Station",
+    "description_fr": null
+  },
+  {
+    "id": 3093,
+    "wind2horizon_id": null,
+    "lat": 43.9497,
+    "lng": 15.1442885,
+    "name_fr": "B.P. Zaglav",
+    "description_fr": null
+  },
+  {
+    "id": 3094,
+    "wind2horizon_id": null,
+    "lat": 43.8258793,
+    "lng": 15.6557879,
+    "name_fr": "PI-NA",
+    "description_fr": null
+  },
+  {
+    "id": 3095,
+    "wind2horizon_id": null,
+    "lat": 43.8983423,
+    "lng": 15.7073705,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3096,
+    "wind2horizon_id": null,
+    "lat": 43.78433099999999,
+    "lng": 15.643335,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3097,
+    "wind2horizon_id": null,
+    "lat": 43.85603769999999,
+    "lng": 15.845014,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3098,
+    "wind2horizon_id": null,
+    "lat": 43.7108974,
+    "lng": 15.9123771,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3099,
+    "wind2horizon_id": null,
+    "lat": 43.7329827,
+    "lng": 15.8915172,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3100,
+    "wind2horizon_id": null,
+    "lat": 43.8563299,
+    "lng": 15.8469812,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3101,
+    "wind2horizon_id": null,
+    "lat": 43.7611497,
+    "lng": 15.7839397,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3103,
+    "wind2horizon_id": null,
+    "lat": 43.71851239999999,
+    "lng": 15.8906722,
+    "name_fr": "Lukoil",
+    "description_fr": null
+  },
+  {
+    "id": 3104,
+    "wind2horizon_id": null,
+    "lat": 43.7166944,
+    "lng": 15.9120423,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3105,
+    "wind2horizon_id": null,
+    "lat": 43.7603883,
+    "lng": 15.8645228,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3106,
+    "wind2horizon_id": null,
+    "lat": 43.7572675,
+    "lng": 15.7805702,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3107,
+    "wind2horizon_id": null,
+    "lat": 43.7599347,
+    "lng": 15.8646706,
+    "name_fr": "Adria Oil d.o.o. BP ŠIBENIK",
+    "description_fr": null
+  },
+  {
+    "id": 3108,
+    "wind2horizon_id": null,
+    "lat": 43.7460951,
+    "lng": 15.8906123,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3109,
+    "wind2horizon_id": null,
+    "lat": 43.6907006,
+    "lng": 16.0400099,
+    "name_fr": "Lukoil Vrpolje Primorsko - Sjever",
+    "description_fr": null
+  },
+  {
+    "id": 3111,
+    "wind2horizon_id": null,
+    "lat": 43.5328978,
+    "lng": 15.9623452,
+    "name_fr": "Gas Station for Boats",
+    "description_fr": null
+  },
+  {
+    "id": 3112,
+    "wind2horizon_id": null,
+    "lat": 43.5882193,
+    "lng": 15.927586,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3113,
+    "wind2horizon_id": null,
+    "lat": 43.569769,
+    "lng": 15.942632,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3114,
+    "wind2horizon_id": null,
+    "lat": 43.5587457,
+    "lng": 16.3562954,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3115,
+    "wind2horizon_id": null,
+    "lat": 43.5217474,
+    "lng": 16.2633588,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3116,
+    "wind2horizon_id": null,
+    "lat": 43.5282556,
+    "lng": 16.2578956,
+    "name_fr": "Benzin PERIĆ",
+    "description_fr": null
+  },
+  {
+    "id": 3117,
+    "wind2horizon_id": null,
+    "lat": 43.535082,
+    "lng": 16.2808733,
+    "name_fr": "Energy M",
+    "description_fr": null
+  },
+  {
+    "id": 3118,
+    "wind2horizon_id": null,
+    "lat": 43.5140805,
+    "lng": 16.4272896,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3119,
+    "wind2horizon_id": null,
+    "lat": 43.5131637,
+    "lng": 16.24629,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3120,
+    "wind2horizon_id": null,
+    "lat": 43.396255,
+    "lng": 16.3001788,
+    "name_fr": "Benzinska postaja INA",
+    "description_fr": null
+  },
+  {
+    "id": 3121,
+    "wind2horizon_id": null,
+    "lat": 43.5158052,
+    "lng": 16.2360123,
+    "name_fr": "Benzinska postaja, Tankstelle, Yachts Tankstelle, Boot Tankstelle, Boat Gas station",
+    "description_fr": null
+  },
+  {
+    "id": 3122,
+    "wind2horizon_id": null,
+    "lat": 43.5464394,
+    "lng": 16.2964284,
+    "name_fr": "Crodux",
+    "description_fr": null
+  },
+  {
+    "id": 3123,
+    "wind2horizon_id": null,
+    "lat": 43.5581606,
+    "lng": 16.3564199,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3124,
+    "wind2horizon_id": null,
+    "lat": 43.5053869,
+    "lng": 16.4315186,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3125,
+    "wind2horizon_id": null,
+    "lat": 43.5572546,
+    "lng": 16.3344145,
+    "name_fr": "LISANA KOMERC d.o.o Brešković gas",
+    "description_fr": null
+  },
+  {
+    "id": 3126,
+    "wind2horizon_id": null,
+    "lat": 43.5630183,
+    "lng": 16.3157453,
+    "name_fr": "Lisana Komerc d.o.o.",
+    "description_fr": null
+  },
+  {
+    "id": 3127,
+    "wind2horizon_id": null,
+    "lat": 43.58769100000001,
+    "lng": 16.4600749,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3128,
+    "wind2horizon_id": null,
+    "lat": 43.58621309999999,
+    "lng": 16.4573767,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3129,
+    "wind2horizon_id": null,
+    "lat": 43.505044,
+    "lng": 16.4528656,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3130,
+    "wind2horizon_id": null,
+    "lat": 43.510766,
+    "lng": 16.488274,
+    "name_fr": "Pompe à essence Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3131,
+    "wind2horizon_id": null,
+    "lat": 43.52326499999999,
+    "lng": 16.4870787,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3132,
+    "wind2horizon_id": null,
+    "lat": 43.5769267,
+    "lng": 16.5450791,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3133,
+    "wind2horizon_id": null,
+    "lat": 43.5229254,
+    "lng": 16.4854295,
+    "name_fr": "Tifon",
+    "description_fr": null
+  },
+  {
+    "id": 3135,
+    "wind2horizon_id": null,
+    "lat": 43.54821339999999,
+    "lng": 16.4427254,
+    "name_fr": "Benzin Perić",
+    "description_fr": null
+  },
+  {
+    "id": 3136,
+    "wind2horizon_id": null,
+    "lat": 43.5829786,
+    "lng": 16.5604719,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3137,
+    "wind2horizon_id": null,
+    "lat": 43.5323538,
+    "lng": 16.4807082,
+    "name_fr": "Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3138,
+    "wind2horizon_id": null,
+    "lat": 43.5212697,
+    "lng": 16.4546208,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3139,
+    "wind2horizon_id": null,
+    "lat": 43.5197616,
+    "lng": 16.4547568,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3140,
+    "wind2horizon_id": null,
+    "lat": 43.3791304,
+    "lng": 16.5577257,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3141,
+    "wind2horizon_id": null,
+    "lat": 43.5286646,
+    "lng": 16.5069392,
+    "name_fr": "Lukoil",
+    "description_fr": null
+  },
+  {
+    "id": 3142,
+    "wind2horizon_id": null,
+    "lat": 43.5203339,
+    "lng": 16.454848,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3143,
+    "wind2horizon_id": null,
+    "lat": 43.532153,
+    "lng": 16.4868475,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3144,
+    "wind2horizon_id": null,
+    "lat": 43.5107268,
+    "lng": 16.488672,
+    "name_fr": "Ina Plin",
+    "description_fr": null
+  },
+  {
+    "id": 3146,
+    "wind2horizon_id": null,
+    "lat": 43.547556,
+    "lng": 16.410453,
+    "name_fr": "Petrol",
+    "description_fr": null
+  },
+  {
+    "id": 3148,
+    "wind2horizon_id": null,
+    "lat": 43.4391784,
+    "lng": 16.6434459,
+    "name_fr": "Eurotank",
+    "description_fr": null
+  },
+  {
+    "id": 3150,
+    "wind2horizon_id": null,
+    "lat": 43.5259343,
+    "lng": 16.4752188,
+    "name_fr": "Station service Crodux",
+    "description_fr": null
+  },
+  {
+    "id": 3151,
+    "wind2horizon_id": null,
+    "lat": 43.4429281,
+    "lng": 16.6835496,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3152,
+    "wind2horizon_id": null,
+    "lat": 43.4428858,
+    "lng": 16.6835593,
+    "name_fr": "LPG",
+    "description_fr": null
+  },
+  {
+    "id": 3153,
+    "wind2horizon_id": null,
+    "lat": 43.3270324,
+    "lng": 16.4429254,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3154,
+    "wind2horizon_id": null,
+    "lat": 43.2604484,
+    "lng": 16.6544594,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3155,
+    "wind2horizon_id": null,
+    "lat": 43.4392091,
+    "lng": 16.6434174,
+    "name_fr": "MOŠUNJ D.O.O.",
+    "description_fr": null
+  },
+  {
+    "id": 3157,
+    "wind2horizon_id": null,
+    "lat": 43.1640546,
+    "lng": 16.679275,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3158,
+    "wind2horizon_id": null,
+    "lat": 43.1794804,
+    "lng": 16.6741382,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3159,
+    "wind2horizon_id": null,
+    "lat": 43.1662697,
+    "lng": 16.4451193,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3160,
+    "wind2horizon_id": null,
+    "lat": 42.9533613,
+    "lng": 17.1267431,
+    "name_fr": "Eurotank",
+    "description_fr": null
+  },
+  {
+    "id": 3161,
+    "wind2horizon_id": null,
+    "lat": 42.95439289999999,
+    "lng": 17.1483433,
+    "name_fr": "Gasolinera para barcos (pantalán)",
+    "description_fr": null
+  },
+  {
+    "id": 3162,
+    "wind2horizon_id": null,
+    "lat": 42.95396,
+    "lng": 17.1482787,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3163,
+    "wind2horizon_id": null,
+    "lat": 42.9837841,
+    "lng": 17.2005903,
+    "name_fr": "\"BP Orebić\" Ravlić ltd petrol station",
+    "description_fr": null
+  },
+  {
+    "id": 3164,
+    "wind2horizon_id": null,
+    "lat": 42.9616578,
+    "lng": 16.7150503,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3165,
+    "wind2horizon_id": null,
+    "lat": 42.9201066,
+    "lng": 16.878429,
+    "name_fr": "REPAK Gasoline Station",
+    "description_fr": null
+  },
+  {
+    "id": 3166,
+    "wind2horizon_id": null,
+    "lat": 42.941604,
+    "lng": 17.335385,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3167,
+    "wind2horizon_id": null,
+    "lat": 43.10540580000001,
+    "lng": 17.3481173,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3168,
+    "wind2horizon_id": null,
+    "lat": 42.7385451,
+    "lng": 17.6216066,
+    "name_fr": "Komunalno Mljet d.o.o. BP SOBRA",
+    "description_fr": null
+  },
+  {
+    "id": 3169,
+    "wind2horizon_id": null,
+    "lat": 42.8335491,
+    "lng": 17.7476001,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3170,
+    "wind2horizon_id": null,
+    "lat": 42.6920169,
+    "lng": 18.0248201,
+    "name_fr": "Crodux",
+    "description_fr": null
+  },
+  {
+    "id": 3171,
+    "wind2horizon_id": null,
+    "lat": 42.7986969,
+    "lng": 17.850975,
+    "name_fr": "Tifon",
+    "description_fr": null
+  },
+  {
+    "id": 3172,
+    "wind2horizon_id": null,
+    "lat": 42.658674,
+    "lng": 18.079619,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3173,
+    "wind2horizon_id": null,
+    "lat": 42.67099160000001,
+    "lng": 18.1257295,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3174,
+    "wind2horizon_id": null,
+    "lat": 42.6683631,
+    "lng": 18.1297349,
+    "name_fr": "INA",
+    "description_fr": null
+  },
+  {
+    "id": 3175,
+    "wind2horizon_id": null,
+    "lat": 42.6685055,
+    "lng": 18.1357934,
+    "name_fr": "Ina",
+    "description_fr": null
+  },
+  {
+    "id": 3279,
+    "wind2horizon_id": null,
+    "lat": 45.3327719,
+    "lng": 14.4276069,
+    "name_fr": "Oftalmologia",
+    "description_fr": null
+  },
+  {
+    "id": 3280,
+    "wind2horizon_id": null,
+    "lat": 45.3587943,
+    "lng": 14.3075274,
+    "name_fr": "Branca dentista",
+    "description_fr": null
+  },
+  {
+    "id": 3281,
+    "wind2horizon_id": null,
+    "lat": 45.3253081,
+    "lng": 14.4613327,
+    "name_fr": "DENTAL FUSION",
+    "description_fr": null
+  },
+  {
+    "id": 3282,
+    "wind2horizon_id": null,
+    "lat": 44.7794805,
+    "lng": 14.7212629,
+    "name_fr": "Psychiatric hospital Rab",
+    "description_fr": null
+  },
+  {
+    "id": 3283,
+    "wind2horizon_id": null,
+    "lat": 44.7639066,
+    "lng": 14.757807,
+    "name_fr": "Rab Health Centre",
+    "description_fr": null
+  },
+  {
+    "id": 3284,
+    "wind2horizon_id": null,
+    "lat": 44.8250865,
+    "lng": 14.7395511,
+    "name_fr": "Dom zdravlja Rab",
+    "description_fr": null
+  },
+  {
+    "id": 3285,
+    "wind2horizon_id": null,
+    "lat": 44.5464655,
+    "lng": 14.8917786,
+    "name_fr": "Ärztehaus Krankenhaus",
+    "description_fr": null
+  },
+  {
+    "id": 3287,
+    "wind2horizon_id": null,
+    "lat": 44.3496458,
+    "lng": 15.1143053,
+    "name_fr": "Dom zdravlja Povljana",
+    "description_fr": null
+  },
+  {
+    "id": 3288,
+    "wind2horizon_id": null,
+    "lat": 44.107354,
+    "lng": 15.234584,
+    "name_fr": "Hôpital général de Zadar",
+    "description_fr": null
+  },
+  {
+    "id": 3290,
+    "wind2horizon_id": null,
+    "lat": 44.1141791,
+    "lng": 15.2334108,
+    "name_fr": "SUNCE VOLUNTARY HEALTH INSURANCE",
+    "description_fr": null
+  },
+  {
+    "id": 3291,
+    "wind2horizon_id": null,
+    "lat": 44.1127729,
+    "lng": 15.0999986,
+    "name_fr": "Psychiatric hospital Ugljan",
+    "description_fr": null
+  },
+  {
+    "id": 3292,
+    "wind2horizon_id": null,
+    "lat": 44.10721299999999,
+    "lng": 15.2347507,
+    "name_fr": "service de radiologie",
+    "description_fr": null
+  },
+  {
+    "id": 3294,
+    "wind2horizon_id": null,
+    "lat": 44.112714,
+    "lng": 15.2280759,
+    "name_fr": "Centre de santé du comté de Zadar",
+    "description_fr": null
+  },
+  {
+    "id": 3206,
+    "wind2horizon_id": null,
+    "lat": 45.6490638,
+    "lng": 13.783164,
+    "name_fr": "ASUGI Medicina del Lavoro",
+    "description_fr": null
+  },
+  {
+    "id": 3208,
+    "wind2horizon_id": null,
+    "lat": 45.6499278,
+    "lng": 13.7731104,
+    "name_fr": "Defibrillatore DAE",
+    "description_fr": null
+  },
+  {
+    "id": 3210,
+    "wind2horizon_id": null,
+    "lat": 45.6551087,
+    "lng": 13.7765455,
+    "name_fr": "Nutripuntura",
+    "description_fr": null
+  },
+  {
+    "id": 3211,
+    "wind2horizon_id": null,
+    "lat": 45.0994945,
+    "lng": 13.633883,
+    "name_fr": "Bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3212,
+    "wind2horizon_id": null,
+    "lat": 45.0984609,
+    "lng": 13.635256,
+    "name_fr": "BOLNICA O I R prim.dr. MARTIN HORVAT",
+    "description_fr": null
+  },
+  {
+    "id": 3295,
+    "wind2horizon_id": null,
+    "lat": 44.107392,
+    "lng": 15.2350454,
+    "name_fr": "Odjel za dermatologiju i venerologiju",
+    "description_fr": null
+  },
+  {
+    "id": 3296,
+    "wind2horizon_id": null,
+    "lat": 44.1082771,
+    "lng": 15.2332706,
+    "name_fr": "Odjel za transfuziju",
+    "description_fr": null
+  },
+  {
+    "id": 3297,
+    "wind2horizon_id": null,
+    "lat": 44.0463749,
+    "lng": 15.3129912,
+    "name_fr": "Ambulanta Sukošan doc.dr.sc. Jasna Vučak",
+    "description_fr": null
+  },
+  {
+    "id": 3298,
+    "wind2horizon_id": null,
+    "lat": 44.10796939999999,
+    "lng": 15.2335806,
+    "name_fr": "Odjel za psihijatriju-4. kat",
+    "description_fr": null
+  },
+  {
+    "id": 3299,
+    "wind2horizon_id": null,
+    "lat": 44.107392,
+    "lng": 15.2350454,
+    "name_fr": "Odjel za infektologiju",
+    "description_fr": null
+  },
+  {
+    "id": 3300,
+    "wind2horizon_id": null,
+    "lat": 44.10710520000001,
+    "lng": 15.2347468,
+    "name_fr": "Odjel za kirurgiju-odsjek za torakalnu kirurgiju",
+    "description_fr": null
+  },
+  {
+    "id": 3301,
+    "wind2horizon_id": null,
+    "lat": 44.10753039999999,
+    "lng": 15.2341653,
+    "name_fr": "Odjel za anesteziologiju",
+    "description_fr": null
+  },
+  {
+    "id": 3302,
+    "wind2horizon_id": null,
+    "lat": 44.1264087,
+    "lng": 15.2452948,
+    "name_fr": "Poliklinika Therapia",
+    "description_fr": null
+  },
+  {
+    "id": 3303,
+    "wind2horizon_id": null,
+    "lat": 44.058048,
+    "lng": 15.3978,
+    "name_fr": "Obiteljski Dom Za Starije I Nemocne MARINA",
+    "description_fr": null
+  },
+  {
+    "id": 3304,
+    "wind2horizon_id": null,
+    "lat": 44.1071519,
+    "lng": 15.2347259,
+    "name_fr": "Interni Odjel",
+    "description_fr": null
+  },
+  {
+    "id": 3305,
+    "wind2horizon_id": null,
+    "lat": 44.1066146,
+    "lng": 15.23488,
+    "name_fr": "Odjel Za Patologiju i Sudsku Medicinu",
+    "description_fr": null
+  },
+  {
+    "id": 3306,
+    "wind2horizon_id": null,
+    "lat": 44.1079248,
+    "lng": 15.2343502,
+    "name_fr": "Odjel za ORL-kat",
+    "description_fr": null
+  },
+  {
+    "id": 3307,
+    "wind2horizon_id": null,
+    "lat": 44.1689327,
+    "lng": 15.1938692,
+    "name_fr": "Hospital Kozino",
+    "description_fr": null
+  },
+  {
+    "id": 3308,
+    "wind2horizon_id": null,
+    "lat": 44.1219773,
+    "lng": 15.2377205,
+    "name_fr": "polyclinic Mester",
+    "description_fr": null
+  },
+  {
+    "id": 3310,
+    "wind2horizon_id": null,
+    "lat": 43.9222498,
+    "lng": 15.4178065,
+    "name_fr": "Ambulanta Tkon",
+    "description_fr": null
+  },
+  {
+    "id": 3311,
+    "wind2horizon_id": null,
+    "lat": 43.9398863,
+    "lng": 15.4468529,
+    "name_fr": "Medical center Biograd",
+    "description_fr": null
+  },
+  {
+    "id": 3312,
+    "wind2horizon_id": null,
+    "lat": 43.7319957,
+    "lng": 15.8992438,
+    "name_fr": "Opća bolnica Šibenik",
+    "description_fr": null
+  },
+  {
+    "id": 3313,
+    "wind2horizon_id": null,
+    "lat": 43.6988448,
+    "lng": 15.8884584,
+    "name_fr": "Ambulanta",
+    "description_fr": null
+  },
+  {
+    "id": 3314,
+    "wind2horizon_id": null,
+    "lat": 43.7235011,
+    "lng": 15.9082982,
+    "name_fr": "Poliklinika Gemini",
+    "description_fr": null
+  },
+  {
+    "id": 3315,
+    "wind2horizon_id": null,
+    "lat": 43.7326014,
+    "lng": 15.9019536,
+    "name_fr": "Patologija Opća bolnica Šibenik",
+    "description_fr": null
+  },
+  {
+    "id": 3316,
+    "wind2horizon_id": null,
+    "lat": 43.759384,
+    "lng": 15.7775239,
+    "name_fr": "Poliklinika Vodice",
+    "description_fr": null
+  },
+  {
+    "id": 3317,
+    "wind2horizon_id": null,
+    "lat": 43.7327653,
+    "lng": 15.900182,
+    "name_fr": "Odjel neurologije OB Šibenik",
+    "description_fr": null
+  },
+  {
+    "id": 3318,
+    "wind2horizon_id": null,
+    "lat": 43.7349516,
+    "lng": 15.8951167,
+    "name_fr": "Kbc split",
+    "description_fr": null
+  },
+  {
+    "id": 3319,
+    "wind2horizon_id": null,
+    "lat": 43.5172609,
+    "lng": 16.4361791,
+    "name_fr": "DOM ZDRAVLJA SPLIT",
+    "description_fr": null
+  },
+  {
+    "id": 3320,
+    "wind2horizon_id": null,
+    "lat": 43.4858258,
+    "lng": 16.2663511,
+    "name_fr": "Stan idk",
+    "description_fr": null
+  },
+  {
+    "id": 3321,
+    "wind2horizon_id": null,
+    "lat": 43.5145879,
+    "lng": 16.4373184,
+    "name_fr": "CENTAR ZA PSIHOSOCIJALNU POMOĆ, HRVATSKIM BRANITELJIMA I STRADALNICIMA IZ DOMOVINSKOG RATA",
+    "description_fr": null
+  },
+  {
+    "id": 3322,
+    "wind2horizon_id": null,
+    "lat": 43.5092693,
+    "lng": 16.1847399,
+    "name_fr": "Salonamed zdravstveni centar",
+    "description_fr": null
+  },
+  {
+    "id": 3323,
+    "wind2horizon_id": null,
+    "lat": 43.51483229999999,
+    "lng": 16.4397893,
+    "name_fr": "MATIANA JOVANOVIĆ, dr. med. specijalist psihijatar",
+    "description_fr": null
+  },
+  {
+    "id": 3324,
+    "wind2horizon_id": null,
+    "lat": 43.5038018,
+    "lng": 16.4585404,
+    "name_fr": "KBC Split",
+    "description_fr": null
+  },
+  {
+    "id": 3325,
+    "wind2horizon_id": null,
+    "lat": 43.5057827,
+    "lng": 16.4690236,
+    "name_fr": "KBC Split - Križine",
+    "description_fr": null
+  },
+  {
+    "id": 3326,
+    "wind2horizon_id": null,
+    "lat": 43.3821545,
+    "lng": 16.5560774,
+    "name_fr": "Bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3327,
+    "wind2horizon_id": null,
+    "lat": 43.50418459999999,
+    "lng": 16.4592237,
+    "name_fr": "Maternity Split",
+    "description_fr": null
+  },
+  {
+    "id": 3328,
+    "wind2horizon_id": null,
+    "lat": 43.54058879999999,
+    "lng": 16.4928491,
+    "name_fr": "Split-Dalmatia County Health Center (Solin Branch)",
+    "description_fr": null
+  },
+  {
+    "id": 3329,
+    "wind2horizon_id": null,
+    "lat": 43.5055209,
+    "lng": 16.4693655,
+    "name_fr": "Zavod za fizikalnu medicinu i rehabilitaciju s reumatologijom DNEVNA BOLNICA",
+    "description_fr": null
+  },
+  {
+    "id": 3330,
+    "wind2horizon_id": null,
+    "lat": 43.5067572,
+    "lng": 16.4738421,
+    "name_fr": "Polyclinic Affidea Kalajžić",
+    "description_fr": null
+  },
+  {
+    "id": 3375,
+    "wind2horizon_id": null,
+    "lat": 42.652058,
+    "lng": 18.088769,
+    "name_fr": "Poliklinika Marin Med Dubrovnik",
+    "description_fr": null
+  },
+  {
+    "id": 3331,
+    "wind2horizon_id": null,
+    "lat": 43.5089907,
+    "lng": 16.4577815,
+    "name_fr": "AKROMION - SPECIJALNA BOLNICA ZA ORTOPEDIJU I TRAUMATOLOGIJU LOKOMOTORNOG SUSTAVA",
+    "description_fr": null
+  },
+  {
+    "id": 3349,
+    "wind2horizon_id": null,
+    "lat": 43.5070437,
+    "lng": 16.4740805,
+    "name_fr": "IPM",
+    "description_fr": null
+  },
+  {
+    "id": 3332,
+    "wind2horizon_id": null,
+    "lat": 43.50977109999999,
+    "lng": 16.4744236,
+    "name_fr": "Poliklinika Priska Med",
+    "description_fr": null
+  },
+  {
+    "id": 3333,
+    "wind2horizon_id": null,
+    "lat": 43.503529,
+    "lng": 16.4587097,
+    "name_fr": "Firule bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3334,
+    "wind2horizon_id": null,
+    "lat": 43.58292700000001,
+    "lng": 16.59585,
+    "name_fr": "Ambulantna Dugopolje",
+    "description_fr": null
+  },
+  {
+    "id": 3335,
+    "wind2horizon_id": null,
+    "lat": 43.506509,
+    "lng": 16.4680325,
+    "name_fr": "KBC Split Križine, Zapadni ulaz",
+    "description_fr": null
+  },
+  {
+    "id": 3336,
+    "wind2horizon_id": null,
+    "lat": 43.5059286,
+    "lng": 16.4627693,
+    "name_fr": "Poliklinika NOVA",
+    "description_fr": null
+  },
+  {
+    "id": 3337,
+    "wind2horizon_id": null,
+    "lat": 43.5041313,
+    "lng": 16.4555411,
+    "name_fr": "Poliklinika Dr. Ljutić",
+    "description_fr": null
+  },
+  {
+    "id": 3338,
+    "wind2horizon_id": null,
+    "lat": 43.5352422,
+    "lng": 16.4928274,
+    "name_fr": "SalonaMED zdravstveni centar Solin",
+    "description_fr": null
+  },
+  {
+    "id": 3339,
+    "wind2horizon_id": null,
+    "lat": 43.5111162,
+    "lng": 16.4497887,
+    "name_fr": "Public Health Institute of Split",
+    "description_fr": null
+  },
+  {
+    "id": 3340,
+    "wind2horizon_id": null,
+    "lat": 43.5037352,
+    "lng": 16.4589629,
+    "name_fr": "ODSJEK ZA CENTRALNO NARUČIVANJE BOLESNIKA",
+    "description_fr": null
+  },
+  {
+    "id": 3341,
+    "wind2horizon_id": null,
+    "lat": 43.3822382,
+    "lng": 16.5557984,
+    "name_fr": "Emergency Services",
+    "description_fr": null
+  },
+  {
+    "id": 3343,
+    "wind2horizon_id": null,
+    "lat": 43.5183685,
+    "lng": 16.4496198,
+    "name_fr": "SPECIJALISTIČKA ORDINACIJA ZA PSIHIJATRIJU dr. med. VJERA MUNITIĆ",
+    "description_fr": null
+  },
+  {
+    "id": 3345,
+    "wind2horizon_id": null,
+    "lat": 43.5049338,
+    "lng": 16.4698175,
+    "name_fr": "Infection Emergency Split",
+    "description_fr": null
+  },
+  {
+    "id": 3209,
+    "wind2horizon_id": null,
+    "lat": 45.6486157,
+    "lng": 13.7649123,
+    "name_fr": "TriesteMED Poliambulatorio",
+    "description_fr": null
+  },
+  {
+    "id": 3346,
+    "wind2horizon_id": null,
+    "lat": 43.5118634,
+    "lng": 16.4556272,
+    "name_fr": "Dom za starije i nemoćne",
+    "description_fr": null
+  },
+  {
+    "id": 3177,
+    "wind2horizon_id": null,
+    "lat": 45.5444345,
+    "lng": 13.6877748,
+    "name_fr": "Urgentni center Izola",
+    "description_fr": null
+  },
+  {
+    "id": 3178,
+    "wind2horizon_id": null,
+    "lat": 45.5443417,
+    "lng": 13.6865794,
+    "name_fr": "Izola General Hospital",
+    "description_fr": null
+  },
+  {
+    "id": 3180,
+    "wind2horizon_id": null,
+    "lat": 45.6336352,
+    "lng": 13.8271129,
+    "name_fr": "Cattinara Hospital",
+    "description_fr": null
+  },
+  {
+    "id": 3182,
+    "wind2horizon_id": null,
+    "lat": 45.5342147,
+    "lng": 13.6624676,
+    "name_fr": "Zdravstveni zavod Celjenje - ambulanta",
+    "description_fr": null
+  },
+  {
+    "id": 3184,
+    "wind2horizon_id": null,
+    "lat": 45.5447965,
+    "lng": 13.6852696,
+    "name_fr": "Center za transfuzijsko dejavnost Izola - Centro per l'attività trasfusionale Isola",
+    "description_fr": null
+  },
+  {
+    "id": 3187,
+    "wind2horizon_id": null,
+    "lat": 45.4916245,
+    "lng": 13.6963158,
+    "name_fr": "Pr Ivanu",
+    "description_fr": null
+  },
+  {
+    "id": 3188,
+    "wind2horizon_id": null,
+    "lat": 45.5486359,
+    "lng": 13.7373357,
+    "name_fr": "Zasebni zdravstveni zavod Bossman Peter",
+    "description_fr": null
+  },
+  {
+    "id": 3193,
+    "wind2horizon_id": null,
+    "lat": 45.4158282,
+    "lng": 13.6605982,
+    "name_fr": "Veterinarska ambulanta Buje",
+    "description_fr": null
+  },
+  {
+    "id": 3198,
+    "wind2horizon_id": null,
+    "lat": 45.6486422,
+    "lng": 13.7816195,
+    "name_fr": "Distretto 2",
+    "description_fr": null
+  },
+  {
+    "id": 3347,
+    "wind2horizon_id": null,
+    "lat": 43.5127448,
+    "lng": 16.4737439,
+    "name_fr": "Invalidski centar Split",
+    "description_fr": null
+  },
+  {
+    "id": 3348,
+    "wind2horizon_id": null,
+    "lat": 43.5057941,
+    "lng": 16.462914,
+    "name_fr": "Poliklinika E Visio",
+    "description_fr": null
+  },
+  {
+    "id": 3350,
+    "wind2horizon_id": null,
+    "lat": 43.56098919999999,
+    "lng": 16.5233228,
+    "name_fr": "Ambulanta Klis",
+    "description_fr": null
+  },
+  {
+    "id": 3351,
+    "wind2horizon_id": null,
+    "lat": 43.5493415,
+    "lng": 16.4871754,
+    "name_fr": "Drniš Poliklinika",
+    "description_fr": null
+  },
+  {
+    "id": 3352,
+    "wind2horizon_id": null,
+    "lat": 43.5064918,
+    "lng": 16.4682146,
+    "name_fr": "Zavod za pomorsku medicinu",
+    "description_fr": null
+  },
+  {
+    "id": 3353,
+    "wind2horizon_id": null,
+    "lat": 43.50650040000001,
+    "lng": 16.4681235,
+    "name_fr": "Odjel za kliničku citologiju",
+    "description_fr": null
+  },
+  {
+    "id": 3354,
+    "wind2horizon_id": null,
+    "lat": 43.50868910000001,
+    "lng": 16.4798292,
+    "name_fr": "Maritime Medicine Split",
+    "description_fr": null
+  },
+  {
+    "id": 3355,
+    "wind2horizon_id": null,
+    "lat": 43.5050969,
+    "lng": 16.474586,
+    "name_fr": "Ordinacija Salve",
+    "description_fr": null
+  },
+  {
+    "id": 3356,
+    "wind2horizon_id": null,
+    "lat": 43.514056,
+    "lng": 16.446066,
+    "name_fr": "Institut pomorske medicine",
+    "description_fr": null
+  },
+  {
+    "id": 3357,
+    "wind2horizon_id": null,
+    "lat": 43.5415815,
+    "lng": 16.4760868,
+    "name_fr": "Medizinisches Versorgungszentrum",
+    "description_fr": null
+  },
+  {
+    "id": 3358,
+    "wind2horizon_id": null,
+    "lat": 43.2923501,
+    "lng": 17.0221105,
+    "name_fr": "Health Center Makarska",
+    "description_fr": null
+  },
+  {
+    "id": 3253,
+    "wind2horizon_id": null,
+    "lat": 45.331061,
+    "lng": 14.433475,
+    "name_fr": "Poliklinika Roth Rijeka - Ortopedija Kirurgija Radiologija",
+    "description_fr": null
+  },
+  {
+    "id": 3359,
+    "wind2horizon_id": null,
+    "lat": 43.3993518,
+    "lng": 17.0511796,
+    "name_fr": "Klinički bolnički centar Split- Podružnica Zagvozd",
+    "description_fr": null
+  },
+  {
+    "id": 3360,
+    "wind2horizon_id": null,
+    "lat": 43.292374,
+    "lng": 17.0224437,
+    "name_fr": "Emergency Medical Help",
+    "description_fr": null
+  },
+  {
+    "id": 3361,
+    "wind2horizon_id": null,
+    "lat": 43.3036584,
+    "lng": 17.0080902,
+    "name_fr": "Biokovka",
+    "description_fr": null
+  },
+  {
+    "id": 3362,
+    "wind2horizon_id": null,
+    "lat": 43.292598,
+    "lng": 17.0221715,
+    "name_fr": "Med.biokemijski Laboratorij za vađenje krvi",
+    "description_fr": null
+  },
+  {
+    "id": 3363,
+    "wind2horizon_id": null,
+    "lat": 43.2926603,
+    "lng": 17.0214798,
+    "name_fr": "DOM ZDRAVLJA - Posebno dežurstvo i Turistička ambulanta",
+    "description_fr": null
+  },
+  {
+    "id": 3364,
+    "wind2horizon_id": null,
+    "lat": 43.2652347,
+    "lng": 17.0584877,
+    "name_fr": "Hemodijalizni centar",
+    "description_fr": null
+  },
+  {
+    "id": 3365,
+    "wind2horizon_id": null,
+    "lat": 43.3227181,
+    "lng": 16.984716,
+    "name_fr": "Były szpital",
+    "description_fr": null
+  },
+  {
+    "id": 3366,
+    "wind2horizon_id": null,
+    "lat": 43.4396751,
+    "lng": 16.6982661,
+    "name_fr": "DOM ZDRAVLJA SPLITSKO-DALMATINSKE ŽUPANIJE, ISPOSTAVA OMIŠ",
+    "description_fr": null
+  },
+  {
+    "id": 3367,
+    "wind2horizon_id": null,
+    "lat": 43.4439167,
+    "lng": 16.6426382,
+    "name_fr": "AMBULANTA Dugi Rat dr. Kalebić Marija",
+    "description_fr": null
+  },
+  {
+    "id": 3369,
+    "wind2horizon_id": null,
+    "lat": 43.1730245,
+    "lng": 16.4364187,
+    "name_fr": "Hospital- Emergency",
+    "description_fr": null
+  },
+  {
+    "id": 3370,
+    "wind2horizon_id": null,
+    "lat": 42.9646147,
+    "lng": 17.346354,
+    "name_fr": "Ambulanta Kuna",
+    "description_fr": null
+  },
+  {
+    "id": 3371,
+    "wind2horizon_id": null,
+    "lat": 42.6477382,
+    "lng": 18.0758588,
+    "name_fr": "General Hospital Dubrovnik",
+    "description_fr": null
+  },
+  {
+    "id": 3372,
+    "wind2horizon_id": null,
+    "lat": 42.6482531,
+    "lng": 18.0761361,
+    "name_fr": "Hitna pomoć - A&E/ER",
+    "description_fr": null
+  },
+  {
+    "id": 3373,
+    "wind2horizon_id": null,
+    "lat": 42.6396895,
+    "lng": 18.1096804,
+    "name_fr": "Dom zdravlja dubrovnik - turistička ordinacija",
+    "description_fr": null
+  },
+  {
+    "id": 3374,
+    "wind2horizon_id": null,
+    "lat": 42.6544876,
+    "lng": 18.0718402,
+    "name_fr": "Specijalna Bolnica Arithera",
+    "description_fr": null
+  },
+  {
+    "id": 3376,
+    "wind2horizon_id": null,
+    "lat": 42.6425249,
+    "lng": 18.1114756,
+    "name_fr": "Ordinacija opće medicine Teo Depolo",
+    "description_fr": null
+  },
+  {
+    "id": 3377,
+    "wind2horizon_id": null,
+    "lat": 42.6749736,
+    "lng": 18.1136575,
+    "name_fr": "PEDIJATRIJSKA AMBULANTA MOKOŠICA",
+    "description_fr": null
+  },
+  {
+    "id": 3378,
+    "wind2horizon_id": null,
+    "lat": 42.6513486,
+    "lng": 18.0837385,
+    "name_fr": "Helidrom",
+    "description_fr": null
+  },
+  {
+    "id": 3379,
+    "wind2horizon_id": null,
+    "lat": 42.6994665,
+    "lng": 18.0140181,
+    "name_fr": "DOM ZDRAVLJA DUBROVNIK",
+    "description_fr": null
+  },
+  {
+    "id": 3380,
+    "wind2horizon_id": null,
+    "lat": 42.6479702,
+    "lng": 18.0764447,
+    "name_fr": "Zavod za javno zdravstvo Dubrovačko-neretvanske županije",
+    "description_fr": null
+  },
+  {
+    "id": 3213,
+    "wind2horizon_id": null,
+    "lat": 45.1980624,
+    "lng": 13.6297464,
+    "name_fr": "Histra Medic doo",
+    "description_fr": null
+  },
+  {
+    "id": 3214,
+    "wind2horizon_id": null,
+    "lat": 45.2443977,
+    "lng": 13.6196529,
+    "name_fr": "Rovinj",
+    "description_fr": null
+  },
+  {
+    "id": 3216,
+    "wind2horizon_id": null,
+    "lat": 45.0808646,
+    "lng": 13.6408627,
+    "name_fr": "Medicina rada Rovinj",
+    "description_fr": null
+  },
+  {
+    "id": 3217,
+    "wind2horizon_id": null,
+    "lat": 45.0806826,
+    "lng": 13.6646527,
+    "name_fr": "Dijaliza",
+    "description_fr": null
+  },
+  {
+    "id": 3219,
+    "wind2horizon_id": null,
+    "lat": 44.85346149999999,
+    "lng": 13.8527756,
+    "name_fr": "Specijalna bolnica MEDICO Pula",
+    "description_fr": null
+  },
+  {
+    "id": 3222,
+    "wind2horizon_id": null,
+    "lat": 44.8581711,
+    "lng": 13.8962676,
+    "name_fr": "Đenki House",
+    "description_fr": null
+  },
+  {
+    "id": 3223,
+    "wind2horizon_id": null,
+    "lat": 44.8596162,
+    "lng": 13.8381134,
+    "name_fr": "General Hospital Negri",
+    "description_fr": null
+  },
+  {
+    "id": 3224,
+    "wind2horizon_id": null,
+    "lat": 45.0284824,
+    "lng": 14.5701186,
+    "name_fr": "Ginekologija Goran Gržanćić",
+    "description_fr": null
+  },
+  {
+    "id": 3225,
+    "wind2horizon_id": null,
+    "lat": 44.5329707,
+    "lng": 14.4633824,
+    "name_fr": "Bolnica",
+    "description_fr": null
+  },
+  {
+    "id": 3228,
+    "wind2horizon_id": null,
+    "lat": 44.5333443,
+    "lng": 14.4639827,
+    "name_fr": "Dom zdravlja Mali Lošinj",
+    "description_fr": null
+  },
+  {
+    "id": 3289,
+    "wind2horizon_id": null,
+    "lat": 44.1074051,
+    "lng": 15.2356721,
+    "name_fr": "polyclinic Zadar",
+    "description_fr": null
+  },
+  {
+    "id": 3229,
+    "wind2horizon_id": null,
+    "lat": 44.9722477,
+    "lng": 14.7295666,
+    "name_fr": "AestheticMedical˛&Surgical Center Juranić",
+    "description_fr": null
+  },
+  {
+    "id": 3200,
+    "wind2horizon_id": null,
+    "lat": 45.6489105,
+    "lng": 13.7773905,
+    "name_fr": "Zudecche Day Surgery",
+    "description_fr": null
+  },
+  {
+    "id": 3293,
+    "wind2horizon_id": null,
+    "lat": 44.2326021,
+    "lng": 15.1649136,
+    "name_fr": "Ambulance",
+    "description_fr": null
+  },
+  {
+    "id": 3342,
+    "wind2horizon_id": null,
+    "lat": 43.5027129,
+    "lng": 16.457165,
+    "name_fr": "polyclinic MediDerm",
+    "description_fr": null
+  },
+  {
+    "id": 3344,
+    "wind2horizon_id": null,
+    "lat": 43.5059851,
+    "lng": 16.4710427,
+    "name_fr": "KBC Split Križine, Istočni ulaz",
     "description_fr": null
   }
 ]
