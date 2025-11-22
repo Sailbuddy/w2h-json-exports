@@ -11946,6 +11946,23 @@
     "locked": false
   },
   {
+    "id": 63701,
+    "location_id": 3149,
+    "attribute_id": 13,
+    "value_text": "Muschel",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:34:49.366+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54024,
     "location_id": 2076,
     "attribute_id": 12,
@@ -12041,6 +12058,91 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:22:32.539+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63702,
+    "location_id": 3149,
+    "attribute_id": 13,
+    "value_text": "Shell",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:34:49.538+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63703,
+    "location_id": 3149,
+    "attribute_id": 13,
+    "value_text": "Conchiglia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:34:52.38+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63704,
+    "location_id": 3149,
+    "attribute_id": 13,
+    "value_text": "Coquille",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:34:53.601+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63705,
+    "location_id": 3149,
+    "attribute_id": 13,
+    "value_text": "Ljuskavac",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:34:54.531+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63706,
+    "location_id": 3149,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:34:54.983+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -12229,6 +12331,23 @@
     "locked": false
   },
   {
+    "id": 63707,
+    "location_id": 3149,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:34:55.104+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18257,
     "location_id": 517,
     "attribute_id": 25,
@@ -12364,6 +12483,23 @@
     "locked": false
   },
   {
+    "id": 63708,
+    "location_id": 3149,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:34:55.561+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18252,
     "location_id": 517,
     "attribute_id": 28,
@@ -12420,6 +12556,23 @@
     "updated_at": "2025-11-19T19:16:44.705+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63709,
+    "location_id": 3149,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:34:56.017+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12762,6 +12915,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63710,
+    "location_id": 3149,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:34:56.986+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -14660,6 +14830,78 @@
     "locked": false
   },
   {
+    "id": 63711,
+    "location_id": 3149,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:34:59.588+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "Hausnummer"
+        ],
+        "long_name": "10",
+        "short_name": "10"
+      },
+      {
+        "types": [
+          "Route"
+        ],
+        "long_name": "Ulica Matice Hrvatske",
+        "short_name": "Ul. Matice Hrvatske"
+      },
+      {
+        "types": [
+          "Ort",
+          "politisch"
+        ],
+        "long_name": "Dugopolje",
+        "short_name": "Dugopolje"
+      },
+      {
+        "types": [
+          "Verwaltungsgebietsebene 2",
+          "politisch"
+        ],
+        "long_name": "Gemeinde Dugopolje",
+        "short_name": "Gemeinde Dugopolje"
+      },
+      {
+        "types": [
+          "Verwaltungsgebietsebene 1",
+          "politisch"
+        ],
+        "long_name": "Bezirk Split-Dalmatien",
+        "short_name": "Bezirk Split-Dalmatien"
+      },
+      {
+        "types": [
+          "Land",
+          "politisch"
+        ],
+        "long_name": "Kroatien",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "Postleitzahl"
+        ],
+        "long_name": "21204",
+        "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 22576,
     "location_id": 665,
     "attribute_id": 24,
@@ -15842,6 +16084,78 @@
     "locked": false
   },
   {
+    "id": 63712,
+    "location_id": 3149,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:34:59.717+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "10",
+        "short_name": "10"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Ulica Matice Hrvatske",
+        "short_name": "Ul. Matice Hrvatske"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Dugopolje",
+        "short_name": "Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Općina Dugopolje",
+        "short_name": "Općina Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Splitsko-dalmatinska županija",
+        "short_name": "Splitsko-dalmatinska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "21204",
+        "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 21172,
     "location_id": 630,
     "attribute_id": 21,
@@ -15872,6 +16186,150 @@
     "locked": false
   },
   {
+    "id": 63713,
+    "location_id": 3149,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:02.487+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "10",
+        "short_name": "10"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Ulica Matice Hrvatske",
+        "short_name": "Ul. Matice Hrvatske"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Dugopolje",
+        "short_name": "Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Comune di Dugopolje",
+        "short_name": "Comune di Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Regione spalatino-dalmata",
+        "short_name": "Regione spalatino-dalmata"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croazia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "21204",
+        "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63714,
+    "location_id": 3149,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:05.701+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "10",
+        "short_name": "10"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Ulica Matice Hrvatske",
+        "short_name": "Ul. Matice Hrvatske"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Dugopolje",
+        "short_name": "Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Općina Dugopolje",
+        "short_name": "Općina Dugopolje"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Comitat de Split-Dalmatie",
+        "short_name": "Comitat de Split-Dalmatie"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatie",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "21204",
+        "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 21174,
     "location_id": 630,
     "attribute_id": 21,
@@ -15898,6 +16356,78 @@
     "updated_at": "2025-11-19T19:20:02.261+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63715,
+    "location_id": 3149,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:08.524+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "kućni broj"
+        ],
+        "long_name": "10",
+        "short_name": "10"
+      },
+      {
+        "types": [
+          "ruta"
+        ],
+        "long_name": "Ulica Matice Hrvatske",
+        "short_name": "Ul. Matice Hrvatske"
+      },
+      {
+        "types": [
+          "lokacija",
+          "politička"
+        ],
+        "long_name": "Dugopolje",
+        "short_name": "Dugopolje"
+      },
+      {
+        "types": [
+          "administrativna jedinica razina 2",
+          "politička"
+        ],
+        "long_name": "Općina Dugopolje",
+        "short_name": "Općina Dugopolje"
+      },
+      {
+        "types": [
+          "administrativna jedinica razina 1",
+          "politička"
+        ],
+        "long_name": "Splitsko-dalmatinska županija",
+        "short_name": "Splitsko-dalmatinska županija"
+      },
+      {
+        "types": [
+          "zemlja",
+          "politička"
+        ],
+        "long_name": "Hrvatska",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "poštanski broj"
+        ],
+        "long_name": "21204",
+        "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -15961,6 +16491,40 @@
     "locked": false
   },
   {
+    "id": 63716,
+    "location_id": 3149,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:09.093+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63717,
+    "location_id": 3149,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.4,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:09.219+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 22563,
     "location_id": 665,
     "attribute_id": 13,
@@ -15987,6 +16551,23 @@
     "updated_at": "2025-11-19T19:20:07.641+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63718,
+    "location_id": 3149,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:09.708+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -16153,6 +16734,23 @@
     "locked": false
   },
   {
+    "id": 63719,
+    "location_id": 3149,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:10.451+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5180,
     "location_id": 98,
     "attribute_id": 6,
@@ -16210,6 +16808,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63720,
+    "location_id": 3149,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.4,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:10.891+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -16321,6 +16936,182 @@
     "locked": false
   },
   {
+    "id": 63721,
+    "location_id": 3149,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:11.522+00:00",
+    "name": null,
+    "value_json": [
+      "Tante-Emma-Laden",
+      "Betrieb",
+      "Lebensmittel",
+      "Tankstelle",
+      "Interessenspunkt",
+      "Geschäft",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63722,
+    "location_id": 3149,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:11.643+00:00",
+    "name": null,
+    "value_json": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "gas_station",
+      "point_of_interest",
+      "store",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63723,
+    "location_id": 3149,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:12.298+00:00",
+    "name": null,
+    "value_json": [
+      "negozio_di_convenienza",
+      "stabilimento",
+      "cibo",
+      "stazione_di_servizio",
+      "punto_di_interesse",
+      "negozio",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63724,
+    "location_id": 3149,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:13.336+00:00",
+    "name": null,
+    "value_json": [
+      "dépanneur",
+      "établissement",
+      "nourriture",
+      "station-service",
+      "point d'intérêt",
+      "magasin",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63725,
+    "location_id": 3149,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:13.993+00:00",
+    "name": null,
+    "value_json": [
+      "trgovina",
+      "ustanovljenje",
+      "hrana",
+      "benzinska postaja",
+      "točka interesa",
+      "prodavaonica",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63726,
+    "location_id": 3149,
+    "attribute_id": 4,
+    "value_text": "<span class=\"street-address\">Ul. Matice Hrvatske 10</span>, <span class=\"postal-code\">21204</span>, <span class=\"locality\">Dugopolje</span>, <span class=\"country-name\">Croatia</span>",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.122+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63727,
+    "location_id": 3149,
+    "attribute_id": 6,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 43.589227,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.247+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63728,
+    "location_id": 3149,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 16.577613,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.369+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5183,
     "location_id": 98,
     "attribute_id": 9,
@@ -16377,6 +17168,159 @@
     "updated_at": "2025-11-19T19:14:37.307+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63729,
+    "location_id": 3149,
+    "attribute_id": 8,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 43.5904871302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.492+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63730,
+    "location_id": 3149,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 16.5789018302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.609+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63731,
+    "location_id": 3149,
+    "attribute_id": 10,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 43.5877891697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.735+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63732,
+    "location_id": 3149,
+    "attribute_id": 11,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 16.5762038697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.854+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63733,
+    "location_id": 3149,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:14.969+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63734,
+    "location_id": 3149,
+    "attribute_id": 18,
+    "value_text": "ChIJn0oKSwOnShMRooniQYD9OCQ",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.085+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63735,
+    "location_id": 3149,
+    "attribute_id": 19,
+    "value_text": "HHQH+M2 Dugopolje, Croatia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.202+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63736,
+    "location_id": 3149,
+    "attribute_id": 20,
+    "value_text": "8FMRHHQH+M2",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.325+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63737,
+    "location_id": 3149,
+    "attribute_id": 14,
+    "value_text": null,
+    "value_bool": true,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.448+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -17120,6 +18064,95 @@
     "locked": false
   },
   {
+    "id": 63738,
+    "location_id": 3149,
+    "attribute_id": 15,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.57+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0600"
+        },
+        "close": {
+          "day": 0,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "0600"
+        },
+        "close": {
+          "day": 1,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0600"
+        },
+        "close": {
+          "day": 2,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0600"
+        },
+        "close": {
+          "day": 3,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0600"
+        },
+        "close": {
+          "day": 4,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0600"
+        },
+        "close": {
+          "day": 5,
+          "time": "2200"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0600"
+        },
+        "close": {
+          "day": 6,
+          "time": "2200"
+        }
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5006,
     "location_id": 90,
     "attribute_id": 16,
@@ -17141,6 +18174,32 @@
       {
         "ai": false
       },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63739,
+    "location_id": 3149,
+    "attribute_id": 16,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-21T05:35:15.699+00:00",
+    "name": null,
+    "value_json": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM",
       {
         "ai": false
       }
@@ -17328,6 +18387,108 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63740,
+    "location_id": 3149,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 209,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:16.76+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63741,
+    "location_id": 3149,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 209,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:16.888+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63742,
+    "location_id": 3149,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 209,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:17.355+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63743,
+    "location_id": 3149,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 209,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:17.833+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63744,
+    "location_id": 3149,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 209,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:18.452+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63745,
+    "location_id": 3149,
+    "attribute_id": 28,
+    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:18.918+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -17523,6 +18684,23 @@
     "updated_at": "2025-11-19T19:10:18.028+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63746,
+    "location_id": 3149,
+    "attribute_id": 28,
+    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:19.048+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -17859,6 +19037,74 @@
     "locked": false
   },
   {
+    "id": 63747,
+    "location_id": 3149,
+    "attribute_id": 28,
+    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:19.871+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63748,
+    "location_id": 3149,
+    "attribute_id": 28,
+    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:20.377+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63749,
+    "location_id": 3149,
+    "attribute_id": 28,
+    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:21.769+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63750,
+    "location_id": 3149,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2610114711364209058",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:22.518+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 20516,
     "location_id": 88,
     "attribute_id": 12,
@@ -17900,6 +19146,23 @@
     "updated_at": "2025-11-19T19:10:00.107+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63751,
+    "location_id": 3149,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2610114711364209058",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:22.65+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -18216,6 +19479,125 @@
     "locked": false
   },
   {
+    "id": 63752,
+    "location_id": 3149,
+    "attribute_id": 25,
+    "value_text": "Entschuldigung, ich kann den angegebenen Inhalt nicht übersetzen.",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:23.272+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63753,
+    "location_id": 3149,
+    "attribute_id": 25,
+    "value_text": "Je suis nicht in der Lage, auf externe Links zuzugreifen oder Webadressen zu übersetzen. Bitte gib den Text oder Inhalt an, den du übersetzt haben möchtest.",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:24.542+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63754,
+    "location_id": 3149,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2610114711364209058",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-21T05:35:25.269+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63755,
+    "location_id": 3149,
+    "attribute_id": 30,
+    "value_text": "091 202 2079",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-21T05:35:25.924+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63756,
+    "location_id": 3149,
+    "attribute_id": 30,
+    "value_text": "091 202 2079",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-21T05:35:26.052+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63757,
+    "location_id": 3149,
+    "attribute_id": 30,
+    "value_text": "091 202 2079",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-21T05:35:26.526+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63758,
+    "location_id": 3149,
+    "attribute_id": 30,
+    "value_text": "091 202 2079",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-21T05:35:27.122+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 56904,
     "location_id": 87,
     "attribute_id": 107,
@@ -18229,3586 +19611,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57826,
-    "location_id": 91,
-    "attribute_id": 107,
-    "value_text": "11345",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T17:29:19.351+00:00",
-    "name": null,
-    "value_json": [
-      "11345",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5105,
-    "location_id": 95,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"19\",\"short_name\":\"19\",\"types\":[\"numéro_de_rue\"]},{\"long_name\":\"Maierhof\",\"short_name\":\"Maierhof\",\"types\":[\"route\"]},{\"long_name\":\"Goldegg\",\"short_name\":\"Goldegg\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"région_administrative_niveau_2\",\"politique\"]},{\"long_name\":\"Salzbourg\",\"short_name\":\"Salzbourg\",\"types\":[\"région_administrative_niveau_1\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"5622\",\"short_name\":\"5622\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:13:42.567+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "numéro de rue"
-        ],
-        "long_name": "19",
-        "short_name": "19"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Maierhof",
-        "short_name": "Maierhof"
-      },
-      {
-        "types": [
-          "localité",
-          "politique"
-        ],
-        "long_name": "Goldegg",
-        "short_name": "Goldegg"
-      },
-      {
-        "types": [
-          "niveau_d'administration_2",
-          "politique"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "niveau_d'administration_1",
-          "politique"
-        ],
-        "long_name": "Salzbourg",
-        "short_name": "Salzbourg"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "code_postal"
-        ],
-        "long_name": "5622",
-        "short_name": "5622"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4935,
-    "location_id": 87,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":1,\"time\":\"1800\"},\"open\":{\"day\":1,\"time\":\"0900\"}},{\"close\":{\"day\":2,\"time\":\"1800\"},\"open\":{\"day\":2,\"time\":\"0900\"}},{\"close\":{\"day\":3,\"time\":\"1800\"},\"open\":{\"day\":3,\"time\":\"0900\"}},{\"close\":{\"day\":4,\"time\":\"1800\"},\"open\":{\"day\":4,\"time\":\"0900\"}},{\"close\":{\"day\":5,\"time\":\"1800\"},\"open\":{\"day\":5,\"time\":\"0900\"}},{\"close\":{\"day\":6,\"time\":\"1300\"},\"open\":{\"day\":6,\"time\":\"0900\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:17:31.4+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 1,
-          "time": "0900"
-        },
-        "close": {
-          "day": 1,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0900"
-        },
-        "close": {
-          "day": 2,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0900"
-        },
-        "close": {
-          "day": 3,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0900"
-        },
-        "close": {
-          "day": 4,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0900"
-        },
-        "close": {
-          "day": 5,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0900"
-        },
-        "close": {
-          "day": 6,
-          "time": "1300"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56905,
-    "location_id": 2333,
-    "attribute_id": 102,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": null,
-    "name": null,
-    "value_json": {
-      "ai": false,
-      "wind": {
-        "N": true,
-        "O": true,
-        "S": true,
-        "W": true,
-        "NO": true,
-        "NW": true,
-        "SO": true,
-        "SW": true
-      },
-      "swell": {
-        "N": false,
-        "O": false,
-        "S": true,
-        "W": false,
-        "NO": true,
-        "NW": false,
-        "SO": true,
-        "SW": true
-      },
-      "wind_relevant": true
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56906,
-    "location_id": 2333,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:41:28.05+00:00",
-    "name": null,
-    "value_json": [
-      "Weil mitten im Meer aus allen Richtungen gefährlich",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5167,
-    "location_id": 98,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Saint Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Saint Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzbourg\",\"short_name\":\"Salzbourg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:14:26.051+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56907,
-    "location_id": 2333,
-    "attribute_id": 107,
-    "value_text": "14301",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T08:44:25.478+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4841,
-    "location_id": 86,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"31\",\"short_name\":\"31\",\"types\":[\"street_number\"]},{\"long_name\":\"Alpendorfstraße\",\"short_name\":\"Alpendorfstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:29.875+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "31",
-        "short_name": "31"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorfstraße",
-        "short_name": "Alpendorfstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5228,
-    "location_id": 99,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"2\",\"short_name\":\"2\",\"types\":[\"numero_civico\"]},{\"long_name\":\"Alpendorf\",\"short_name\":\"Alpendorf\",\"types\":[\"via\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"località\",\"politico\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"livello_amministrativo_2\",\"politico\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"livello_amministrativo_1\",\"politico\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"paese\",\"politico\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"codice_postale\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:15:03.084+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "2",
-        "short_name": "2"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorf",
-        "short_name": "Alpendorf"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5229,
-    "location_id": 99,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"2\",\"short_name\":\"2\",\"types\":[\"numéro de rue\"]},{\"long_name\":\"Alpendorf\",\"short_name\":\"Alpendorf\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"niveau_2_zone_administrative\",\"politique\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"niveau_1_zone_administrative\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:15:05.247+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "numéro_de_rue"
-        ],
-        "long_name": "2",
-        "short_name": "2"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorf",
-        "short_name": "Alpendorf"
-      },
-      {
-        "types": [
-          "localité",
-          "politique"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "niveau_de_zone_administrative_2",
-          "politique"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "niveau_de_zone_administrative_1",
-          "politique"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "code_postal"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5230,
-    "location_id": 99,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"2\",\"short_name\":\"2\",\"types\":[\"street_number\"]},{\"long_name\":\"Alpendorf\",\"short_name\":\"Alpendorf\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:15:07.346+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "2",
-        "short_name": "2"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Alpendorf",
-        "short_name": "Alpendorf"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57827,
-    "location_id": 89,
-    "attribute_id": 107,
-    "value_text": "16108",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T19:17:55.567+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20498,
-    "location_id": 88,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"38\",\"short_name\":\"38\",\"types\":[\"street_number\"]},{\"long_name\":\"Wollzeile\",\"short_name\":\"Wollzeile\",\"types\":[\"route\"]},{\"long_name\":\"Innere Stadt\",\"short_name\":\"Innere Stadt\",\"types\":[\"political\",\"sublocality\",\"sublocality_level_1\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"1010\",\"short_name\":\"1010\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:09:49.447+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "38",
-        "short_name": "38"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Wollzeile",
-        "short_name": "Wollzeile"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Innere Stadt",
-        "short_name": "Innere Stadt"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1010",
-        "short_name": "1010"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52805,
-    "location_id": 2049,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Eichenheim\",\"short_name\":\"Eichenheim\",\"types\":[\"route\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Tirol\",\"short_name\":\"Tirol\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"6370\",\"short_name\":\"6370\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:15:53.525+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Eichenheim",
-        "short_name": "Eichenheim"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Tirol",
-        "short_name": "Tirol"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6370",
-        "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52813,
-    "location_id": 2049,
-    "attribute_id": 24,
-    "value_text": "[\"bar\",\"istituzione\",\"cibo\",\"punto di interesse\",\"ristorante\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:15:58.613+00:00",
-    "name": null,
-    "value_json": [
-      "bar",
-      "stabilimento",
-      "cibo",
-      "punto di interesse",
-      "ristorante",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4839,
-    "location_id": 86,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"31\",\"short_name\":\"31\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Alpendorfstraße\",\"short_name\":\"Alpendorfstraße\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ort\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsbezirk Stufe 2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsbezirk Stufe 1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:27.075+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "31",
-        "short_name": "31"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Alpendorfstraße",
-        "short_name": "Alpendorfstraße"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsebene 2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsebene 1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20544,
-    "location_id": 88,
-    "attribute_id": 30,
-    "value_text": "01 5121577",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:10:15.409+00:00",
-    "name": null,
-    "value_json": [
-      "01 5121577",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52803,
-    "location_id": 2049,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Eichenheim\",\"short_name\":\"Eichenheim\",\"types\":[\"route\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Tirolo\",\"short_name\":\"Tirolo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"6370\",\"short_name\":\"6370\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:15:47.461+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Eichenheim",
-        "short_name": "Eichenheim"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Tirolo",
-        "short_name": "Tirolo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6370",
-        "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4843,
-    "location_id": 86,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"31\",\"short_name\":\"31\",\"types\":[\"broj ulice\"]},{\"long_name\":\"Alpendorfstraße\",\"short_name\":\"Alpendorfstraße\",\"types\":[\"ruta\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"lokacija\",\"politička\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrativno_područje_razina_2\",\"politička\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrativno_područje_razina_1\",\"politička\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"država\",\"politička\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"poštanski_broj\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:37.028+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "broj ulice"
-        ],
-        "long_name": "31",
-        "short_name": "31"
-      },
-      {
-        "types": [
-          "ruta"
-        ],
-        "long_name": "Alpendorfstraße",
-        "short_name": "Alpendorfstraße"
-      },
-      {
-        "types": [
-          "lokalitet",
-          "politički"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "razina_2_administrativnog_područja",
-          "politički"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "razina_1_administrativnog_područja",
-          "politički"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "država",
-          "politički"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "poštanski broj"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4857,
-    "location_id": 86,
-    "attribute_id": 24,
-    "value_text": "[\"bar\",\"établissement\",\"nourriture\",\"hébergement\",\"point d'intérêt\",\"restaurant\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:43.057+00:00",
-    "name": null,
-    "value_json": [
-      "bar",
-      "établissement",
-      "nourriture",
-      "hébergement",
-      "point_d'intérêt",
-      "restaurant",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57840,
-    "location_id": 88,
-    "attribute_id": 107,
-    "value_text": "11034",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-16T19:25:22.938+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27038,
-    "location_id": 899,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"Sveti Andrija\",\"short_name\":\"Sveti Andrija\",\"types\":[\"établissement\",\"caractéristique_naturelle\"]},{\"long_name\":\"Comté d'Istrie\",\"short_name\":\"Comté d'Istrie\",\"types\":[\"niveau_administratif_1\",\"politique\"]},{\"long_name\":\"Croatie\",\"short_name\":\"HR\",\"types\":[\"pays\",\"politique\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:20:47.249+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "établissement",
-          "caractéristique_naturelle"
-        ],
-        "long_name": "Sveti Andrija",
-        "short_name": "Sveti Andrija"
-      },
-      {
-        "types": [
-          "zone_administrative_de_niveau_1",
-          "politique"
-        ],
-        "long_name": "Comté d'Istrie",
-        "short_name": "Comté d'Istrie"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 59691,
-    "location_id": 2531,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:23:21.291+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "3",
-        "short_name": "3"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Cankarjevo šetalište",
-        "short_name": "Cankarjevo šetalište"
-      },
-      {
-        "types": [
-          "postal_town"
-        ],
-        "long_name": "Piran",
-        "short_name": "Piran"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Piran",
-        "short_name": "Piran"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Slovenija",
-        "short_name": "SI"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6330",
-        "short_name": "6330"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5129,
-    "location_id": 95,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":0,\"time\":\"1600\"},\"open\":{\"day\":0,\"time\":\"0900\"}},{\"close\":{\"day\":1,\"time\":\"1600\"},\"open\":{\"day\":1,\"time\":\"0900\"}},{\"close\":{\"day\":2,\"time\":\"1600\"},\"open\":{\"day\":2,\"time\":\"0900\"}},{\"close\":{\"day\":3,\"time\":\"1600\"},\"open\":{\"day\":3,\"time\":\"0900\"}},{\"close\":{\"day\":4,\"time\":\"1600\"},\"open\":{\"day\":4,\"time\":\"0900\"}},{\"close\":{\"day\":5,\"time\":\"1600\"},\"open\":{\"day\":5,\"time\":\"0900\"}},{\"close\":{\"day\":6,\"time\":\"1600\"},\"open\":{\"day\":6,\"time\":\"0900\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:13:53.987+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 0,
-          "time": "0900"
-        },
-        "close": {
-          "day": 0,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 1,
-          "time": "0900"
-        },
-        "close": {
-          "day": 1,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0900"
-        },
-        "close": {
-          "day": 2,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0900"
-        },
-        "close": {
-          "day": 3,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0900"
-        },
-        "close": {
-          "day": 4,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0900"
-        },
-        "close": {
-          "day": 5,
-          "time": "1600"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0900"
-        },
-        "close": {
-          "day": 6,
-          "time": "1600"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 22573,
-    "location_id": 665,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"Phare de Blitvenica\",\"short_name\":\"Phare de Blitvenica\",\"types\":[\"premise\"]},{\"long_name\":\"Žirje\",\"short_name\":\"Žirje\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Ville de Šibenik\",\"short_name\":\"Ville de Šibenik\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Comitat de Šibenik-Knin\",\"short_name\":\"Comitat de Šibenik-Knin\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croatie\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:20:17.548+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "premise"
-        ],
-        "long_name": "Phare de Blitvenica",
-        "short_name": "Phare de Blitvenica"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Žirje",
-        "short_name": "Žirje"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Grad Šibenik",
-        "short_name": "Grad Šibenik"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Šibensko-kninska županija",
-        "short_name": "Šibensko-kninska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18230,
-    "location_id": 517,
-    "attribute_id": 24,
-    "value_text": "[\"établissement\",\"nourriture\",\"épicerie ou supermarché\",\"point d'intérêt\",\"magasin\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:18:22.225+00:00",
-    "name": null,
-    "value_json": [
-      "établissement",
-      "nourriture",
-      "épicerie_ou_supermarché",
-      "point_d'intérêt",
-      "magasin",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52801,
-    "location_id": 2049,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Eichenheim\",\"short_name\":\"Eichenheim\",\"types\":[\"Route\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"Verwaltungsgebietsebene_2\",\"politisch\"]},{\"long_name\":\"Tirol\",\"short_name\":\"Tirol\",\"types\":[\"Verwaltungsgebietsebene_1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"6370\",\"short_name\":\"6370\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:15:44.612+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Eichenheim",
-        "short_name": "Eichenheim"
-      },
-      {
-        "types": [
-          "Ort",
-          "politisch"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "Verwaltungsbezirk Ebene 2",
-          "politisch"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "Verwaltungsbezirk Ebene 1",
-          "politisch"
-        ],
-        "long_name": "Tirol",
-        "short_name": "Tirol"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "6370",
-        "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57845,
-    "location_id": 90,
-    "attribute_id": 107,
-    "value_text": "14301",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-17T11:16:55.208+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 59688,
-    "location_id": 2531,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:23:12.428+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "3",
-        "short_name": "3"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Cankarjevo nabrežje",
-        "short_name": "Cankarjevo nabrežje"
-      },
-      {
-        "types": [
-          "postal_town"
-        ],
-        "long_name": "Piran",
-        "short_name": "Piran"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Piran",
-        "short_name": "Piran"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Slovenia",
-        "short_name": "SI"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6330",
-        "short_name": "6330"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5164,
-    "location_id": 98,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsgebietsebene_2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsgebietsebene_1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:14:21.23+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene_2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene_1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 22570,
-    "location_id": 665,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"Leuchtturm Blitvenica\",\"short_name\":\"Leuchtturm Blitvenica\",\"types\":[\"Anwesen\"]},{\"long_name\":\"Žirje\",\"short_name\":\"Žirje\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Grad Šibenik\",\"short_name\":\"Grad Šibenik\",\"types\":[\"Verwaltungsgebietsebene_2\",\"politisch\"]},{\"long_name\":\"Šibensko-kninska Gespanschaft\",\"short_name\":\"Šibensko-kninska Gespanschaft\",\"types\":[\"Verwaltungsgebietsebene_1\",\"politisch\"]},{\"long_name\":\"Kroatien\",\"short_name\":\"HR\",\"types\":[\"Land\",\"politisch\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:20:12.905+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Anlage"
-        ],
-        "long_name": "Leuchtturm Blitvenica",
-        "short_name": "Leuchtturm Blitvenica"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Žirje",
-        "short_name": "Žirje"
-      },
-      {
-        "types": [
-          "Verwaltungsgebiet Ebene 2",
-          "politisch"
-        ],
-        "long_name": "Stadt Šibenik",
-        "short_name": "Stadt Šibenik"
-      },
-      {
-        "types": [
-          "Verwaltungsgebiet Ebene 1",
-          "politisch"
-        ],
-        "long_name": "Gespanschaft Šibenik-Knin",
-        "short_name": "Gespanschaft Šibenik-Knin"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Kroatien",
-        "short_name": "HR"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5042,
-    "location_id": 91,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"18\",\"short_name\":\"18\",\"types\":[\"street_number\"]},{\"long_name\":\"Bundesstraße\",\"short_name\":\"Bundesstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:11:16.664+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "18",
-        "short_name": "18"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Bundesstraße",
-        "short_name": "Bundesstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 21169,
-    "location_id": 630,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":0,\"time\":\"2200\"},\"open\":{\"day\":0,\"time\":\"1100\"}},{\"close\":{\"day\":3,\"time\":\"2200\"},\"open\":{\"day\":3,\"time\":\"1100\"}},{\"close\":{\"day\":4,\"time\":\"2200\"},\"open\":{\"day\":4,\"time\":\"1100\"}},{\"close\":{\"day\":5,\"time\":\"2200\"},\"open\":{\"day\":5,\"time\":\"1100\"}},{\"close\":{\"day\":6,\"time\":\"2200\"},\"open\":{\"day\":6,\"time\":\"1100\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:59.393+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 0,
-          "time": "1100"
-        },
-        "close": {
-          "day": 0,
-          "time": "2200"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "1100"
-        },
-        "close": {
-          "day": 3,
-          "time": "2200"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "1100"
-        },
-        "close": {
-          "day": 4,
-          "time": "2200"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "1100"
-        },
-        "close": {
-          "day": 5,
-          "time": "2200"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "1100"
-        },
-        "close": {
-          "day": 6,
-          "time": "2200"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57846,
-    "location_id": 515,
-    "attribute_id": 107,
-    "value_text": "14308",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-17T17:29:15.896+00:00",
-    "name": "Pazin",
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 22572,
-    "location_id": 665,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"Faro di Blitvenica\",\"short_name\":\"Faro di Blitvenica\",\"types\":[\"premise\"]},{\"long_name\":\"Žirje\",\"short_name\":\"Žirje\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Città di Sebenico\",\"short_name\":\"Città di Sebenico\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Regione di Sebenico e Tenin\",\"short_name\":\"Regione di Sebenico e Tenin\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Croazia\",\"short_name\":\"HR\",\"types\":[\"country\",\"political\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:20:15.178+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "premise"
-        ],
-        "long_name": "Faro di Blitvenica",
-        "short_name": "Faro di Blitvenica"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Žirje",
-        "short_name": "Žirje"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Città di Sebenico",
-        "short_name": "Città di Sebenico"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Regione di Sebenico e Tenin",
-        "short_name": "Regione di Sebenico e Tenin"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croazia",
-        "short_name": "HR"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19131,
-    "location_id": 527,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":0,\"time\":\"2130\"},\"open\":{\"day\":0,\"time\":\"0730\"}},{\"close\":{\"day\":1,\"time\":\"2130\"},\"open\":{\"day\":1,\"time\":\"0730\"}},{\"close\":{\"day\":2,\"time\":\"2130\"},\"open\":{\"day\":2,\"time\":\"0730\"}},{\"close\":{\"day\":3,\"time\":\"2130\"},\"open\":{\"day\":3,\"time\":\"0730\"}},{\"close\":{\"day\":4,\"time\":\"2130\"},\"open\":{\"day\":4,\"time\":\"0730\"}},{\"close\":{\"day\":5,\"time\":\"2130\"},\"open\":{\"day\":5,\"time\":\"0730\"}},{\"close\":{\"day\":6,\"time\":\"2130\"},\"open\":{\"day\":6,\"time\":\"0730\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:40.304+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 0,
-          "time": "0730"
-        },
-        "close": {
-          "day": 0,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 1,
-          "time": "0730"
-        },
-        "close": {
-          "day": 1,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0730"
-        },
-        "close": {
-          "day": 2,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0730"
-        },
-        "close": {
-          "day": 3,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0730"
-        },
-        "close": {
-          "day": 4,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0730"
-        },
-        "close": {
-          "day": 5,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0730"
-        },
-        "close": {
-          "day": 6,
-          "time": "2130"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5102,
-    "location_id": 95,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"19\",\"short_name\":\"19\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Maierhof\",\"short_name\":\"Maierhof\",\"types\":[\"Route\"]},{\"long_name\":\"Goldegg\",\"short_name\":\"Goldegg\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsgebietsebene 2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsgebietsebene 1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5622\",\"short_name\":\"5622\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:13:37.728+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "19",
-        "short_name": "19"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Maierhof",
-        "short_name": "Maierhof"
-      },
-      {
-        "types": [
-          "Ortschaft",
-          "politisch"
-        ],
-        "long_name": "Goldegg",
-        "short_name": "Goldegg"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene_2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene_1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5622",
-        "short_name": "5622"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57847,
-    "location_id": 515,
-    "attribute_id": 102,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": null,
-    "name": null,
-    "value_json": {
-      "ai": false,
-      "wind": {
-        "N": false,
-        "O": false,
-        "S": true,
-        "W": false,
-        "NO": false,
-        "NW": false,
-        "SO": true,
-        "SW": true
-      },
-      "swell": {
-        "N": false,
-        "O": false,
-        "S": false,
-        "W": false,
-        "NO": false,
-        "NW": false,
-        "SO": false,
-        "SW": false
-      },
-      "wind_relevant": true
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54017,
-    "location_id": 2076,
-    "attribute_id": 4,
-    "value_text": "<span class=\"street-address\">Hans Kappacherstraße 9</span>, <span class=\"postal-code\">5600</span> <span class=\"locality\">St. Johann im Pongau</span>, <span class=\"country-name\">Austria</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:22:30.74+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54003,
-    "location_id": 2076,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"9\",\"short_name\":\"9\",\"types\":[\"street_number\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:22:13.065+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "9",
-        "short_name": "9"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54005,
-    "location_id": 2076,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"9\",\"short_name\":\"9\",\"types\":[\"numéro de rue\"]},{\"long_name\":\"Hans Kappacherstraße\",\"short_name\":\"Hans Kappacherstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"niveau_2_région_administrative\",\"politique\"]},{\"long_name\":\"Salzbourg\",\"short_name\":\"Salzbourg\",\"types\":[\"niveau_1_région_administrative\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:22:19.249+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "numéro de rue"
-        ],
-        "long_name": "9",
-        "short_name": "9"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Hans Kappacherstraße",
-        "short_name": "Hans Kappacherstraße"
-      },
-      {
-        "types": [
-          "localité",
-          "politique"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "niveau_de_zone_administrative_2",
-          "politique"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "niveau_de_zone_administrative_1",
-          "politique"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "pays",
-          "politique"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "code_postal"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54029,
-    "location_id": 2076,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":1,\"time\":\"1800\"},\"open\":{\"day\":1,\"time\":\"0730\"}},{\"close\":{\"day\":2,\"time\":\"1800\"},\"open\":{\"day\":2,\"time\":\"0730\"}},{\"close\":{\"day\":3,\"time\":\"1800\"},\"open\":{\"day\":3,\"time\":\"0730\"}},{\"close\":{\"day\":4,\"time\":\"1800\"},\"open\":{\"day\":4,\"time\":\"0730\"}},{\"close\":{\"day\":5,\"time\":\"1800\"},\"open\":{\"day\":5,\"time\":\"0730\"}},{\"close\":{\"day\":6,\"time\":\"1200\"},\"open\":{\"day\":6,\"time\":\"0700\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:22:33.141+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 1,
-          "time": "0730"
-        },
-        "close": {
-          "day": 1,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0730"
-        },
-        "close": {
-          "day": 2,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0730"
-        },
-        "close": {
-          "day": 3,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0730"
-        },
-        "close": {
-          "day": 4,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0730"
-        },
-        "close": {
-          "day": 5,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0700"
-        },
-        "close": {
-          "day": 6,
-          "time": "1200"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20495,
-    "location_id": 88,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"38\",\"short_name\":\"38\",\"types\":[\"street_number\"]},{\"long_name\":\"Wollzeile\",\"short_name\":\"Wollzeile\",\"types\":[\"route\"]},{\"long_name\":\"Innere Stadt\",\"short_name\":\"Innere Stadt\",\"types\":[\"political\",\"sublocality\",\"sublocality_level_1\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"1010\",\"short_name\":\"1010\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:09:41.685+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "38",
-        "short_name": "38"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Wollzeile",
-        "short_name": "Wollzeile"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Innere Stadt",
-        "short_name": "Innere Stadt"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1010",
-        "short_name": "1010"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5106,
-    "location_id": 95,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"19\",\"short_name\":\"19\",\"types\":[\"kućni broj\"]},{\"long_name\":\"Maierhof\",\"short_name\":\"Maierhof\",\"types\":[\"ruta\"]},{\"long_name\":\"Goldegg\",\"short_name\":\"Goldegg\",\"types\":[\"mjestna zajednica\",\"politička\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrativna jedinica razina 2\",\"politička\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrativna jedinica razina 1\",\"politička\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"država\",\"politička\"]},{\"long_name\":\"5622\",\"short_name\":\"5622\",\"types\":[\"poštanski broj\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:13:44.861+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "19",
-        "short_name": "19"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Maierhof",
-        "short_name": "Maierhof"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Goldegg",
-        "short_name": "Goldegg"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5622",
-        "short_name": "5622"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5104,
-    "location_id": 95,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"19\",\"short_name\":\"19\",\"types\":[\"street_number\"]},{\"long_name\":\"Maierhof\",\"short_name\":\"Maierhof\",\"types\":[\"route\"]},{\"long_name\":\"Goldegg\",\"short_name\":\"Goldegg\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salisburgo\",\"short_name\":\"Salisburgo\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5622\",\"short_name\":\"5622\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:13:40.59+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "19",
-        "short_name": "19"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Maierhof",
-        "short_name": "Maierhof"
-      },
-      {
-        "types": [
-          "locality",
-          "politica"
-        ],
-        "long_name": "Goldegg",
-        "short_name": "Goldegg"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "politica"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "politica"
-        ],
-        "long_name": "Salisburgo",
-        "short_name": "Salisburgo"
-      },
-      {
-        "types": [
-          "country",
-          "politica"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5622",
-        "short_name": "5622"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 57848,
-    "location_id": 515,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-18T07:02:54.602+00:00",
-    "name": null,
-    "value_json": [
-      "Windinfo ist nur für die große Terasse (1. Stock) relevant.",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4982,
-    "location_id": 90,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"47\",\"short_name\":\"47\",\"types\":[\"street_number\"]},{\"long_name\":\"Schönbrunner Schloßstraße\",\"short_name\":\"Schönbrunner Schloßstraße\",\"types\":[\"route\"]},{\"long_name\":\"Hietzing\",\"short_name\":\"Hietzing\",\"types\":[\"political\",\"sublocality\",\"sublocality_level_1\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Beč\",\"short_name\":\"Beč\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"1130\",\"short_name\":\"1130\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:10:41.091+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "broj ulice"
-        ],
-        "long_name": "47",
-        "short_name": "47"
-      },
-      {
-        "types": [
-          "ruta"
-        ],
-        "long_name": "Schönbrunner Schloßstraße",
-        "short_name": "Schönbrunner Schloßstraße"
-      },
-      {
-        "types": [
-          "politički",
-          "podlokacija",
-          "podlokacija_razina_1"
-        ],
-        "long_name": "Hietzing",
-        "short_name": "Hietzing"
-      },
-      {
-        "types": [
-          "lokacija",
-          "politički"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "upravno_područje_razina_2",
-          "politički"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "upravno_područje_razina_1",
-          "politički"
-        ],
-        "long_name": "Beč",
-        "short_name": "Beč"
-      },
-      {
-        "types": [
-          "država",
-          "politički"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "poštanski_broj"
-        ],
-        "long_name": "1130",
-        "short_name": "1130"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4980,
-    "location_id": 90,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"47\",\"short_name\":\"47\",\"types\":[\"numero_civico\"]},{\"long_name\":\"Schönbrunner Schloßstraße\",\"short_name\":\"Schönbrunner Schloßstraße\",\"types\":[\"via\"]},{\"long_name\":\"Hietzing\",\"short_name\":\"Hietzing\",\"types\":[\"politico\",\"sottolocalità\",\"sottolocalità_livello_1\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"località\",\"politico\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"area_amministrativa_livello_2\",\"politico\"]},{\"long_name\":\"Vienna\",\"short_name\":\"Vienna\",\"types\":[\"area_amministrativa_livello_1\",\"politico\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"paese\",\"politico\"]},{\"long_name\":\"1130\",\"short_name\":\"1130\",\"types\":[\"codice_postale\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:10:35.214+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "47",
-        "short_name": "47"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Schönbrunner Schloßstraße",
-        "short_name": "Schönbrunner Schloßstraße"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Hietzing",
-        "short_name": "Hietzing"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Vienna",
-        "short_name": "Vienna"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1130",
-        "short_name": "1130"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20522,
-    "location_id": 88,
-    "attribute_id": 16,
-    "value_text": "[\"Monday: 11:30 AM – 11:30 PM\",\"Tuesday: 11:30 AM – 11:30 PM\",\"Wednesday: 11:30 AM – 11:30 PM\",\"Thursday: 11:30 AM – 11:30 PM\",\"Friday: 11:30 AM – 11:30 PM\",\"Saturday: 11:30 AM – 11:30 PM\",\"Sunday: 11:30 AM – 11:30 PM\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:00.701+00:00",
-    "name": null,
-    "value_json": [
-      "Monday: 11:30 AM – 11:30 PM",
-      "Tuesday: 11:30 AM – 11:30 PM",
-      "Wednesday: 11:30 AM – 11:30 PM",
-      "Thursday: 11:30 AM – 11:30 PM",
-      "Friday: 11:30 AM – 11:30 PM",
-      "Saturday: 11:30 AM – 11:30 PM",
-      "Sunday: 11:30 AM – 11:30 PM",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4979,
-    "location_id": 90,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"47\",\"short_name\":\"47\",\"types\":[\"street_number\"]},{\"long_name\":\"Schönbrunner Schloßstraße\",\"short_name\":\"Schönbrunner Schloßstraße\",\"types\":[\"route\"]},{\"long_name\":\"Hietzing\",\"short_name\":\"Hietzing\",\"types\":[\"political\",\"sublocality\",\"sublocality_level_1\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Wien\",\"short_name\":\"Wien\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"1130\",\"short_name\":\"1130\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:10:31.071+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "47",
-        "short_name": "47"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Schönbrunner Schloßstraße",
-        "short_name": "Schönbrunner Schloßstraße"
-      },
-      {
-        "types": [
-          "political",
-          "sublocality",
-          "sublocality_level_1"
-        ],
-        "long_name": "Hietzing",
-        "short_name": "Hietzing"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Wien",
-        "short_name": "Wien"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "1130",
-        "short_name": "1130"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5041,
-    "location_id": 91,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"18\",\"short_name\":\"18\",\"types\":[\"street_number\"]},{\"long_name\":\"Bundesstraße\",\"short_name\":\"Bundesstraße\",\"types\":[\"route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:11:15.241+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "18",
-        "short_name": "18"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Bundesstraße",
-        "short_name": "Bundesstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5040,
-    "location_id": 91,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"18\",\"short_name\":\"18\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Bundesstraße\",\"short_name\":\"Bundesstraße\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ort\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsgebietsebene_2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsgebietsebene_1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:11:15.043+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "18",
-        "short_name": "18"
-      },
-      {
-        "types": [
-          "Route"
-        ],
-        "long_name": "Bundesstraße",
-        "short_name": "Bundesstraße"
-      },
-      {
-        "types": [
-          "Ort",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsgebietsebene 1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5044,
-    "location_id": 91,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"18\",\"short_name\":\"18\",\"types\":[\"kućni broj\"]},{\"long_name\":\"Bundesstraße\",\"short_name\":\"Bundesstraße\",\"types\":[\"ruta\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"mjesto\",\"političko\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"područje administrativne razine 2\",\"političko\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"područje administrativne razine 1\",\"političko\"]},{\"long_name\":\"Austrija\",\"short_name\":\"AT\",\"types\":[\"zemlja\",\"političko\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"poštanski broj\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:11:20.772+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "18",
-        "short_name": "18"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Bundesstraße",
-        "short_name": "Bundesstraße"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austrija",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5103,
-    "location_id": 95,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"19\",\"short_name\":\"19\",\"types\":[\"street_number\"]},{\"long_name\":\"Maierhof\",\"short_name\":\"Maierhof\",\"types\":[\"route\"]},{\"long_name\":\"Goldegg\",\"short_name\":\"Goldegg\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"5622\",\"short_name\":\"5622\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:13:37.955+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "19",
-        "short_name": "19"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Maierhof",
-        "short_name": "Maierhof"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Goldegg",
-        "short_name": "Goldegg"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "5622",
-        "short_name": "5622"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52804,
-    "location_id": 2049,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"numéro_de_rue\"]},{\"long_name\":\"Eichenheim\",\"short_name\":\"Eichenheim\",\"types\":[\"route\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"localité\",\"politique\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"niveau_administratif_2\",\"politique\"]},{\"long_name\":\"Tyrol\",\"short_name\":\"Tyrol\",\"types\":[\"niveau_administratif_1\",\"politique\"]},{\"long_name\":\"Autriche\",\"short_name\":\"AT\",\"types\":[\"pays\",\"politique\"]},{\"long_name\":\"6370\",\"short_name\":\"6370\",\"types\":[\"code_postal\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:15:51.74+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Eichenheim",
-        "short_name": "Eichenheim"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Tyrol",
-        "short_name": "Tyrol"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Autriche",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6370",
-        "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5191,
-    "location_id": 98,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":1,\"time\":\"1230\"},\"open\":{\"day\":1,\"time\":\"0830\"}},{\"close\":{\"day\":1,\"time\":\"1800\"},\"open\":{\"day\":1,\"time\":\"1400\"}},{\"close\":{\"day\":2,\"time\":\"1230\"},\"open\":{\"day\":2,\"time\":\"0830\"}},{\"close\":{\"day\":2,\"time\":\"1800\"},\"open\":{\"day\":2,\"time\":\"1400\"}},{\"close\":{\"day\":3,\"time\":\"1230\"},\"open\":{\"day\":3,\"time\":\"0830\"}},{\"close\":{\"day\":3,\"time\":\"1800\"},\"open\":{\"day\":3,\"time\":\"1400\"}},{\"close\":{\"day\":4,\"time\":\"1230\"},\"open\":{\"day\":4,\"time\":\"0830\"}},{\"close\":{\"day\":4,\"time\":\"1800\"},\"open\":{\"day\":4,\"time\":\"1400\"}},{\"close\":{\"day\":5,\"time\":\"1230\"},\"open\":{\"day\":5,\"time\":\"0830\"}},{\"close\":{\"day\":5,\"time\":\"1800\"},\"open\":{\"day\":5,\"time\":\"1400\"}},{\"close\":{\"day\":6,\"time\":\"1200\"},\"open\":{\"day\":6,\"time\":\"0830\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:14:37.498+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 1,
-          "time": "0830"
-        },
-        "close": {
-          "day": 1,
-          "time": "1230"
-        }
-      },
-      {
-        "open": {
-          "day": 1,
-          "time": "1400"
-        },
-        "close": {
-          "day": 1,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0830"
-        },
-        "close": {
-          "day": 2,
-          "time": "1230"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "1400"
-        },
-        "close": {
-          "day": 2,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0830"
-        },
-        "close": {
-          "day": 3,
-          "time": "1230"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "1400"
-        },
-        "close": {
-          "day": 3,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0830"
-        },
-        "close": {
-          "day": 4,
-          "time": "1230"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "1400"
-        },
-        "close": {
-          "day": 4,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0830"
-        },
-        "close": {
-          "day": 5,
-          "time": "1230"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "1400"
-        },
-        "close": {
-          "day": 5,
-          "time": "1800"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0830"
-        },
-        "close": {
-          "day": 6,
-          "time": "1200"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5226,
-    "location_id": 99,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"2\",\"short_name\":\"2\",\"types\":[\"Straßennummer\"]},{\"long_name\":\"Alpendorf\",\"short_name\":\"Alpendorf\",\"types\":[\"Route\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Ortschaft\",\"politisch\"]},{\"long_name\":\"Sankt Johann im Pongau\",\"short_name\":\"St. Johann im Pongau\",\"types\":[\"Verwaltungsebene 2\",\"politisch\"]},{\"long_name\":\"Salzburg\",\"short_name\":\"Salzburg\",\"types\":[\"Verwaltungsebene 1\",\"politisch\"]},{\"long_name\":\"Österreich\",\"short_name\":\"AT\",\"types\":[\"Land\",\"politisch\"]},{\"long_name\":\"5600\",\"short_name\":\"5600\",\"types\":[\"Postleitzahl\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:14:59.66+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "Straßennummer"
-        ],
-        "long_name": "2",
-        "short_name": "2"
-      },
-      {
-        "types": [
-          "Straße"
-        ],
-        "long_name": "Alpendorf",
-        "short_name": "Alpendorf"
-      },
-      {
-        "types": [
-          "Ort",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsbereich Ebene 2",
-          "politisch"
-        ],
-        "long_name": "Sankt Johann im Pongau",
-        "short_name": "St. Johann im Pongau"
-      },
-      {
-        "types": [
-          "Verwaltungsbereich Ebene 1",
-          "politisch"
-        ],
-        "long_name": "Salzburg",
-        "short_name": "Salzburg"
-      },
-      {
-        "types": [
-          "Land",
-          "politisch"
-        ],
-        "long_name": "Österreich",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "Postleitzahl"
-        ],
-        "long_name": "5600",
-        "short_name": "5600"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52802,
-    "location_id": 2049,
-    "attribute_id": 31,
-    "value_text": "[{\"long_name\":\"8\",\"short_name\":\"8\",\"types\":[\"street_number\"]},{\"long_name\":\"Eichenheim\",\"short_name\":\"Eichenheim\",\"types\":[\"route\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"locality\",\"political\"]},{\"long_name\":\"Kitzbühel\",\"short_name\":\"Kitzbühel\",\"types\":[\"administrative_area_level_2\",\"political\"]},{\"long_name\":\"Tirol\",\"short_name\":\"Tirol\",\"types\":[\"administrative_area_level_1\",\"political\"]},{\"long_name\":\"Austria\",\"short_name\":\"AT\",\"types\":[\"country\",\"political\"]},{\"long_name\":\"6370\",\"short_name\":\"6370\",\"types\":[\"postal_code\"]}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:15:44.816+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "8",
-        "short_name": "8"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Eichenheim",
-        "short_name": "Eichenheim"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Kitzbühel",
-        "short_name": "Kitzbühel"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Tirol",
-        "short_name": "Tirol"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Austria",
-        "short_name": "AT"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "6370",
-        "short_name": "6370"
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   }
