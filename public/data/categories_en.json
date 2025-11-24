@@ -252,6 +252,13 @@
     "active": true
   },
   {
+    "id": 187,
+    "name_en": "Marina",
+    "icon": "Marina oder Hafen",
+    "sort_order": 999,
+    "active": true
+  },
+  {
     "id": 180,
     "name_en": "atm",
     "icon": "atm",
