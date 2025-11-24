@@ -176,6 +176,14 @@
     "description_it": null
   },
   {
+    "id": 3384,
+    "wind2horizon_id": null,
+    "lat": 45.2508423,
+    "lng": 13.5944009,
+    "name_it": "Lučica Materada",
+    "description_it": null
+  },
+  {
     "id": 665,
     "wind2horizon_id": null,
     "lat": 43.6252323,
@@ -400,6 +408,14 @@
     "description_it": null
   },
   {
+    "id": 3381,
+    "wind2horizon_id": null,
+    "lat": 45.5329066,
+    "lng": 13.6526976,
+    "name_it": "Porting, gradbeništvo, trgovina in turizem, d.o.o",
+    "description_it": null
+  },
+  {
     "id": 2032,
     "wind2horizon_id": null,
     "lat": 43.655935077637004,
@@ -576,6 +592,22 @@
     "description_it": null
   },
   {
+    "id": 3387,
+    "wind2horizon_id": null,
+    "lat": 45.1274832,
+    "lng": 13.6250246,
+    "name_it": "Marina Valalta",
+    "description_it": null
+  },
+  {
+    "id": 3392,
+    "wind2horizon_id": null,
+    "lat": 44.8779324,
+    "lng": 13.8199611,
+    "name_it": "Luka's Haven",
+    "description_it": null
+  },
+  {
     "id": 99,
     "wind2horizon_id": null,
     "lat": 47.321454,
@@ -608,6 +640,22 @@
     "description_it": null
   },
   {
+    "id": 3382,
+    "wind2horizon_id": null,
+    "lat": 45.31683049999999,
+    "lng": 13.5615428,
+    "name_it": "Porto di Cittanova",
+    "description_it": null
+  },
+  {
+    "id": 3383,
+    "wind2horizon_id": null,
+    "lat": 45.2749011,
+    "lng": 13.5977285,
+    "name_it": "Marina Cervar-Porat",
+    "description_it": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -632,12 +680,68 @@
     "description_it": "Hotel esclusivo con 3 ristoranti raffinati, caffè, cioccolateria e vista sul fiume."
   },
   {
+    "id": 3385,
+    "wind2horizon_id": null,
+    "lat": 45.2238561,
+    "lng": 13.5950553,
+    "name_it": "Marina Poreč",
+    "description_it": null
+  },
+  {
     "id": 2079,
     "wind2horizon_id": null,
     "lat": 47.346309,
     "lng": 13.2017865,
     "name_it": "Hotel Alpenland St. Johann",
     "description_it": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
+  },
+  {
+    "id": 3386,
+    "wind2horizon_id": null,
+    "lat": 45.1771058,
+    "lng": 13.5980769,
+    "name_it": "Marina Funtana",
+    "description_it": null
+  },
+  {
+    "id": 3388,
+    "wind2horizon_id": null,
+    "lat": 45.0814131,
+    "lng": 13.6355577,
+    "name_it": "Porto di Rovigno",
+    "description_it": null
+  },
+  {
+    "id": 3389,
+    "wind2horizon_id": null,
+    "lat": 45.08049099999999,
+    "lng": 13.632803,
+    "name_it": "Porto di Rovigno",
+    "description_it": null
+  },
+  {
+    "id": 3390,
+    "wind2horizon_id": null,
+    "lat": 44.9118595,
+    "lng": 13.8109251,
+    "name_it": "Lučica Valbandon",
+    "description_it": null
+  },
+  {
+    "id": 3391,
+    "wind2horizon_id": null,
+    "lat": 44.8740276,
+    "lng": 13.836088,
+    "name_it": "Porto di Pola",
+    "description_it": null
+  },
+  {
+    "id": 3393,
+    "wind2horizon_id": null,
+    "lat": 44.8750088,
+    "lng": 13.8230569,
+    "name_it": "Marina Polesana Pula",
+    "description_it": null
   },
   {
     "id": 3242,
