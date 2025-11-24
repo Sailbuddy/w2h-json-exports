@@ -176,6 +176,14 @@
     "description_fr": null
   },
   {
+    "id": 3384,
+    "wind2horizon_id": null,
+    "lat": 45.2508423,
+    "lng": 13.5944009,
+    "name_fr": "Lučica Materada",
+    "description_fr": null
+  },
+  {
     "id": 665,
     "wind2horizon_id": null,
     "lat": 43.6252323,
@@ -400,6 +408,14 @@
     "description_fr": null
   },
   {
+    "id": 3381,
+    "wind2horizon_id": null,
+    "lat": 45.5329066,
+    "lng": 13.6526976,
+    "name_fr": "Porting, gradbeništvo, trgovina in turizem, d.o.o",
+    "description_fr": null
+  },
+  {
     "id": 2032,
     "wind2horizon_id": null,
     "lat": 43.655935077637004,
@@ -576,6 +592,22 @@
     "description_fr": null
   },
   {
+    "id": 3387,
+    "wind2horizon_id": null,
+    "lat": 45.1274832,
+    "lng": 13.6250246,
+    "name_fr": "Marina Valalta",
+    "description_fr": null
+  },
+  {
+    "id": 3392,
+    "wind2horizon_id": null,
+    "lat": 44.8779324,
+    "lng": 13.8199611,
+    "name_fr": "Luka's Haven",
+    "description_fr": null
+  },
+  {
     "id": 99,
     "wind2horizon_id": null,
     "lat": 47.321454,
@@ -608,6 +640,22 @@
     "description_fr": null
   },
   {
+    "id": 3382,
+    "wind2horizon_id": null,
+    "lat": 45.31683049999999,
+    "lng": 13.5615428,
+    "name_fr": "Luka Novigrad",
+    "description_fr": null
+  },
+  {
+    "id": 3383,
+    "wind2horizon_id": null,
+    "lat": 45.2749011,
+    "lng": 13.5977285,
+    "name_fr": "Marina Cervar-Porat",
+    "description_fr": null
+  },
+  {
     "id": 88,
     "wind2horizon_id": null,
     "lat": 48.207521,
@@ -632,12 +680,68 @@
     "description_fr": "Hôtel chic avec 3 restaurants raffinés, café, chocolaterie et vue sur la rivière."
   },
   {
+    "id": 3385,
+    "wind2horizon_id": null,
+    "lat": 45.2238561,
+    "lng": 13.5950553,
+    "name_fr": "Marina Poreč",
+    "description_fr": null
+  },
+  {
     "id": 2079,
     "wind2horizon_id": null,
     "lat": 47.346309,
     "lng": 13.2017865,
     "name_fr": "Hotel Alpenland St. Johann",
     "description_fr": "Hôtel de style décontracté avec restaurant, pub, bar, piscine intérieure, saunas et bains à remous."
+  },
+  {
+    "id": 3386,
+    "wind2horizon_id": null,
+    "lat": 45.1771058,
+    "lng": 13.5980769,
+    "name_fr": "Marina Funtana",
+    "description_fr": null
+  },
+  {
+    "id": 3388,
+    "wind2horizon_id": null,
+    "lat": 45.0814131,
+    "lng": 13.6355577,
+    "name_fr": "Port of Rovinj",
+    "description_fr": null
+  },
+  {
+    "id": 3389,
+    "wind2horizon_id": null,
+    "lat": 45.08049099999999,
+    "lng": 13.632803,
+    "name_fr": "Harbour of Rovinj",
+    "description_fr": null
+  },
+  {
+    "id": 3390,
+    "wind2horizon_id": null,
+    "lat": 44.9118595,
+    "lng": 13.8109251,
+    "name_fr": "Lučica Valbandon",
+    "description_fr": null
+  },
+  {
+    "id": 3391,
+    "wind2horizon_id": null,
+    "lat": 44.8740276,
+    "lng": 13.836088,
+    "name_fr": "Harbour of Pula/Pola",
+    "description_fr": null
+  },
+  {
+    "id": 3393,
+    "wind2horizon_id": null,
+    "lat": 44.8750088,
+    "lng": 13.8230569,
+    "name_fr": "Marina Polesana Pula",
+    "description_fr": null
   },
   {
     "id": 3242,
