@@ -752,6 +752,14 @@
     "description_it": null
   },
   {
+    "id": 3394,
+    "wind2horizon_id": null,
+    "lat": 43.66520388068192,
+    "lng": 15.621735800985078,
+    "name_it": null,
+    "description_it": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -814,6 +822,14 @@
     "lng": 13.5681324,
     "name_it": "Museo del mare Sergej Mašera Pirano",
     "description_it": "Palazzo risalente al 1800 che ospita un museo marittimo con mostre navali, fotografie e modellini di navi."
+  },
+  {
+    "id": 3395,
+    "wind2horizon_id": null,
+    "lat": 37.6794215,
+    "lng": 20.7827375,
+    "name_it": "paltakis beach",
+    "description_it": null
   },
   {
     "id": 3205,
