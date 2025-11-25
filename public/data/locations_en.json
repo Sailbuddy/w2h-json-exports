@@ -752,6 +752,14 @@
     "description_en": null
   },
   {
+    "id": 3394,
+    "wind2horizon_id": null,
+    "lat": 43.66520388068192,
+    "lng": 15.621735800985078,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 2080,
     "wind2horizon_id": null,
     "lat": 45.5169439,
@@ -814,6 +822,14 @@
     "lng": 13.5681324,
     "name_en": "Sergej Mašera Maritime Museum",
     "description_en": "Palace museum dating to 1800s housing a maritime museum with naval exhibits, photos & model ships."
+  },
+  {
+    "id": 3395,
+    "wind2horizon_id": null,
+    "lat": 37.6794215,
+    "lng": 20.7827375,
+    "name_en": "paltakis beach",
+    "description_en": null
   },
   {
     "id": 3205,
