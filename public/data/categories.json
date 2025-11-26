@@ -576,6 +576,22 @@
     "sort_index": 1000
   },
   {
+    "id": 187,
+    "created_at": "2025-11-23T20:47:22+00:00",
+    "name_de": "Marina",
+    "name_en": "Marina",
+    "name_it": "Marina",
+    "name_hr": "Marina",
+    "icon": "Marina oder Hafen",
+    "active": true,
+    "sort_order": 999,
+    "google_cat_id": "undefined",
+    "name_fr": null,
+    "is_manual": true,
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"40\" height=\"40\" viewBox=\"0 0 40 40\">\r\n  <!-- Alles in einer Gruppe, damit fill-rule & Co. konsistent sind -->\r\n  <g fill=\"none\" fill-rule=\"evenodd\">\r\n    <!-- Pin-Hintergrund -->\r\n    <path\r\n      d=\"M20 2c-7.18 0-13 5.82-13 13 0 8.28 13 23 13 23s13-14.72 13-23C33 7.82 27.18 2 20 2z\"\r\n      fill=\"#ffffff\"\r\n      stroke=\"#005b96\"\r\n      stroke-width=\"1.5\"\r\n    />\r\n\r\n    <!-- Blauer Kreis -->\r\n    <circle cx=\"20\" cy=\"16\" r=\"11\" fill=\"#005b96\" />\r\n\r\n    <!-- Poller: Basis -->\r\n    <line\r\n      x1=\"13\"\r\n      y1=\"20.5\"\r\n      x2=\"27\"\r\n      y2=\"20.5\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n      stroke-linecap=\"round\"\r\n    />\r\n\r\n    <!-- Poller: linker Fuß -->\r\n    <line\r\n      x1=\"17\"\r\n      y1=\"20.5\"\r\n      x2=\"17\"\r\n      y2=\"16\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n      stroke-linecap=\"round\"\r\n    />\r\n\r\n    <!-- Poller: rechter Fuß -->\r\n    <line\r\n      x1=\"23\"\r\n      y1=\"20.5\"\r\n      x2=\"23\"\r\n      y2=\"16\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n      stroke-linecap=\"round\"\r\n    />\r\n\r\n    <!-- Poller: Kopf / Pfahl -->\r\n    <rect\r\n      x=\"17\"\r\n      y=\"12\"\r\n      width=\"6\"\r\n      height=\"4\"\r\n      rx=\"1.2\"\r\n      ry=\"1.2\"\r\n      fill=\"none\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n    />\r\n\r\n    <!-- Leine (um den Poller gewickelt) -->\r\n    <path\r\n      d=\"M14.5 15.2 L24.5 17 L14.5 18.8\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n      stroke-linecap=\"round\"\r\n      stroke-linejoin=\"round\"\r\n    />\r\n\r\n    <!-- Leinenende -->\r\n    <line\r\n      x1=\"23.5\"\r\n      y1=\"18.8\"\r\n      x2=\"26\"\r\n      y2=\"19.4\"\r\n      stroke=\"#ffffff\"\r\n      stroke-width=\"1.6\"\r\n      stroke-linecap=\"round\"\r\n    />\r\n  </g>\r\n</svg>\r\n",
+    "sort_index": 1000
+  },
+  {
     "id": 180,
     "created_at": "2025-11-20T16:35:13.364237+00:00",
     "name_de": "Geldautomat",
