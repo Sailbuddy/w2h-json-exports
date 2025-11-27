@@ -24,14 +24,6 @@
     "description_fr": null
   },
   {
-    "id": 527,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_fr": "ACI Marina Rovinj",
-    "description_fr": null
-  },
-  {
     "id": 93,
     "wind2horizon_id": null,
     "lat": 44.87322990000001,
@@ -117,6 +109,14 @@
     "lat": 45.3204658,
     "lng": 13.5637114,
     "name_fr": "Marina Nautica Novigrad",
+    "description_fr": null
+  },
+  {
+    "id": 527,
+    "wind2horizon_id": null,
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_fr": "ACI Marina Rovinj",
     "description_fr": null
   },
   {
