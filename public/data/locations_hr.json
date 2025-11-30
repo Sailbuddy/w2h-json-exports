@@ -8,14 +8,6 @@
     "description_hr": null
   },
   {
-    "id": 86,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_hr": "Gut Berg Naturhotel",
-    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
-  },
-  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -109,14 +101,6 @@
     "lat": 45.3204658,
     "lng": 13.5637114,
     "name_hr": "Marina Nautica Novigrad",
-    "description_hr": null
-  },
-  {
-    "id": 527,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_hr": "ACI Marina Rovinj",
     "description_hr": null
   },
   {
@@ -880,6 +864,14 @@
     "description_hr": null
   },
   {
+    "id": 3396,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_hr": "Gut Berg Naturhotel",
+    "description_hr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
     "id": 3220,
     "wind2horizon_id": null,
     "lat": 44.8667913,
@@ -917,6 +909,14 @@
     "lat": 44.5191313,
     "lng": 14.5022154,
     "name_hr": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
+    "description_hr": null
+  },
+  {
+    "id": 3397,
+    "wind2horizon_id": null,
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_hr": "ACI Marina Rovinj",
     "description_hr": null
   },
   {
