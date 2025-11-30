@@ -197,6 +197,23 @@
     "locked": false
   },
   {
+    "id": 63786,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": "Gut Berg Naturhotel",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:05.04+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 20533,
     "location_id": 88,
     "attribute_id": 17,
@@ -331,104 +348,36 @@
     "locked": false
   },
   {
-    "id": 19143,
-    "location_id": 527,
-    "attribute_id": 17,
+    "id": 63790,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": "Gut Berg Naturhotel",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:33:08.863+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63794,
+    "location_id": 3396,
+    "attribute_id": 27,
     "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:55.43+00:00",
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:11.695+00:00",
     "name": null,
-    "value_json": [
-      {
-        "width": 1600,
-        "height": 964,
-        "photo_reference": "AWn5SU5ZNGXIOforr1jpjMLAc4Q9UtmMM-pcyIRYf72PWg6y-i6T0b_6icagAljr5cUG4fSQ0CpG5fnZ-aHh1W-cqxSqzUBKZjxlABB1r0d35eytLfFXxq3zZdmXc85y1-tcnYg5TAdpwIzKezFDnClRVaVAm3TkE5P5xKA1j10cQyEUltOOgjrvjbvEkCjcUPmfch8lgFyumJprTbdhGQ8_nS-zwXXMuDwgyHebPWgFw3J_-C_NnFa9D9X8NzGN7Oj0_7dIYMw9gexxrYcZZE-mF8epZIOVRtShRRc-JcPiM8cd9w",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104330569047701405641\">ACI Marina Rovinj</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3599,
-        "photo_reference": "AWn5SU5pO-xX06pHdQifWmRp1E_dmBZ7LMXEOFQeKLsxBJYqjP-Yqjfqh5CM-OJMC0d5WvP183SvK_yfPhPLl4aq1SXTADj_VRdWjameZsrnL_L6vHNfnMtJc9wgBG1a3ry9xF5j3r0fNBS8xFnwmBhrFc-SM6duklpvno4vdPLMjH9qMfvbE5qE8CoQZg9sRaNP2fCWWO5DM3y0nc2ZIvRVbk9fF0ru0pZaNXzxm3jFPMuxABMX4YGkOq0_SnDHMlz57Wxz_36qpD2ACBm8GxetkHL-g8v6OMYZlDRacM4pFf754jlJeY0hskf_hRVVN6II7x55I_9OvUwUwxCRqkly8uFWC2om01qIX7aoiVT23yxLIOVAoRCK9Q5SCBMLkfICVWOxfa8NtyrR0-hwmSfpihFqSRNK-t7vIZZeUtCY5Pg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/101252000619779951005\">Tom Heinicker</a>"
-        ]
-      },
-      {
-        "width": 4032,
-        "height": 3024,
-        "photo_reference": "AWn5SU6R9lbgSX9OwTuw3KsyB_E0rRoii9XhGgXG95JsRgZabOEsq1LMsEuLJUrxI4RLavIogBYdaU202LWI76ckTiyF5KummNpSPvGkMHETUj2KvO_ViB-5eXtmH4q-QlDf8ygngOwpt2bBVcvQbLZJdxNkclH9wyHv3HTuD_hTy_mP9xxmxK7pEG_7etpj96fk65ZGMIbyEo5ODuDlO2GK5aRcmJvvAsLXFK1pDl-ZGadgGeNyYM4P9BDkuMpb2g-GuJrb4YGKpogOe9uXDS9jrJCxcAAXq1FUOrGZ7EJcFtwSHLsIuQ2MQoyVZjdF60ENx2c78vwhlBVvL3MNWcxzxHvv34mM_kQmKbybBVIv8AJmXQ7Zb89ABraSgnbJgX7rJ_UFmidciGn0S27U3tR3ZRtebWE9G9dJuVr2k3cwHndZ4cI",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102569764725200967936\">Bogdan Dugonik</a>"
-        ]
-      },
-      {
-        "width": 4032,
-        "height": 3024,
-        "photo_reference": "AWn5SU7xWxHg7GFaLIX7jdf3xk4R1B8r8hNBZWxBBE6RPufLT_iBE1XcZoVgTOauq4A1d26prfC2b-RDpE2m2PginxRsPKtqaaSjDpzyw97QEnTLcfrlVk_FFtBKOL56CzdXLiR7E1DbSmctjzUZbgRq6YorBTKguLaS6Mmgq3Hr1JsnkAvFwVl7ubTJs2eQpb3J9FYEdnnxPJI9LfgP0U9l8do5gXm_oisFuI1owpWiq7mP8pUaWcZQBEV9drbLS5rSCxAoa0PCHchFT4b8-k1mxMVyJzQ_9h0snuh24FN4CT9LNRYZrDBxL-wIVP7AgH2_S1LwhIJfem240A-IV4Ts7kQxr9rH4PuEgtzUM5njzRdi58Mh3_ZYb0mSvpVoi3GNYCxAjK1UGgiaNFzpjMOi7BpYZlIYfSe9L-m3rqNyDeWjqNM",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113024132233019456985\">Robert</a>"
-        ]
-      },
-      {
-        "width": 4624,
-        "height": 3468,
-        "photo_reference": "AWn5SU5tndIscKopq0x0Fi0631JF3XbE-_RbjR5-4RtOXe8SfRw8Lrdn0c2Ek-_kzzMDxnBSsNDuTcINhqBQga2JruFAm8g79xE9YxCRdeICJehBSv-sTvWtmYR9Hk7N0TnM5pZJod3hHw7RjFnSvGDr9TWlXegSsXu25bd0BtDvEt3aqELtvLCs6qpE58XXEM57HokSPyJkSFBoHi77GibhfEQZVbRhIxeZKC-nw8r6uzckafMM4muKgOKmMc-BCpHBUqDZrPQSEdw8YEvn5fWRc1it6mQUKf-_hZUksWSOxqLyLiHuEl_TzFJSkWOKyCeQrBo9ygvRQKfVWhWLJZQUa_y5DcB60hEoZX-9lVE7dBLf-FLDnBakIrW83CCmMBNzpWxAC5fJ7N22Be2W3vWZHHOPW5zR7wAP3-GxuGVKNHWpIw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116147445815039660784\">Willem Versteeg</a>"
-        ]
-      },
-      {
-        "width": 4624,
-        "height": 2604,
-        "photo_reference": "AWn5SU7ninlme9XBN1W_UtTo873tSD53hRMm-leYJWi0cGiykFCEz4q-Mn3uWcu0Xfh1HM-vvOQUOu7z0J94JuPETyp8X8D_JdMj1E1h-xuAjKJs5WdDFFSu9huxNApE926_pGZlud4mTl1ni0OjXfQ1Xd08eGT_ELEYadwup6zSFYv5XSbgudOazDtRiFVTgubnWvQwxBkSo3Yw4Ak3zief59P7RSftY1Qeij7Mtz5zJnehSj_CfmlQFcraJOfgsr04mfhoIbnTsZsMj0Y5H4g84keq4LHswBGe7JGAjQycOJbuuQ6wOUJUvAjTT3vi0eqNvlrGGQMPtYlYrqXtlZFJBBB1mW1771U_DCBdXxBRF2oVS3EbwPD_njxqmqsFjiHVz0Lv2NULsxBOABspzNU6MKonv_Fod4aUjH049Cq4WYHFxrpt",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/107538656811061717871\">Torsten Schutz</a>"
-        ]
-      },
-      {
-        "width": 4608,
-        "height": 3456,
-        "photo_reference": "AWn5SU5QiNqhtLajlT87-Ey3_uctMksyKMkVhto_PwT6GgcasULQuTDUrIhiL_2pPKmkxbk0JCpdlBaXoADCAl9AqMyDbfWAxxqEAgLIUiRsQ2A_PsGE4vx2fvNonDzl8P-OUnYkUJ_KnuJyHgrOQxrdgXJmn7L3J9ucifPsD_p_k4pxImhIfkMnPSf5iB_ocIPb-0Ur4ii5JBh_pUvGuDrN7g53WvKEVk7sBxCBmyxwGg-fQgppBwla0cg6hZIjW1uPKTCb-XNgIOqTbCYGhCd37gaAa-m5yc4B5L60FkIwvQiU1zkqprYC4oVeSy4jmfos42zNuQjupj6nAMWSWpqnLlQa9A5KMLgN0CXiyZB8uuSt5F8sQWo9B_bnnEgUoGMRTagvAPuIOVjNDPhgUBjuzS3T1hvk0uFL5tC53djiGvUqrUSz",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105258820937074119997\">Karol Karolkiewicz</a>"
-        ]
-      },
-      {
-        "width": 3024,
-        "height": 3024,
-        "photo_reference": "AWn5SU7ZiWiqQ2p7G09uw9uauVUPma5bqBCQ0fv85Avl5c3DFc6_CKccwuUtWZZMK9Xx9AXHmiJaIDnsMcf86jubV0gRUXsqgy3kr7OGZocQk71NMfSn4vvhtTpHiXugqy_kmZaGIAwbxiUHelX4WewLg_4SSf3kQlx-N-jVHcZzj9mwLxXMC_c739-saKKZ9u36rMoVVz6zd7ysYH4n9dwwW_g9Bmfv85ebj5AjCkQhTwtBxk2Khe6e3JEbzswMkiP8wikxlRPnBEsFGXMOdOLVzN5fkgOamJZzUEWWeLCCL0a6lXnmrQtHbmDEaaj6RL7jw6-3KQF-8n4jMUqQHeBqMOR2re7qFdMSYQ71dXWFq0EQcecbpwTdkgNpYSdA0iKPibtD_yirpuNZdJ739UUe96ARgt1BY_YaE4bOH2nRCWwXiw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111096374470276499749\">Antonio Campagnoli</a>"
-        ]
-      },
-      {
-        "width": 3872,
-        "height": 2592,
-        "photo_reference": "AWn5SU6747lXlUWthIRkYjoCUlewZqAfNNfaOWovJev99Ua70susMot2qhRWM16g2H5esyP1lR1uJtXijszeXmIXM-AFU-o7D9bSqi5uPjSjYTzF1GrphUCWKKIJEmB3ZX3RulQn1C7aJC3Nr5s-XhuFU5KTQ4wT_wOAGh6vipq_FC4Ma5bNiM2Q6YUMA18P0LNZKXm1tTI38VmqZg0KSb0grIb9gQOLgUh-H6PQMjqRFPss8c6s5kr8a0pzueOTS9cz5Fr_JPgRY_v0HXBACiu692lcfX6FLOeu1GDPxiKc0OrghI3NSJ3jNT8i7Ffkk-wvCyJ1z5BuAlOppLT-vw44h13aL8J8-UD9ks7jtpsI11ZoGamjUknS6n9N_yRblvBh0AhoGT4e754vqu3y7UdT4ThR5csZqEJytxmiLLMsAbfwNg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/112917197829884373914\">pippo gs</a>"
-        ]
-      },
-      {
-        "width": 4624,
-        "height": 3468,
-        "photo_reference": "AWn5SU6tP-aHqwkoBsJhTBIWJWRM5RfMj6pZlQteSFNql_jX-fDuqgbLSCxpU62pPUXO02cxS33ARK6ZlWOxsH6QcIw5HDi9WQRGS215kTjFML-zDmK4VuYYiOcASH11MylVHv9l3Rb3rgoK0RIxIlGVinQ00IPtPFTYF7Rl1WBR7upeNrJRqXvTcQfLnzN7RHSa6g0sxykUDRfeYg0oq_lo0ZOKRzTrtk9qBb0DdDhDDTUzGfviy3qiTjvcafJ5HIpo_eIAfV_2Wlv3G_bazhZ4iQjZS_jsy6dbWWEz4VGRB2WYSXFI0phsbXvHuZnMI0QZAQUQ8zSxowbdqlclQZgwlBJOP2eZZmE9UUh4ycZkK2TC4oZvt9ykedCiDDG301_Jf5DUYy2mh8Oy_WUAdt1KYdlwOUjdmMlpFquvXO7H1nA",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/112238027617958265091\">Tadeusz Antczak</a>"
-        ]
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -442,6 +391,179 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-19T19:22:08.009+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63798,
+    "location_id": 3396,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:16.083+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "31",
+        "short_name": "31"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Alpendorfstraße",
+        "short_name": "Alpendorfstraße"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Salisburgo",
+        "short_name": "Salisburgo"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Austria",
+        "short_name": "AT"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "5600",
+        "short_name": "5600"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63802,
+    "location_id": 3396,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.6,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:19.665+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63806,
+    "location_id": 3396,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:23.759+00:00",
+    "name": null,
+    "value_json": [
+      "Bar",
+      "Einrichtung",
+      "Essen",
+      "Unterkunft",
+      "Interessenspunkt",
+      "Restaurant",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63810,
+    "location_id": 3396,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:33:25.826+00:00",
+    "name": null,
+    "value_json": [
+      "bar",
+      "ustanova",
+      "hrana",
+      "smještaj",
+      "zanimljivost",
+      "restoran",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63814,
+    "location_id": 3396,
+    "attribute_id": 8,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 47.3193560302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.31+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63818,
+    "location_id": 3396,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.781+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -960,32 +1082,87 @@
     "locked": false
   },
   {
-    "id": 4846,
-    "location_id": 86,
-    "attribute_id": 22,
+    "id": 63822,
+    "location_id": 3396,
+    "attribute_id": 26,
     "value_text": null,
     "value_bool": null,
-    "value_number": 4.6,
+    "value_number": 255,
     "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:38.704+00:00",
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:27.724+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 4847,
-    "location_id": 86,
-    "attribute_id": 22,
+    "id": 63826,
+    "location_id": 3396,
+    "attribute_id": 26,
     "value_text": null,
     "value_bool": null,
-    "value_number": 4,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:33:29.309+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63830,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
     "value_option": null,
     "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:39.414+00:00",
+    "updated_at": "2025-11-29T22:33:31.311+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63787,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": "Gut Berg Naturhotel",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:05.181+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63791,
+    "location_id": 3396,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:09.849+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1160,17 +1337,19 @@
     "locked": false
   },
   {
-    "id": 4848,
-    "location_id": 86,
-    "attribute_id": 22,
+    "id": 63795,
+    "location_id": 3396,
+    "attribute_id": 27,
     "value_text": null,
     "value_bool": null,
-    "value_number": 4,
+    "value_number": 60,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:40.05+00:00",
+    "updated_at": "2025-11-29T22:33:12.223+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1192,25 +1371,69 @@
     "locked": false
   },
   {
-    "id": 4854,
-    "location_id": 86,
-    "attribute_id": 24,
-    "value_text": "[\"Bar\",\"Etablissement\",\"Essen\",\"Unterkunft\",\"Interessenpunkt\",\"Restaurant\"]",
+    "id": 63799,
+    "location_id": 3396,
+    "attribute_id": 31,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:41.004+00:00",
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:17.816+00:00",
     "name": null,
     "value_json": [
-      "Bar",
-      "Etablissement",
-      "Essen",
-      "Unterkunft",
-      "Sehenswürdigkeit",
-      "Restaurant",
       {
-        "ai": false
+        "types": [
+          "street_number"
+        ],
+        "long_name": "31",
+        "short_name": "31"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Alpendorfstraße",
+        "short_name": "Alpendorfstraße"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Salzbourg",
+        "short_name": "Salzbourg"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Autriche",
+        "short_name": "AT"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "5600",
+        "short_name": "5600"
       },
       {
         "ai": false
@@ -1220,15 +1443,32 @@
     "locked": false
   },
   {
-    "id": 4855,
-    "location_id": 86,
+    "id": 63803,
+    "location_id": 3396,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:20.724+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63807,
+    "location_id": 3396,
     "attribute_id": 24,
-    "value_text": "[\"bar\",\"establishment\",\"food\",\"lodging\",\"point_of_interest\",\"restaurant\"]",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "en",
-    "updated_at": "2025-11-19T19:16:41.198+00:00",
+    "updated_at": "2025-11-29T22:33:23.888+00:00",
     "name": null,
     "value_json": [
       "bar",
@@ -1239,39 +1479,110 @@
       "restaurant",
       {
         "ai": false
-      },
-      {
-        "ai": false
       }
     ],
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 4856,
-    "location_id": 86,
-    "attribute_id": 24,
-    "value_text": "[\"bar\",\"stabilimento\",\"cibo\",\"alloggio\",\"punto di interesse\",\"ristorante\"]",
+    "id": 63811,
+    "location_id": 3396,
+    "attribute_id": 4,
+    "value_text": "<span class=\"street-address\">Alpendorfstraße 31</span>, <span class=\"postal-code\">5600</span> <span class=\"locality\">St. Johann im Pongau</span>, <span class=\"country-name\">Austria</span>",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:42.099+00:00",
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:25.945+00:00",
     "name": null,
-    "value_json": [
-      "bar",
-      "stabilimento",
-      "cibo",
-      "alloggio",
-      "punto di interesse",
-      "ristorante",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63815,
+    "location_id": 3396,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.2006624802915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.429+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63819,
+    "location_id": 3396,
+    "attribute_id": 18,
+    "value_text": "ChIJlVftuP_XdkcRN6LeBP5cTe4",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.9+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63823,
+    "location_id": 3396,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 255,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:27.84+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63827,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:29.877+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63831,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:33:31.9+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1338,66 +1649,6 @@
     "locked": false
   },
   {
-    "id": 4849,
-    "location_id": 86,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"javier montesquieu\",\"author_url\":\"https://www.google.com/maps/contrib/107077685752724958204/reviews\",\"language\":\"de\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocK2sFWZRCf-2RB-aeJpNmLpStbwAMSqr5EAm6JOzdfraOjcrg=s128-c0x00000000-cc-rp-mo-ba5\",\"rating\":1,\"relative_time_description\":\"vor 5 Monaten\",\"text\":\"Ich habe nach einem Zimmer mit Bergblick gefragt, und sie gaben mir ein dunkles Zimmer mit Blick auf ein anderes Gebäude, etwa 3m entfernt. Die sehr junge und nicht sehr nette Dame an der Rezeption sagte mir bei der Reservierung, dass mein Zimmer auf den Parkplatz, aber auch auf die Berge blicken würde; nicht wahr. Sie sagte auch, dass keine weiteren Zimmer verfügbar seien. Als ich dem Besitzer am nächsten Morgen sagte, dass ich abreisen würde, sagte sie mir, dass sie mir ein anderes Zimmer geben würde... oh, jetzt wo ich gehe, sind Zimmer verfügbar??\\nAuch der Speisesaal war schlecht beleuchtet, traurig, und der Service war erschreckend: kein einziges Hallo, Lächeln... der Salatbar war auf Pensionsniveau, obwohl das Frühstück ziemlich gut war. Der Pool hatte defekte Düsen und die Tür zum Spa war nach 19 Uhr geschlossen (aber sie \\\"wussten es nicht\\\"), obwohl sie behaupten, es sei bis viel später geöffnet. Dies ist kein 4-Sterne-Hotel.\\nAntwort: Ich schreibe unter einem anderen Namen, offensichtlich.\",\"time\":1739616527,\"translated\":false},{\"author_name\":\"Tom K\",\"author_url\":\"https://www.google.com/maps/contrib/102967953137811880136/reviews\",\"language\":\"de\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKILrULzNRZyXx0p4D9QWdZpdy1trZxLqWsn5x0E-8vOxaw7w=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"vor 9 Jahren\",\"text\":\"Wir waren Ende Mai dort, was wirklich kurz vor Beginn der Hauptsaison liegt. Wir sind eigentlich recht schwer zufriedenzustellen, aber wir haben diesen Ort sehr genossen - schöne Zimmer, tolle Aussicht, ziemlich gute Spa-Einrichtungen, gute Lage für vieles und eine Station am Fuße des Hügels, wenn man nicht fahren möchte.\\n\\nWenn wir noch einmal hingehen würden, dann ein paar Wochen später, nachdem das Haupt-Hütten-Netzwerk geöffnet ist (Mitte Juni), da die Wandersaison beginnt. Aber das Hotel selbst war großartig - familiengeführt, gutes Essen, schöne Auswahl an hauptsächlich lokalen Weinen, sehr hilfsbereites Personal. Empfohlen.\",\"time\":1464725623,\"translated\":false},{\"author_name\":\"Andrei Chu\",\"author_url\":\"https://www.google.com/maps/contrib/102615153019744324229/reviews\",\"language\":\"de\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKVWNetbs6QxuHGnBnP8H2Ewj-Wx5lRLrJvJyljqv86LTSXBw=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"vor 7 Jahren\",\"text\":\"Sehr freundliches, familienorientiertes Hotel. Perfekte Lage ski-in/ski-out. Die Kinder waren sehr glücklich, einen kleinen Bauernhof zu haben, um Pferde und Kühe zu versorgen und zu füttern... und natürlich war auch das Hallenbad ein großer Spaß für sie. Sehr zu empfehlen, besonders für Familien mit Kindern!\",\"time\":1518013365,\"translated\":false},{\"author_name\":\"Jakub Hošek\",\"author_url\":\"https://www.google.com/maps/contrib/104400764538449838020/reviews\",\"language\":\"de\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIUWjYE23ekpCEPiz_bgkOTE9F3ttaOlJSCcBmnIL86OqPgfg=s128-c0x00000000-cc-rp-mo\",\"rating\":3,\"relative_time_description\":\"vor 12 Jahren\",\"text\":\"Ich war ziemlich enttäuscht. Das Hotel ist schön, aber schlecht geführt. Das Verhalten der Rezeption und der Küche ist nicht angemessen für ein 4-Sterne-Hotel und dessen Preis. Sie versuchten, uns ein Zimmer ohne Fenster zu geben, ignorierten unsere Anfragen bezüglich meiner Diät und so weiter. Nie wieder dorthin. :-(\",\"time\":1361610854,\"translated\":false},{\"author_name\":\"Mark Vanhoorne\",\"author_url\":\"https://www.google.com/maps/contrib/112550339963850274480/reviews\",\"language\":\"de\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLLcpbNfZ0QLVOSHMjgxXv4TndsOZsLrE3BXe8jhYLVrExx99a5=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"vor 3 Jahren\",\"text\":\"Schönes Hotel - sehr sauber und gut gepflegt - gutes Essen - freundlicher Empfang und Service - gut ausgestatteter Wellnessbereich.\",\"time\":1647965086,\"translated\":false}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-07-23T18:07:16.349+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4850,
-    "location_id": 86,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"javier montesquieu\",\"author_url\":\"https://www.google.com/maps/contrib/107077685752724958204/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocK2sFWZRCf-2RB-aeJpNmLpStbwAMSqr5EAm6JOzdfraOjcrg=s128-c0x00000000-cc-rp-mo-ba5\",\"rating\":1,\"relative_time_description\":\"5 months ago\",\"text\":\"I asked for a room with a mountain view, and they gave me a dark one facing another building, about 3m away. The very young and not very nice lady at the reception told me when I did the reservation that my room would face the parking lot but also the mountains; not true. She also said there weren't more rooms available. When I told the owner the next morning I would leave, she told me that she would get me another room...oh, now that I leave there are rooms available??\\nAlso, dining room was poorly lit, sad, and the service was appaling: not a single hello, smile...salad bar was pension level, although bfast was pretty good. Pool had the jets broken and the door to the spa closed after 7 (but they didn't \\\"know\\\") even though they claim it's open until much later. This is not a 4 star hotel.\\nAnswer: I write with another name, obviously.\",\"time\":1739616527,\"translated\":false},{\"author_name\":\"Tom K\",\"author_url\":\"https://www.google.com/maps/contrib/102967953137811880136/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKILrULzNRZyXx0p4D9QWdZpdy1trZxLqWsn5x0E-8vOxaw7w=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"9 years ago\",\"text\":\"Went at the end of May, which is really just before the start of the main summer season. We are actually quite hard to please, but thoroughly enjoyed this place - nice rooms, great view, pretty good spa facilities, good location for lots of stuff and a station at the bottom of the hill if you don't feel like driving.\\n\\nIf we went again we'd go a couple of weeks later after the main huts network is open (mid-June) as the hiking season kicks in. But the hotel itself was great - family run, good food, nice choice of mainly local wines, very helpful staff. Recommended.\",\"time\":1464725623,\"translated\":false},{\"author_name\":\"Andrei Chu\",\"author_url\":\"https://www.google.com/maps/contrib/102615153019744324229/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKVWNetbs6QxuHGnBnP8H2Ewj-Wx5lRLrJvJyljqv86LTSXBw=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"7 years ago\",\"text\":\"very friendly, family oriented hotel. perfect location ski-in/ski-out. kids were very happy to have a small farm, to care and feed horses and cows...  of course, indoor pool was also a great fun for them. highly recommended, especially for families with children!\",\"time\":1518013365,\"translated\":false},{\"author_name\":\"Jakub Hošek\",\"author_url\":\"https://www.google.com/maps/contrib/104400764538449838020/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIUWjYE23ekpCEPiz_bgkOTE9F3ttaOlJSCcBmnIL86OqPgfg=s128-c0x00000000-cc-rp-mo\",\"rating\":3,\"relative_time_description\":\"12 years ago\",\"text\":\"I was quite disappointed. The hotel is beautiful but badly runned. The behaviour of reception and the kitchen is not adequate to the 4star hotel and its price. They tried to give us room without a window, ignored our requests concerning my diet and so on. Never go there again. :-(\",\"time\":1361610854,\"translated\":false},{\"author_name\":\"Mark Vanhoorne\",\"author_url\":\"https://www.google.com/maps/contrib/112550339963850274480/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLLcpbNfZ0QLVOSHMjgxXv4TndsOZsLrE3BXe8jhYLVrExx99a5=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"3 years ago\",\"text\":\"Beautiful hotel - very clean & well maintained - good food - friendly reception and service - well equipped wellness.\",\"time\":1647965086,\"translated\":false}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-07-23T18:07:16.521+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4851,
-    "location_id": 86,
-    "attribute_id": 23,
-    "value_text": "[{\"nome_autore\":\"javier montesquieu\",\"url_autore\":\"https://www.google.com/maps/contrib/107077685752724958204/reviews\",\"lingua\":\"it\",\"lingua_originale\":\"en\",\"url_foto_profilo\":\"https://lh3.googleusercontent.com/a/ACg8ocK2sFWZRCf-2RB-aeJpNmLpStbwAMSqr5EAm6JOzdfraOjcrg=s128-c0x00000000-cc-rp-mo-ba5\",\"valutazione\":1,\"descrizione_tempo_relativa\":\"5 mesi fa\",\"testo\":\"Ho chiesto una stanza con vista montagna e me ne hanno data una buia che guarda un altro edificio, a circa 3 metri di distanza. La giovane e non molto gentile ragazza alla reception mi aveva detto al momento della prenotazione che la mia stanza avrebbe guardato il parcheggio ma anche le montagne; non vero. Ha anche detto che non c'erano più stanze disponibili. Quando ho detto al proprietario la mattina dopo che me ne sarei andato, mi ha detto che mi avrebbe trovato un'altra stanza...ah, ora che me ne vado ci sono stanze disponibili??\\nInoltre, la sala da pranzo era poco illuminata, triste, e il servizio era pessimo: nessun saluto, sorriso...l'insalata era a livello di mensa, anche se la colazione era abbastanza buona. La piscina aveva i getti rotti e la porta della spa era chiusa dopo le 7 (ma non \\\"sapevano\\\") anche se affermano che è aperta fino a molto più tardi. Questo non è un hotel a 4 stelle.\\nRisposta: Scrivo con un altro nome, ovviamente.\",\"tempo\":1739616527,\"tradotto\":true},{\"nome_autore\":\"Tom K\",\"url_autore\":\"https://www.google.com/maps/contrib/102967953137811880136/reviews\",\"lingua\":\"it\",\"lingua_originale\":\"en\",\"url_foto_profilo\":\"https://lh3.googleusercontent.com/a/ACg8ocKILrULzNRZyXx0p4D9QWdZpdy1trZxLqWsn5x0E-8vOxaw7w=s128-c0x00000000-cc-rp-mo-ba2\",\"valutazione\":5,\"descrizione_tempo_relativa\":\"9 anni fa\",\"testo\":\"Siamo andati a fine maggio, poco prima dell'inizio della stagione estiva principale. Siamo piuttosto difficili da accontentare, ma abbiamo apprezzato molto questo posto: belle camere, ottima vista, strutture termali abbastanza buone, buona posizione per molte attività e una stazione in fondo alla collina se non vuoi guidare.\\n\\nSe ci andassimo di nuovo andremmo un paio di settimane più tardi dopo che la rete principale delle baite è aperta (metà giugno) poiché inizia la stagione escursionistica. Ma l'hotel stesso è stato fantastico: gestione familiare, buon cibo, bella scelta di vini principalmente locali, personale molto disponibile. Consigliato.\",\"tempo\":1464725623,\"tradotto\":true},{\"nome_autore\":\"Andrei Chu\",\"url_autore\":\"https://www.google.com/maps/contrib/102615153019744324229/reviews\",\"lingua\":\"it\",\"lingua_originale\":\"en\",\"url_foto_profilo\":\"https://lh3.googleusercontent.com/a/ACg8ocKVWNetbs6QxuHGnBnP8H2Ewj-Wx5lRLrJvJyljqv86LTSXBw=s128-c0x00000000-cc-rp-mo-ba2\",\"valutazione\":5,\"descrizione_tempo_relativa\":\"7 anni fa\",\"testo\":\"hotel molto amichevole e orientato alla famiglia. posizione perfetta ski-in/ski-out. i bambini erano molto felici di avere una piccola fattoria, di prendersi cura e nutrire cavalli e mucche... ovviamente, la piscina coperta era anche un grande divertimento per loro. altamente raccomandato, soprattutto per le famiglie con bambini!\",\"tempo\":1518013365,\"tradotto\":true},{\"nome_autore\":\"Jakub Hošek\",\"url_autore\":\"https://www.google.com/maps/contrib/104400764538449838020/reviews\",\"lingua\":\"it\",\"lingua_originale\":\"en\",\"url_foto_profilo\":\"https://lh3.googleusercontent.com/a/ACg8ocIUWjYE23ekpCEPiz_bgkOTE9F3ttaOlJSCcBmnIL86OqPgfg=s128-c0x00000000-cc-rp-mo\",\"valutazione\":3,\"descrizione_tempo_relativa\":\"12 anni fa\",\"testo\":\"Ero piuttosto deluso. L'hotel è bello ma mal gestito. Il comportamento della reception e della cucina non è adeguato a un hotel a 4 stelle e al suo prezzo. Hanno cercato di darci una stanza senza finestra, hanno ignorato le nostre richieste riguardanti la mia dieta e così via. Non ci tornerò mai più. :-(\",\"tempo\":1361610854,\"tradotto\":true},{\"nome_autore\":\"Mark Vanhoorne\",\"url_autore\":\"https://www.google.com/maps/contrib/112550339963850274480/reviews\",\"lingua\":\"it\",\"lingua_originale\":\"en\",\"url_foto_profilo\":\"https://lh3.googleusercontent.com/a/ACg8ocLLcpbNfZ0QLVOSHMjgxXv4TndsOZsLrE3BXe8jhYLVrExx99a5=s128-c0x00000000-cc-rp-mo-ba2\",\"valutazione\":5,\"descrizione_tempo_relativa\":\"3 anni fa\",\"testo\":\"Hotel bellissimo - molto pulito e ben mantenuto - buon cibo - reception e servizio amichevoli - centro benessere ben attrezzato.\",\"tempo\":1647965086,\"tradotto\":true}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-07-23T18:07:49.566+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4853,
-    "location_id": 86,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"javier montesquieu\",\"author_url\":\"https://www.google.com/maps/contrib/107077685752724958204/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocK2sFWZRCf-2RB-aeJpNmLpStbwAMSqr5EAm6JOzdfraOjcrg=s128-c0x00000000-cc-rp-mo-ba5\",\"rating\":1,\"relative_time_description\":\"prije 5 mjeseci\",\"text\":\"Zatražio sam sobu s pogledom na planinu, a dali su mi mračnu sobu okrenutu prema drugoj zgradi, otprilike 3m udaljenu. Vrlo mlada i ne baš ljubazna dama na recepciji rekla mi je kad sam napravio rezervaciju da će moja soba gledati na parkiralište, ali i na planine; nije istina. Također je rekla da nema više dostupnih soba. Kada sam vlasnici sljedećeg jutra rekao da ću otići, rekla je da će mi naći drugu sobu... oh, sad kad odlazim ima slobodnih soba?? Također, blagovaonica je bila slabo osvijetljena, tužna, a usluga je bila užasna: niti jedan pozdrav, osmijeh...salad bar je bio na razini umirovljeničkog doma, iako je doručak bio prilično dobar. Bazen je imao pokvarene mlaznice, a vrata do spa centra bila su zatvorena nakon 19 sati (ali oni \\\"nisu znali\\\") iako tvrde da je otvoreno do mnogo kasnije. Ovo nije hotel s 4 zvjezdice.\\nOdgovor: Pišem pod drugim imenom, očito.\",\"time\":1739616527,\"translated\":false},{\"author_name\":\"Tom K\",\"author_url\":\"https://www.google.com/maps/contrib/102967953137811880136/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKILrULzNRZyXx0p4D9QWdZpdy1trZxLqWsn5x0E-8vOxaw7w=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"prije 9 godina\",\"text\":\"Posjetili smo krajem svibnja, što je zapravo neposredno prije početka glavne ljetne sezone. Zapravo smo prilično zahtjevni, ali temeljito smo uživali u ovom mjestu - lijepe sobe, prekrasan pogled, prilično dobre spa sadržaje, dobra lokacija za mnogo toga i postaja na dnu brda ako vam se ne vozi.\\n\\nDa idemo ponovno, išli bismo nekoliko tjedana kasnije nakon što se otvori mreža glavnih planinskih koliba (sredinom lipnja) kada počinje sezona planinarenja. Ali sam hotel bio je odličan - obiteljski vođen, dobra hrana, lijep izbor uglavnom lokalnih vina, vrlo uslužno osoblje. Preporučujem.\",\"time\":1464725623,\"translated\":false},{\"author_name\":\"Andrei Chu\",\"author_url\":\"https://www.google.com/maps/contrib/102615153019744324229/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKVWNetbs6QxuHGnBnP8H2Ewj-Wx5lRLrJvJyljqv86LTSXBw=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"prije 7 godina\",\"text\":\"vrlo prijateljski, obiteljski orijentiran hotel. savršena lokacija ski-in/ski-out. djeca su bila vrlo sretna što su imala malu farmu, brinula se za konje i krave... naravno, unutarnji bazen također je bio velika zabava za njih. toplo preporučujem, posebno za obitelji s djecom!\",\"time\":1518013365,\"translated\":false},{\"author_name\":\"Jakub Hošek\",\"author_url\":\"https://www.google.com/maps/contrib/104400764538449838020/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIUWjYE23ekpCEPiz_bgkOTE9F3ttaOlJSCcBmnIL86OqPgfg=s128-c0x00000000-cc-rp-mo\",\"rating\":3,\"relative_time_description\":\"prije 12 godina\",\"text\":\"Bio sam prilično razočaran. Hotel je lijep, ali loše vođen. Ponašanje recepcije i kuhinje nije adekvatno hotelu s 4 zvjezdice i njegovoj cijeni. Pokušali su nam dati sobu bez prozora, ignorirali su naše zahtjeve u vezi moje prehrane, i tako dalje. Nikad više neću ići tamo. :-(\",\"time\":1361610854,\"translated\":false},{\"author_name\":\"Mark Vanhoorne\",\"author_url\":\"https://www.google.com/maps/contrib/112550339963850274480/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLLcpbNfZ0QLVOSHMjgxXv4TndsOZsLrE3BXe8jhYLVrExx99a5=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"prije 3 godine\",\"text\":\"Prekrasan hotel - vrlo čist i dobro održavan - dobra hrana - prijateljska recepcija i usluga - dobro opremljen wellness.\",\"time\":1647965086,\"translated\":false}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-07-23T18:08:25.617+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 54038,
     "location_id": 2076,
     "attribute_id": 28,
@@ -1411,36 +1662,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4829,
-    "location_id": 86,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:20.147+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4830,
-    "location_id": 86,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:20.345+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -1530,51 +1751,6 @@
     "locked": false
   },
   {
-    "id": 4831,
-    "location_id": 86,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Hotel Naturale",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:21.185+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4832,
-    "location_id": 86,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:21.834+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4833,
-    "location_id": 86,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:22.462+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 54042,
     "location_id": 2076,
     "attribute_id": 25,
@@ -1609,36 +1785,6 @@
     "locked": false
   },
   {
-    "id": 4852,
-    "location_id": 86,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"javier montesquieu\",\"author_url\":\"https://www.google.com/maps/contrib/107077685752724958204/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocK2sFWZRCf-2RB-aeJpNmLpStbwAMSqr5EAm6JOzdfraOjcrg=s128-c0x00000000-cc-rp-mo-ba5\",\"rating\":1,\"relative_time_description\":\"il y a 5 mois\",\"text\":\"J'ai demandé une chambre avec vue sur les montagnes, et ils m'ont donné une chambre sombre donnant sur un autre bâtiment, à environ 3 m de distance. La très jeune et peu aimable dame à la réception m'a dit lorsque j'ai fait la réservation que ma chambre donnerait sur le parking mais aussi sur les montagnes ; ce qui n'était pas vrai. Elle a également dit qu'il n'y avait plus de chambres disponibles. Quand j'ai dit au propriétaire le lendemain matin que je partirais, elle m'a dit qu'elle me donnerait une autre chambre... oh, maintenant qu'il y en a des chambres disponibles ?? \\nDe plus, la salle à manger était mal éclairée, triste, et le service était déplorable : pas un seul bonjour, sourire... le bar à salades était niveau pension, bien que le petit-déjeuner était plutôt bon. La piscine avait les jets cassés et la porte du spa était fermée après 19 h (mais ils ne \\\"savaient pas\\\") même s'ils affirment qu'elle est ouverte beaucoup plus tard. Ce n'est pas un hôtel 4 étoiles. \\nRéponse : J'écris sous un autre nom, évidemment.\",\"time\":1739616527,\"translated\":true},{\"author_name\":\"Tom K\",\"author_url\":\"https://www.google.com/maps/contrib/102967953137811880136/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKILrULzNRZyXx0p4D9QWdZpdy1trZxLqWsn5x0E-8vOxaw7w=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"il y a 9 ans\",\"text\":\"Nous y sommes allés fin mai, ce qui est vraiment juste avant le début de la saison estivale principale. Nous sommes en fait assez difficiles à satisfaire, mais nous avons vraiment apprécié cet endroit - belles chambres, belle vue, installations spa assez bonnes, bon emplacement pour beaucoup de choses et une gare en bas de la colline si vous n'avez pas envie de conduire.\\n\\nSi nous y retournions, nous irions quelques semaines plus tard, après l'ouverture du réseau principal de refuges (mi-juin) lorsque la saison de randonnée commence. Mais l'hôtel lui-même était super - tenu par une famille, bonne nourriture, bon choix de vins principalement locaux, personnel très serviable. Recommandé.\",\"time\":1464725623,\"translated\":true},{\"author_name\":\"Andrei Chu\",\"author_url\":\"https://www.google.com/maps/contrib/102615153019744324229/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocKVWNetbs6QxuHGnBnP8H2Ewj-Wx5lRLrJvJyljqv86LTSXBw=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"il y a 7 ans\",\"text\":\"hôtel très convivial, orienté famille. emplacement parfait ski-in/ski-out. les enfants étaient très heureux d'avoir une petite ferme, de s'occuper et de nourrir les chevaux et les vaches... bien sûr, la piscine intérieure était aussi très amusante pour eux. hautement recommandé, surtout pour les familles avec enfants !\",\"time\":1518013365,\"translated\":true},{\"author_name\":\"Jakub Hošek\",\"author_url\":\"https://www.google.com/maps/contrib/104400764538449838020/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIUWjYE23ekpCEPiz_bgkOTE9F3ttaOlJSCcBmnIL86OqPgfg=s128-c0x00000000-cc-rp-mo\",\"rating\":3,\"relative_time_description\":\"il y a 12 ans\",\"text\":\"J'ai été assez déçu. L'hôtel est magnifique mais mal géré. Le comportement à la réception et en cuisine n'est pas adéquat pour un hôtel 4 étoiles et son prix. Ils ont essayé de nous donner une chambre sans fenêtre, ignoré nos demandes concernant mon régime alimentaire, etc. Je n'y retournerai jamais. :-(\",\"time\":1361610854,\"translated\":true},{\"author_name\":\"Mark Vanhoorne\",\"author_url\":\"https://www.google.com/maps/contrib/112550339963850274480/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLLcpbNfZ0QLVOSHMjgxXv4TndsOZsLrE3BXe8jhYLVrExx99a5=s128-c0x00000000-cc-rp-mo-ba2\",\"rating\":5,\"relative_time_description\":\"il y a 3 ans\",\"text\":\"Bel hôtel - très propre et bien entretenu - bonne nourriture - réception et service amicaux - espace bien-être bien équipé.\",\"time\":1647965086,\"translated\":true}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-07-23T18:08:01.8+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4834,
-    "location_id": 86,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:23.017+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63596,
     "location_id": 2938,
     "attribute_id": 22,
@@ -1652,96 +1798,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4835,
-    "location_id": 86,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:23.206+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4836,
-    "location_id": 86,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:23.869+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4837,
-    "location_id": 86,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:24.476+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4838,
-    "location_id": 86,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:25.018+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4844,
-    "location_id": 86,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:37.729+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4845,
-    "location_id": 86,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4.6,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:37.938+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -2028,92 +2084,222 @@
     "locked": false
   },
   {
-    "id": 4862,
-    "location_id": 86,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 47.3193560302915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:44.903+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4863,
-    "location_id": 86,
-    "attribute_id": 9,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.2006624802915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:45.098+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4864,
-    "location_id": 86,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 47.3166580697085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:45.296+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4888,
-    "location_id": 86,
-    "attribute_id": 30,
-    "value_text": "06412 5646",
+    "id": 63788,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": "Gut Berg Naturhotel",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-19T19:16:58.024+00:00",
+    "updated_at": "2025-11-29T22:33:06.906+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 4889,
-    "location_id": 86,
-    "attribute_id": 30,
-    "value_text": "06412 5646",
+    "id": 63792,
+    "location_id": 3396,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:09.971+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63796,
+    "location_id": 3396,
+    "attribute_id": 31,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:58.838+00:00",
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:14.594+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      {
+        "types": [
+          "Straßennummer"
+        ],
+        "long_name": "31",
+        "short_name": "31"
+      },
+      {
+        "types": [
+          "Route"
+        ],
+        "long_name": "Alpendorfstraße",
+        "short_name": "Alpendorfstraße"
+      },
+      {
+        "types": [
+          "Ortschaft",
+          "politisch"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "Verwaltungsgebietsebene_2",
+          "politisch"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "Verwaltungsgebietsebene_1",
+          "politisch"
+        ],
+        "long_name": "Salzburg",
+        "short_name": "Salzburg"
+      },
+      {
+        "types": [
+          "Land",
+          "politisch"
+        ],
+        "long_name": "Österreich",
+        "short_name": "AT"
+      },
+      {
+        "types": [
+          "Postleitzahl"
+        ],
+        "long_name": "5600",
+        "short_name": "5600"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 4890,
-    "location_id": 86,
-    "attribute_id": 30,
-    "value_text": "06412 5646",
+    "id": 63800,
+    "location_id": 3396,
+    "attribute_id": 31,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:59.574+00:00",
+    "updated_at": "2025-11-29T22:33:19.164+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "31",
+        "short_name": "31"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Alpendorfstraße",
+        "short_name": "Alpendorfstraße"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Salzburg",
+        "short_name": "Salzburg"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Austrija",
+        "short_name": "AT"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "5600",
+        "short_name": "5600"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63804,
+    "location_id": 3396,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:22.342+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63808,
+    "location_id": 3396,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:24.785+00:00",
+    "name": null,
+    "value_json": [
+      "bar",
+      "stabilimento",
+      "cibo",
+      "alloggio",
+      "punto di interesse",
+      "ristorante",
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -2152,6 +2338,91 @@
     "updated_at": "2025-11-19T19:17:01.776+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63812,
+    "location_id": 3396,
+    "attribute_id": 6,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 47.3180917,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.067+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63816,
+    "location_id": 3396,
+    "attribute_id": 10,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 47.3166580697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.543+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63820,
+    "location_id": 3396,
+    "attribute_id": 19,
+    "value_text": "859X+6M Saint Johann im Pongau, Austria",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:27.034+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63824,
+    "location_id": 3396,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 255,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:28.389+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63828,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:29.994+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -2286,21 +2557,6 @@
     "locked": false
   },
   {
-    "id": 4865,
-    "location_id": 86,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.1979645197085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:45.488+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63613,
     "location_id": 2938,
     "attribute_id": 14,
@@ -2406,81 +2662,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4868,
-    "location_id": 86,
-    "attribute_id": 19,
-    "value_text": "859X+6M Saint Johann im Pongau, Austria",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:46.065+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4869,
-    "location_id": 86,
-    "attribute_id": 20,
-    "value_text": "8FVM859X+6M",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:46.257+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4870,
-    "location_id": 86,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 255,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:46.858+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4871,
-    "location_id": 86,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 255,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:47.047+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4872,
-    "location_id": 86,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 255,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:47.613+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -2628,201 +2809,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:15:37.222+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4873,
-    "location_id": 86,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 255,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:48.217+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4874,
-    "location_id": 86,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 255,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:48.906+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4875,
-    "location_id": 86,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:49.536+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4876,
-    "location_id": 86,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:49.729+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4877,
-    "location_id": 86,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:50.5+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4878,
-    "location_id": 86,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:51.327+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4879,
-    "location_id": 86,
-    "attribute_id": 28,
-    "value_text": "Alpendorf ulica 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:52.074+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4881,
-    "location_id": 86,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=17171483200306717239",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:52.903+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4882,
-    "location_id": 86,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=17171483200306717239",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:53.101+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4884,
-    "location_id": 86,
-    "attribute_id": 25,
-    "value_text": "Désolé, je ne peux pas traiter de liens ou de contenu web externe.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:54.92+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4885,
-    "location_id": 86,
-    "attribute_id": 25,
-    "value_text": "Žao mi je, ne mogu otvoriti URL-ove ili provjeriti poveznice. Ako trebate informacije ili prijevod, slobodno ih podijelite sa mnom.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:56.584+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4886,
-    "location_id": 86,
-    "attribute_id": 30,
-    "value_text": "06412 5646",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:16:57.178+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4887,
-    "location_id": 86,
-    "attribute_id": 30,
-    "value_text": "06412 5646",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:16:57.374+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -3741,6 +3727,40 @@
     "value_option": null,
     "language_code": "fr",
     "updated_at": "2025-11-20T18:08:04.083+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63789,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": "Gut Berg Naturhotel",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:07.824+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63793,
+    "location_id": 3396,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:10.442+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -5748,6 +5768,78 @@
     "locked": false
   },
   {
+    "id": 63797,
+    "location_id": 3396,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:33:14.717+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "31",
+        "short_name": "31"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Alpendorfstraße",
+        "short_name": "Alpendorfstraße"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Sankt Johann im Pongau",
+        "short_name": "St. Johann im Pongau"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Salzburg",
+        "short_name": "Salzburg"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Austria",
+        "short_name": "AT"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "5600",
+        "short_name": "5600"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5096,
     "location_id": 95,
     "attribute_id": 13,
@@ -5793,6 +5885,40 @@
     "locked": false
   },
   {
+    "id": 63801,
+    "location_id": 3396,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:33:19.547+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63805,
+    "location_id": 3396,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:33:22.927+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5051,
     "location_id": 91,
     "attribute_id": 24,
@@ -5833,6 +5959,31 @@
     "updated_at": "2025-11-19T19:12:57.85+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63809,
+    "location_id": 3396,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:25.277+00:00",
+    "name": null,
+    "value_json": [
+      "bar",
+      "établissement",
+      "nourriture",
+      "hébergement",
+      "point_d'intérêt",
+      "restaurant",
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -6057,6 +6208,23 @@
     "updated_at": "2025-11-19T19:13:08.145+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63813,
+    "location_id": 3396,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.1991778,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.184+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -6302,6 +6470,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63817,
+    "location_id": 3396,
+    "attribute_id": 11,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.1979645197085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:26.657+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -6629,6 +6814,23 @@
     "locked": false
   },
   {
+    "id": 63821,
+    "location_id": 3396,
+    "attribute_id": 20,
+    "value_text": "8FVM859X+6M",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:33:27.154+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5107,
     "location_id": 95,
     "attribute_id": 22,
@@ -6640,6 +6842,23 @@
     "updated_at": "2025-11-19T19:13:45.436+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63825,
+    "location_id": 3396,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 255,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:33:28.796+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -7256,6 +7475,23 @@
     "locked": false
   },
   {
+    "id": 63829,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:33:30.485+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5120,
     "location_id": 95,
     "attribute_id": 8,
@@ -7346,6 +7582,23 @@
     "locked": false
   },
   {
+    "id": 63832,
+    "location_id": 3396,
+    "attribute_id": 25,
+    "value_text": "Es tut mir leid, ich kann den Inhalt der angegebenen URL nicht anzeigen oder darauf zugreifen.",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:34:03.473+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5172,
     "location_id": 98,
     "attribute_id": 22,
@@ -7391,6 +7644,23 @@
     "locked": false
   },
   {
+    "id": 63836,
+    "location_id": 3396,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=17171483200306717239",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:34:05.484+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5173,
     "location_id": 98,
     "attribute_id": 22,
@@ -7402,6 +7672,23 @@
     "updated_at": "2025-11-19T19:14:30.514+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63840,
+    "location_id": 3396,
+    "attribute_id": 30,
+    "value_text": "06412 5646",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:34:07.367+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -7424,6 +7711,105 @@
       "Geschäft",
       {
         "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63844,
+    "location_id": 3396,
+    "attribute_id": 17,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:34:08.187+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "width": 4720,
+        "height": 3147,
+        "photo_reference": "AWn5SU6R16scvLLMxw0KwzYcVj7PX2FeQrUW182WebYLc7ZhpeGTTGcrgb1VisXLteHT8h9L23tbtL9iyXyeIJbhRvqfG7S12a2tVcoUb5ZgdX1L3i6tjSauCN35ciS0e24yuca7bMqLe4M_wZod8HmGpi9-eCbMbIn9ag7uZe1zoWS6M8moUiFzT_RfLpsEgrVEScpdoFNLaR9uNUAMDaKzB0gKbzde4_RDSBrXZWq46swiA3yTWlRKYmKDrBBBpBELcMax0XxEeZ5ITts0Al2QRjHvZgc_5sVKgXKVfuj4hVqyzw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1280,
+        "height": 847,
+        "photo_reference": "AWn5SU49eSByvDhgMxQ4uSP9HzXyPCSDIMVMJPJtxNAC2ih1XrZyi0pLD_vOCtZF7IXujhKLmRKR0_XWk-KbfIREZ0kDthah7K6tXwYg6yDETs0nxLVW2Y3ogkR9Ev57JUgDSNuPS91gmxB_YtHme52TX0_4AKVAHhZ55sjz_l2YrGqBryc1Xr8H80rKYUij6f3Deiqx9pnAxbYnGpHbeG0lbzjRvTN1lWOPpxoc-GpULTwB_N-dqu5ZqyzqkVjhcmxYAclNkzBq2Yil9QjiTA8l6F9ckFkxeADJcRGUlkEIP4VF7w",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AWn5SU4CWRVjDYCr60le7_XY2hyl0MHIbyU0arI8NyG-dd0os7XCRb1-GB8sDJOXJOgb0UpNDp8wJVcWLF99Z9a1RnhkzH-l7ebcv-ouM_woeWW7ygqJxWDZX3csthA1Ekn6BpUqNnv6yiMCtx6sdYmZWHeevKyRRs7kqf-bx_-Q16ElTDusFuXVNzpQIvkqaBlCA3TgJif2wXOCTa7zjSdLpSAw-ehQgd0fZZvfOvV60M-jmqaMsqRku6SbPUaOSlVQO5Lzi8vmwAL5R_7NKo5XMjJpbIJNPPMnQo0u9TIB8TZuGg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 671,
+        "photo_reference": "AWn5SU4bpwXg6NknUal8Su5-zSIfxjJPeT-FVFdTlZ9Gz5hd6IMvz5qI_8wIar8oFebrFMLGHIDPMMf0FTFBc5jGvHa0dDY7_umCrGBsyyWTzL5lMP2dYKcOCqUjJ7izkJGksRW0xBy8H_3tusq9z_1-csB_hKtcmdMvZK7yqT5XwVKTsYBo5rkB0Ar2iB5hYXY62eh1Dr5wi-WInQ9y-0kYcETUUre4avHb49Vo0213xLHM1bdly93XSs_trI36ugC2RVb4Mle--FfB6vwpNveFx5R1XNAZgoyu0RKy9SuvNqpjKg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 3200,
+        "photo_reference": "AWn5SU50pLALxQneOy5M0BurVnEt0ppqUwh_IOk6hl4h2KAwdPwhbENjN-Z3yDBAEBFaxrh0NJULozzUESGkVdwGemRAngMwEbskq9o8WJiTc7vjyccHrabhXWUcQlCh-0m7Yuizqiie0W_gBPDRxPAmINbZBP-CcUwg3X7mEz1KjNWkcV4sjrOwCZJTpDI5fkvY9GPRIKuPVDm39e8aLZxj1nB26XpNCdryXwFzRPBQ4z_IpRK3XRO2lS2Zi8ZZ81RaLC_yXfwI3EOW49kDxienNCxLLZlrkj0YLnHna1Tg9FOWKw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AWn5SU7g7Frcm3BfxYrO8r81jUgfYnfy2EVPgd66xpy02QDwjKG5g87yAGACfmXQLwn4TwPSr7gsCNbW6470wnEulAtKcGNc0e2e8og7ldGf9wBG39MUtkVOXnuE-RHJi4h9uKjI8e1kQib1g8LJ8jcPWruqUfjHJ7gH9rc0xbSh-g93RTXzb1yTI3wMEi0Yeu-h3cegTHLO3JN1cYA3ONZUpRjtUx_U9tjAHRF2-6XRhQuZAxK5smAI6YW_fTxYTD1zHLN7OO6mr5T4pCXyKmj5g9JHfiUauvagrWvMnlDLWQr2jQ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 671,
+        "photo_reference": "AWn5SU5GLElFcHq4UE4-sbrBjCSAJPjtRIMAbKTyCb_gWBtWuAGNLX46FyZw1H8OXpnnXBamESb7YX_qRgUZfTS_ZWC8VcNH8Hn0st_9kkMzi9LxK5LFYZ-AiQQaQ_F0key2iofE9jo3m2M7313YEQW5uOCVf6Znrj-NWWhSu1JixOctibILowr_fYx1st6QXCoRoUpjAw-siVadoDNM7G1L58b0UgwB-goUpAcFXhvc3noOU5j_VC2f8DmXKr3L3uBe6WDc8gIVkV3QPTL_PycY9mNivorqLQVpOT4K_O7bchHzdw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AWn5SU74KpOI2SMppgjdU-oLBHYm-fcMwMGdM2BZfSvm2E_RTvHNyInSAg5_vgnAvGfZuakL5oWGk_BNgbLYzVQ8OVUy35j77mrql2Sekq6hhmZ_nCFk2S7C3mHZnzzLKD00FYEC0VBrxqc0mjwEG6Mee8Mh9Lz5DhYwHga2-y5jE75_z2cdfVwrd8Ni-yNDiDQ2GtGE3QbLmZbLbPtKyb8CaLD7gqF9erU-uvcd0fYvNhmVa7z2xZ4KI8bpDRaK4OwjJHWbclC8_biYR4_l93d2TQ8yG31rLCBZk5YH1cZOzqkUsg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 3200,
+        "photo_reference": "AWn5SU45HjAAZzZzCjZ5jnVcdOC8zR9yNfw00uNFTpJCjTpmYI60Y1XvhNbHqeRDhV-CtGLQLU7o47mLM89MBtts_tVeMbiZgHWZr_iGGSoulozMz4Ae019_I7e_8jTo91biPsg9wQ_1-WayRvPACn8v27o0lxiTBlCN_FjxN6HY8FW4tGUtpfsvD2iifED9BYPM68HZqACfvXiREvB6Q7pybJ8jVS7jtvNcOXpwq_dTQeZMAN9XGlQZAoilZ65LbKxEk3h38nEXze-oMCv0Kw2KD2Zk1A3Skp8NGCeq5qNEOfWRkw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 671,
+        "photo_reference": "AWn5SU4NUKrSsWNJSYELo97UqnSPLJBJhFKjyJauTY1fWGfbmiWTRlcKJLB9svrGJbVR-KwvB4aXx3M5A3auq0i6EyPXlhoOc0B9sPvjbdrhB56oG1vz020HtrRIKlpQaWkwWocVFFKv_fTxPKpZmrl_kk8ryn6S4HCtbWynTyUZMBRZuWH0hu6B1yFNSPYArdes2Zd9C9e7SVwrh-zUKplH1BsSgLCs3RTpNjtRHivDWRNogptqExHfZVjHrG8ZcnCuqtmBWtbbPyRAzZN08hKeyTDQAPMCCmc637dNdZ37aiPy6A",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
       },
       {
         "ai": false
@@ -8161,21 +8547,6 @@
     "locked": false
   },
   {
-    "id": 4883,
-    "location_id": 86,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=17171483200306717239",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:16:53.971+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 59702,
     "location_id": 2531,
     "attribute_id": 24,
@@ -8560,6 +8931,23 @@
     "locked": false
   },
   {
+    "id": 63833,
+    "location_id": 3396,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=17171483200306717239",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:34:03.647+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5243,
     "location_id": 99,
     "attribute_id": 7,
@@ -8575,6 +8963,23 @@
     "locked": false
   },
   {
+    "id": 63837,
+    "location_id": 3396,
+    "attribute_id": 30,
+    "value_text": "06412 5646",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:34:06.018+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5214,
     "location_id": 98,
     "attribute_id": 5,
@@ -8586,6 +8991,23 @@
     "updated_at": "2025-11-19T19:14:49.182+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63841,
+    "location_id": 3396,
+    "attribute_id": 30,
+    "value_text": "06412 5646",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:34:07.81+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -9392,6 +9814,23 @@
     "locked": false
   },
   {
+    "id": 63834,
+    "location_id": 3396,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=17171483200306717239",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:34:04.216+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5274,
     "location_id": 99,
     "attribute_id": 29,
@@ -9610,6 +10049,40 @@
     "value_option": null,
     "language_code": "en",
     "updated_at": "2025-11-19T14:36:05.208+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63838,
+    "location_id": 3396,
+    "attribute_id": 30,
+    "value_text": "06412 5646",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:34:06.137+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63842,
+    "location_id": 3396,
+    "attribute_id": 5,
+    "value_text": "Alpendorfstraße 31, 5600 St. Johann im Pongau, Austria",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:34:07.931+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -10222,6 +10695,23 @@
     "locked": false
   },
   {
+    "id": 63835,
+    "location_id": 3396,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=17171483200306717239",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:34:04.803+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52841,
     "location_id": 2049,
     "attribute_id": 25,
@@ -10233,6 +10723,40 @@
     "updated_at": "2025-11-19T19:16:12.115+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63839,
+    "location_id": 3396,
+    "attribute_id": 30,
+    "value_text": "06412 5646",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:34:06.797+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63843,
+    "location_id": 3396,
+    "attribute_id": 29,
+    "value_text": "https://www.gut-berg.com/",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:34:08.059+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -10693,17 +11217,19 @@
     "locked": false
   },
   {
-    "id": 4866,
-    "location_id": 86,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "id": 63845,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:45.678+00:00",
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:32.473+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -10753,6 +11279,23 @@
     "locked": false
   },
   {
+    "id": 63849,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:34.531+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18220,
     "location_id": 517,
     "attribute_id": 22,
@@ -10764,6 +11307,100 @@
     "updated_at": "2025-11-19T19:18:17.821+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63853,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:38.502+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63857,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:42.507+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Passeggiata del Consiglio d'Europa",
+        "short_name": "Passeggiata del Consiglio d'Europa"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovigno",
+        "short_name": "Rovigno"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Città di Rovigno",
+        "short_name": "Città di Rovigno"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Regione Istriana",
+        "short_name": "Regione Istriana"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croazia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -10802,6 +11439,23 @@
     "locked": false
   },
   {
+    "id": 63861,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.4,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:45.939+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 59737,
     "location_id": 2531,
     "attribute_id": 30,
@@ -10828,6 +11482,67 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:23:40.631+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63865,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:48.542+00:00",
+    "name": null,
+    "value_json": [
+      "Etablissement",
+      "Sehenswürdigkeit",
+      "Reisebüro",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63869,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:50.784+00:00",
+    "name": null,
+    "value_json": [
+      "etabliranje",
+      "zanimljivo_mjesto",
+      "putnička_agencija",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63873,
+    "location_id": 3397,
+    "attribute_id": 8,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 45.0775067302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:51.645+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -11026,6 +11741,74 @@
     "locked": false
   },
   {
+    "id": 63877,
+    "location_id": 3397,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:52.48+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63881,
+    "location_id": 3397,
+    "attribute_id": 14,
+    "value_text": null,
+    "value_bool": false,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:53.294+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63885,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:54.524+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63889,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:56.753+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52828,
     "location_id": 2049,
     "attribute_id": 15,
@@ -11037,6 +11820,74 @@
     "updated_at": "2025-10-29T16:06:42.439+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63893,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:59.252+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63897,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:50:01.446+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63901,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:50:04.5+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63905,
+    "location_id": 3397,
+    "attribute_id": 29,
+    "value_text": "http://www.aci-marinas.com/aci_marina/aci-marina-rovinj/",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:50:06.195+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -11097,34 +11948,6 @@
     "updated_at": "2025-11-19T19:15:16.391+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4858,
-    "location_id": 86,
-    "attribute_id": 24,
-    "value_text": "[\"bar\",\"ustanove\",\"hrana\",\"smještaj\",\"zanimljivosti\",\"restoran\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:16:44.122+00:00",
-    "name": null,
-    "value_json": [
-      "bar",
-      "ustanova",
-      "hrana",
-      "smještaj",
-      "točka_interesa",
-      "restoran",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -11319,6 +12142,23 @@
     "locked": false
   },
   {
+    "id": 63846,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:32.71+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54052,
     "location_id": 2076,
     "attribute_id": 29,
@@ -11353,6 +12193,156 @@
     "locked": false
   },
   {
+    "id": 63850,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:35.134+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63854,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:39.206+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63858,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:43.607+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Šetalište Vijeća Europe",
+        "short_name": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovinj",
+        "short_name": "Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Ville de Rovinj",
+        "short_name": "Ville de Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Comitat d'Istrie",
+        "short_name": "Comitat d'Istrie"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatie",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63862,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:46.601+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63866,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:48.761+00:00",
+    "name": null,
+    "value_json": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52829,
     "location_id": 2049,
     "attribute_id": 16,
@@ -11368,6 +12358,40 @@
     "locked": false
   },
   {
+    "id": 63870,
+    "location_id": 3397,
+    "attribute_id": 4,
+    "value_text": "ACI Rovinj, <span class=\"street-address\">Šetalište Vijeća Europe 1</span>, <span class=\"postal-code\">52210</span>, <span class=\"locality\">Rovinj</span>, <span class=\"country-name\">Croatia</span>",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:51.004+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63874,
+    "location_id": 3397,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.6378820802915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:51.857+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4917,
     "location_id": 87,
     "attribute_id": 23,
@@ -11379,6 +12403,163 @@
     "updated_at": "2025-07-23T18:10:20.214+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63878,
+    "location_id": 3397,
+    "attribute_id": 18,
+    "value_text": "ChIJ_yy5qprAfEcRVmWc_EEUFyg",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:52.689+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63882,
+    "location_id": 3397,
+    "attribute_id": 15,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:53.499+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0730"
+        },
+        "close": {
+          "day": 0,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "0730"
+        },
+        "close": {
+          "day": 1,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0730"
+        },
+        "close": {
+          "day": 2,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0730"
+        },
+        "close": {
+          "day": 3,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0730"
+        },
+        "close": {
+          "day": 4,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0730"
+        },
+        "close": {
+          "day": 5,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0730"
+        },
+        "close": {
+          "day": 6,
+          "time": "2130"
+        }
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63886,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:55.098+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63890,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:56.951+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63894,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:59.952+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -11479,21 +12660,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:15:15.436+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4859,
-    "location_id": 86,
-    "attribute_id": 4,
-    "value_text": "<span class=\"street-address\">Alpendorfstraße 31</span>, <span class=\"postal-code\">5600</span> <span class=\"locality\">St. Johann im Pongau</span>, <span class=\"country-name\">Austria</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:44.31+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -11837,17 +13003,19 @@
     "locked": false
   },
   {
-    "id": 4891,
-    "location_id": 86,
-    "attribute_id": 5,
-    "value_text": "Alpendorfstraße 31, 5600 St. Johann im Pongau, Austria",
+    "id": 63847,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovigno",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:59.764+00:00",
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:33.225+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -11980,17 +13148,19 @@
     "locked": false
   },
   {
-    "id": 4892,
-    "location_id": 86,
-    "attribute_id": 29,
-    "value_text": "https://www.gut-berg.com/",
+    "id": 63851,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
     "value_bool": null,
-    "value_number": null,
+    "value_number": 60,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:59.954+00:00",
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:35.338+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12270,17 +13440,19 @@
     "locked": false
   },
   {
-    "id": 19135,
-    "location_id": 527,
-    "attribute_id": 26,
-    "value_text": null,
+    "id": 63848,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
     "value_bool": null,
-    "value_number": 397,
+    "value_number": null,
     "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:42.021+00:00",
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:34.01+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12378,17 +13550,19 @@
     "locked": false
   },
   {
-    "id": 19136,
-    "location_id": 527,
-    "attribute_id": 26,
+    "id": 63852,
+    "location_id": 3397,
+    "attribute_id": 27,
     "value_text": null,
     "value_bool": null,
-    "value_number": 397,
+    "value_number": null,
     "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:42.562+00:00",
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:36.051+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12423,17 +13597,79 @@
     "locked": false
   },
   {
-    "id": 4860,
-    "location_id": 86,
-    "attribute_id": 6,
+    "id": 63856,
+    "location_id": 3397,
+    "attribute_id": 31,
     "value_text": null,
     "value_bool": null,
-    "value_number": 47.3180917,
+    "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:44.511+00:00",
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:49:40.795+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Šetalište Vijeća Europe",
+        "short_name": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovinj",
+        "short_name": "Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Grad Rovinj",
+        "short_name": "Grad Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Istarska županija",
+        "short_name": "Istarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -12468,17 +13704,19 @@
     "locked": false
   },
   {
-    "id": 19137,
-    "location_id": 527,
-    "attribute_id": 26,
+    "id": 63860,
+    "location_id": 3397,
+    "attribute_id": 22,
     "value_text": null,
     "value_bool": null,
-    "value_number": 397,
+    "value_number": 4,
     "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:43.179+00:00",
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:49:45.724+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12496,6 +13734,45 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63864,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:47.751+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63868,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:50.067+00:00",
+    "name": null,
+    "value_json": [
+      "établissement",
+      "point_d'intérêt",
+      "agence_de_voyage",
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -12530,32 +13807,36 @@
     "locked": false
   },
   {
-    "id": 19129,
-    "location_id": 527,
-    "attribute_id": 20,
-    "value_text": "8FQM3JGP+6C",
+    "id": 63872,
+    "location_id": 3397,
+    "attribute_id": 7,
+    "value_text": null,
     "value_bool": null,
-    "value_number": null,
+    "value_number": 13.636093,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-19T19:19:39.899+00:00",
+    "updated_at": "2025-11-29T22:49:51.433+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 4861,
-    "location_id": 86,
-    "attribute_id": 7,
+    "id": 63876,
+    "location_id": 3397,
+    "attribute_id": 11,
     "value_text": null,
     "value_bool": null,
-    "value_number": 13.1991778,
+    "value_number": 13.6351841197085,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-19T19:16:44.705+00:00",
+    "updated_at": "2025-11-29T22:49:52.279+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12586,21 +13867,6 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-19T19:18:36.838+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19133,
-    "location_id": 527,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 397,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:41.189+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -12676,21 +13942,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:17:29.606+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4867,
-    "location_id": 86,
-    "attribute_id": 18,
-    "value_text": "ChIJlVftuP_XdkcRN6LeBP5cTe4",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:16:45.873+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -12787,138 +14038,6 @@
     "locked": false
   },
   {
-    "id": 19134,
-    "location_id": 527,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 397,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:41.392+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19138,
-    "location_id": 527,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europas 1, Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:44.073+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4880,
-    "location_id": 86,
-    "attribute_id": 17,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:17:00.143+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "width": 4720,
-        "height": 3147,
-        "photo_reference": "AWn5SU5Wgxjybw5Mosew_TgSXgBnaMkg5g59lxyUQrdnjwJ9RCI3p9aZsDnnbZw3qpX_3ivp1tXWXPajABXhve2ZuSD1hcekOy9rf_pVONpWqswh6Zw8XvnVsxlJWVVq6k8YJsoz_LUyjhIXwkWmx7ok1PiPooVA7zvf7jm-hUpplAeoBnLmiUZbGowIL1UYE4sv1J48GCEiR6HJsaxjO4T0hiIJ4bUOAMn0cXAqNodVLXcJ4vOhfUdAMmR2H4TZ0BJyePgyM0x-D9IVHC8vpIsq7PoLY9OoZkHqvFUTqX5GfxhngQ",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1280,
-        "height": 847,
-        "photo_reference": "AWn5SU6kl11uo28nYqPlC4QweY9ZuebpEx-m2tvPC5ScpVvlMNcuZVlKH-6ZOrmOBSVSzNhh5_VDkHA8yJ461NhEcomouKOoMRscNMGB64OdcmMQQtdEzKmIoiJPkawNhzaiCNTo8AhU7XftaiYAcdzl8D2B6yG-loL31sMwBR5f6jlreCRFQdsscWY5VE_slgbDC0oX5_kQ2416Vv_mwYeicmAH8shG5XBou559OQcvwrbzj_LQokNW1ZAj_9jKEWtym36MqGG2JsimZ_y7BD0ozTeq91hReQExBc_-SG1UVTAbFg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU7I4w7Hna-l7trwHV9xZjgiplzPRHmm96THW-3gItdu9yUgh6OGJJLfP_Fr5G6ePR74R3sv9r11ZuIvwsO_bBA6nTGfXTBoMKwZhPDfoR41l6amXU-Slj1VxjiyCqniJXsvkKr-hcvZIexk3hu2nHhaCCEIks0zsIelkmEkKOi3ddStECKrSv_IxJPoU_5QhzpZmgbAo8lnk46SF4SI_r3PRCQSHIC3meaYMdQJCg9VnfIRtCMaYUeTAhj2f8CKRDAo4NjbWKqc0gQQsRRXa3JFfygYDcuyoakwPMPjMmdEqw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 671,
-        "photo_reference": "AWn5SU6nkkc6HaE0i-4W93FLV7nmCG_MY8Q-xmGUgYExixYnApFTW4Lv6igoio-a2ZtipPKek55Wy4cEqjIcFgkfdVGecRc6vrxTbp0ef8HV-HndWDXl-kiBWPZ6rQ8t781G_dUgLjVRQ4K9NsDWVKmT_cTWSO3kBdbKj_zGalnRwjrDeIK3we11vmZovnAuv48PVIm1GNRhOlKD3RYGMitABFENi1funnm9o_kQ6_fMnPtV2BrR7X8lckmnGl0tsb1gs_95T0K_KurqDJYqt3AQX1_fUwzAbfbPcP9kqXk40qrQ2A",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU7-syCtXCT_o_bE1vDC3eaOHeBz3CeyZh8Tfbp3PREkWdHohKNBeh7YR321VzdA935iZF-GNLrk2UJreVRvgtZ0Vyf5xrhcL_JNizl9K_MGy3k49Cm5ykWQ-bed3NiZu6wUeSgEgdqh2jSNmobpLM0IKYi5VJzmRJEZjmKIVz7gpibNMNWkA7AJXeK2GGf5aib-cIdChn_1jOwhtOAge-w5cKQ7N-RaqjObJL6THBC_-pX5XVBkve6JQNMvEm8kmIxjfVQQDX56Bq1A6hV8S-EIRcWd9wCwA5guWWFg7s_IvQ",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU4T5dnyLcE9rVbwwOHVE9_SSNOgbKO-OB8l6xBwPdXcEWFValY6KdSDPgw7ROqdx32tVOt9FZK0Mr8Wxyp0U6HibSDvRSZQKq30GslTJBqLc0zB6TUpUzUMZJJR4aNog9ZPV-4PQ0L8KA4QBMtWMQ8tNoPnYFr5andiWSVt21KRmJliASXT2X1VQ735Za4Cizjm1tpnvDPFJCwY0dGWF1Gd7NX9sqpouVgfhc24gBPVHBWtPV2XI3RzxROHj-oYbRprtJ1QCNqWA-w-_LeXBtw0MQ0lXDz68tFBcMOGQ9079Q",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 671,
-        "photo_reference": "AWn5SU5z5thAtjw6Rv8UAel4UQEvsqPU_gYSB_0_-uyjplTEqOBZ2cyH_GwgbhDo95rve8lR1vxF3McvZswoID04OHeooAIGAWTDCjFF4f1bZlERypyZkL99N2FjXpBzbAu2KkxiVRijNiH6bAH0qoJpScNYantGn43p6ppBRQzcQ7jgbymyZp_wKo0Xg-SqjHe0Or6LVcT6BmYzJAkThgqsnkOdNoXJ1sHVvagOLPy2-m1R1x-BQHeyl3mcEHw9n_R-oR36n7yd6GLb5tw6vkUbkYLBNM6Yt3RIg5i4S7oziLO3-g",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU5bW7D57zbTM1bUkYH0j51hWUs4J2waQLmsLmKFep2NmnFg1whmGvitKl1W5MCgQDIjfluhbOMCFbc-5_jqSff9-JTitFRpwLyVNuqypb5g8A4jZp8Tm9z5RvN2o64fwBilcI7E5-EZpmQCzQFnsM_LphHkf5IjbAh5DFkhxEqABmIQGIBMhp72E3DgKqh68xt6oV6tlyRk1RL-YY_EZRZPDC1ddxQgqWx5Z8nIyHC2XBMT91jvk5FptEPnvMs5A31dkiw2I4XaVPKh-bTOANoxc1io4zgqVuZYtQ1Lh3KLdQ",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU6Ps0Sbba3hL0zddKG4gzdUImFPXziQz3SJzVo5cbMOeVnbhkFRfALOMAyJxbh8sH2k7OE2MvNtkxJuXNwJvWlF3AL_x3vHNHBDnVZEVLu5xeA6jgzziuBKcjmFKDx5a0ZcFfPWqMXNQzdSesHx0Ti63QbOPSJyE1HpKJuBtbZdPq6S88SbQd1NSwX7UFaJBFP6zhjUMokaCkZCVk7P24q-q3w_Cvxv01dMjf4oN8ZNfJNDYJIPUYuSm2WD9JcqjYuxyTtlBykFzey3laXda_qvSDT-QM1cETSVeAobbn8miQ",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU4meDr9K9qKy1XWK_7Eeg0_llOSakF01iI5qRG8AmrI4V3k35wjx9qhdg-BZB483lFi-9PKHT2F4MLZlvHNPDcgiKUq1av8LX3Z_7zDF8hYhq00lvsYpQvcpP8cYCG729p1OGuC4m8Db-fqltQjeLxvIW4Pcrt5RyIU9XYcz8Cdwr7-S6Q3hkVXDPvrxs4tA6rEr63jF6WGRTqhVmCOESgaOgyx64dSdeR0CEZVhB2j8M-8OjkAlkmmnnYv7EwLrPXOh1N_oHVIqkXakj2olGe7uUKFLNq27zzQbHRLUHR4Ug",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63710,
     "location_id": 3149,
     "attribute_id": 27,
@@ -12936,47 +14055,357 @@
     "locked": false
   },
   {
-    "id": 19094,
-    "location_id": 527,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
+    "id": 63855,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-19T19:18:41.168+00:00",
+    "updated_at": "2025-11-29T22:49:40.586+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Šetalište Vijeća Europe",
+        "short_name": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovinj",
+        "short_name": "Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Stadt Rovinj",
+        "short_name": "Stadt Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Gespanschaft Istrien",
+        "short_name": "Gespanschaft Istrien"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Kroatien",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 19095,
-    "location_id": 527,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
+    "id": 63859,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:18:41.381+00:00",
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:45.281+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Šetalište Vijeća Europe",
+        "short_name": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovinj",
+        "short_name": "Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Grad Rovinj",
+        "short_name": "Grad Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Istarska županija",
+        "short_name": "Istarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Hrvatska",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 19096,
-    "location_id": 527,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovigno",
+    "id": 63863,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:47.141+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63867,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-19T19:18:42.219+00:00",
+    "updated_at": "2025-11-29T22:49:49.542+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": [
+      "stabilimento",
+      "punto di interesse",
+      "agenzia di viaggi",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63871,
+    "location_id": 3397,
+    "attribute_id": 6,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 45.075565,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:51.217+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63875,
+    "location_id": 3397,
+    "attribute_id": 10,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 45.0748087697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:52.07+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63879,
+    "location_id": 3397,
+    "attribute_id": 19,
+    "value_text": "3JGP+6C Rovinj, Croatia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:52.895+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63883,
+    "location_id": 3397,
+    "attribute_id": 16,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:53.697+00:00",
+    "name": null,
+    "value_json": [
+      "Monday: 7:30 AM – 9:30 PM",
+      "Tuesday: 7:30 AM – 9:30 PM",
+      "Wednesday: 7:30 AM – 9:30 PM",
+      "Thursday: 7:30 AM – 9:30 PM",
+      "Friday: 7:30 AM – 9:30 PM",
+      "Saturday: 7:30 AM – 9:30 PM",
+      "Sunday: 7:30 AM – 9:30 PM",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63887,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:55.6+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63891,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovigno, Passeggiata del Consiglio d'Europa 1, Rovigno",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-29T22:49:57.82+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63895,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:50:00.149+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63899,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-29T22:50:03.602+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63903,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:50:05.768+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12992,71 +14421,6 @@
     "updated_at": "2025-11-19T19:10:48.543+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19097,
-    "location_id": 527,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:18:42.929+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19117,
-    "location_id": 527,
-    "attribute_id": 24,
-    "value_text": "[\"établissement\",\"point_d'intérêt\",\"agence_de_voyage\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:36.684+00:00",
-    "name": null,
-    "value_json": [
-      "établissement",
-      "point_d'intérêt",
-      "agence_de_voyage",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19118,
-    "location_id": 527,
-    "attribute_id": 24,
-    "value_text": "[\"ustanova\", \"točka interesa\", \"putnička agencija\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:37.727+00:00",
-    "name": null,
-    "value_json": [
-      "etabliranje",
-      "točka interesa",
-      "putnička agencija",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -13257,171 +14621,6 @@
     "locked": false
   },
   {
-    "id": 19098,
-    "location_id": 527,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:18:43.528+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19099,
-    "location_id": 527,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:18:44.111+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19100,
-    "location_id": 527,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:18:44.304+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19101,
-    "location_id": 527,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:18:44.873+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19102,
-    "location_id": 527,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:18:45.445+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19103,
-    "location_id": 527,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:18:46.207+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19109,
-    "location_id": 527,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:31.492+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19110,
-    "location_id": 527,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4.4,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:31.693+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19111,
-    "location_id": 527,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:32.453+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19112,
-    "location_id": 527,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:33.176+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19113,
-    "location_id": 527,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4.4,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:33.769+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4965,
     "location_id": 89,
     "attribute_id": 14,
@@ -13437,92 +14636,121 @@
     "locked": false
   },
   {
-    "id": 19114,
-    "location_id": 527,
-    "attribute_id": 24,
-    "value_text": "[\"Einrichtung\", \"Sehenswürdigkeit\", \"Reisebüro\"]",
+    "id": 63880,
+    "location_id": 3397,
+    "attribute_id": 20,
+    "value_text": "8FQM3JGP+6C",
     "value_bool": null,
     "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:49:53.096+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63884,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-19T19:19:34.925+00:00",
+    "updated_at": "2025-11-29T22:49:54.32+00:00",
     "name": null,
-    "value_json": [
-      "Einrichtung",
-      "Sehenswürdigkeit",
-      "Reisebüro",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 19115,
-    "location_id": 527,
-    "attribute_id": 24,
-    "value_text": "[\"establishment\",\"point_of_interest\",\"travel_agency\"]",
+    "id": 63888,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:49:56.015+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63892,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:35.129+00:00",
+    "language_code": "fr",
+    "updated_at": "2025-11-29T22:49:58.446+00:00",
     "name": null,
-    "value_json": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 19116,
-    "location_id": 527,
-    "attribute_id": 24,
-    "value_text": "[\"stabilimento\",\"punto_di_interesse\",\"agenzia_di_viaggi\"]",
+    "id": 63896,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2888799959625000278",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-19T19:19:35.917+00:00",
+    "updated_at": "2025-11-29T22:50:00.918+00:00",
     "name": null,
-    "value_json": [
-      "stabilimento",
-      "punto_di_interesse",
-      "agenzia_di_viaggi",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
   {
-    "id": 19149,
-    "location_id": 527,
+    "id": 63900,
+    "location_id": 3397,
     "attribute_id": 30,
     "value_text": "052 813 133",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:52.375+00:00",
+    "language_code": "en",
+    "updated_at": "2025-11-29T22:50:03.892+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63904,
+    "location_id": 3397,
+    "attribute_id": 5,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, 52210, Rovinj, Croatia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:50:05.98+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -13596,21 +14824,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:20:50.41+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19141,
-    "location_id": 527,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:45.841+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -13722,36 +14935,6 @@
     "locked": false
   },
   {
-    "id": 19139,
-    "location_id": 527,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:44.266+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19142,
-    "location_id": 527,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:46.83+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 27040,
     "location_id": 899,
     "attribute_id": 22,
@@ -13787,21 +14970,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19144,
-    "location_id": 527,
-    "attribute_id": 25,
-    "value_text": "Es tut mir leid, ich kann keine Links oder Inhalte daraus öffnen. Kann ich Ihnen mit etwas anderem helfen?",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-19T19:19:48.749+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -13937,51 +15105,6 @@
     "locked": false
   },
   {
-    "id": 19145,
-    "location_id": 527,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:48.953+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19146,
-    "location_id": 527,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:50.109+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19147,
-    "location_id": 527,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:50.893+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4913,
     "location_id": 87,
     "attribute_id": 23,
@@ -13991,81 +15114,6 @@
     "value_option": null,
     "language_code": "de",
     "updated_at": "2025-07-23T18:09:22.701+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19441,
-    "location_id": 527,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"Tibi N\",\"author_url\":\"https://www.google.com/maps/contrib/104641784180490772443/reviews\",\"language\":\"de\",\"original_language\":\"de\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIRCZFJKXAzqP-EFvGmBuYKhFkfH0MvRqGAPiDy00O1JBmwGA=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":4,\"relative_time_description\":\"vor 2 Jahren\",\"text\":\"Wenn Sie ein Bootsfan sind, ist dies der richtige Ort für Sie, da Sie alle Arten von Booten sehen können, von kleinen bis zu Luxusjachten. Der Yachthafen verbindet auch das Strandgebiet von Rovinj mit der Altstadt, und es gibt eine sehr schöne Fußgängerzone, von der aus Sie den alten Stadthügel, das Meer und die Boote bewundern können.\",\"time\":1662636919,\"translated\":false},{\"author_name\":\"A. Dream\",\"author_url\":\"https://www.google.com/maps/contrib/104416518916868238714/reviews\",\"language\":\"de\",\"original_language\":\"de\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcVZKWHyK7fEx2IsnLQ0KUu3IKdtzcrBGZqBHRPy7HJUTzCELQ=s128-c0x00000000-cc-rp-mo-ba4\",\"rating\":3,\"relative_time_description\":\"vor 4 Jahren\",\"text\":\"Toller Ort mit wunderschönem Blick. also 3 Sterne für die Lage. Aber meiner Meinung nach ist es für kroatische Verhältnisse ziemlich teuer, besonders ohne weitere Dienstleistungen wie einen Seglerladen oder typische Fischgaststätten 🦞. Ich hoffe, dass sich das in Zukunft ändert.\",\"time\":1597253740,\"translated\":false},{\"author_name\":\"Philipp K.\",\"author_url\":\"https://www.google.com/maps/contrib/118071363028394439906/reviews\",\"language\":\"de\",\"original_language\":\"de\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocJFxO8uPHPFGtHBeDnUEZzaME9h3pIcTPDPgJj3SwPvHJ0Ckw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"vor 4 Jahren\",\"text\":\"Herrlicher Blick über den Hafen von Rovinj, spazieren Sie um die Hotels am Ufer. \\\"Parken\\\" Sie Ihr Schiff und betreten Sie die Stadt.\",\"time\":1617732957,\"translated\":false},{\"author_name\":\"Kiki Zd\",\"author_url\":\"https://www.google.com/maps/contrib/113425725451610275134/reviews\",\"language\":\"de\",\"original_language\":\"de\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjU-IzmKrPRrWSu4tKkE-dXhtY7P_4gp-kBq8rFnQDAw5hG383FZ=s128-c0x00000000-cc-rp-mo\",\"rating\":5,\"relative_time_description\":\"vor einem Jahr\",\"text\":\"Vor einem Monat hatte mein Partner einen Unfall auf dem Boot und wurde zur Operation ins Krankenhaus in Pula gebracht, wo er zwei Tage verbrachte. Unser Boot war zu dieser Zeit in der ACI Marina Rovinj, und wir waren beeindruckt von der Fürsorge und Unterstützung der Menschen – vom Marina-Personal, über die Rezeptionistin bis hin zum Manager. Sie sorgten dafür, dass das Boot sicher war, fragten regelmäßig nach dem Gesundheitszustand meines Partners und berechneten uns keinen Liegeplatz.\",\"time\":1721732479,\"translated\":false},{\"author_name\":\"Radoslav Dejanović\",\"author_url\":\"https://www.google.com/maps/contrib/109917831481239113296/reviews\",\"language\":\"de\",\"original_language\":\"de\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjXM2Jm_hQ5as4QyGkAiagaJCpqatcgdyEFnWI83NPaPjngdpX3Onw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"vor 4 Jahren\",\"text\":\"Neu, glänzend und nur ein kurzer Spaziergang von der Altstadt entfernt.\",\"time\":1606589378,\"translated\":false}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-07-23T18:13:06.233+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19442,
-    "location_id": 527,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"Tibi N\",\"author_url\":\"https://www.google.com/maps/contrib/104641784180490772443/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIRCZFJKXAzqP-EFvGmBuYKhFkfH0MvRqGAPiDy00O1JBmwGA=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":4,\"relative_time_description\":\"2 years ago\",\"text\":\"If you are a boat fan this is the place for you, as you can see all type of boats,  from small ones to luxury yachts. The marina also connects the Rovinj beach area and the old town , and there is a very nice pedestrian area from were you can admire the old city hill ,the sea and the boats.\",\"time\":1662636919,\"translated\":false},{\"author_name\":\"A. Dream\",\"author_url\":\"https://www.google.com/maps/contrib/104416518916868238714/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcVZKWHyK7fEx2IsnLQ0KUu3IKdtzcrBGZqBHRPy7HJUTzCELQ=s128-c0x00000000-cc-rp-mo-ba4\",\"rating\":3,\"relative_time_description\":\"4 years ago\",\"text\":\"Great place with the beautiful view.\\nSo 3 stars for the location.\\nBut in my opinion it’s quite expensive for Croatian standard, especially with no other services like sailor’s shop or a typical seafood 🦞 tavernas.\\nI hope that it will change in future.\",\"time\":1597253740,\"translated\":false},{\"author_name\":\"Philipp K.\",\"author_url\":\"https://www.google.com/maps/contrib/118071363028394439906/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocJFxO8uPHPFGtHBeDnUEZzaME9h3pIcTPDPgJj3SwPvHJ0Ckw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"4 years ago\",\"text\":\"Splendid view over Rovinj harbour, walk around the Hotels at the shore. \\\"Park\\\" your ship and enter the city.\",\"time\":1617732957,\"translated\":false},{\"author_name\":\"Kiki Zd\",\"author_url\":\"https://www.google.com/maps/contrib/113425725451610275134/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjU-IzmKrPRrWSu4tKkE-dXhtY7P_4gp-kBq8rFnQDAw5hG383FZ=s128-c0x00000000-cc-rp-mo\",\"rating\":5,\"relative_time_description\":\"a year ago\",\"text\":\"A month ago, my partner had an accident on boat and was taken to the hospital in Pula for surgery, where he spent two days. Our boat was in ACI Marina Rovinj that time and we were moved by the care and support of the people - from the marina staff, to the receptionist and the manager. They made sure the boat was safe, asked regularly on my partner's health status, and didn't charge us the berth.\",\"time\":1721732479,\"translated\":false},{\"author_name\":\"Radoslav Dejanović\",\"author_url\":\"https://www.google.com/maps/contrib/109917831481239113296/reviews\",\"language\":\"en\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjXM2Jm_hQ5as4QyGkAiagaJCpqatcgdyEFnWI83NPaPjngdpX3Onw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"4 years ago\",\"text\":\"New, shiny and just a short walk away from the old town.\",\"time\":1606589378,\"translated\":false}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-07-23T18:13:06.469+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19148,
-    "location_id": 527,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:51.75+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19150,
-    "location_id": 527,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-19T19:19:52.578+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19151,
-    "location_id": 527,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:53.223+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -14087,21 +15135,6 @@
     "locked": false
   },
   {
-    "id": 19140,
-    "location_id": 527,
-    "attribute_id": 28,
-    "value_text": "ACI Rovigno, Passeggiata del Consiglio d'Europa 1, Rovigno",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:19:45.06+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 52817,
     "location_id": 2049,
     "attribute_id": 6,
@@ -14111,36 +15144,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:16:02.497+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19152,
-    "location_id": 527,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:19:53.85+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19153,
-    "location_id": 527,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-19T19:19:54.824+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -14187,6 +15190,23 @@
     "updated_at": "2025-10-29T16:06:42.252+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63898,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "Nažalost, ne mogu pristupiti vanjskim web stranicama ili pregledavati internet, uključujući Google Karte.",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-11-29T22:50:02.954+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -14289,17 +15309,19 @@
     "locked": false
   },
   {
-    "id": 19444,
-    "location_id": 527,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"Tibi N\",\"author_url\":\"https://www.google.com/maps/contrib/104641784180490772443/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIRCZFJKXAzqP-EFvGmBuYKhFkfH0MvRqGAPiDy00O1JBmwGA=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":4,\"relative_time_description\":\"il y a 2 ans\",\"text\":\"Si vous êtes un fan de bateaux, cet endroit est fait pour vous, car vous pouvez voir tous types de bateaux, des petits aux yachts de luxe. La marina relie également la plage de Rovinj et la vieille ville, et il y a une très belle zone piétonne d'où vous pouvez admirer la colline de la vieille ville, la mer et les bateaux.\",\"time\":1662636919,\"translated\":true},{\"author_name\":\"A. Dream\",\"author_url\":\"https://www.google.com/maps/contrib/104416518916868238714/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcVZKWHyK7fEx2IsnLQ0KUu3IKdtzcrBGZqBHRPy7HJUTzCELQ=s128-c0x00000000-cc-rp-mo-ba4\",\"rating\":3,\"relative_time_description\":\"il y a 4 ans\",\"text\":\"Bel endroit avec une vue magnifique. Donc, 3 étoiles pour l'emplacement. Mais à mon avis, c'est assez cher pour un standard croate, surtout sans autres services comme une boutique de marin ou des tavernes typiques de fruits de mer 🦞. J'espère que cela changera à l'avenir.\",\"time\":1597253740,\"translated\":true},{\"author_name\":\"Philipp K.\",\"author_url\":\"https://www.google.com/maps/contrib/118071363028394439906/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocJFxO8uPHPFGtHBeDnUEZzaME9h3pIcTPDPgJj3SwPvHJ0Ckw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"il y a 4 ans\",\"text\":\"Vue splendide sur le port de Rovinj, promenez-vous autour des hôtels au bord de l'eau. \\\"Garez\\\" votre navire et entrez dans la ville.\",\"time\":1617732957,\"translated\":true},{\"author_name\":\"Kiki Zd\",\"author_url\":\"https://www.google.com/maps/contrib/113425725451610275134/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjU-IzmKrPRrWSu4tKkE-dXhtY7P_4gp-kBq8rFnQDAw5hG383FZ=s128-c0x00000000-cc-rp-mo\",\"rating\":5,\"relative_time_description\":\"il y a un an\",\"text\":\"Il y a un mois, mon partenaire a eu un accident sur un bateau et a été transporté à l'hôpital de Pula pour une intervention chirurgicale, où il a passé deux jours. Notre bateau était à ACI Marina Rovinj à ce moment-là et nous avons été touchés par les soins et le soutien des gens - de l'équipe de la marina, à la réceptionniste et au manager. Ils se sont assurés que le bateau était en sécurité, ont demandé régulièrement le statut de santé de mon partenaire et ne nous ont pas facturé le mouillage.\",\"time\":1721732479,\"translated\":true},{\"author_name\":\"Radoslav Dejanović\",\"author_url\":\"https://www.google.com/maps/contrib/109917831481239113296/reviews\",\"language\":\"fr\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjXM2Jm_hQ5as4QyGkAiagaJCpqatcgdyEFnWI83NPaPjngdpX3Onw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"il y a 4 ans\",\"text\":\"Nouvelle, brillante et à seulement quelques pas de la vieille ville.\",\"time\":1606589378,\"translated\":true}]",
+    "id": 63902,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "fr",
-    "updated_at": "2025-07-23T18:13:33.945+00:00",
+    "updated_at": "2025-11-29T22:50:05.168+00:00",
     "name": null,
-    "value_json": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -14523,6 +15545,105 @@
     "locked": false
   },
   {
+    "id": 63906,
+    "location_id": 3397,
+    "attribute_id": 17,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-29T22:50:06.393+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "width": 1600,
+        "height": 964,
+        "photo_reference": "AWn5SU67PTbp2UEOoUDq6Sk-hkGmQlqwIaqi38S5cmQXwt-P9nqC3wQUvuPOw2_RMQWe3SdDHDvVPj-nhJAPHCGE6RBLSJItUlCOvecMQrahR_XFgHZ7ApQsBBgxH1bjo1LSi1OkNYeO1Giw_F_6kim00UNflQzVszAjTZJhl21ipjpKy1-otywvDk3cH7umvpv5X4YBhU2NEk-vINUqW03mY58ERHZbyCxwKtP5ZcI2Or3WcDzF8eqrEg2wTGNtPUZaIdL1lHICQuR2R4ghLDGq8eZlkKxp89_W7L6jfHEOwDF9Pg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104330569047701405641\">ACI Marina Rovinj</a>"
+        ]
+      },
+      {
+        "width": 2751,
+        "height": 1611,
+        "photo_reference": "AWn5SU59Uwe-M3HHa2ig685V19lh-RzsjH8Z4iyhGNX1z9DVRhY20yfYQ4TjAp3_La0OzdqxCVVUySFaRuCfH5_NZ3S2Vpqa2tErJfQvYYgg2juegdZCsqfKx6MJm8fVixqTdPZHOIm5BlOyGh_3MTJ4jvNnrFOR4usH9eeKyXsEX2fZ1WDRGal0Vv2DvlxA120WocY9gnJjEgO6oqwYKSkK4g9KxntBJXY9941oL6tYRD-AeO7_PtFsdHCut_swFvzAtfVSRJVEXaBGTf8EATuxSsHibeSStCe63P0cYr-ydz0twMo3NblLc-xDOklV05i82yjJPr5q_UpE_zIGoRPQCz6SxwPoEJ20wZdgV04SFdRNnbRbu1AoAFgZFj_OJlRc9xMP76pKLZacOVdjggGXzvzbNRCXWJUQEzwmlHdFlMU",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104003227929166003303\">RO SI</a>"
+        ]
+      },
+      {
+        "width": 4032,
+        "height": 3024,
+        "photo_reference": "AWn5SU6UjZJWQHeqGQF3I-hPANUL1dBpAEaGIR_bVqVyuVhinHGjmg7JQlj0-qJ_E6PVCQOw3n4U_9ObC9j-tRSBnVr2dJ4DfLGZqDhcIT_CVz-fdKvJgNweLdmj5c9AlpxqwrOucuc9pnpYhO2vv8Kwp3I7FaWWgsAH3oWJzaNJICzm8oVnImCVAsNP8xLWQh_lmpgF70Kwh_j_jYoY6NTaRNh3qja_X-ybQt6To3mlwLjDVll_rzkBbaweKQjQ_20ZI3WSR-5DJTPiUi-rhRBCHYls_j6yYUvpq9qm0jmto25bWwQJtbQy1uUDBqTe4qy4vwU3yaOeVYxH9hD1zriyO5tBUYzG0JNq1m1329P3Chn8hMiIM6o-rEhk1Rr3KiLk26MyreUPDhgtwoh_IidCWSsYGxma-YHuh55u5bfD8uv7DZ0",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102569764725200967936\">Bogdan Dugonik</a>"
+        ]
+      },
+      {
+        "width": 4032,
+        "height": 3024,
+        "photo_reference": "AWn5SU4jHmNhh2O9s7LjFJG28ALKeJfCS18D8gHFv6_UXqPxxx24cs04NR2OBXXyASSzjUmu8uENKL-vJw0843u7bV5Bz3aQFM6mhFVwOw23k1QuLUzuPJudbu6L4mnmjhztS5ngNBf946nO8X1kfcz0n6Rr-e1rYB-nrVGeDxxeh7mm2ZAnN-p0TCONNru72iT8NYAvzflh5qaJAIYVdZQ0LK6lwxTUv4RAdr6nW5cr448wc5jKvL8_391mER3E2AEhCp8RFIkSFBXzVpiBJBcIdG3kzA5JSzjLOIB82jmZYyI8fcuXBP8ei6Tqa2y-2D7j1h1eJxJqSaPw3eIM00XEjz23BZJ2CftWy8wMQDorm1gGL4GcUZxJYezXZ8QZImNP4b9MHq5pxiL3Sv6yIBDqY0gpHafV08tVYO-v8Syx_uEG3VU",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113024132233019456985\">Robert</a>"
+        ]
+      },
+      {
+        "width": 4624,
+        "height": 3468,
+        "photo_reference": "AWn5SU6mtNJgbOibwg9Fw8Rbs2wIFWCp5hprqRFw4BlmlkGD_exYBempbJ9OiHc0RFSTkgXbtI4J8z-mk1Z_XooXxnLWFCHfShsMrM0xPlkGVh_SqPvQhnsOvG6lSZV521yyF-NauWM-GWqYeO8UVTz1lezrgE-msyncQulURCOMRbYADqSOes6_mPc8_s5IGL06SsGgNkLNjSbClhSBQ89HDEW4LaROZRNMkFpFptzvlQfBotYaX6rAA4btLpRX3DA6ebIksetKOVZMd1R8kaxY9YBwHSjJ0j7LvWwFeUpH_r0mQRlSLdf7Ue3RD5GCp7Ul0PD6SBpwfDv1AEF07yTeCYwpnTWgvnjDgLsVpOyqhcQ0ZLlO6F37GtY_NRNM2UeFoWWYegE5ZiVhp9xfrRcfkzY-95URTsXwMtP46hXfvJ5cqg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116147445815039660784\">Willem Versteeg</a>"
+        ]
+      },
+      {
+        "width": 4624,
+        "height": 2604,
+        "photo_reference": "AWn5SU4FAyR0UYXYuZK2VwLTpi7mr128Dx4AwFdpk7ZAkrOYwFD-qsHGj4jazvnLpFQtDzZI4xVJqxoI4-Tjr40TaD3O6VH_FMHpVNdpPsadX6vIoknv-ZrdiqYS5s4jVpVSghP5-z1cUWUTUhqWxBTqNlFT9XeRxrQQdKm47Pnoaa_ENlz_NEpxu0ubtQaTrlUxF-msFs9mnmZTWDZCjBoYPFSHMn0X9FqgxAMNbQU3v0h-PHWL5OpfPmsJBkEpSw269pUHHCGCCkdhYhiywuSSSeEYm4NhYRJIHQOrr6j-BiqIxAHgxFbAZnW84RqKBHuN_mQfKIw2vVirIvwdtbDSyHxrihRtR_5VcsKFTbubUEMjLhCtdtJBU5X7fts_1DhprmrhRTxRgfzASDRc-1CkAopAMNTbKml2bw_fvkeZHd7_BeQx",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107538656811061717871\">Torsten Schutz</a>"
+        ]
+      },
+      {
+        "width": 4608,
+        "height": 3456,
+        "photo_reference": "AWn5SU708_-fVcltHpzQRkuoAFG4NTjdjyeXtpnIJXUVjhUcG3d6ThQ-kXJh3UcGBEaTBKstvl1FL61QxZToF5CJ294i69t_tt_7sCpAVThHm5jC8VggIjgzulisYkTGaf8TbhaKSOd-n4pfyRXwmdgOEBdGHUewBgDKtXc7MjHucJdyq8Kt8kwerpI8-BxDsSlghh0DMPPJqZIXTOHsWgdUW3K66xjtbpevGrHwnmLn4U8qGoniCH0oLcD-_3QzpUp6yM5kwdRsfaoVjU83ywBb-bGUGRYQ3dbIjjIDU9hjgFl6S5hLjylQGhe8gXLlnIfzAcAxXJncfd8ibBYp73GaU4ZPW9UoVaniNp3K_dKIUGawmEwZ1HJelme3uSmiMcj8UcDWfVjuBJCaxCOICjsXM5PVPubXRCFsz_Iv6dLv6cZEy-rf",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105258820937074119997\">Karol Karolkiewicz</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 3024,
+        "photo_reference": "AWn5SU4F_1ybTr7P3lPiJQteVhtDfuNASFbaycEnBA-ojTeTE7a2MqQPjMit6OhK9GbZu2qjoDxsdiPUUw0ynHaQuQqloZ4ZKhNd-XUEruDHcmqwuddK8letMhtqYGmQuBMTeULSXnz98TLtyC3deJU9njOa3w02IDMMcubtZ1ZL8z7wu0yhaPrqRo2y6efyZG3ED9oXik9LEUMqRAlPTg-gyScborEmV1zp80oq9mQZGUYiDxQrEAGRz_qbxNVCOFRTL7lov5qZ9h0I-oGq76G3U6aF7-_MMNztzbk-FhRkwzRd8aFhHaYbL-OwD8BqOsWEwHeRznwp_EBQwbIMGe7pdkt5oer5gvxDN1hsH0wvOkPwM2bcDLNqXrT7BQ49mxG5S4xKDivVnY7c9fg43FCDxPfSIxJ_w07b8Cl5FpE0NeLs5w",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111096374470276499749\">Antonio Campagnoli</a>"
+        ]
+      },
+      {
+        "width": 4032,
+        "height": 3024,
+        "photo_reference": "AWn5SU7zD8QX4aozzAzI6wqkxfxgpLvXLEJcfZbCBm-QhqHoPrLqQOYZ7HCInGYsZChUII4SNDFhu3KtwAqdF5LYhu4WdQw97rwlXaliNJkgpyo0H4W2F5_coNdgN3kTwRD8NVVMA3UeNpzibgp-Pvq_mCNY1h90KFfLLx3cnwnjEl2JttY1dlwncLJzsNRY_sPdvRQhjK_tmJvzfFHEIpQkMBBc6doiDA-e8ZGjjOauzH9anq1vtMoYlbiOUV4k_kqyIV3rJ4v_ANgUi1wi-VksHi90QqBekdIpl_K1wyCZFAM89xA1152D4gPeBSiRuDdAHvxsEvH-cz9atK0IfUJmN7b1nEU0GB-deCAe1DjaQf9bI6CxVYX-dK_dj0rEdOLIzzOpR5HzfgQsVOwbhQwV1MlL4H23xNICluAnaR-2bto",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110072440700985487269\">Daniel Richter</a>"
+        ]
+      },
+      {
+        "width": 4624,
+        "height": 3468,
+        "photo_reference": "AWn5SU6hyCJaBAsKx22VxrlKuFbuRI-KlpVtoPAW-xCBu0rXtdZc_m8QEZWztT7f_CfJUA1j-8kKBY8Nxmgiqv1n42y-1V12qazpptWtPDztv0INyX0HF-emX9RalZZNcyi38qmtFfINxgbOtNjhagm5UnxlUo002wyFl3B5TOy4w1xbgfRZEYAH8G7OtlGLZtydhsiETGjRrhHubPh4lgaQUYIl4RV0FT7YC263LUmvdMkgs-b-KvbyPb1wFhpwqIqBrMBh1l8TMznrGP2quGkECU31rRlP0uh0t68wztoyOyQEutUWUdj52sA6XQsauSVwI6_j54bO4iwkgmd1EaVSLHLWenxd23BQuHCH5cTkb5OZL7IPeU9rT3ZKPPeSJJnTZDtdmDIFtpsahy5D_Fza04Bw3hKhPwmEppFslO1DLy8",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112238027617958265091\">Tadeusz Antczak</a>"
+        ]
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5058,
     "location_id": 91,
     "attribute_id": 8,
@@ -14690,36 +15811,6 @@
     "value_option": null,
     "language_code": "fr",
     "updated_at": "2025-11-19T19:20:27.313+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19443,
-    "location_id": 527,
-    "attribute_id": 23,
-    "value_text": "[{\"author_name\":\"Tibi N\",\"author_url\":\"https://www.google.com/maps/contrib/104641784180490772443/reviews\",\"language\":\"it\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocIRCZFJKXAzqP-EFvGmBuYKhFkfH0MvRqGAPiDy00O1JBmwGA=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":4,\"relative_time_description\":\"2 anni fa\",\"text\":\"Se sei un appassionato di barche, questo è il posto giusto per te, poiché puoi vedere tutti i tipi di barche, da quelle piccole agli yacht di lusso. Il porto collega anche l'area della spiaggia di Rovigno con il centro storico, e c'è una bellissima area pedonale da cui puoi ammirare la collina della vecchia città, il mare e le barche.\",\"time\":1662636919,\"translated\":true},{\"author_name\":\"A. Dream\",\"author_url\":\"https://www.google.com/maps/contrib/104416518916868238714/reviews\",\"language\":\"it\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcVZKWHyK7fEx2IsnLQ0KUu3IKdtzcrBGZqBHRPy7HJUTzCELQ=s128-c0x00000000-cc-rp-mo-ba4\",\"rating\":3,\"relative_time_description\":\"4 anni fa\",\"text\":\"Posto ottimo con una vista bellissima.\\nQuindi 3 stelle per la posizione.\\nMa a mio parere è piuttosto costoso per gli standard croati, soprattutto senza altri servizi come un negozio per marinai o tipiche taverne di frutti di mare 🦞.\\nSpero che in futuro cambi.\",\"time\":1597253740,\"translated\":true},{\"author_name\":\"Philipp K.\",\"author_url\":\"https://www.google.com/maps/contrib/118071363028394439906/reviews\",\"language\":\"it\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a/ACg8ocJFxO8uPHPFGtHBeDnUEZzaME9h3pIcTPDPgJj3SwPvHJ0Ckw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"4 anni fa\",\"text\":\"Vista splendida sul porto di Rovigno, passeggia intorno agli hotel sulla riva. \\\"Parcheggia\\\" la tua nave ed entra in città.\",\"time\":1617732957,\"translated\":true},{\"author_name\":\"Kiki Zd\",\"author_url\":\"https://www.google.com/maps/contrib/113425725451610275134/reviews\",\"language\":\"it\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjU-IzmKrPRrWSu4tKkE-dXhtY7P_4gp-kBq8rFnQDAw5hG383FZ=s128-c0x00000000-cc-rp-mo\",\"rating\":5,\"relative_time_description\":\"un anno fa\",\"text\":\"Un mese fa, il mio partner ha avuto un incidente in barca ed è stato portato all'ospedale di Pola per un intervento chirurgico, dove ha trascorso due giorni. La nostra barca era all'ACI Marina Rovinj in quel momento e siamo rimasti colpiti dalla cura e dal supporto delle persone - dallo staff del porto, alla receptionist e al manager. Si sono assicurati che la barca fosse al sicuro, si sono informati regolarmente sullo stato di salute del mio partner e non ci hanno addebitato il posto barca.\",\"time\":1721732479,\"translated\":true},{\"author_name\":\"Radoslav Dejanović\",\"author_url\":\"https://www.google.com/maps/contrib/109917831481239113296/reviews\",\"language\":\"it\",\"original_language\":\"en\",\"profile_photo_url\":\"https://lh3.googleusercontent.com/a-/ALV-UjXM2Jm_hQ5as4QyGkAiagaJCpqatcgdyEFnWI83NPaPjngdpX3Onw=s128-c0x00000000-cc-rp-mo-ba6\",\"rating\":5,\"relative_time_description\":\"4 anni fa\",\"text\":\"Nuovo, splendente e a pochi passi dal centro storico.\",\"time\":1606589378,\"translated\":true}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-07-23T18:13:22.879+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19445,
-    "location_id": 527,
-    "attribute_id": 23,
-    "value_text": "Ako ste ljubitelj brodova, ovo je pravo mjesto za vas, jer možete vidjeti sve vrste brodova, od malih do luksuznih jahti. Marina također povezuje područje plaže Rovinj i stari grad, a postoji jako lijepa pješačka zona s koje možete diviti starom gradskom brdu, moru i brodovima.\n\nSjajno mjesto s prekrasnim pogledom. Dakle, 3 zvjezdice za lokaciju. No, po mom mišljenju, to je prilično skupo za hrvatski standard, posebno bez drugih usluga poput mornarske trgovine ili tipičnih primorskih taverna. Nadam se da će se to promijeniti u budućnosti.\n\nPrekrasan pogled na luku Rovinj, prošetajte oko hotela uz obalu. \"Parkirajte\" svoj brod i uđite u grad.\n\nPrije mjesec dana, moj partner je doživio nesreću na brodu i odveden je u bolnicu u Puli na operaciju, gdje je proveo dva dana. Naš brod je tada bio u ACI Marini Rovinj i bili smo dirnuti pažnjom i podrškom ljudi - od osoblja marine, do recepcionara i menadžera. Pobrinuli su se da brod bude siguran, redovno su se raspitivali o zdravstvenom stanju mog partnera i nisu nam naplatili vez.\n\nNova, sjajna i samo kratka šetnja udaljena od starog grada.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-07-23T18:13:39.087+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -18493,21 +19584,6 @@
     "locked": false
   },
   {
-    "id": 19154,
-    "location_id": 527,
-    "attribute_id": 5,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, 52210, Rovinj, Croatia",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:55.028+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 22599,
     "location_id": 665,
     "attribute_id": 5,
@@ -18517,111 +19593,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:20:31.914+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19122,
-    "location_id": 527,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0775067302915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:38.521+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19124,
-    "location_id": 527,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0748087697085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:38.912+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19125,
-    "location_id": 527,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6351841197085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:39.115+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19126,
-    "location_id": 527,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:39.314+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19127,
-    "location_id": 527,
-    "attribute_id": 18,
-    "value_text": "ChIJ_yy5qprAfEcRVmWc_EEUFyg",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:39.511+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19128,
-    "location_id": 527,
-    "attribute_id": 19,
-    "value_text": "3JGP+6C Rovinj, Croatia",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:39.711+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19155,
-    "location_id": 527,
-    "attribute_id": 29,
-    "value_text": "http://www.aci-marinas.com/aci_marina/aci-marina-rovinj/",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:55.238+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -18701,21 +19672,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19120,
-    "location_id": 527,
-    "attribute_id": 6,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.075565,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:38.124+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -18872,21 +19828,6 @@
     "locked": false
   },
   {
-    "id": 19121,
-    "location_id": 527,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.636093,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:38.32+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5192,
     "location_id": 98,
     "attribute_id": 16,
@@ -18931,36 +19872,6 @@
     "locked": false
   },
   {
-    "id": 19119,
-    "location_id": 527,
-    "attribute_id": 4,
-    "value_text": "ACI Rovinj, <span class=\"street-address\">Šetalište Vijeća Europe 1</span>, <span class=\"postal-code\">52210</span>, <span class=\"locality\">Rovinj</span>, <span class=\"country-name\">Croatia</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:37.919+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19123,
-    "location_id": 527,
-    "attribute_id": 9,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6378820802915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:38.712+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 56899,
     "location_id": 665,
     "attribute_id": 107,
@@ -18974,50 +19885,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19130,
-    "location_id": 527,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": true,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:40.103+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 19132,
-    "location_id": 527,
-    "attribute_id": 16,
-    "value_text": "[\"Monday: 7:30 AM – 9:30 PM\",\"Tuesday: 7:30 AM – 9:30 PM\",\"Wednesday: 7:30 AM – 9:30 PM\",\"Thursday: 7:30 AM – 9:30 PM\",\"Friday: 7:30 AM – 9:30 PM\",\"Saturday: 7:30 AM – 9:30 PM\",\"Sunday: 7:30 AM – 9:30 PM\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:40.501+00:00",
-    "name": null,
-    "value_json": [
-      "Monday: 7:30 AM – 9:30 PM",
-      "Tuesday: 7:30 AM – 9:30 PM",
-      "Wednesday: 7:30 AM – 9:30 PM",
-      "Thursday: 7:30 AM – 9:30 PM",
-      "Friday: 7:30 AM – 9:30 PM",
-      "Saturday: 7:30 AM – 9:30 PM",
-      "Sunday: 7:30 AM – 9:30 PM",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -19573,40 +20440,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-21T05:35:26.526+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63758,
-    "location_id": 3149,
-    "attribute_id": 30,
-    "value_text": "091 202 2079",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-21T05:35:27.122+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56904,
-    "location_id": 87,
-    "attribute_id": 107,
-    "value_text": "11034 ",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-15T22:09:34.386+00:00",
     "name": null,
     "value_json": {
       "ai": false
