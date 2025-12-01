@@ -7,20 +7,6 @@
     "active": true
   },
   {
-    "id": 20,
-    "name_fr": "attraction touristique",
-    "icon": "tourist_attraction",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 32,
-    "name_fr": "hôpital",
-    "icon": "hospital",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 24,
     "name_fr": "Musée",
     "icon": "museum",
@@ -31,13 +17,6 @@
     "id": 34,
     "name_fr": "concessionnaire automobile",
     "icon": "car_dealer",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 22,
-    "name_fr": "Point d'intérêt",
-    "icon": "point_of_interest",
     "sort_order": 9999,
     "active": true
   },
@@ -56,23 +35,16 @@
     "active": true
   },
   {
-    "id": 21,
-    "name_fr": "Parc",
-    "icon": "park",
-    "sort_order": 9999,
+    "id": 188,
+    "name_fr": null,
+    "icon": "🚨",
+    "sort_order": 50,
     "active": true
   },
   {
-    "id": 25,
-    "name_fr": "logement",
-    "icon": "lodging",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 88,
-    "name_fr": "supermarché",
-    "icon": "supermarket",
+    "id": 22,
+    "name_fr": "Point d'intérêt",
+    "icon": "point_of_interest",
     "sort_order": 9999,
     "active": true
   },
@@ -84,23 +56,16 @@
     "active": true
   },
   {
-    "id": 29,
-    "name_fr": "Bar",
-    "icon": "bar",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 184,
-    "name_fr": "médecin",
-    "icon": "doctor",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 23,
     "name_fr": "établissement",
     "icon": "establishment",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 20,
+    "name_fr": "attraction touristique",
+    "icon": "tourist_attraction",
     "sort_order": 9999,
     "active": true
   },
@@ -168,20 +133,6 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_fr": "Restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 95,
-    "name_fr": "Caractéristique naturelle",
-    "icon": "natural_feature",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 92,
     "name_fr": "Agence de voyage",
     "icon": "travel_agency",
@@ -196,9 +147,9 @@
     "active": true
   },
   {
-    "id": 87,
-    "name_fr": "station-service",
-    "icon": "gas_station",
+    "id": 21,
+    "name_fr": "Parc",
+    "icon": "park",
     "sort_order": 9999,
     "active": true
   },
@@ -210,9 +161,44 @@
     "active": true
   },
   {
-    "id": 90,
-    "name_fr": "pharmacie",
-    "icon": "pharmacy",
+    "id": 87,
+    "name_fr": "station-service",
+    "icon": "gas_station",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 88,
+    "name_fr": "supermarché",
+    "icon": "supermarket",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name_fr": "Restaurant",
+    "icon": "restaurant",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 95,
+    "name_fr": "Caractéristique naturelle",
+    "icon": "natural_feature",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 25,
+    "name_fr": "logement",
+    "icon": "lodging",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 29,
+    "name_fr": "Bar",
+    "icon": "bar",
     "sort_order": 9999,
     "active": true
   },
@@ -256,6 +242,27 @@
     "name_fr": null,
     "icon": "Marina oder Hafen",
     "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 32,
+    "name_fr": "hôpital",
+    "icon": "hospital",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 184,
+    "name_fr": "médecin",
+    "icon": "doctor",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 90,
+    "name_fr": "pharmacie",
+    "icon": "pharmacy",
+    "sort_order": 9999,
     "active": true
   },
   {
