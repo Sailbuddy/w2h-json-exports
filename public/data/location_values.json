@@ -11217,23 +11217,6 @@
     "locked": false
   },
   {
-    "id": 63845,
-    "location_id": 3397,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:49:32.473+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 18217,
     "location_id": 517,
     "attribute_id": 22,
@@ -11792,23 +11775,6 @@
     "locked": false
   },
   {
-    "id": 63889,
-    "location_id": 3397,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:49:56.753+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 52828,
     "location_id": 2049,
     "attribute_id": 15,
@@ -11888,6 +11854,52 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63845,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "name": null,
+    "value_json": [
+      "ACI Marina Rovinj",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63889,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "name": null,
+    "value_json": [
+      "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -12550,16 +12562,22 @@
     "id": 63894,
     "location_id": 3397,
     "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-29T22:49:59.952+00:00",
+    "updated_at": "2025-11-30T18:31:40.285+00:00",
     "name": null,
-    "value_json": {
-      "ai": false
-    },
+    "value_json": [
+      "https://maps.google.com/?cid=2888799959625000278",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -14376,23 +14394,6 @@
     "locked": false
   },
   {
-    "id": 63899,
-    "location_id": 3397,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:50:03.602+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63903,
     "location_id": 3397,
     "attribute_id": 30,
@@ -14421,6 +14422,29 @@
     "updated_at": "2025-11-19T19:10:48.543+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63899,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "name": null,
+    "value_json": [
+      "052 813 133",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -15787,6 +15811,44 @@
     "locked": false
   },
   {
+    "id": 63907,
+    "location_id": 3397,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": true,
+        "SO": false,
+        "SW": false
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": true,
+        "SO": false,
+        "SW": false
+      },
+      "wind_relevant": true
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 22587,
     "location_id": 665,
     "attribute_id": 12,
@@ -16702,6 +16764,26 @@
     "locked": false
   },
   {
+    "id": 63908,
+    "location_id": 3397,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-30T18:20:37.038+00:00",
+    "name": null,
+    "value_json": [
+      "Achtung bei westlichen Stürmen. Starker Schwell ",
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 20484,
     "location_id": 88,
     "attribute_id": 13,
@@ -17035,6 +17117,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63913,
+    "location_id": 3397,
+    "attribute_id": 107,
+    "value_text": "14308",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "name": "Pazin",
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -20389,57 +20488,6 @@
     "value_option": null,
     "language_code": "hr",
     "updated_at": "2025-11-21T05:35:25.269+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63755,
-    "location_id": 3149,
-    "attribute_id": 30,
-    "value_text": "091 202 2079",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-21T05:35:25.924+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63756,
-    "location_id": 3149,
-    "attribute_id": 30,
-    "value_text": "091 202 2079",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-21T05:35:26.052+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63757,
-    "location_id": 3149,
-    "attribute_id": 30,
-    "value_text": "091 202 2079",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-21T05:35:26.526+00:00",
     "name": null,
     "value_json": {
       "ai": false
