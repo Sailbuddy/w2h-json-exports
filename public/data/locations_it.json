@@ -232,14 +232,6 @@
     "description_it": null
   },
   {
-    "id": 2901,
-    "wind2horizon_id": null,
-    "lat": 45.5355223,
-    "lng": 13.6717353,
-    "name_it": "Petrol, BS Izola - Industrijska",
-    "description_it": null
-  },
-  {
     "id": 2899,
     "wind2horizon_id": null,
     "lat": 45.5371509,
@@ -488,12 +480,12 @@
     "description_it": null
   },
   {
-    "id": 2533,
+    "id": 2892,
     "wind2horizon_id": null,
-    "lat": 45.52856389999999,
-    "lng": 13.5683639,
-    "name_it": "Piazza Tartini",
-    "description_it": "Vivace piazza con monumento centrale, circondata da bar e ristoranti."
+    "lat": 45.5286508,
+    "lng": 13.5686185,
+    "name_it": "Piazza Giuseppe Tartini",
+    "description_it": null
   },
   {
     "id": 91,
@@ -557,14 +549,6 @@
     "lat": 45.1507961,
     "lng": 13.5994712,
     "name_it": "Restoran “Trošt”",
-    "description_it": null
-  },
-  {
-    "id": 2892,
-    "wind2horizon_id": null,
-    "lat": 45.5286508,
-    "lng": 13.5686185,
-    "name_it": "Piazza Giuseppe Tartini",
     "description_it": null
   },
   {
@@ -800,20 +784,20 @@
     "description_it": "Popolare località sciistica con ampia scelta di piste entusiasmanti per sci e snowboard."
   },
   {
-    "id": 2531,
-    "wind2horizon_id": null,
-    "lat": 45.527523,
-    "lng": 13.5681324,
-    "name_it": "Museo del mare Sergej Mašera Pirano",
-    "description_it": "Palazzo risalente al 1800 che ospita un museo marittimo con mostre navali, fotografie e modellini di navi."
-  },
-  {
     "id": 3395,
     "wind2horizon_id": null,
     "lat": 37.6794215,
     "lng": 20.7827375,
     "name_it": "paltakis beach",
     "description_it": null
+  },
+  {
+    "id": 2531,
+    "wind2horizon_id": null,
+    "lat": 45.527523,
+    "lng": 13.5681324,
+    "name_it": "Museo del mare Sergej Mašera Pirano",
+    "description_it": "Palazzo risalente al 1800 che ospita un museo marittimo con mostre navali, fotografie e modellini di navi."
   },
   {
     "id": 3205,
@@ -856,14 +840,6 @@
     "description_it": null
   },
   {
-    "id": 2913,
-    "wind2horizon_id": null,
-    "lat": 45.43249,
-    "lng": 13.530883,
-    "name_it": "Shell",
-    "description_it": null
-  },
-  {
     "id": 3396,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -872,11 +848,11 @@
     "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
-    "id": 3220,
+    "id": 2913,
     "wind2horizon_id": null,
-    "lat": 44.8667913,
-    "lng": 13.8462449,
-    "name_it": "Specijalna bolnica Sveta Katarina Zabok",
+    "lat": 45.43249,
+    "lng": 13.530883,
+    "name_it": "Shell",
     "description_it": null
   },
   {
@@ -885,6 +861,14 @@
     "lat": 44.82705079999999,
     "lng": 13.8790314,
     "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3220,
+    "wind2horizon_id": null,
+    "lat": 44.8667913,
+    "lng": 13.8462449,
+    "name_it": "Specijalna bolnica Sveta Katarina Zabok",
     "description_it": null
   },
   {
@@ -917,6 +901,14 @@
     "lat": 45.075565,
     "lng": 13.636093,
     "name_it": "ACI Marina Rovinj",
+    "description_it": null
+  },
+  {
+    "id": 2941,
+    "wind2horizon_id": null,
+    "lat": 44.834197,
+    "lng": 13.922191,
+    "name_it": "Shell",
     "description_it": null
   },
   {
@@ -968,14 +960,6 @@
     "description_it": null
   },
   {
-    "id": 2941,
-    "wind2horizon_id": null,
-    "lat": 44.834197,
-    "lng": 13.922191,
-    "name_it": "Shell",
-    "description_it": null
-  },
-  {
     "id": 2942,
     "wind2horizon_id": null,
     "lat": 44.8143153,
@@ -1006,6 +990,14 @@
     "lng": 13.8426913,
     "name_it": "INA",
     "description_it": null
+  },
+  {
+    "id": 2533,
+    "wind2horizon_id": null,
+    "lat": 45.52856389999999,
+    "lng": 13.5683639,
+    "name_it": "Piazza Tartini",
+    "description_it": "Vivace piazza con monumento centrale, circondata da bar e ristoranti."
   },
   {
     "id": 3234,
@@ -1048,6 +1040,22 @@
     "description_it": null
   },
   {
+    "id": 2901,
+    "wind2horizon_id": null,
+    "lat": 45.5355223,
+    "lng": 13.6717353,
+    "name_it": "Petrol, BS Izola - Industrijska",
+    "description_it": null
+  },
+  {
+    "id": 3007,
+    "wind2horizon_id": null,
+    "lat": 44.118574,
+    "lng": 15.271994,
+    "name_it": "Shell BS Zadar Crno",
+    "description_it": null
+  },
+  {
     "id": 3309,
     "wind2horizon_id": null,
     "lat": 43.9381175,
@@ -1064,19 +1072,27 @@
     "description_it": null
   },
   {
-    "id": 3007,
-    "wind2horizon_id": null,
-    "lat": 44.118574,
-    "lng": 15.271994,
-    "name_it": "Shell BS Zadar Crno",
-    "description_it": null
-  },
-  {
     "id": 2963,
     "wind2horizon_id": null,
     "lat": 45.0244483,
     "lng": 14.5707578,
     "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3156,
+    "wind2horizon_id": null,
+    "lat": 43.17987,
+    "lng": 16.57961,
+    "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 3010,
+    "wind2horizon_id": null,
+    "lat": 44.114187,
+    "lng": 15.40713,
+    "name_it": "Shell",
     "description_it": null
   },
   {
@@ -1117,14 +1133,6 @@
     "lat": 45.3564626,
     "lng": 14.4874776,
     "name_it": "Ina Čavle",
-    "description_it": null
-  },
-  {
-    "id": 3010,
-    "wind2horizon_id": null,
-    "lat": 44.114187,
-    "lng": 15.40713,
-    "name_it": "Shell",
     "description_it": null
   },
   {
@@ -1184,19 +1192,19 @@
     "description_it": null
   },
   {
-    "id": 2968,
-    "wind2horizon_id": null,
-    "lat": 45.0241543,
-    "lng": 14.5737785,
-    "name_it": "Krk boat fuel station",
-    "description_it": null
-  },
-  {
     "id": 3004,
     "wind2horizon_id": null,
     "lat": 44.140518,
     "lng": 15.228063,
     "name_it": "Shell",
+    "description_it": null
+  },
+  {
+    "id": 2968,
+    "wind2horizon_id": null,
+    "lat": 45.0241543,
+    "lng": 14.5737785,
+    "name_it": "Krk boat fuel station",
     "description_it": null
   },
   {
@@ -1256,19 +1264,19 @@
     "description_it": null
   },
   {
-    "id": 3240,
-    "wind2horizon_id": null,
-    "lat": 45.3336307,
-    "lng": 14.4276439,
-    "name_it": "KBC Rijeka, Klinika za otorinolaringologiju i kirurgiju glave i vrata",
-    "description_it": null
-  },
-  {
     "id": 2995,
     "wind2horizon_id": null,
     "lat": 44.19007819999999,
     "lng": 15.1805238,
     "name_it": "Petrol",
+    "description_it": null
+  },
+  {
+    "id": 3240,
+    "wind2horizon_id": null,
+    "lat": 45.3336307,
+    "lng": 14.4276439,
+    "name_it": "KBC Rijeka, Klinika za otorinolaringologiju i kirurgiju glave i vrata",
     "description_it": null
   },
   {
@@ -1512,14 +1520,6 @@
     "description_it": null
   },
   {
-    "id": 3145,
-    "wind2horizon_id": null,
-    "lat": 43.50680089999999,
-    "lng": 16.5069299,
-    "name_it": "NORMA d.o.o.",
-    "description_it": null
-  },
-  {
     "id": 3147,
     "wind2horizon_id": null,
     "lat": 43.549903,
@@ -1528,11 +1528,11 @@
     "description_it": null
   },
   {
-    "id": 3156,
+    "id": 3145,
     "wind2horizon_id": null,
-    "lat": 43.17987,
-    "lng": 16.57961,
-    "name_it": "Shell",
+    "lat": 43.50680089999999,
+    "lng": 16.5069299,
+    "name_it": "NORMA d.o.o.",
     "description_it": null
   },
   {
@@ -1720,14 +1720,6 @@
     "description_it": null
   },
   {
-    "id": 3149,
-    "wind2horizon_id": null,
-    "lat": 43.589227,
-    "lng": 16.577613,
-    "name_it": "Shell",
-    "description_it": null
-  },
-  {
     "id": 3192,
     "wind2horizon_id": null,
     "lat": 45.436877,
@@ -1741,6 +1733,14 @@
     "lat": 45.6463447,
     "lng": 13.7893646,
     "name_it": "Sanatorio Triestino",
+    "description_it": null
+  },
+  {
+    "id": 3149,
+    "wind2horizon_id": null,
+    "lat": 43.589227,
+    "lng": 16.577613,
+    "name_it": "Shell",
     "description_it": null
   },
   {
