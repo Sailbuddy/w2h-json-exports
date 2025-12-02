@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_de": "Restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 95,
     "name_de": "Naturmerkmal",
     "icon": "natural_feature",
@@ -192,6 +185,13 @@
     "id": 25,
     "name_de": "Unterkunft",
     "icon": "lodging",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name_de": "Restaurant",
+    "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
@@ -231,6 +231,20 @@
     "active": true
   },
   {
+    "id": 190,
+    "name_de": "politisch",
+    "icon": "political",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 189,
+    "name_de": "Ort",
+    "icon": "locality",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 179,
     "name_de": "Route",
     "icon": "route",
@@ -242,6 +256,20 @@
     "name_de": "Marina",
     "icon": "Marina oder Hafen",
     "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 191,
+    "name_de": "Speicher",
+    "icon": "storage",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 192,
+    "name_de": "Bäckerei",
+    "icon": "bakery",
+    "sort_order": 9999,
     "active": true
   },
   {
