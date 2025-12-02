@@ -11262,23 +11262,6 @@
     "locked": false
   },
   {
-    "id": 63849,
-    "location_id": 3397,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:34.531+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 18220,
     "location_id": 517,
     "attribute_id": 22,
@@ -11290,100 +11273,6 @@
     "updated_at": "2025-11-19T19:18:17.821+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63853,
-    "location_id": 3397,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:38.502+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63857,
-    "location_id": 3397,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:49:42.507+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Passeggiata del Consiglio d'Europa",
-        "short_name": "Passeggiata del Consiglio d'Europa"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovigno",
-        "short_name": "Rovigno"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Città di Rovigno",
-        "short_name": "Città di Rovigno"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Regione Istriana",
-        "short_name": "Regione Istriana"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croazia",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -11422,23 +11311,6 @@
     "locked": false
   },
   {
-    "id": 63861,
-    "location_id": 3397,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4.4,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:45.939+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 59737,
     "location_id": 2531,
     "attribute_id": 30,
@@ -11465,67 +11337,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:23:40.631+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63865,
-    "location_id": 3397,
-    "attribute_id": 24,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:49:48.542+00:00",
-    "name": null,
-    "value_json": [
-      "Etablissement",
-      "Sehenswürdigkeit",
-      "Reisebüro",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63869,
-    "location_id": 3397,
-    "attribute_id": 24,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:50.784+00:00",
-    "name": null,
-    "value_json": [
-      "etabliranje",
-      "zanimljivo_mjesto",
-      "putnička_agencija",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63873,
-    "location_id": 3397,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0775067302915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:51.645+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -11724,57 +11535,6 @@
     "locked": false
   },
   {
-    "id": 63877,
-    "location_id": 3397,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:52.48+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63881,
-    "location_id": 3397,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": false,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:53.294+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63885,
-    "location_id": 3397,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 397,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:54.524+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 52828,
     "location_id": 2049,
     "attribute_id": 15,
@@ -11790,6 +11550,23 @@
     "locked": false
   },
   {
+    "id": 63853,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:29.298+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63893,
     "location_id": 3397,
     "attribute_id": 28,
@@ -11798,58 +11575,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:59.252+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63897,
-    "location_id": 3397,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:50:01.446+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63901,
-    "location_id": 3397,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:50:04.5+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63905,
-    "location_id": 3397,
-    "attribute_id": 29,
-    "value_text": "http://www.aci-marinas.com/aci_marina/aci-marina-rovinj/",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:50:06.195+00:00",
+    "updated_at": "2025-12-01T20:41:55.251+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -11861,12 +11587,12 @@
     "id": 63845,
     "location_id": 3397,
     "attribute_id": 13,
-    "value_text": null,
+    "value_text": "ACI Marina Rovinj",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "updated_at": "2025-12-01T20:41:23.334+00:00",
     "name": null,
     "value_json": [
       "ACI Marina Rovinj",
@@ -11881,18 +11607,54 @@
     "locked": false
   },
   {
-    "id": 63889,
+    "id": 63849,
     "location_id": 3397,
-    "attribute_id": 28,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:41:26.325+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63861,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.4,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:40.884+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63865,
+    "location_id": 3397,
+    "attribute_id": 24,
     "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "updated_at": "2025-12-01T20:41:44.119+00:00",
     "name": null,
     "value_json": [
-      "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+      "Einrichtung",
+      "Interessenspunkt",
+      "Reisebüro",
       {
         "ai": false
       },
@@ -11949,6 +11711,139 @@
     "locked": false
   },
   {
+    "id": 63869,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:41:46.644+00:00",
+    "name": null,
+    "value_json": [
+      "ustanova",
+      "zanimljivo_mjesto",
+      "putnička_agencija",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63873,
+    "location_id": 3397,
+    "attribute_id": 8,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 45.0775067302915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.19+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63877,
+    "location_id": 3397,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.767+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63881,
+    "location_id": 3397,
+    "attribute_id": 14,
+    "value_text": null,
+    "value_bool": false,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:48.341+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63885,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:49.278+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63889,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:41:52.683+00:00",
+    "name": null,
+    "value_json": [
+      "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63897,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "Je suis ein KI-Sprachmodell und kann keine Links öffnen oder darauf zugreifen.",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:58.612+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5251,
     "location_id": 99,
     "attribute_id": 20,
@@ -11960,6 +11855,23 @@
     "updated_at": "2025-11-19T19:15:16.391+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63901,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:42:01.362+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12124,6 +12036,23 @@
     "locked": false
   },
   {
+    "id": 63905,
+    "location_id": 3397,
+    "attribute_id": 29,
+    "value_text": "http://www.aci-marinas.com/aci_marina/aci-marina-rovinj/",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:42:02.992+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18248,
     "location_id": 517,
     "attribute_id": 26,
@@ -12150,23 +12079,6 @@
     "updated_at": "2025-11-19T19:18:28.103+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63846,
-    "location_id": 3397,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:32.71+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -12205,156 +12117,6 @@
     "locked": false
   },
   {
-    "id": 63850,
-    "location_id": 3397,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:49:35.134+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63854,
-    "location_id": 3397,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:39.206+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63858,
-    "location_id": 3397,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:43.607+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Ville de Rovinj",
-        "short_name": "Ville de Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Comitat d'Istrie",
-        "short_name": "Comitat d'Istrie"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63862,
-    "location_id": 3397,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:49:46.601+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63866,
-    "location_id": 3397,
-    "attribute_id": 24,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:48.761+00:00",
-    "name": null,
-    "value_json": [
-      "establishment",
-      "point_of_interest",
-      "travel_agency",
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 52829,
     "location_id": 2049,
     "attribute_id": 16,
@@ -12366,40 +12128,6 @@
     "updated_at": "2025-10-29T16:06:42.652+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63870,
-    "location_id": 3397,
-    "attribute_id": 4,
-    "value_text": "ACI Rovinj, <span class=\"street-address\">Šetalište Vijeća Europe 1</span>, <span class=\"postal-code\">52210</span>, <span class=\"locality\">Rovinj</span>, <span class=\"country-name\">Croatia</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:51.004+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63874,
-    "location_id": 3397,
-    "attribute_id": 9,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6378820802915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:51.857+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -12419,138 +12147,15 @@
     "locked": false
   },
   {
-    "id": 63878,
+    "id": 63846,
     "location_id": 3397,
-    "attribute_id": 18,
-    "value_text": "ChIJ_yy5qprAfEcRVmWc_EEUFyg",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:52.689+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63882,
-    "location_id": 3397,
-    "attribute_id": 15,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:53.499+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 0,
-          "time": "0730"
-        },
-        "close": {
-          "day": 0,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 1,
-          "time": "0730"
-        },
-        "close": {
-          "day": 1,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "0730"
-        },
-        "close": {
-          "day": 2,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "0730"
-        },
-        "close": {
-          "day": 3,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "0730"
-        },
-        "close": {
-          "day": 4,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "0730"
-        },
-        "close": {
-          "day": 5,
-          "time": "2130"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "0730"
-        },
-        "close": {
-          "day": 6,
-          "time": "2130"
-        }
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63886,
-    "location_id": 3397,
-    "attribute_id": 26,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 397,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:49:55.098+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63890,
-    "location_id": 3397,
-    "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "en",
-    "updated_at": "2025-11-29T22:49:56.951+00:00",
+    "updated_at": "2025-12-01T20:41:23.489+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -12559,25 +12164,53 @@
     "locked": false
   },
   {
-    "id": 63894,
+    "id": 63850,
     "location_id": 3397,
-    "attribute_id": 25,
+    "attribute_id": 27,
     "value_text": null,
     "value_bool": null,
-    "value_number": null,
+    "value_number": 60,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-30T18:31:40.285+00:00",
+    "updated_at": "2025-12-01T20:41:27.872+00:00",
     "name": null,
-    "value_json": [
-      "https://maps.google.com/?cid=2888799959625000278",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63854,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:41:29.833+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63862,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:41.575+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12684,6 +12317,31 @@
     "locked": false
   },
   {
+    "id": 63866,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:44.249+00:00",
+    "name": null,
+    "value_json": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4912,
     "location_id": 87,
     "attribute_id": 22,
@@ -12695,6 +12353,40 @@
     "updated_at": "2025-11-19T19:17:23.121+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63870,
+    "location_id": 3397,
+    "attribute_id": 4,
+    "value_text": "ACI Rovinj, <span class=\"street-address\">Šetalište Vijeća Europe 1</span>, <span class=\"postal-code\">52210</span>, <span class=\"locality\">Rovinj</span>, <span class=\"country-name\">Croatia</span>",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:46.777+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63874,
+    "location_id": 3397,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.6378820802915,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.343+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -12994,6 +12686,80 @@
     "locked": false
   },
   {
+    "id": 63878,
+    "location_id": 3397,
+    "attribute_id": 18,
+    "value_text": "ChIJ_yy5qprAfEcRVmWc_EEUFyg",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.92+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63886,
+    "location_id": 3397,
+    "attribute_id": 26,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 397,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:50.151+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63890,
+    "location_id": 3397,
+    "attribute_id": 28,
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:52.861+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63894,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:41:56.021+00:00",
+    "name": null,
+    "value_json": [
+      "https://maps.google.com/?cid=2888799959625000278",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18228,
     "location_id": 517,
     "attribute_id": 24,
@@ -13017,23 +12783,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63847,
-    "location_id": 3397,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovigno",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:49:33.225+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -13166,23 +12915,6 @@
     "locked": false
   },
   {
-    "id": 63851,
-    "location_id": 3397,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 60,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:35.338+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 18231,
     "location_id": 517,
     "attribute_id": 24,
@@ -13246,6 +12978,23 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:22:32.539+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63851,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:28.007+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -13458,23 +13207,6 @@
     "locked": false
   },
   {
-    "id": 63848,
-    "location_id": 3397,
-    "attribute_id": 13,
-    "value_text": "ACI Marina Rovinj",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:34.01+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 27039,
     "location_id": 899,
     "attribute_id": 31,
@@ -13568,23 +13300,6 @@
     "locked": false
   },
   {
-    "id": 63852,
-    "location_id": 3397,
-    "attribute_id": 27,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:49:36.051+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 18250,
     "location_id": 517,
     "attribute_id": 26,
@@ -13611,83 +13326,6 @@
     "updated_at": "2025-11-19T19:18:37.666+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63856,
-    "location_id": 3397,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-29T22:49:40.795+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [],
-        "long_name": "ACI Rovinj",
-        "short_name": ""
-      },
-      {
-        "types": [
-          "street_number"
-        ],
-        "long_name": "1",
-        "short_name": "1"
-      },
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Šetalište Vijeća Europe",
-        "short_name": "Šetalište Vijeća Europe"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Rovinj",
-        "short_name": "Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Grad Rovinj",
-        "short_name": "Grad Rovinj"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Istarska županija",
-        "short_name": "Istarska županija"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatia",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "52210",
-        "short_name": "52210"
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -13722,23 +13360,6 @@
     "locked": false
   },
   {
-    "id": 63860,
-    "location_id": 3397,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-29T22:49:45.724+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63708,
     "location_id": 3149,
     "attribute_id": 27,
@@ -13752,45 +13373,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63864,
-    "location_id": 3397,
-    "attribute_id": 22,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 4,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:47.751+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63868,
-    "location_id": 3397,
-    "attribute_id": 24,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:50.067+00:00",
-    "name": null,
-    "value_json": [
-      "établissement",
-      "point_d'intérêt",
-      "agence_de_voyage",
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -13825,40 +13407,6 @@
     "locked": false
   },
   {
-    "id": 63872,
-    "location_id": 3397,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.636093,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:51.433+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63876,
-    "location_id": 3397,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6351841197085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:49:52.279+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63709,
     "location_id": 3149,
     "attribute_id": 27,
@@ -13887,6 +13435,40 @@
     "updated_at": "2025-11-19T19:18:36.838+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63852,
+    "location_id": 3397,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:28.578+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63860,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:41:40.738+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -13936,6 +13518,23 @@
     "locked": false
   },
   {
+    "id": 63864,
+    "location_id": 3397,
+    "attribute_id": 22,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 4.4,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:41:42.701+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18264,
     "location_id": 517,
     "attribute_id": 30,
@@ -13962,6 +13561,31 @@
     "updated_at": "2025-11-19T19:17:29.606+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63868,
+    "location_id": 3397,
+    "attribute_id": 24,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:45.778+00:00",
+    "name": null,
+    "value_json": [
+      "établissement",
+      "point d'intérêt",
+      "agence de voyage",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -14041,6 +13665,40 @@
     "locked": false
   },
   {
+    "id": 63872,
+    "location_id": 3397,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.636093,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.059+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63876,
+    "location_id": 3397,
+    "attribute_id": 11,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.6351841197085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:47.621+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18266,
     "location_id": 517,
     "attribute_id": 30,
@@ -14073,6 +13731,21 @@
     "locked": false
   },
   {
+    "id": 4995,
+    "location_id": 90,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 16.3127641,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-19T19:10:48.543+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63855,
     "location_id": 3397,
     "attribute_id": 31,
@@ -14081,7 +13754,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-29T22:49:40.586+00:00",
+    "updated_at": "2025-12-01T20:41:32.46+00:00",
     "name": null,
     "value_json": [
       {
@@ -14091,56 +13764,59 @@
       },
       {
         "types": [
-          "street_number"
+          "hausnummer"
         ],
         "long_name": "1",
         "short_name": "1"
       },
       {
         "types": [
-          "route"
+          "straße"
         ],
         "long_name": "Šetalište Vijeća Europe",
         "short_name": "Šetalište Vijeća Europe"
       },
       {
         "types": [
-          "locality",
-          "political"
+          "ort",
+          "politisch"
         ],
         "long_name": "Rovinj",
         "short_name": "Rovinj"
       },
       {
         "types": [
-          "administrative_area_level_2",
-          "political"
+          "verwaltungseinheit_level_2",
+          "politisch"
         ],
         "long_name": "Stadt Rovinj",
         "short_name": "Stadt Rovinj"
       },
       {
         "types": [
-          "administrative_area_level_1",
-          "political"
+          "verwaltungseinheit_level_1",
+          "politisch"
         ],
-        "long_name": "Gespanschaft Istrien",
-        "short_name": "Gespanschaft Istrien"
+        "long_name": "Istrische Gespanschaft",
+        "short_name": "Istrische Gespanschaft"
       },
       {
         "types": [
-          "country",
-          "political"
+          "land",
+          "politisch"
         ],
         "long_name": "Kroatien",
         "short_name": "HR"
       },
       {
         "types": [
-          "postal_code"
+          "postleitzahl"
         ],
         "long_name": "52210",
         "short_name": "52210"
+      },
+      {
+        "ai": false
       },
       {
         "ai": false
@@ -14158,7 +13834,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:45.281+00:00",
+    "updated_at": "2025-12-01T20:41:40.19+00:00",
     "name": null,
     "value_json": [
       {
@@ -14221,6 +13897,9 @@
       },
       {
         "ai": false
+      },
+      {
+        "ai": false
       }
     ],
     "source_tag": "google",
@@ -14235,7 +13914,7 @@
     "value_number": 4,
     "value_option": null,
     "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:47.141+00:00",
+    "updated_at": "2025-12-01T20:41:42.182+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14252,12 +13931,15 @@
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-29T22:49:49.542+00:00",
+    "updated_at": "2025-12-01T20:41:45.117+00:00",
     "name": null,
     "value_json": [
       "stabilimento",
       "punto di interesse",
       "agenzia di viaggi",
+      {
+        "ai": false
+      },
       {
         "ai": false
       }
@@ -14274,7 +13956,7 @@
     "value_number": 45.075565,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:49:51.217+00:00",
+    "updated_at": "2025-12-01T20:41:46.916+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14291,7 +13973,7 @@
     "value_number": 45.0748087697085,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:49:52.07+00:00",
+    "updated_at": "2025-12-01T20:41:47.485+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14308,7 +13990,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:49:52.895+00:00",
+    "updated_at": "2025-12-01T20:41:48.042+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14325,7 +14007,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:49:53.697+00:00",
+    "updated_at": "2025-12-01T20:41:48.635+00:00",
     "name": null,
     "value_json": [
       "Monday: 7:30 AM – 9:30 PM",
@@ -14335,6 +14017,9 @@
       "Friday: 7:30 AM – 9:30 PM",
       "Saturday: 7:30 AM – 9:30 PM",
       "Sunday: 7:30 AM – 9:30 PM",
+      {
+        "ai": false
+      },
       {
         "ai": false
       }
@@ -14351,7 +14036,7 @@
     "value_number": 397,
     "value_option": null,
     "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:55.6+00:00",
+    "updated_at": "2025-12-01T20:41:50.727+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14363,12 +14048,12 @@
     "id": 63891,
     "location_id": 3397,
     "attribute_id": 28,
-    "value_text": "ACI Rovigno, Passeggiata del Consiglio d'Europa 1, Rovigno",
+    "value_text": "ACI Rovigno, Passeggiata Consiglio d'Europa 1, Rovigno",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-29T22:49:57.82+00:00",
+    "updated_at": "2025-12-01T20:41:54.018+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14385,11 +14070,34 @@
     "value_number": null,
     "value_option": null,
     "language_code": "en",
-    "updated_at": "2025-11-29T22:50:00.149+00:00",
+    "updated_at": "2025-12-01T20:41:56.16+00:00",
     "name": null,
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63899,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:42:00.709+00:00",
+    "name": null,
+    "value_json": [
+      "052 813 133",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -14402,49 +14110,11 @@
     "value_number": null,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-29T22:50:05.768+00:00",
+    "updated_at": "2025-12-01T20:42:02.72+00:00",
     "name": null,
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4995,
-    "location_id": 90,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 16.3127641,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:48.543+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63899,
-    "location_id": 3397,
-    "attribute_id": 30,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-30T18:31:40.285+00:00",
-    "name": null,
-    "value_json": [
-      "052 813 133",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -14668,7 +14338,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:49:53.096+00:00",
+    "updated_at": "2025-12-01T20:41:48.201+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14685,7 +14355,7 @@
     "value_number": 397,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-11-29T22:49:54.32+00:00",
+    "updated_at": "2025-12-01T20:41:49.14+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14702,7 +14372,7 @@
     "value_number": 397,
     "value_option": null,
     "language_code": "hr",
-    "updated_at": "2025-11-29T22:49:56.015+00:00",
+    "updated_at": "2025-12-01T20:41:52.056+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14714,12 +14384,12 @@
     "id": 63892,
     "location_id": 3397,
     "attribute_id": 28,
-    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj",
+    "value_text": "ACI Rovinj, Šetalište Vijeća Europe 1, Rovinj.",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "fr",
-    "updated_at": "2025-11-29T22:49:58.446+00:00",
+    "updated_at": "2025-12-01T20:41:54.621+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14731,12 +14401,12 @@
     "id": 63896,
     "location_id": 3397,
     "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2888799959625000278",
+    "value_text": "Mi dispiace, non posso aiutarti con questo tipo di richiesta.",
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "it",
-    "updated_at": "2025-11-29T22:50:00.918+00:00",
+    "updated_at": "2025-12-01T20:41:57.292+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14753,7 +14423,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "en",
-    "updated_at": "2025-11-29T22:50:03.892+00:00",
+    "updated_at": "2025-12-01T20:42:00.854+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14770,7 +14440,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:50:05.98+00:00",
+    "updated_at": "2025-12-01T20:42:02.852+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -15218,23 +14888,6 @@
     "locked": false
   },
   {
-    "id": 63898,
-    "location_id": 3397,
-    "attribute_id": 25,
-    "value_text": "Nažalost, ne mogu pristupiti vanjskim web stranicama ili pregledavati internet, uključujući Google Karte.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:50:02.954+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 20529,
     "location_id": 88,
     "attribute_id": 28,
@@ -15329,23 +14982,6 @@
     "updated_at": "2025-11-19T19:10:10.813+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63902,
-    "location_id": 3397,
-    "attribute_id": 30,
-    "value_text": "052 813 133",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:50:05.168+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -15569,6 +15205,40 @@
     "locked": false
   },
   {
+    "id": 63898,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": "Oprosti, ne mogu ti pomoći s pristupom poveznici ili otkriti njen sadržaj. Ako imaš dodatnih pitanja ili trebam nešto drugo prevesti ili objasniti, slobodno reci!",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:42:00.167+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63902,
+    "location_id": 3397,
+    "attribute_id": 30,
+    "value_text": "052 813 133",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:42:01.885+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63906,
     "location_id": 3397,
     "attribute_id": 17,
@@ -15577,13 +15247,13 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2025-11-29T22:50:06.393+00:00",
+    "updated_at": "2025-12-01T20:42:03.137+00:00",
     "name": null,
     "value_json": [
       {
         "width": 1600,
         "height": 964,
-        "photo_reference": "AWn5SU67PTbp2UEOoUDq6Sk-hkGmQlqwIaqi38S5cmQXwt-P9nqC3wQUvuPOw2_RMQWe3SdDHDvVPj-nhJAPHCGE6RBLSJItUlCOvecMQrahR_XFgHZ7ApQsBBgxH1bjo1LSi1OkNYeO1Giw_F_6kim00UNflQzVszAjTZJhl21ipjpKy1-otywvDk3cH7umvpv5X4YBhU2NEk-vINUqW03mY58ERHZbyCxwKtP5ZcI2Or3WcDzF8eqrEg2wTGNtPUZaIdL1lHICQuR2R4ghLDGq8eZlkKxp89_W7L6jfHEOwDF9Pg",
+        "photo_reference": "AWn5SU6boCgFXtMptlUvEfaHKlxE8W1IAlQwH7Z0IpqPAOM2lU0wfMIhMdkcuRiOObHRu--Df2lKXJLo-DZTLStIIp-FJZqmjQs3MYvjyYpJnmLdNTo_b3BwyHzJ3dBj3vmsxkgts5cstnOty4zlmqmUx41n3ZSEKs6x6mWBgh3zgt09g2_i64QRwjRQnzJq7v9g4xMVer7scj51IV3xIV_MAugNMIvVrftNWJkacNEHaVfJo-Cs-BSkdkTnU92CnT4zGOw5zQU9Jizvu5NdlhUpHT2GSaFeA3GukUUBJ1Gvb5BiJA",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104330569047701405641\">ACI Marina Rovinj</a>"
         ]
@@ -15591,7 +15261,7 @@
       {
         "width": 2751,
         "height": 1611,
-        "photo_reference": "AWn5SU59Uwe-M3HHa2ig685V19lh-RzsjH8Z4iyhGNX1z9DVRhY20yfYQ4TjAp3_La0OzdqxCVVUySFaRuCfH5_NZ3S2Vpqa2tErJfQvYYgg2juegdZCsqfKx6MJm8fVixqTdPZHOIm5BlOyGh_3MTJ4jvNnrFOR4usH9eeKyXsEX2fZ1WDRGal0Vv2DvlxA120WocY9gnJjEgO6oqwYKSkK4g9KxntBJXY9941oL6tYRD-AeO7_PtFsdHCut_swFvzAtfVSRJVEXaBGTf8EATuxSsHibeSStCe63P0cYr-ydz0twMo3NblLc-xDOklV05i82yjJPr5q_UpE_zIGoRPQCz6SxwPoEJ20wZdgV04SFdRNnbRbu1AoAFgZFj_OJlRc9xMP76pKLZacOVdjggGXzvzbNRCXWJUQEzwmlHdFlMU",
+        "photo_reference": "AWn5SU5IDpLXFFiGtWa_4ncclutOcSFTJWvkNe-AqP6ktLeBerCSzZJDzB8QvCamRorOmqXhfgvn25KuTFZxIiFofBcGUgH5izrJExshv6WQN6HpgMLq4YX1eBKIJTxtitDYKm_FkkX661l-5EKb2_2A25iRrEiRvLhWrFlxnm452-0cPPjOQCxMxjNJyhjx2yBb9TmbBtLziSnZIgkk5bDu2AujXV29EI451yvTFLFxtzc1Te6HYH9gfPRKwca7rpS3J2oNLUE7KV-bQ4o8uRuGvRj09zqDtg1jVE7EZ7zwcYUkBZAoq5S80lIq-rR72DXtBxjyiWUGpXjC3PYbHGR62IR5LYaBwi8OSjEGOzG4t6q8CMsDGQet5TRFJxeGVZQFQusC6Lgzh35M0-66ufgIkD19Yad0gtpk_wz_oVQwhPc",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104003227929166003303\">RO SI</a>"
         ]
@@ -15599,7 +15269,7 @@
       {
         "width": 4032,
         "height": 3024,
-        "photo_reference": "AWn5SU6UjZJWQHeqGQF3I-hPANUL1dBpAEaGIR_bVqVyuVhinHGjmg7JQlj0-qJ_E6PVCQOw3n4U_9ObC9j-tRSBnVr2dJ4DfLGZqDhcIT_CVz-fdKvJgNweLdmj5c9AlpxqwrOucuc9pnpYhO2vv8Kwp3I7FaWWgsAH3oWJzaNJICzm8oVnImCVAsNP8xLWQh_lmpgF70Kwh_j_jYoY6NTaRNh3qja_X-ybQt6To3mlwLjDVll_rzkBbaweKQjQ_20ZI3WSR-5DJTPiUi-rhRBCHYls_j6yYUvpq9qm0jmto25bWwQJtbQy1uUDBqTe4qy4vwU3yaOeVYxH9hD1zriyO5tBUYzG0JNq1m1329P3Chn8hMiIM6o-rEhk1Rr3KiLk26MyreUPDhgtwoh_IidCWSsYGxma-YHuh55u5bfD8uv7DZ0",
+        "photo_reference": "AWn5SU7libdocwvMuV2Y1Rr8fTUALV9CD1lF6_eFvdc_qSKwBEjenAm2d9YhDOk5qWVZFvRV3ZSCpTbv8yCyNP3ygKcWA8EF_nqc2U7HtKMYa_P7K2AkIQqK88ap84yKNlya6uGewTrEXoTv65aZr280RWJ3PFCLbMogpvnNshjRHLHrdIPsPMp5kwflEHL4NX2ntBoglvGNKPVAQmC5TrakzEl2V8ezTU4fRPONnyZXad1ZcQf7roQASTpuBP4oPBlLp3CF-UFlBJKZeRXfSeBj6JaylfN_vCZYwAzzWIS_eDDMussHhkLncSeVfwI_Nje8RzTpc9qpaZM9deBJcEL7WgI3nmZ0LwtwhFXy0cwgUHgMhAvpdMqQBEzzxT0R3E7ttddPgYn4kKQ5s47C67_hpSlppzpG9XaDH1m8wAaH6CssELg",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102569764725200967936\">Bogdan Dugonik</a>"
         ]
@@ -15607,7 +15277,7 @@
       {
         "width": 4032,
         "height": 3024,
-        "photo_reference": "AWn5SU4jHmNhh2O9s7LjFJG28ALKeJfCS18D8gHFv6_UXqPxxx24cs04NR2OBXXyASSzjUmu8uENKL-vJw0843u7bV5Bz3aQFM6mhFVwOw23k1QuLUzuPJudbu6L4mnmjhztS5ngNBf946nO8X1kfcz0n6Rr-e1rYB-nrVGeDxxeh7mm2ZAnN-p0TCONNru72iT8NYAvzflh5qaJAIYVdZQ0LK6lwxTUv4RAdr6nW5cr448wc5jKvL8_391mER3E2AEhCp8RFIkSFBXzVpiBJBcIdG3kzA5JSzjLOIB82jmZYyI8fcuXBP8ei6Tqa2y-2D7j1h1eJxJqSaPw3eIM00XEjz23BZJ2CftWy8wMQDorm1gGL4GcUZxJYezXZ8QZImNP4b9MHq5pxiL3Sv6yIBDqY0gpHafV08tVYO-v8Syx_uEG3VU",
+        "photo_reference": "AWn5SU5QHsKvUTqwyvrynctkrJjtfA-PithtsVDihfaH3WoztXlEJbFotDJw6_vM1ANTvaJilrX9wY5yCTjfWm_qlPQX2sxCmQUl0559IXLN3kJMRPUWTcbLE-zcnU7dM744ANiTgNUCrxOtvKkbxwufMs7gMTAvYnvZkydzIMhWUVgKCM6VNSElC3paX3y2RR1edeU2mJ7rwFyPorZ521mfX3esAVU79G421uJrOYhvFXNAuDsDoTkTFXZ7zedRAwZ__dn0XuEl0gRfUgp7MES4zZmvEo4dBFWVh-iO2f2tueAZJhkG7ELIL7N-ppYX6Go2JlFW8tdZVhXV-_ZFQgWJ2825c9BN1G7DynYis1WoNin4_EXrIzl2fdY0AWU7HyRrC-gtQo6Euy5WESY5-80ieXkVSsLTXnIJraAu1BIc0cMUI94",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113024132233019456985\">Robert</a>"
         ]
@@ -15615,7 +15285,7 @@
       {
         "width": 4624,
         "height": 3468,
-        "photo_reference": "AWn5SU6mtNJgbOibwg9Fw8Rbs2wIFWCp5hprqRFw4BlmlkGD_exYBempbJ9OiHc0RFSTkgXbtI4J8z-mk1Z_XooXxnLWFCHfShsMrM0xPlkGVh_SqPvQhnsOvG6lSZV521yyF-NauWM-GWqYeO8UVTz1lezrgE-msyncQulURCOMRbYADqSOes6_mPc8_s5IGL06SsGgNkLNjSbClhSBQ89HDEW4LaROZRNMkFpFptzvlQfBotYaX6rAA4btLpRX3DA6ebIksetKOVZMd1R8kaxY9YBwHSjJ0j7LvWwFeUpH_r0mQRlSLdf7Ue3RD5GCp7Ul0PD6SBpwfDv1AEF07yTeCYwpnTWgvnjDgLsVpOyqhcQ0ZLlO6F37GtY_NRNM2UeFoWWYegE5ZiVhp9xfrRcfkzY-95URTsXwMtP46hXfvJ5cqg",
+        "photo_reference": "AWn5SU7FP7q7qauw2U1CvK8wTsDZkkokp77RSSRQTBZUHKPfNcmc2AiZr_5c6ZAOqMQBPf7TpvJIM4f0zqyRyShaGLLGPC8BmWXSZu5Lsed0NDwFv0VPSai0b1gBxj3vjjPFnz9v7sAMCSMFLATWWOFuIz7Uo67j2czLkPN2iMjEkXKsA4ZCfFICZTAq_VXIfEdGEWny5S7TYWUxnB-fjpqZlS7IHMtTP8yWEpKaq5PJZko8xTB5t_U1R96HoWc1NQ4agqnz2vnCqcA1YF1ZBn-D2SsKgPrzOJiZLvH_inPH108gLiUOSOkfG9Bbej5PQyoh76tuSR7wl-6wAShWlZR-W_cMMPpvK-4bOCbuck56GpAOFN2zXpdkCMCHtiDa132jFuwKMBZ5x4aeYCbvoNMJsNzCoqhu-vudzQyZqw-ei88MMQ",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116147445815039660784\">Willem Versteeg</a>"
         ]
@@ -15623,7 +15293,7 @@
       {
         "width": 4624,
         "height": 2604,
-        "photo_reference": "AWn5SU4FAyR0UYXYuZK2VwLTpi7mr128Dx4AwFdpk7ZAkrOYwFD-qsHGj4jazvnLpFQtDzZI4xVJqxoI4-Tjr40TaD3O6VH_FMHpVNdpPsadX6vIoknv-ZrdiqYS5s4jVpVSghP5-z1cUWUTUhqWxBTqNlFT9XeRxrQQdKm47Pnoaa_ENlz_NEpxu0ubtQaTrlUxF-msFs9mnmZTWDZCjBoYPFSHMn0X9FqgxAMNbQU3v0h-PHWL5OpfPmsJBkEpSw269pUHHCGCCkdhYhiywuSSSeEYm4NhYRJIHQOrr6j-BiqIxAHgxFbAZnW84RqKBHuN_mQfKIw2vVirIvwdtbDSyHxrihRtR_5VcsKFTbubUEMjLhCtdtJBU5X7fts_1DhprmrhRTxRgfzASDRc-1CkAopAMNTbKml2bw_fvkeZHd7_BeQx",
+        "photo_reference": "AWn5SU4i3PrvQDFa9yuFmE-zd3EfN6TbIzv9rW5inkxgWYN-bLpafW6ylwGU-r90MbWT2Gmm0KhoFv_vKyS9Tb8TJntMp5-36bIkpyjR1geueyJW_hYDSjP2ls3jgbKeFRU6ljJ7mBL14gMJrY-SUeCd8GluMld2kK9d2J3_-Ne55OuXNFfzOCKl1TsJwtLr17hnEPYJWllodCPKkdbQrOz6nVhtjFgvErwvC3i5CkcibBaT0WqkXiYS3019NpbEKG2MZkzPtcxsO1OyGg10n_0-v7qoYg7iHpuLRoDu4taDAsmPXkacFWitBykXeNBSD7ZJqd8TR6k7F1MW79OBwp3En_9yPZAdJFeowlyah_jV9nr_3CRcRJsqrbvWN-5lNceMpzgX5lF9f8NEdRQlkDDD1mDBct2XKwgJEFeUl8LB2IrSmaP_",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107538656811061717871\">Torsten Schutz</a>"
         ]
@@ -15631,7 +15301,7 @@
       {
         "width": 4608,
         "height": 3456,
-        "photo_reference": "AWn5SU708_-fVcltHpzQRkuoAFG4NTjdjyeXtpnIJXUVjhUcG3d6ThQ-kXJh3UcGBEaTBKstvl1FL61QxZToF5CJ294i69t_tt_7sCpAVThHm5jC8VggIjgzulisYkTGaf8TbhaKSOd-n4pfyRXwmdgOEBdGHUewBgDKtXc7MjHucJdyq8Kt8kwerpI8-BxDsSlghh0DMPPJqZIXTOHsWgdUW3K66xjtbpevGrHwnmLn4U8qGoniCH0oLcD-_3QzpUp6yM5kwdRsfaoVjU83ywBb-bGUGRYQ3dbIjjIDU9hjgFl6S5hLjylQGhe8gXLlnIfzAcAxXJncfd8ibBYp73GaU4ZPW9UoVaniNp3K_dKIUGawmEwZ1HJelme3uSmiMcj8UcDWfVjuBJCaxCOICjsXM5PVPubXRCFsz_Iv6dLv6cZEy-rf",
+        "photo_reference": "AWn5SU6wyU4UsW8T74vm9hhYCXm6NafsGJBSF1OP7hReSspPWc0pZVFDbxKgnu88HlKSzNTi76JHsmUe7UB0PfyBDdqgnM4FDTlMyt7orCDPqxDQHioXyf85jNwKLf7RTE_x_X2q9BlWmWTGdtk2fpoJ8L_pJBM8rzdFWXFo1ynksSq_1YxIB4YnQ1Sjc5Y_xxXc9cSPcs1kpEacequB7cJRlyzjjqq4mTwLtmtEbjzvv0vVBTL8V8wEYFD5fPQ39wnWS3Wv03A1cPTZrp4C17GFwjghPtv-qCKAJyUizfRAkbOmgenYH9be0FdtHJoRN6G83W_vcEqtJA0KSWMn7kBlJ3qH3DzBoQDXFAe965wou6JSkKROr2rz8Wqn7-HvO2ByiuuHwSdeYPoY4A7yekaN6lxdOcsGBm2xH27_B9nhGsuOgtrt",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105258820937074119997\">Karol Karolkiewicz</a>"
         ]
@@ -15639,7 +15309,7 @@
       {
         "width": 3024,
         "height": 3024,
-        "photo_reference": "AWn5SU4F_1ybTr7P3lPiJQteVhtDfuNASFbaycEnBA-ojTeTE7a2MqQPjMit6OhK9GbZu2qjoDxsdiPUUw0ynHaQuQqloZ4ZKhNd-XUEruDHcmqwuddK8letMhtqYGmQuBMTeULSXnz98TLtyC3deJU9njOa3w02IDMMcubtZ1ZL8z7wu0yhaPrqRo2y6efyZG3ED9oXik9LEUMqRAlPTg-gyScborEmV1zp80oq9mQZGUYiDxQrEAGRz_qbxNVCOFRTL7lov5qZ9h0I-oGq76G3U6aF7-_MMNztzbk-FhRkwzRd8aFhHaYbL-OwD8BqOsWEwHeRznwp_EBQwbIMGe7pdkt5oer5gvxDN1hsH0wvOkPwM2bcDLNqXrT7BQ49mxG5S4xKDivVnY7c9fg43FCDxPfSIxJ_w07b8Cl5FpE0NeLs5w",
+        "photo_reference": "AWn5SU6lkDM4f7r9WYGrMg84dcV9yigCA5eEOJFVnVrLonnCSJqC836uO4hZ0mjc_5JMOusnYVGEbYYJ6OAf8CaWKSqVJhe73xMY6UQvZAoqCQc3Z5Yk4Es88bH0a8dGqVwERuHeV1Fr81tWrbgPuVCmkDCvte6RnFF-jMWyOD2NXxIWJEPwWRkLIi7fWkWqJ49lMcFG_N2YsUN-jWE0q_N2e_3PqH43XTG1CrJlOqFq6Z6ohJMQQJwjYeTg6tmPgTYqJ5oYTCquNh2Sf2DFZSnCjm5iAVHeNhO7_HIhn6G4xhL9ZsXznV9R1JnaosOF5f9Q-JLXw9G5rJRFKnWmzX8v5ymJN43pElumDYGrOiA7rJ0b3dKmXzizMNjRYfVwF_gwY_uunOaTq8_LH4hpsDj2qcRkeDvcQGzrUiHn4kmPTOwpnQ",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111096374470276499749\">Antonio Campagnoli</a>"
         ]
@@ -15647,7 +15317,7 @@
       {
         "width": 4032,
         "height": 3024,
-        "photo_reference": "AWn5SU7zD8QX4aozzAzI6wqkxfxgpLvXLEJcfZbCBm-QhqHoPrLqQOYZ7HCInGYsZChUII4SNDFhu3KtwAqdF5LYhu4WdQw97rwlXaliNJkgpyo0H4W2F5_coNdgN3kTwRD8NVVMA3UeNpzibgp-Pvq_mCNY1h90KFfLLx3cnwnjEl2JttY1dlwncLJzsNRY_sPdvRQhjK_tmJvzfFHEIpQkMBBc6doiDA-e8ZGjjOauzH9anq1vtMoYlbiOUV4k_kqyIV3rJ4v_ANgUi1wi-VksHi90QqBekdIpl_K1wyCZFAM89xA1152D4gPeBSiRuDdAHvxsEvH-cz9atK0IfUJmN7b1nEU0GB-deCAe1DjaQf9bI6CxVYX-dK_dj0rEdOLIzzOpR5HzfgQsVOwbhQwV1MlL4H23xNICluAnaR-2bto",
+        "photo_reference": "AWn5SU70fs5RwbaL6sb-7LPVImWygZDNSAdQD3mjkVq_df1V5972ajMaluCSHLygxBSOtR90xSjULRPPPhcGk7VRPP5hcmlRvvwc2xRlfV0LN5hJz2PFBp5H2OX0e50vlWKTO5xQrpTuYLZy91DLiNVXFiN88HX7HcT9fLCe0aDVzBmbnbFHgg2HD-bFd1Fkn-58tE7Xv5V6tJtVgYJjYlRU-wpvnBpbr83dFuvoKqGOy36HhYXJEaBkji8Av_MdABu-FFOMwtBoGjqxc_1Axzbu1SRN9eRJOjcwY0hs8r3cQfPkprLrbrWMTEX3gJadwoL73_Pjti2cmeko6QPin5cTonh41sju0pNdmLqWUVqsqltIHNrnEo4ptAoBTk3q82YxVchvZe9EmkzXCPfO3SA9prwgACFu7wWXWgmNKAg1X3U",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110072440700985487269\">Daniel Richter</a>"
         ]
@@ -15655,10 +15325,13 @@
       {
         "width": 4624,
         "height": 3468,
-        "photo_reference": "AWn5SU6hyCJaBAsKx22VxrlKuFbuRI-KlpVtoPAW-xCBu0rXtdZc_m8QEZWztT7f_CfJUA1j-8kKBY8Nxmgiqv1n42y-1V12qazpptWtPDztv0INyX0HF-emX9RalZZNcyi38qmtFfINxgbOtNjhagm5UnxlUo002wyFl3B5TOy4w1xbgfRZEYAH8G7OtlGLZtydhsiETGjRrhHubPh4lgaQUYIl4RV0FT7YC263LUmvdMkgs-b-KvbyPb1wFhpwqIqBrMBh1l8TMznrGP2quGkECU31rRlP0uh0t68wztoyOyQEutUWUdj52sA6XQsauSVwI6_j54bO4iwkgmd1EaVSLHLWenxd23BQuHCH5cTkb5OZL7IPeU9rT3ZKPPeSJJnTZDtdmDIFtpsahy5D_Fza04Bw3hKhPwmEppFslO1DLy8",
+        "photo_reference": "AWn5SU7OsWQO0WvRfROByxJW50-jm7hJkft_8VAXVm3mBiyznlHdjdsvS_jU24aLAYnYN2nsjEiiooyqlCQSRgGpIPymdmGttkEER_0qakoqc6NZYAiIddZOieQHTjE9AjtXvtYi3DQP99ZPy-qMYNrdmvXb2W5sspSvkHyUr4F7moZt3QcNrcH_Xnhs4CxDXYrgH1Y4oxovHl_hG7Ad8F5pB8xNepcB5ZrzAwRD_yXXp80BsWpBxHOgoPIJ_l79eKup-ktiyQXHHJGfXi8un0JAd5SAydWlrHyAIer1mzjGUN-aswANlFLnl-K3Z06sHlkCMdOP1fDXJGL5q9f4V8s4uETt6RxO4sYl5wfUu1ftat6uPs36EPA1csY03TaxrkqPm_IlkQPZyAYnp26n5TClwbK7dI2kbIPaO-GnYOb7aso",
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112238027617958265091\">Tadeusz Antczak</a>"
         ]
+      },
+      {
+        "ai": false
       },
       {
         "ai": false
@@ -18065,6 +17738,23 @@
     "locked": false
   },
   {
+    "id": 63847,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovigno",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:24.639+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5181,
     "location_id": 98,
     "attribute_id": 7,
@@ -18515,6 +18205,23 @@
     "locked": false
   },
   {
+    "id": 63848,
+    "location_id": 3397,
+    "attribute_id": 13,
+    "value_text": "ACI Marina Rovinj",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:25.183+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 53579,
     "location_id": 2049,
     "attribute_id": 97,
@@ -18825,6 +18532,389 @@
     "locked": false
   },
   {
+    "id": 63856,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:41:32.6+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovinj",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Šetalište Vijeća Europe",
+        "short_name": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovinj",
+        "short_name": "Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Grad Rovinj",
+        "short_name": "Grad Rovinj"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Istarska županija",
+        "short_name": "Istarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63857,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:34.846+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [],
+        "long_name": "ACI Rovigno",
+        "short_name": ""
+      },
+      {
+        "types": [
+          "street_number"
+        ],
+        "long_name": "1",
+        "short_name": "1"
+      },
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Lungomare del Consiglio d'Europa",
+        "short_name": "Lungomare del Consiglio d'Europa"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Rovigno",
+        "short_name": "Rovigno"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Città di Rovigno",
+        "short_name": "Città di Rovigno"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Regione Istriana",
+        "short_name": "Regione Istriana"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croazia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "52210",
+        "short_name": "52210"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63858,
+    "location_id": 3397,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:37.731+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [],
+        "nom_long": "ACI Rovinj",
+        "nom_court": ""
+      },
+      {
+        "types": [
+          "numéro_de_rue"
+        ],
+        "nom_long": "1",
+        "nom_court": "1"
+      },
+      {
+        "types": [
+          "itinéraire"
+        ],
+        "nom_long": "Šetalište Vijeća Europe",
+        "nom_court": "Šetalište Vijeća Europe"
+      },
+      {
+        "types": [
+          "localité",
+          "politique"
+        ],
+        "nom_long": "Rovinj",
+        "nom_court": "Rovinj"
+      },
+      {
+        "types": [
+          "région_administrative_niveau_2",
+          "politique"
+        ],
+        "nom_long": "Ville de Rovinj",
+        "nom_court": "Ville de Rovinj"
+      },
+      {
+        "types": [
+          "région_administrative_niveau_1",
+          "politique"
+        ],
+        "nom_long": "Comté d'Istrie",
+        "nom_court": "Comté d'Istrie"
+      },
+      {
+        "types": [
+          "pays",
+          "politique"
+        ],
+        "nom_long": "Croatie",
+        "nom_court": "HR"
+      },
+      {
+        "types": [
+          "code_postal"
+        ],
+        "nom_long": "52210",
+        "nom_court": "52210"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63882,
+    "location_id": 3397,
+    "attribute_id": 15,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-12-01T20:41:48.469+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0730"
+        },
+        "close": {
+          "day": 0,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "time": "0730"
+        },
+        "close": {
+          "day": 1,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0730"
+        },
+        "close": {
+          "day": 2,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0730"
+        },
+        "close": {
+          "day": 3,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0730"
+        },
+        "close": {
+          "day": 4,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0730"
+        },
+        "close": {
+          "day": 5,
+          "time": "2130"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0730"
+        },
+        "close": {
+          "day": 6,
+          "time": "2130"
+        }
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63976,
+    "location_id": 3426,
+    "attribute_id": 13,
+    "value_text": "Marina Dalmacija",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:42:10.827+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63977,
+    "location_id": 3426,
+    "attribute_id": 13,
+    "value_text": "Marina Dalmacija",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:42:10.97+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63978,
+    "location_id": 3426,
+    "attribute_id": 13,
+    "value_text": "Marina Dalmazia",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:42:11.935+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52824,
     "location_id": 2049,
     "attribute_id": 18,
@@ -18851,6 +18941,23 @@
     "updated_at": "2025-11-19T19:20:55.91+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63979,
+    "location_id": 3426,
+    "attribute_id": 13,
+    "value_text": "Marina Dalmacija",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:42:12.454+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -18975,6 +19082,23 @@
     "locked": false
   },
   {
+    "id": 63980,
+    "location_id": 3426,
+    "attribute_id": 13,
+    "value_text": "Marina Dalmacija",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:42:13.596+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 27067,
     "location_id": 899,
     "attribute_id": 28,
@@ -19091,6 +19215,91 @@
     "updated_at": "2025-11-19T19:21:07.349+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63981,
+    "location_id": 3426,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:42:14.106+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63982,
+    "location_id": 3426,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 60,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:42:14.247+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63983,
+    "location_id": 3426,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:42:14.847+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63984,
+    "location_id": 3426,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:42:15.495+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63985,
+    "location_id": 3426,
+    "attribute_id": 27,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2025-12-01T20:42:16.113+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -19683,6 +19892,71 @@
     "locked": false
   },
   {
+    "id": 63986,
+    "location_id": 3426,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2025-12-01T20:42:20.042+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Marina Dalmacija",
+        "short_name": "Marina Dalmacija"
+      },
+      {
+        "types": [
+          "örtlichkeit",
+          "politisch"
+        ],
+        "long_name": "Sukošan",
+        "short_name": "Sukošan"
+      },
+      {
+        "types": [
+          "verwaltungseinheit_ebene_2",
+          "politisch"
+        ],
+        "long_name": "Općina Sukošan",
+        "short_name": "Općina Sukošan"
+      },
+      {
+        "types": [
+          "verwaltungseinheit_ebene_1",
+          "politisch"
+        ],
+        "long_name": "Zadarska županija",
+        "short_name": "Zadarska županija"
+      },
+      {
+        "types": [
+          "land",
+          "politisch"
+        ],
+        "long_name": "Kroatien",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postleitzahl"
+        ],
+        "long_name": "23206",
+        "short_name": "23206"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 22599,
     "location_id": 665,
     "attribute_id": 5,
@@ -19694,6 +19968,136 @@
     "updated_at": "2025-11-19T19:20:31.914+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63987,
+    "location_id": 3426,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2025-12-01T20:42:20.182+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Marina Dalmacija",
+        "short_name": "Marina Dalmacija"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sukošan",
+        "short_name": "Sukošan"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Općina Sukošan",
+        "short_name": "Općina Sukošan"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Zadarska županija",
+        "short_name": "Zadarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croatia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "23206",
+        "short_name": "23206"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63988,
+    "location_id": 3426,
+    "attribute_id": 31,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:42:22.188+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "types": [
+          "route"
+        ],
+        "long_name": "Marina Dalmacija",
+        "short_name": "Marina Dalmacija"
+      },
+      {
+        "types": [
+          "locality",
+          "political"
+        ],
+        "long_name": "Sukošan",
+        "short_name": "Sukošan"
+      },
+      {
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "long_name": "Općina Sukošan",
+        "short_name": "Općina Sukošan"
+      },
+      {
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "long_name": "Zadarska županija",
+        "short_name": "Zadarska županija"
+      },
+      {
+        "types": [
+          "country",
+          "political"
+        ],
+        "long_name": "Croazia",
+        "short_name": "HR"
+      },
+      {
+        "types": [
+          "postal_code"
+        ],
+        "long_name": "23206",
+        "short_name": "23206"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -20204,294 +20608,6 @@
     "updated_at": "2025-10-21T06:55:46.819+00:00",
     "name": null,
     "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52399,
-    "location_id": 2031,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-27T05:16:19.399+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52396,
-    "location_id": 2031,
-    "attribute_id": 96,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-27T05:16:46.28+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27053,
-    "location_id": 899,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0602721504387,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.29+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27054,
-    "location_id": 899,
-    "attribute_id": 9,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6296866357571,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.477+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27055,
-    "location_id": 899,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0571391713875,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.667+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27056,
-    "location_id": 899,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6191320655193,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.857+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27057,
-    "location_id": 899,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:57.052+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27058,
-    "location_id": 899,
-    "attribute_id": 18,
-    "value_text": "ChIJ36v6hvrAfEcRVsuKwscZGQM",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:57.272+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27075,
-    "location_id": 899,
-    "attribute_id": 5,
-    "value_text": "Sveti Andrija, Croatia",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:21:07.542+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27069,
-    "location_id": 899,
-    "attribute_id": 17,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:21:07.734+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "width": 1024,
-        "height": 683,
-        "photo_reference": "AWn5SU6hR5aLzrTJW6ma6262bsrZH1-_zODjQwcJvhHkNaofNRMyUmcuWoSIU6OFhf0dsrXVBdKl5HPNucHGJfcB29BRRSbYeFwjp0IR_5gvnQwYhP1zOEtDxdz3vWkE8G-msvX2_B_7pkT-tXBn1TxkS-D1S8b9kfeomaJUpcQCnh6UlyGoIH11o3rjJ_u9H0v3IN8U44I4lmeloZwjuhw5_cbNGA4g-Cd63OoIGgHjwQel-tB8N_dt3acnCemWFTpCv_3qp4LiH_XATFgAmWjHMYp7oZLFiRjhVkDZG6FlplVWKgODhazzfP9-4GzJXIhJgy11-NwIZ82e3cnYimf_wYw4qf4l9HIAScV9alnj-g3xBWNau32mF7Rs2JBKqmRwWziV_53L9zLZO-Gn39kJKY8EsPZVf23f7qeoX5zKnvvT",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111601265765833588670\">Concerts Music Events</a>"
-        ]
-      },
-      {
-        "width": 4608,
-        "height": 2592,
-        "photo_reference": "AWn5SU6SowpjnsIZDmjTbAzFxPFUwsZMQc8ipBXgkikD3D1ahU85huwU1pDniELekpIzYrtoi3v4RL1Xkw8pdYfL_2MS3K3FFazVrb3Ya2zx-spNOKozArqD2wLhq4OGv4fFt1Lfw_ld69tSMgvRCkn1q3NThQsHANvJsZoywrDtVkfX8LVoXa8VsM6VkIJF0Xq5eYRhywD8VPQuKJQu6zlN_aRUTe9uYLN8lIBH27d8AkDVL1MvnpOVowkpa8VNc3ZPXP7pEp1X0qqEzr57xTh_hJ-LZfpwmn0st2jFA1EqC9smKfvpS4ld5U-JRz1DQ4XJ4g5F8qcshuPw5CGMLtm0QdX88rAGHOF9cc-uhdg6qcFOekEGOQkNqf043fddp2NvqA7ocG0FEUdMlyl086he4GoBoPZookzRzp2YrSCZPxeJsJiV",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/103482620251122748528\">Marta Cenedese</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3079,
-        "photo_reference": "AWn5SU73b-IB7Y-ooz06VDsywjOhvaWLjeFcfuLV8KGQJ6ysKwGCIhOYTj_3V5EArvegl3-TDqYSbtzzVKhcFm79_avOTJxXUEE_dJKupOKreI2ZNwf59mXR6005pgmHh5VQDoo0jcfAjvtSBlQA16n9R6gPM_uAVcQ_nDgIDCayWppLsQXj4Zcxe2QDdize6ZEGvfu1aNlS8Rk1rHDo6IVNPTBFNWDQ05ab8JfeP3e5c9MBaXL4GPaqK5r3zcTL_QG59buA5CUFUAL2RZ9kgfJqF55bFCQ4Jdn9A2XC_oR5CfqcQkAVEcHtF-ZPAN1zntRblZNEmfEaX-cjVJTAuR6qCQxtvTZGB66RVGwhVa4Y5zcJ71xAhdou9RmDGbnXv4JCB1pIae_zuCmdnmkN2FKfHw5PAR0PRuqC8CXYco7SFY8",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/106269739786244776763\">Andrzej Burlikowski</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU7FKJoCJzWnq2P8DspN3M-GMg6_dMyW-AKyrCvm8KoMeT_DqPIyaVVW74O5UnUmdqaxOTKJs99uBK9SHBxD2JjI6E4kC9S8JRHCwjLT0cfYxhNoFUOLpSZ4P9TAdQ48aMaTU7vNd-rzrWrLSiIRUQlla8rW4oehZpQp8iy0NcmtmTOdTCOD9SHhfo4vAX8WQz4_euNoloDfsmsv59YrcnpJMDIYXZ3q1ZFkugkJA52oC7hXBqlaL5HYcTyxjei4QV_kFFSrZXALUij8cyo3XObb6KCa04lTzvzjoTB_Wo-hSegrU-2xC1_MIbYsxfXpEfevjBLQJbgjIaR24kta0FyAapQmJQTDAlHtSKND-_JUgCYQewVKc6WEQCMUEZAYXD_wLZGg5JoQdBQbUp-UrjeixsbWqgxYtST9A2r7eqeF1nuC",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/115346441659412427071\">Antonio Pulin</a>"
-        ]
-      },
-      {
-        "width": 4000,
-        "height": 3000,
-        "photo_reference": "AWn5SU75kLZpl0N5V7yqKOwyCIuuzOjqgymp-PFOOLNJEWESOkHQOoW-PLL_eXXRjyZw2FLnL6UlCj2cKQfuA1KbTlvDQ-MyTgpUdyEEs2NJ1mjLAbWQM5yChDDcffGQHWAEpnGGESSNc2nIzGhexsqooGzYaZq-n9lyqNE3qAeS6jgJFoi6XbmaBCD3jUYX20lgbjJVYxst8OHfrWil-HzQ9-idU5F4heZXqinuWVFF8juDQt196Nvi5M-f_ADis3ygVnKrsWZbGsUdUaa-zkDxxtWzA-CO29K0OsAiL9n_geOlchh0QGQMx2nU_wgozhO804J9_xiOI78uh2xx24gJCzb5EKJZ2W8QqHL67MCaUvNFfySk2vlwYw6pWXdsYvm91NHu0sONWhQ2HjywWgb9XcmagDkqtTqouuF85qd7wd92Tp-Q",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/118119980405936493618\">Pali G</a>"
-        ]
-      },
-      {
-        "width": 4000,
-        "height": 3000,
-        "photo_reference": "AWn5SU6Vma1TK54wBJV3Ycjy7IxMNtH6S5scMA3Nyma7FGBw5rOxGDMPptPlWGfbPFM7jqTQtB7bv2CNwYWxTw7XJF7GVreF9TUEtoJenG9MsFUt6ojf_C_GHfs8IrpV0Hl5Nhwft9Rh7ShTyx55-RxqfhO10WLjCCXxsURC2ODqMIZiTcuTQG4OWT83ZZUblE5xzTzYKuezwFA8o-Wi0iuYGyhGXOvU0RW8mTUWl8hvrSA1YsupahH8B7551A_BC3wy-a_ZxgrDb1p5vNmb6VCGhh0fpXMna0GWUvMLCwIwzK-RE0UthIHcfb9WjR0Zv2lfmYpUffMpACKxdgMBXiHvTxE5H-lYROY3DG5Cd-Q8G8R0zVzCt8CE_O7kZ38zsYLLUdfNE7oub5U0Sg_v_uWonyaSZhSmkJ0_AE7nf68dkPKvXDo",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/115346441659412427071\">Antonio Pulin</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU6ZbSC72WwzRQ1NiQXMmHvlI2LHBP5y01BUzB3df4nzXxUk70iKVJXMuBNjzXidta9VFWGfiepX0NtXV_Nlv4S5eZm3kLpyhNt_x9LbZlYr-N87FmCoMithOo84UxuYhqtPcIISPgglSI8i8VptFw4JUe-7RaBD-hWkc9pb1u6WjhiDxxXb30mlIRG67b6cvT5xGF16b3R2kePuMKUHe2awUoVYjVfHcXEZQknQtUBEjnb8S5z588PYSfSTvwq4AM3M-WHRsUBTG3mt98vsMstIE2R4u2wkM2J2DsDPLsXlfG9ruxKsFz8N6tcKL992N6izuWXUvotoNdN_koa3ewY9TR_oWNVWrhVIvsj4Bn5hueAZw2cc69IFoIPyYOCSfQfc4rzlXmlIS89HZHx-IQYTU9PnVYWmFGEjzDJRbad3aww",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/106269739786244776763\">Andrzej Burlikowski</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 2700,
-        "photo_reference": "AWn5SU4swAtW7AlxrF72aENHPZYHtlgpeuO5u54Z7gDjhPnwDvlj6J10HM1XA0nO6iYJFsCrC9On_DxK-PBf-yU49f9QdZICyN-x4pHLKi9g3BaYbsNwRyYK8uMcM_ehv95qQfIHpqc8KDehPe_SIl4v8w4Uv5SyNHcfCL6LvXAhdXH_H_8pwR4KpgmXzY20KOjpKpk6HFyCyNGDTCYCUbWv-dxu68k8GKCooczLxOAr2JMUEeqIssfsmclHEr4rPI8relcKBHv03HsCC5VMAtM8Bim7KkPyeBxG5qqTjLHEUe0i64Q5gIVIOIDodDiewToXsHnBYfcRGoOBrTaQ7BG3AWcFbqVPYq0pRkLuxvQ-gWZQZzDcH7JFoBzpC5o8j7kqjxtJzgCMe88-ES7JiU6a3ON3ZOQsv7vforigF8akhoxD_ak",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/109372804118978543166\">Vid Stefano</a>"
-        ]
-      },
-      {
-        "width": 4032,
-        "height": 3024,
-        "photo_reference": "AWn5SU6-zCW1nOlQ6CZSEDSu9tK6dLlVmzM8G_yYM3zj_kzRACvouMwsTAuraJZ2efJu_1AFypDGhfP1Mv3qUW090OYw3nJgyX8_Xzs5yuaa-WcUtPLV_F4lRmgfq1-xcM0JhyF6FkU0WqLTlKCkRhAwMrIgb8hMDNAGswrKiVsaLvz3maThct3f7Qshc03dRC66tJiUccFFgiR3ZxDaEOv0-E9EU9buujlPV6Q9KNvxyeaDZT8Eedjb9l3KLA_0DB0qUSKXO0pJqsycjxs_0w2_GtIx_PlUjxke_GHIdMV98vMHDzF3oX74eqwD_VRjii9K1Y9y0ZvXLTYxBEmA8dUz4u1niJ5n57y4eEH1PBrxdbSHGfH4PkAATNOYznX8QgJCS0pHJmo835p-FWsUtP-CYzvKKNTN8tusUAHha3qjistqgHc",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113104988611454013269\">Krzysztof Dankowski</a>"
-        ]
-      },
-      {
-        "width": 2475,
-        "height": 1485,
-        "photo_reference": "AWn5SU5GdMCFAog-tEs2MG5_7v6cTHNRZLnAMi1DvExY3ds2yJyGpK-glsL7apDV0zotysAdweCp-ez_-nB4ryCLd5w-AILCDQIhY5Xy-cGMaFGW65APgTfebuKUz3AyuF47TAvkr6ncM_3W7u5Y236WDGWoUWPZ0E5zXQzpPhjlStB1sPnOMu1zzhmpGmUdVNE8O39pvIdQzCvT-E61W1fa43IQerIg81W3yOaJKQIYkH8eG3mCvEel-hMQzFVrrywi3Sljl8yruXN_M8kCCvwnz5rsXo-ACq62XCT2Zugrr07yRfpTjpe7Jgkq8Pl5p89GqENaFmTU7SE2rmbIlSCc-k-GRFxaGJqSs0T7GpBNch4xkVA2K1uZit3TSFIcydYCQBSGVKKWrWnwX06rIiOVH8txGvEHnyzQShP7kU_NGMUzAA",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/112824451951952814942\">Dora Verlič</a>"
-        ]
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63752,
-    "location_id": 3149,
-    "attribute_id": 25,
-    "value_text": "Entschuldigung, ich kann den angegebenen Inhalt nicht übersetzen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-21T05:35:23.272+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63753,
-    "location_id": 3149,
-    "attribute_id": 25,
-    "value_text": "Je suis nicht in der Lage, auf externe Links zuzugreifen oder Webadressen zu übersetzen. Bitte gib den Text oder Inhalt an, den du übersetzt haben möchtest.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-21T05:35:24.542+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63754,
-    "location_id": 3149,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2610114711364209058",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-21T05:35:25.269+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   }
