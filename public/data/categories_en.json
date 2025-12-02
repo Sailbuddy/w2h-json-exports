@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_en": "restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 95,
     "name_en": "natural_feature",
     "icon": "natural_feature",
@@ -192,6 +185,13 @@
     "id": 25,
     "name_en": "lodging",
     "icon": "lodging",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name_en": "restaurant",
+    "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
@@ -231,6 +231,20 @@
     "active": true
   },
   {
+    "id": 190,
+    "name_en": "political",
+    "icon": "political",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 189,
+    "name_en": "locality",
+    "icon": "locality",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 179,
     "name_en": "route",
     "icon": "route",
@@ -242,6 +256,20 @@
     "name_en": "Marina",
     "icon": "Marina oder Hafen",
     "sort_order": 999,
+    "active": true
+  },
+  {
+    "id": 191,
+    "name_en": "storage",
+    "icon": "storage",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 192,
+    "name_en": "bakery",
+    "icon": "bakery",
+    "sort_order": 9999,
     "active": true
   },
   {
