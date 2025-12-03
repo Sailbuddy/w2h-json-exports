@@ -175,6 +175,13 @@
     "active": true
   },
   {
+    "id": 194,
+    "name_de": "Hafenamt Außenstelle",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
     "id": 95,
     "name_de": "Naturmerkmal",
     "icon": "natural_feature",
@@ -249,6 +256,13 @@
     "name_de": "Route",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 193,
+    "name_de": "Offizielles Hafenamt",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
