@@ -175,6 +175,13 @@
     "active": true
   },
   {
+    "id": 194,
+    "name_hr": "Ispostava lučke kapetanije",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
     "id": 95,
     "name_hr": "Prirodna značajka",
     "icon": "natural_feature",
@@ -249,6 +256,13 @@
     "name_hr": "Ruta",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 193,
+    "name_hr": "Lučka kapetanija",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
