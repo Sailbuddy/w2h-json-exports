@@ -175,6 +175,13 @@
     "active": true
   },
   {
+    "id": 194,
+    "name_fr": "Capitainerie secondaire",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
     "id": 95,
     "name_fr": "Caractéristique naturelle",
     "icon": "natural_feature",
@@ -249,6 +256,13 @@
     "name_fr": "Itinéraire",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 193,
+    "name_fr": "Capitainerie principale",
+    "icon": "⚓",
+    "sort_order": 50,
     "active": true
   },
   {
