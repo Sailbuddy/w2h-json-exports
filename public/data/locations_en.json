@@ -1,10 +1,10 @@
 [
   {
-    "id": 632,
+    "id": 600,
     "wind2horizon_id": null,
-    "lat": 43.81910329999999,
-    "lng": 15.9189997,
-    "name_en": "ACI Marina Skradin",
+    "lat": 44.9495486,
+    "lng": 14.4158599,
+    "name_en": "Apartment ACI Marina CRES",
     "description_en": null
   },
   {
@@ -80,11 +80,11 @@
     "description_en": null
   },
   {
-    "id": 600,
+    "id": 632,
     "wind2horizon_id": null,
-    "lat": 44.9495486,
-    "lng": 14.4158599,
-    "name_en": "Apartment ACI Marina CRES",
+    "lat": 43.81910329999999,
+    "lng": 15.9189997,
+    "name_en": "ACI Marina Skradin",
     "description_en": null
   },
   {
@@ -144,6 +144,14 @@
     "description_en": null
   },
   {
+    "id": 665,
+    "wind2horizon_id": null,
+    "lat": 43.6252323,
+    "lng": 15.5745049,
+    "name_en": "Blitvenica Lighthouse",
+    "description_en": null
+  },
+  {
     "id": 2806,
     "wind2horizon_id": null,
     "lat": 45.4409582,
@@ -165,14 +173,6 @@
     "lat": 45.2508423,
     "lng": 13.5944009,
     "name_en": "Lučica Materada",
-    "description_en": null
-  },
-  {
-    "id": 665,
-    "wind2horizon_id": null,
-    "lat": 43.6252323,
-    "lng": 15.5745049,
-    "name_en": "Blitvenica Lighthouse",
     "description_en": null
   },
   {
@@ -280,28 +280,12 @@
     "description_en": "Test of module B Now also a test whether the data is displayed in the map."
   },
   {
-    "id": 561,
-    "wind2horizon_id": null,
-    "lat": 44.8731915,
-    "lng": 13.8450158,
-    "name_en": "ACI marina Pula",
-    "description_en": null
-  },
-  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
     "lng": 13.6052522,
     "name_en": "Viewpoint Casanova",
     "description_en": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
-  },
-  {
-    "id": 629,
-    "wind2horizon_id": null,
-    "lat": 43.7575498,
-    "lng": 15.7800631,
-    "name_en": "ACI Marina Vodice",
-    "description_en": null
   },
   {
     "id": 899,
@@ -312,11 +296,27 @@
     "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
+    "id": 561,
+    "wind2horizon_id": null,
+    "lat": 44.8731915,
+    "lng": 13.8450158,
+    "name_en": "ACI marina Pula",
+    "description_en": null
+  },
+  {
     "id": 2527,
     "wind2horizon_id": null,
     "lat": 45.5331538,
     "lng": 13.6532217,
     "name_en": "Harbor Izola",
+    "description_en": null
+  },
+  {
+    "id": 629,
+    "wind2horizon_id": null,
+    "lat": 43.7575498,
+    "lng": 15.7800631,
+    "name_en": "ACI Marina Vodice",
     "description_en": null
   },
   {
@@ -560,14 +560,6 @@
     "description_en": null
   },
   {
-    "id": 3387,
-    "wind2horizon_id": null,
-    "lat": 45.1274832,
-    "lng": 13.6250246,
-    "name_en": "Marina Valalta",
-    "description_en": null
-  },
-  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -592,11 +584,67 @@
     "description_en": null
   },
   {
+    "id": 3387,
+    "wind2horizon_id": null,
+    "lat": 45.1274832,
+    "lng": 13.6250246,
+    "name_en": "Marina Valalta",
+    "description_en": null
+  },
+  {
     "id": 2545,
     "wind2horizon_id": null,
     "lat": 45.5288905,
     "lng": 13.5656003,
     "name_en": "Restavracija Pavel",
+    "description_en": null
+  },
+  {
+    "id": 3403,
+    "wind2horizon_id": null,
+    "lat": 45.20426519999999,
+    "lng": 13.5892309,
+    "name_en": "Marina Parentium",
+    "description_en": null
+  },
+  {
+    "id": 3405,
+    "wind2horizon_id": null,
+    "lat": 45.1508565,
+    "lng": 13.5989804,
+    "name_en": "Marina Vrsar",
+    "description_en": null
+  },
+  {
+    "id": 3409,
+    "wind2horizon_id": null,
+    "lat": 44.8451569,
+    "lng": 13.8478254,
+    "name_en": "Marina Veruda",
+    "description_en": null
+  },
+  {
+    "id": 3415,
+    "wind2horizon_id": null,
+    "lat": 45.12195699999999,
+    "lng": 14.8081514,
+    "name_en": "MITAN MARINA",
+    "description_en": null
+  },
+  {
+    "id": 3416,
+    "wind2horizon_id": null,
+    "lat": 45.0290191,
+    "lng": 14.6284126,
+    "name_en": "Marina Punat Ltd.",
+    "description_en": null
+  },
+  {
+    "id": 3417,
+    "wind2horizon_id": null,
+    "lat": 44.803101,
+    "lng": 14.7263067,
+    "name_en": "ACI Marina Supetarska Draga",
     "description_en": null
   },
   {
@@ -608,19 +656,19 @@
     "description_en": null
   },
   {
+    "id": 3418,
+    "wind2horizon_id": null,
+    "lat": 44.7583093,
+    "lng": 14.7629856,
+    "name_en": "ACI Marina Rab",
+    "description_en": null
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
     "lng": 13.5615428,
     "name_en": "Luka Novigrad",
-    "description_en": null
-  },
-  {
-    "id": 3383,
-    "wind2horizon_id": null,
-    "lat": 45.2749011,
-    "lng": 13.5977285,
-    "name_en": "Marina Cervar-Porat",
     "description_en": null
   },
   {
@@ -648,28 +696,12 @@
     "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
   },
   {
-    "id": 3385,
-    "wind2horizon_id": null,
-    "lat": 45.2238561,
-    "lng": 13.5950553,
-    "name_en": "Marina Poreč",
-    "description_en": null
-  },
-  {
     "id": 2079,
     "wind2horizon_id": null,
     "lat": 47.346309,
     "lng": 13.2017865,
     "name_en": "Hotel Alpenland St. Johann",
     "description_en": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
-  },
-  {
-    "id": 3386,
-    "wind2horizon_id": null,
-    "lat": 45.1771058,
-    "lng": 13.5980769,
-    "name_en": "Marina Funtana",
-    "description_en": null
   },
   {
     "id": 3388,
@@ -720,11 +752,43 @@
     "description_en": null
   },
   {
+    "id": 3385,
+    "wind2horizon_id": null,
+    "lat": 45.2238561,
+    "lng": 13.5950553,
+    "name_en": "Marina Poreč",
+    "description_en": null
+  },
+  {
+    "id": 3386,
+    "wind2horizon_id": null,
+    "lat": 45.1771058,
+    "lng": 13.5980769,
+    "name_en": "Marina Funtana",
+    "description_en": null
+  },
+  {
+    "id": 3383,
+    "wind2horizon_id": null,
+    "lat": 45.2749011,
+    "lng": 13.5977285,
+    "name_en": "Marina Cervar-Porat",
+    "description_en": null
+  },
+  {
     "id": 3394,
     "wind2horizon_id": null,
     "lat": 43.66520388068192,
     "lng": 15.621735800985078,
     "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 3422,
+    "wind2horizon_id": null,
+    "lat": 44.1190005,
+    "lng": 15.2278746,
+    "name_en": "Marina Zadar",
     "description_en": null
   },
   {
@@ -734,6 +798,94 @@
     "lng": 13.5697685,
     "name_en": "Grand Hotel Bernardin",
     "description_en": "Laid-back seafront hotel featuring a spa & a seasonal indoor pool, plus dining, bars & a terrace."
+  },
+  {
+    "id": 3423,
+    "wind2horizon_id": null,
+    "lat": 44.14329499999999,
+    "lng": 14.848064,
+    "name_en": "Marina Veli Rat",
+    "description_en": null
+  },
+  {
+    "id": 3424,
+    "wind2horizon_id": null,
+    "lat": 44.0957234,
+    "lng": 15.1683271,
+    "name_en": "Olive Island Marina Croatia Sutomiscica",
+    "description_en": null
+  },
+  {
+    "id": 3425,
+    "wind2horizon_id": null,
+    "lat": 44.0809536,
+    "lng": 15.1892214,
+    "name_en": "Marina Preko",
+    "description_en": null
+  },
+  {
+    "id": 3426,
+    "wind2horizon_id": null,
+    "lat": 44.0533708,
+    "lng": 15.305874,
+    "name_en": "Marina Dalmacija",
+    "description_en": null
+  },
+  {
+    "id": 3427,
+    "wind2horizon_id": null,
+    "lat": 44.0504194,
+    "lng": 15.1103867,
+    "name_en": "Marina Veli Iž",
+    "description_en": null
+  },
+  {
+    "id": 3428,
+    "wind2horizon_id": null,
+    "lat": 43.942583,
+    "lng": 15.445618,
+    "name_en": "Marina Kornati - Ilirija dd",
+    "description_en": null
+  },
+  {
+    "id": 3429,
+    "wind2horizon_id": null,
+    "lat": 43.9397056,
+    "lng": 15.4418954,
+    "name_en": "Marina Šangulin",
+    "description_en": "Energetic harbor & boat marina in a natural cove, offering nearby eateries & markets."
+  },
+  {
+    "id": 3430,
+    "wind2horizon_id": null,
+    "lat": 43.8829849,
+    "lng": 15.2852365,
+    "name_en": "ACI Marina ZUT",
+    "description_en": null
+  },
+  {
+    "id": 3432,
+    "wind2horizon_id": null,
+    "lat": 43.8260477,
+    "lng": 15.5942908,
+    "name_en": "Marina Hramina",
+    "description_en": null
+  },
+  {
+    "id": 3433,
+    "wind2horizon_id": null,
+    "lat": 43.82636189999999,
+    "lng": 15.6025956,
+    "name_en": "Marina Betina",
+    "description_en": null
+  },
+  {
+    "id": 3434,
+    "wind2horizon_id": null,
+    "lat": 43.7838587,
+    "lng": 15.6430404,
+    "name_en": "ACI Marina Jezera",
+    "description_en": null
   },
   {
     "id": 3203,
@@ -800,6 +952,14 @@
     "description_en": "Palace museum dating to 1800s housing a maritime museum with naval exhibits, photos & model ships."
   },
   {
+    "id": 3435,
+    "wind2horizon_id": null,
+    "lat": 43.7553495,
+    "lng": 15.746475,
+    "name_en": "D-Marin Tribunj Marina",
+    "description_en": null
+  },
+  {
     "id": 3205,
     "wind2horizon_id": null,
     "lat": 45.6154603,
@@ -829,6 +989,94 @@
     "lat": 45.4900956,
     "lng": 13.4910909,
     "name_en": "Savudrija Lighthouse",
+    "description_en": null
+  },
+  {
+    "id": 3438,
+    "wind2horizon_id": null,
+    "lat": 43.7197058,
+    "lng": 15.9008388,
+    "name_en": "D-Marin Mandalina Marina",
+    "description_en": null
+  },
+  {
+    "id": 3439,
+    "wind2horizon_id": null,
+    "lat": 43.7003789,
+    "lng": 15.8773788,
+    "name_en": "Amadria Yacht Marines",
+    "description_en": null
+  },
+  {
+    "id": 3440,
+    "wind2horizon_id": null,
+    "lat": 43.5718869,
+    "lng": 15.9407407,
+    "name_en": "Marina Kremik d.o.o.",
+    "description_en": null
+  },
+  {
+    "id": 3442,
+    "wind2horizon_id": null,
+    "lat": 43.5137033,
+    "lng": 16.112295,
+    "name_en": "Marina Agana",
+    "description_en": null
+  },
+  {
+    "id": 3443,
+    "wind2horizon_id": null,
+    "lat": 43.5134078,
+    "lng": 16.248892,
+    "name_en": "ACI Marina Trogir",
+    "description_en": null
+  },
+  {
+    "id": 3444,
+    "wind2horizon_id": null,
+    "lat": 43.5466853,
+    "lng": 16.4024202,
+    "name_en": "Marina Kastela",
+    "description_en": null
+  },
+  {
+    "id": 3445,
+    "wind2horizon_id": null,
+    "lat": 43.5010902,
+    "lng": 16.4300001,
+    "name_en": "ACI marina Split",
+    "description_en": null
+  },
+  {
+    "id": 3447,
+    "wind2horizon_id": null,
+    "lat": 43.491491,
+    "lng": 16.537517,
+    "name_en": "Marina Lav",
+    "description_en": null
+  },
+  {
+    "id": 3449,
+    "wind2horizon_id": null,
+    "lat": 43.3585628,
+    "lng": 16.9455223,
+    "name_en": "Luka Baška Voda",
+    "description_en": null
+  },
+  {
+    "id": 3450,
+    "wind2horizon_id": null,
+    "lat": 43.2642903,
+    "lng": 17.0569215,
+    "name_en": "Marina Tučepi",
+    "description_en": null
+  },
+  {
+    "id": 3451,
+    "wind2horizon_id": null,
+    "lat": 43.3253455,
+    "lng": 16.4481596,
+    "name_en": "ACI - Milna",
     "description_en": null
   },
   {
@@ -864,6 +1112,70 @@
     "description_en": null
   },
   {
+    "id": 3452,
+    "wind2horizon_id": null,
+    "lat": 43.1787008,
+    "lng": 16.6758689,
+    "name_en": "ACI Vrboska",
+    "description_en": null
+  },
+  {
+    "id": 3453,
+    "wind2horizon_id": null,
+    "lat": 43.1623352,
+    "lng": 16.3926776,
+    "name_en": "ACI Marina Palmižana",
+    "description_en": null
+  },
+  {
+    "id": 3454,
+    "wind2horizon_id": null,
+    "lat": 42.973878,
+    "lng": 17.174053,
+    "name_en": "Port Orebić",
+    "description_en": null
+  },
+  {
+    "id": 3455,
+    "wind2horizon_id": null,
+    "lat": 42.95864599999999,
+    "lng": 17.1356688,
+    "name_en": "ACI Marina Korčula",
+    "description_en": null
+  },
+  {
+    "id": 3456,
+    "wind2horizon_id": null,
+    "lat": 42.9240612,
+    "lng": 17.1725133,
+    "name_en": "Lučica Lumbarda",
+    "description_en": null
+  },
+  {
+    "id": 3457,
+    "wind2horizon_id": null,
+    "lat": 42.6710606,
+    "lng": 18.1257027,
+    "name_en": "ACI Marina Dubrovnik",
+    "description_en": null
+  },
+  {
+    "id": 3506,
+    "wind2horizon_id": null,
+    "lat": 43.1839695,
+    "lng": 16.5927911,
+    "name_en": "Split Harbour Master's Office - Stari Grad Outpost",
+    "description_en": null
+  },
+  {
+    "id": 3511,
+    "wind2horizon_id": null,
+    "lat": 44.5126292,
+    "lng": 14.3113322,
+    "name_en": "Susak port",
+    "description_en": null
+  },
+  {
     "id": 3220,
     "wind2horizon_id": null,
     "lat": 44.8667913,
@@ -893,14 +1205,6 @@
     "lat": 44.5191313,
     "lng": 14.5022154,
     "name_en": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
-    "description_en": null
-  },
-  {
-    "id": 3397,
-    "wind2horizon_id": null,
-    "lat": 45.075565,
-    "lng": 13.636093,
-    "name_en": "ACI Marina Rovinj",
     "description_en": null
   },
   {
@@ -960,6 +1264,22 @@
     "description_en": null
   },
   {
+    "id": 3397,
+    "wind2horizon_id": null,
+    "lat": 45.075565,
+    "lng": 13.636093,
+    "name_en": "ACI Marina Rovinj",
+    "description_en": null
+  },
+  {
+    "id": 3459,
+    "wind2horizon_id": null,
+    "lat": 44.96934460000001,
+    "lng": 14.7616262,
+    "name_en": "Baška Harbor",
+    "description_en": null
+  },
+  {
     "id": 2942,
     "wind2horizon_id": null,
     "lat": 44.8143153,
@@ -1008,6 +1328,14 @@
     "description_en": null
   },
   {
+    "id": 3481,
+    "wind2horizon_id": null,
+    "lat": 42.6588885,
+    "lng": 18.0861263,
+    "name_en": "Harbour Master Office",
+    "description_en": null
+  },
+  {
     "id": 3235,
     "wind2horizon_id": null,
     "lat": 45.3271224,
@@ -1021,6 +1349,14 @@
     "lat": 45.3319306,
     "lng": 14.4270913,
     "name_en": "KBC Rijeka - lokalitet Rijeka",
+    "description_en": null
+  },
+  {
+    "id": 3498,
+    "wind2horizon_id": null,
+    "lat": 44.7549808,
+    "lng": 14.7622323,
+    "name_en": "Hafenmeister",
     "description_en": null
   },
   {
@@ -1056,11 +1392,35 @@
     "description_en": null
   },
   {
+    "id": 3504,
+    "wind2horizon_id": null,
+    "lat": 43.73411979999999,
+    "lng": 15.8910608,
+    "name_en": "Harbour Master Office Šibenik",
+    "description_en": null
+  },
+  {
     "id": 3309,
     "wind2horizon_id": null,
     "lat": 43.9381175,
     "lng": 15.4458679,
     "name_en": "Poliklinika More Med",
+    "description_en": null
+  },
+  {
+    "id": 3514,
+    "wind2horizon_id": null,
+    "lat": 43.7980121,
+    "lng": 15.642852,
+    "name_en": "Lučka kapetanija Šibenik - ispostava Tisno",
+    "description_en": null
+  },
+  {
+    "id": 3516,
+    "wind2horizon_id": null,
+    "lat": 43.0088917,
+    "lng": 17.2664221,
+    "name_en": "The Port Master Office",
     "description_en": null
   },
   {
@@ -1128,11 +1488,51 @@
     "description_en": null
   },
   {
+    "id": 3458,
+    "wind2horizon_id": null,
+    "lat": 45.2869513,
+    "lng": 14.5743296,
+    "name_en": "MARINE ING.S.HORVAT D.O.O.",
+    "description_en": null
+  },
+  {
+    "id": 3465,
+    "wind2horizon_id": null,
+    "lat": 45.3238,
+    "lng": 14.4408135,
+    "name_en": "Harbourmaster's Office",
+    "description_en": null
+  },
+  {
+    "id": 3529,
+    "wind2horizon_id": null,
+    "lat": 45.15258070000001,
+    "lng": 18.0151253,
+    "name_en": "port Authority",
+    "description_en": null
+  },
+  {
+    "id": 3524,
+    "wind2horizon_id": null,
+    "lat": 45.5606531,
+    "lng": 18.7239284,
+    "name_en": "HAMMER Ltd.",
+    "description_en": null
+  },
+  {
     "id": 3016,
     "wind2horizon_id": null,
     "lat": 45.3564626,
     "lng": 14.4874776,
     "name_en": "Ina",
+    "description_en": null
+  },
+  {
+    "id": 3460,
+    "wind2horizon_id": null,
+    "lat": 43.5066969,
+    "lng": 16.4393945,
+    "name_en": "Harbour Master's Office Split",
     "description_en": null
   },
   {
@@ -1160,6 +1560,54 @@
     "description_en": null
   },
   {
+    "id": 3398,
+    "wind2horizon_id": null,
+    "lat": 43.9621868,
+    "lng": 15.4284425,
+    "name_en": "Sveti Filip i Jakov",
+    "description_en": null
+  },
+  {
+    "id": 3513,
+    "wind2horizon_id": null,
+    "lat": 44.929422,
+    "lng": 14.9198022,
+    "name_en": "LUČKA KAPETANIJA SENJ, Lučka ispostava SVETI JURAJ",
+    "description_en": null
+  },
+  {
+    "id": 3518,
+    "wind2horizon_id": null,
+    "lat": 45.43397969999999,
+    "lng": 13.5177386,
+    "name_en": "Lučka kapetanija Pula - ispostava Umag",
+    "description_en": null
+  },
+  {
+    "id": 3463,
+    "wind2horizon_id": null,
+    "lat": 42.5811493,
+    "lng": 18.2195207,
+    "name_en": "Harbourmaster`s office Cavtat",
+    "description_en": null
+  },
+  {
+    "id": 3472,
+    "wind2horizon_id": null,
+    "lat": 43.0440395,
+    "lng": 16.0878561,
+    "name_en": "KOMIŽA TOWN HARBOUR",
+    "description_en": null
+  },
+  {
+    "id": 3491,
+    "wind2horizon_id": null,
+    "lat": 44.44444499999999,
+    "lng": 15.0533782,
+    "name_en": "Lučka kapetanija Zadar - ispostava Pag",
+    "description_en": null
+  },
+  {
     "id": 3196,
     "wind2horizon_id": null,
     "lat": 45.6354644,
@@ -1168,11 +1616,27 @@
     "description_en": null
   },
   {
+    "id": 3521,
+    "wind2horizon_id": null,
+    "lat": 43.7565208,
+    "lng": 15.7745934,
+    "name_en": "Harbor Master's Office Vodice",
+    "description_en": null
+  },
+  {
     "id": 3199,
     "wind2horizon_id": null,
     "lat": 45.64485380000001,
     "lng": 13.7632968,
     "name_en": "Casa di Cura Salus",
+    "description_en": null
+  },
+  {
+    "id": 3497,
+    "wind2horizon_id": null,
+    "lat": 44.8730672,
+    "lng": 13.847649,
+    "name_en": "Harbor Master's Office Pula",
     "description_en": null
   },
   {
@@ -1264,6 +1728,14 @@
     "description_en": null
   },
   {
+    "id": 3414,
+    "wind2horizon_id": null,
+    "lat": 45.12770099999999,
+    "lng": 14.7863833,
+    "name_en": "Marina Novi",
+    "description_en": null
+  },
+  {
     "id": 2995,
     "wind2horizon_id": null,
     "lat": 44.19007819999999,
@@ -1296,6 +1768,22 @@
     "description_en": null
   },
   {
+    "id": 3420,
+    "wind2horizon_id": null,
+    "lat": 44.4710417,
+    "lng": 14.9550749,
+    "name_en": "ACI Marina Šimuni",
+    "description_en": null
+  },
+  {
+    "id": 3102,
+    "wind2horizon_id": null,
+    "lat": 43.7762875,
+    "lng": 15.9598427,
+    "name_en": "Tromilja benzin",
+    "description_en": null
+  },
+  {
     "id": 3221,
     "wind2horizon_id": null,
     "lat": 44.8671303,
@@ -1320,14 +1808,6 @@
     "description_en": null
   },
   {
-    "id": 3102,
-    "wind2horizon_id": null,
-    "lat": 43.7762875,
-    "lng": 15.9598427,
-    "name_en": "Tromilja benzin",
-    "description_en": null
-  },
-  {
     "id": 3083,
     "wind2horizon_id": null,
     "lat": 44.0303662,
@@ -1341,6 +1821,62 @@
     "lat": 44.0780186,
     "lng": 15.3883917,
     "name_en": "Galovac Petrol",
+    "description_en": null
+  },
+  {
+    "id": 3462,
+    "wind2horizon_id": null,
+    "lat": 44.13978669999999,
+    "lng": 14.9070047,
+    "name_en": "Sportska Luka Božava",
+    "description_en": null
+  },
+  {
+    "id": 3412,
+    "wind2horizon_id": null,
+    "lat": 45.313845,
+    "lng": 14.2878059,
+    "name_en": "ACI Marina Opatija",
+    "description_en": null
+  },
+  {
+    "id": 3413,
+    "wind2horizon_id": null,
+    "lat": 45.3275618,
+    "lng": 14.300479,
+    "name_en": "Marina admiral",
+    "description_en": "Port for cruising vessels, yachts & boats, flanked by restaurants, hotels & water views."
+  },
+  {
+    "id": 3421,
+    "wind2horizon_id": null,
+    "lat": 44.1289934,
+    "lng": 15.2111313,
+    "name_en": "D-Marin Borik Marina",
+    "description_en": null
+  },
+  {
+    "id": 3461,
+    "wind2horizon_id": null,
+    "lat": 43.1630924,
+    "lng": 16.6941645,
+    "name_en": "Harbourmaster’s office",
+    "description_en": null
+  },
+  {
+    "id": 3484,
+    "wind2horizon_id": null,
+    "lat": 43.82537929999999,
+    "lng": 15.5967504,
+    "name_en": "Amfora - Tourist agency and rent a boat",
+    "description_en": null
+  },
+  {
+    "id": 3470,
+    "wind2horizon_id": null,
+    "lat": 44.5262023,
+    "lng": 15.0717504,
+    "name_en": "Boat travel Semisubmarine MaDi Team",
     "description_en": null
   },
   {
@@ -1520,19 +2056,19 @@
     "description_en": null
   },
   {
-    "id": 3147,
-    "wind2horizon_id": null,
-    "lat": 43.549903,
-    "lng": 16.304622,
-    "name_en": "Shell",
-    "description_en": null
-  },
-  {
     "id": 3145,
     "wind2horizon_id": null,
     "lat": 43.50680089999999,
     "lng": 16.5069299,
     "name_en": "NORMA d.o.o.",
+    "description_en": null
+  },
+  {
+    "id": 3147,
+    "wind2horizon_id": null,
+    "lat": 43.549903,
+    "lng": 16.304622,
+    "name_en": "Shell",
     "description_en": null
   },
   {
@@ -1821,6 +2357,14 @@
     "lat": 45.4312421,
     "lng": 13.5301577,
     "name_en": "Petrol",
+    "description_en": null
+  },
+  {
+    "id": 3473,
+    "wind2horizon_id": null,
+    "lat": 42.9601266,
+    "lng": 17.134843,
+    "name_en": "Croatian Institute for Pension Insurance (Korchula Office)",
     "description_en": null
   },
   {
@@ -3528,6 +4072,14 @@
     "description_en": null
   },
   {
+    "id": 3478,
+    "wind2horizon_id": null,
+    "lat": 43.2982861,
+    "lng": 17.0177417,
+    "name_en": "HepiCentar",
+    "description_en": null
+  },
+  {
     "id": 3300,
     "wind2horizon_id": null,
     "lat": 44.10710520000001,
@@ -3789,6 +4341,14 @@
     "lat": 43.5070437,
     "lng": 16.4740805,
     "name_en": "IPM",
+    "description_en": null
+  },
+  {
+    "id": 3419,
+    "wind2horizon_id": null,
+    "lat": 44.544321,
+    "lng": 14.4611537,
+    "name_en": "Marina Lošinj",
     "description_en": null
   },
   {
@@ -4069,6 +4629,14 @@
     "lat": 45.331061,
     "lng": 14.433475,
     "name_en": "Poliklinika Roth Rijeka - Ortopedija Kirurgija Radiologija",
+    "description_en": null
+  },
+  {
+    "id": 3485,
+    "wind2horizon_id": null,
+    "lat": 44.5557261,
+    "lng": 14.8826743,
+    "name_en": "Novalja Harbor",
     "description_en": null
   },
   {
@@ -4357,6 +4925,70 @@
     "lat": 43.5059851,
     "lng": 16.4710427,
     "name_en": "KBC Split Križine, Istočni ulaz",
+    "description_en": null
+  },
+  {
+    "id": 3441,
+    "wind2horizon_id": null,
+    "lat": 43.5316998,
+    "lng": 15.9602378,
+    "name_en": "Marina Frapa Resort Rogoznica - Hotel Otok",
+    "description_en": "Casual rooms & apartments in a straightforward hotel featuring a gym & an outdoor pool."
+  },
+  {
+    "id": 3446,
+    "wind2horizon_id": null,
+    "lat": 43.514698,
+    "lng": 16.4180881,
+    "name_en": "Spinut Marina",
+    "description_en": null
+  },
+  {
+    "id": 3448,
+    "wind2horizon_id": null,
+    "lat": 43.3699264,
+    "lng": 16.9275026,
+    "name_en": "Bluesun Hotel Marina",
+    "description_en": "Simple rooms in a casual property offering a restaurant, a bar & Adriatic Sea views."
+  },
+  {
+    "id": 3490,
+    "wind2horizon_id": null,
+    "lat": 45.3319419,
+    "lng": 14.3022257,
+    "name_en": "TIC Opatija",
+    "description_en": null
+  },
+  {
+    "id": 3493,
+    "wind2horizon_id": null,
+    "lat": 43.81634409999999,
+    "lng": 15.6635946,
+    "name_en": "Marina Pirovac",
+    "description_en": null
+  },
+  {
+    "id": 3495,
+    "wind2horizon_id": null,
+    "lat": 45.2272072,
+    "lng": 13.5916975,
+    "name_en": "Harbourmaster`s office PULA - Branch office Poreč",
+    "description_en": null
+  },
+  {
+    "id": 3501,
+    "wind2horizon_id": null,
+    "lat": 45.0814576,
+    "lng": 13.633025,
+    "name_en": "Capitaneria di Porto di Rovigno",
+    "description_en": null
+  },
+  {
+    "id": 3505,
+    "wind2horizon_id": null,
+    "lat": 44.0572352,
+    "lng": 15.29756,
+    "name_en": "Master Yachting d.o.o.",
     "description_en": null
   }
 ]
