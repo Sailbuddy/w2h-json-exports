@@ -560,6 +560,14 @@
     "description_hr": null
   },
   {
+    "id": 3534,
+    "wind2horizon_id": null,
+    "lat": 43.758316026213905,
+    "lng": 15.345769554209125,
+    "name_hr": null,
+    "description_hr": null
+  },
+  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -934,6 +942,14 @@
     "lng": 12.3892092,
     "name_hr": "Bergbahn Kitzbühel",
     "description_hr": "Popularno skijaško odmaralište s brojnim zahtjevnim spustovima za skijanje i daskanje na snijegu."
+  },
+  {
+    "id": 3535,
+    "wind2horizon_id": null,
+    "lat": 44.562386,
+    "lng": 14.3684609,
+    "name_hr": "Kurila light house",
+    "description_hr": null
   },
   {
     "id": 3395,
@@ -4989,6 +5005,14 @@
     "lat": 44.0572352,
     "lng": 15.29756,
     "name_hr": "Master Yachting d.o.o.",
+    "description_hr": null
+  },
+  {
+    "id": 3533,
+    "wind2horizon_id": null,
+    "lat": 44.5739932,
+    "lng": 14.4127878,
+    "name_hr": "Plaža Artatore",
     "description_hr": null
   }
 ]
