@@ -19367,9 +19367,17 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-10-14T20:30:20.833+00:00",
+    "updated_at": "2025-12-11T06:59:06.703+00:00",
     "name": null,
-    "value_json": "von 0:00 bis 23:59",
+    "value_json": [
+      "von 0:00 bis 23:59",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
