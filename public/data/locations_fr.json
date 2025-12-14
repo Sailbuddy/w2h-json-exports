@@ -1,18 +1,18 @@
 [
   {
-    "id": 600,
-    "wind2horizon_id": null,
-    "lat": 44.9495486,
-    "lng": 14.4158599,
-    "name_fr": "Apartment ACI Marina CRES",
-    "description_fr": null
-  },
-  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
     "lng": 13.20184,
     "name_fr": "sehen!wutscher",
+    "description_fr": null
+  },
+  {
+    "id": 600,
+    "wind2horizon_id": null,
+    "lat": 44.9495486,
+    "lng": 14.4158599,
+    "name_fr": "Apartment ACI Marina CRES",
     "description_fr": null
   },
   {
