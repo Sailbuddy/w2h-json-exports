@@ -5014,5 +5014,13 @@
     "lng": 14.4127878,
     "name_it": "Plaža Artatore",
     "description_it": null
+  },
+  {
+    "id": 3536,
+    "wind2horizon_id": null,
+    "lat": 45.6512008,
+    "lng": 13.7780792,
+    "name_it": "L'Antica Pizzeria da Michele Trieste",
+    "description_it": null
   }
 ]
