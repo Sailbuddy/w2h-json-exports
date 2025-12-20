@@ -1,19 +1,19 @@
 [
   {
-    "id": 87,
-    "wind2horizon_id": null,
-    "lat": 47.3475428,
-    "lng": 13.20184,
-    "name_en": "sehen!wutscher",
-    "description_en": null
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
     "lng": 14.4158599,
     "name_en": "Apartment ACI Marina CRES",
     "description_en": null
+  },
+  {
+    "id": 87,
+    "wind2horizon_id": null,
+    "lat": 47.3475428,
+    "lng": 13.20184,
+    "name_en": "sehen!wutscher",
+    "description_en": "TEST-2025-12-13-14:07"
   },
   {
     "id": 93,
@@ -480,19 +480,19 @@
     "description_en": null
   },
   {
-    "id": 2892,
-    "wind2horizon_id": null,
-    "lat": 45.5286508,
-    "lng": 13.5686185,
-    "name_en": "Tartini Square",
-    "description_en": null
-  },
-  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
     "lng": 13.1940298,
     "name_en": "JET Tankstelle",
+    "description_en": "The Jet gas station in the direction of Salzburg next to the Billa"
+  },
+  {
+    "id": 2892,
+    "wind2horizon_id": null,
+    "lat": 45.5286508,
+    "lng": 13.5686185,
+    "name_en": "Tartini Square",
     "description_en": null
   },
   {
