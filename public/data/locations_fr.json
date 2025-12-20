@@ -1,19 +1,19 @@
 [
   {
-    "id": 87,
-    "wind2horizon_id": null,
-    "lat": 47.3475428,
-    "lng": 13.20184,
-    "name_fr": "sehen!wutscher",
-    "description_fr": null
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
     "lng": 14.4158599,
     "name_fr": "Apartment ACI Marina CRES",
     "description_fr": null
+  },
+  {
+    "id": 87,
+    "wind2horizon_id": null,
+    "lat": 47.3475428,
+    "lng": 13.20184,
+    "name_fr": "sehen!wutscher",
+    "description_fr": "TEST-2025-12-13-14:07"
   },
   {
     "id": 93,
@@ -480,19 +480,19 @@
     "description_fr": null
   },
   {
-    "id": 2892,
-    "wind2horizon_id": null,
-    "lat": 45.5286508,
-    "lng": 13.5686185,
-    "name_fr": "Tartini Square",
-    "description_fr": null
-  },
-  {
     "id": 91,
     "wind2horizon_id": null,
     "lat": 47.35044120000001,
     "lng": 13.1940298,
     "name_fr": "JET Tankstelle",
+    "description_fr": "La station-service Jet en direction de Salzbourg à côté du Billa"
+  },
+  {
+    "id": 2892,
+    "wind2horizon_id": null,
+    "lat": 45.5286508,
+    "lng": 13.5686185,
+    "name_fr": "Tartini Square",
     "description_fr": null
   },
   {
@@ -1109,7 +1109,7 @@
     "lat": 47.3180917,
     "lng": 13.1991778,
     "name_fr": "Gut Berg Naturhotel",
-    "description_fr": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+    "description_fr": null
   },
   {
     "id": 2913,
