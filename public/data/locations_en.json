@@ -16,6 +16,14 @@
     "description_en": "TEST-2025-12-13-14:07"
   },
   {
+    "id": 2026,
+    "wind2horizon_id": null,
+    "lat": 44.1234,
+    "lng": 14.9876,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 93,
     "wind2horizon_id": null,
     "lat": 44.87322990000001,
@@ -61,14 +69,6 @@
     "lat": 47.273843,
     "lng": 12.7574626,
     "name_en": "Kitzsteinhorn - Gletscherbahnen Kaprun AG",
-    "description_en": null
-  },
-  {
-    "id": 2026,
-    "wind2horizon_id": null,
-    "lat": 44.1234,
-    "lng": 14.9876,
-    "name_en": null,
     "description_en": null
   },
   {
@@ -136,14 +136,6 @@
     "description_en": "Large experimental musical instrument mounted beneath a staircase & played by the waves on the sea."
   },
   {
-    "id": 2027,
-    "wind2horizon_id": null,
-    "lat": 44.12,
-    "lng": 14.98,
-    "name_en": null,
-    "description_en": null
-  },
-  {
     "id": 665,
     "wind2horizon_id": null,
     "lat": 43.6252323,
@@ -173,6 +165,14 @@
     "lat": 45.2508423,
     "lng": 13.5944009,
     "name_en": "Lučica Materada",
+    "description_en": null
+  },
+  {
+    "id": 2027,
+    "wind2horizon_id": null,
+    "lat": 44.12,
+    "lng": 14.98,
+    "name_en": null,
     "description_en": null
   },
   {
@@ -264,12 +264,12 @@
     "description_en": null
   },
   {
-    "id": 2081,
+    "id": 899,
     "wind2horizon_id": null,
-    "lat": 38.7401303,
-    "lng": -9.1803574,
-    "name_en": "Palace Fronteira",
-    "description_en": "17th-century palace open for guided tours, with traditional azulejo tiling, paintings and furniture."
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_en": "Sveti Andrija",
+    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
     "id": 2031,
@@ -280,20 +280,20 @@
     "description_en": "Test of module B Now also a test whether the data is displayed in the map."
   },
   {
+    "id": 2081,
+    "wind2horizon_id": null,
+    "lat": 38.7401303,
+    "lng": -9.1803574,
+    "name_en": "Palace Fronteira",
+    "description_en": "17th-century palace open for guided tours, with traditional azulejo tiling, paintings and furniture."
+  },
+  {
     "id": 508,
     "wind2horizon_id": null,
     "lat": 45.1505492,
     "lng": 13.6052522,
     "name_en": "Viewpoint Casanova",
     "description_en": "Observation deck on a hilltop, with views over a yacht harbor, Vrsar old town & the Adriatic Sea."
-  },
-  {
-    "id": 899,
-    "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_en": "Sveti Andrija",
-    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
     "id": 561,
@@ -333,14 +333,6 @@
     "lat": 47.3226363,
     "lng": 13.1608855,
     "name_en": "Palermo Pizzeria",
-    "description_en": null
-  },
-  {
-    "id": 2028,
-    "wind2horizon_id": null,
-    "lat": 44.03892636133072,
-    "lng": 15.055097809853564,
-    "name_en": null,
     "description_en": null
   },
   {
@@ -413,6 +405,14 @@
     "lat": 45.6577318,
     "lng": 13.7728599,
     "name_en": "Centro Benefits",
+    "description_en": null
+  },
+  {
+    "id": 2028,
+    "wind2horizon_id": null,
+    "lat": 44.03892636133072,
+    "lng": 15.055097809853564,
+    "name_en": null,
     "description_en": null
   },
   {
@@ -496,19 +496,19 @@
     "description_en": null
   },
   {
-    "id": 2035,
-    "wind2horizon_id": null,
-    "lat": 47.1139945,
-    "lng": 13.1369949,
-    "name_en": "Urban Nature Bad Gastein - Badeschloss",
-    "description_en": null
-  },
-  {
     "id": 2029,
     "wind2horizon_id": null,
     "lat": 44.13602924559946,
     "lng": 15.068412977946032,
     "name_en": null,
+    "description_en": "This is a wonderful place for snorkeling. An indescribable number of fish."
+  },
+  {
+    "id": 2035,
+    "wind2horizon_id": null,
+    "lat": 47.1139945,
+    "lng": 13.1369949,
+    "name_en": "Urban Nature Bad Gastein - Badeschloss",
     "description_en": null
   },
   {
@@ -560,14 +560,6 @@
     "description_en": null
   },
   {
-    "id": 3534,
-    "wind2horizon_id": null,
-    "lat": 43.758316026213905,
-    "lng": 15.345769554209125,
-    "name_en": null,
-    "description_en": null
-  },
-  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -576,12 +568,12 @@
     "description_en": null
   },
   {
-    "id": 99,
+    "id": 3534,
     "wind2horizon_id": null,
-    "lat": 47.321454,
-    "lng": 13.195048,
-    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
-    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
+    "lat": 43.758316026213905,
+    "lng": 15.345769554209125,
+    "name_en": null,
+    "description_en": "A breathtaking sunset"
   },
   {
     "id": 2332,
@@ -672,6 +664,14 @@
     "description_en": null
   },
   {
+    "id": 99,
+    "wind2horizon_id": null,
+    "lat": 47.321454,
+    "lng": 13.195048,
+    "name_en": "Snow Space Salzburg - St. Johann im Pongau",
+    "description_en": "Huge resort with 3 ski areas, mountain huts & modern cable cars, plus hiking trails in summer."
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -702,14 +702,6 @@
     "lng": 13.0432009,
     "name_en": "Hotel Sacher Salzburg",
     "description_en": "Lavish hotel offering 3 refined restaurants, a cafe & a chocolaterie, as well as river views."
-  },
-  {
-    "id": 2079,
-    "wind2horizon_id": null,
-    "lat": 47.346309,
-    "lng": 13.2017865,
-    "name_en": "Hotel Alpenland St. Johann",
-    "description_en": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   },
   {
     "id": 3388,
@@ -854,14 +846,6 @@
     "lng": 15.445618,
     "name_en": "Marina Kornati - Ilirija dd",
     "description_en": null
-  },
-  {
-    "id": 3429,
-    "wind2horizon_id": null,
-    "lat": 43.9397056,
-    "lng": 15.4418954,
-    "name_en": "Marina Šangulin",
-    "description_en": "Energetic harbor & boat marina in a natural cove, offering nearby eateries & markets."
   },
   {
     "id": 3430,
@@ -1104,14 +1088,6 @@
     "description_en": null
   },
   {
-    "id": 3396,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_en": "Gut Berg Naturhotel",
-    "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
-  },
-  {
     "id": 2913,
     "wind2horizon_id": null,
     "lat": 45.43249,
@@ -1190,6 +1166,14 @@
     "lng": 14.3113322,
     "name_en": "Susak port",
     "description_en": null
+  },
+  {
+    "id": 3396,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_en": "Gut Berg Naturhotel",
+    "description_en": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
   },
   {
     "id": 3220,
@@ -1656,12 +1640,28 @@
     "description_en": null
   },
   {
+    "id": 3429,
+    "wind2horizon_id": null,
+    "lat": 43.9397056,
+    "lng": 15.4418954,
+    "name_en": "Marina Šangulin",
+    "description_en": "Energetic harbor & boat marina in a natural cove, offering nearby eateries & markets."
+  },
+  {
     "id": 3176,
     "wind2horizon_id": null,
     "lat": 45.5810028,
     "lng": 13.7274851,
     "name_en": "Orthopedic Hospital Valdoltra",
     "description_en": null
+  },
+  {
+    "id": 3413,
+    "wind2horizon_id": null,
+    "lat": 45.3275618,
+    "lng": 14.300479,
+    "name_en": "Marina admiral",
+    "description_en": "Port for cruising vessels, yachts & boats, flanked by restaurants, hotels & water views."
   },
   {
     "id": 3011,
@@ -1854,14 +1854,6 @@
     "lng": 14.2878059,
     "name_en": "ACI Marina Opatija",
     "description_en": null
-  },
-  {
-    "id": 3413,
-    "wind2horizon_id": null,
-    "lat": 45.3275618,
-    "lng": 14.300479,
-    "name_en": "Marina admiral",
-    "description_en": "Port for cruising vessels, yachts & boats, flanked by restaurants, hotels & water views."
   },
   {
     "id": 3421,
@@ -3416,6 +3408,14 @@
     "description_en": null
   },
   {
+    "id": 3545,
+    "wind2horizon_id": null,
+    "lat": 47.35,
+    "lng": 13.2,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 3109,
     "wind2horizon_id": null,
     "lat": 43.6907006,
@@ -4944,14 +4944,6 @@
     "description_en": null
   },
   {
-    "id": 3441,
-    "wind2horizon_id": null,
-    "lat": 43.5316998,
-    "lng": 15.9602378,
-    "name_en": "Marina Frapa Resort Rogoznica - Hotel Otok",
-    "description_en": "Casual rooms & apartments in a straightforward hotel featuring a gym & an outdoor pool."
-  },
-  {
     "id": 3446,
     "wind2horizon_id": null,
     "lat": 43.514698,
@@ -5022,5 +5014,21 @@
     "lng": 13.7780792,
     "name_en": "L'Antica Pizzeria da Michele Trieste",
     "description_en": null
+  },
+  {
+    "id": 3441,
+    "wind2horizon_id": null,
+    "lat": 43.5316998,
+    "lng": 15.9602378,
+    "name_en": "Marina Frapa Resort Rogoznica - Hotel Otok",
+    "description_en": "Casual rooms & apartments in a straightforward hotel featuring a gym & an outdoor pool."
+  },
+  {
+    "id": 2079,
+    "wind2horizon_id": null,
+    "lat": 47.346309,
+    "lng": 13.2017865,
+    "name_en": "Hotel Alpenland St. Johann",
+    "description_en": "Relaxed property offering a restaurant, a pub & a bar, plus an indoor pool, saunas & hot tubs."
   }
 ]
