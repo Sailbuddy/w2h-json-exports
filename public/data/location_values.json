@@ -1225,23 +1225,6 @@
     "locked": false
   },
   {
-    "id": 54044,
-    "location_id": 2076,
-    "attribute_id": 25,
-    "value_text": "Je suis désolé, je ne peux pas traduire de liens ou d'URL.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:22:43.964+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 54031,
     "location_id": 2076,
     "attribute_id": 26,
@@ -1594,6 +1577,23 @@
     "locked": false
   },
   {
+    "id": 54044,
+    "location_id": 2076,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:22:43.964+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63827,
     "location_id": 3396,
     "attribute_id": 28,
@@ -1631,6 +1631,23 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 54043,
+    "location_id": 2076,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-19T19:22:42.461+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1808,23 +1825,6 @@
     "value_option": null,
     "language_code": "en",
     "updated_at": "2025-11-19T19:22:41.082+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 54043,
-    "location_id": 2076,
-    "attribute_id": 25,
-    "value_text": "Mi dispiace, ma non posso aiutarti con den Links zu Webseiten oder spezifischen Webinhalten.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:22:42.461+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -2863,21 +2863,6 @@
     "locked": false
   },
   {
-    "id": 4951,
-    "location_id": 87,
-    "attribute_id": 25,
-    "value_text": "Je suis darauf trainiert, keine direkten Links oder Inhalte von externen Websites zu liefern, aber ich kann Ihnen helfen, indem ich generelle Informationen oder Anleitungen gebe. Bitte teilen Sie mehr Details oder präzise Fragen mit, falls Sie spezifische Hilfe benötigen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:17:42.485+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63616,
     "location_id": 2938,
     "attribute_id": 26,
@@ -3300,36 +3285,6 @@
     "value_option": null,
     "language_code": "fr",
     "updated_at": "2025-11-19T19:17:22.574+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4955,
-    "location_id": 87,
-    "attribute_id": 30,
-    "value_text": "Mi dispiace, ma non posso aiutarti mit dieser Anfrage.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:17:45.088+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 4956,
-    "location_id": 87,
-    "attribute_id": 30,
-    "value_text": "Je suis désolé, aber ich kann diesen Text nicht übersetzen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:17:46.154+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -3813,6 +3768,51 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4951,
+    "location_id": 87,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:17:42.485+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4955,
+    "location_id": 87,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-19T19:17:45.088+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 4956,
+    "location_id": 87,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:17:46.154+00:00",
+    "name": null,
+    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -4999,36 +4999,6 @@
     "locked": false
   },
   {
-    "id": 5020,
-    "location_id": 90,
-    "attribute_id": 25,
-    "value_text": "Mi dispiace, non posso aiutarti con questo.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:10:58.633+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5021,
-    "location_id": 90,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Modell und kann keine Webinhalte anzeigen. Wenn du Fragen hast, stehe ich zur Verfügung, um allgemeine Informationen oder Unterstützung zu bieten.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:11:00.051+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5012,
     "location_id": 90,
     "attribute_id": 28,
@@ -5166,21 +5136,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:11:02.548+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5026,
-    "location_id": 90,
-    "attribute_id": 30,
-    "value_text": "Je suis désolé, mais dieser Text enthält keine deutlich erkennbare Bedeutung und kann nicht ins Französische übersetzt werden.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:11:03.527+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -5750,6 +5705,51 @@
     "locked": false
   },
   {
+    "id": 5020,
+    "location_id": 90,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-11-19T19:10:58.633+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5021,
+    "location_id": 90,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:11:00.051+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5026,
+    "location_id": 90,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:11:03.527+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 59689,
     "location_id": 2531,
     "attribute_id": 31,
@@ -6239,21 +6239,6 @@
     "value_option": null,
     "language_code": "en",
     "updated_at": "2025-11-19T19:13:06.856+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5082,
-    "location_id": 91,
-    "attribute_id": 25,
-    "value_text": "Mi dispiace, non posso aiutarti con questo link.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-19T19:13:08.145+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -7367,21 +7352,6 @@
     "locked": false
   },
   {
-    "id": 5150,
-    "location_id": 95,
-    "attribute_id": 30,
-    "value_text": "Je suis formé sur Daten bis Oktober 2023.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:14:08.161+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5151,
     "location_id": 95,
     "attribute_id": 30,
@@ -7570,21 +7540,6 @@
     "locked": false
   },
   {
-    "id": 5145,
-    "location_id": 95,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Modell und kann keine Internetlinks öffnen oder Inhalte von Drittanbietern anzeigen. Wie kann ich Sie sonst unterstützen?",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:14:03.37+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5149,
     "location_id": 95,
     "attribute_id": 30,
@@ -7624,6 +7579,36 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:13:46.45+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5150,
+    "location_id": 95,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:14:08.161+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5145,
+    "location_id": 95,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:14:03.37+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
@@ -10027,23 +10012,6 @@
     "locked": false
   },
   {
-    "id": 54049,
-    "location_id": 2076,
-    "attribute_id": 30,
-    "value_text": "Je suis formé sur des données jusqu'en octobre 2023.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:22:47.791+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 54050,
     "location_id": 2076,
     "attribute_id": 30,
@@ -10146,6 +10114,23 @@
     "locked": false
   },
   {
+    "id": 54049,
+    "location_id": 2076,
+    "attribute_id": 30,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:22:47.791+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 56870,
     "location_id": 665,
     "attribute_id": 105,
@@ -10168,6 +10153,21 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5266,
+    "location_id": 99,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:15:25.975+00:00",
+    "name": null,
+    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -10491,21 +10491,6 @@
     "locked": false
   },
   {
-    "id": 5266,
-    "location_id": 99,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Modell und kann keine Links öffnen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:15:25.975+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5267,
     "location_id": 99,
     "attribute_id": 25,
@@ -10564,6 +10549,21 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 52844,
+    "location_id": 2049,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:16:14.62+00:00",
+    "name": null,
+    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -10705,21 +10705,6 @@
     "locked": false
   },
   {
-    "id": 52844,
-    "location_id": 2049,
-    "attribute_id": 25,
-    "value_text": "Je suis leider nicht in der Lage, auf externe Links oder spezifische URLs zuzugreifen. Kann ich Sie mit etwas anderem unterstützen?",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:16:14.62+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 18239,
     "location_id": 517,
     "attribute_id": 12,
@@ -10819,7 +10804,7 @@
     "id": 52843,
     "location_id": 2049,
     "attribute_id": 25,
-    "value_text": "Mi dispiace, ma non posso aiutare con questo.",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
@@ -10842,6 +10827,38 @@
     "updated_at": "2025-11-19T19:16:15.374+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 5207,
+    "location_id": 98,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:14:48.103+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 59734,
+    "location_id": 2531,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:23:35.349+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -10961,21 +10978,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5207,
-    "location_id": 98,
-    "attribute_id": 25,
-    "value_text": "Je suis nicht in der Lage, Webinhalte oder bestimmte Links abzurufen oder anzuzeigen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:14:48.103+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -11213,23 +11215,6 @@
     "value_option": null,
     "language_code": "it",
     "updated_at": "2025-11-19T19:23:34.198+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 59734,
-    "location_id": 2531,
-    "attribute_id": 25,
-    "value_text": "Je suis nicht in der Lage, auf externe Webseiten oder Inhalte zuzugreifen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:23:35.349+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -11882,23 +11867,6 @@
     "locked": false
   },
   {
-    "id": 63897,
-    "location_id": 3397,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Sprachmodell und kann keine Links öffnen oder darauf zugreifen.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-12-01T20:41:58.612+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5251,
     "location_id": 99,
     "attribute_id": 20,
@@ -12100,6 +12068,23 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-12-01T20:42:02.992+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63897,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-12-01T20:41:58.612+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -13447,21 +13432,6 @@
     "locked": false
   },
   {
-    "id": 18260,
-    "location_id": 517,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Modell und ich kann keine externen Links oder Webseiten aufrufen. Kann ich Ihnen anders weiterhelfen?",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:18:35.245+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63709,
     "location_id": 3149,
     "attribute_id": 27,
@@ -13750,6 +13720,21 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 18260,
+    "location_id": 517,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:18:35.245+00:00",
+    "name": null,
+    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -14453,23 +14438,6 @@
     "locked": false
   },
   {
-    "id": 63896,
-    "location_id": 3397,
-    "attribute_id": 25,
-    "value_text": "Mi dispiace, non posso aiutarti con questo tipo di richiesta.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-12-01T20:41:57.292+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63900,
     "location_id": 3397,
     "attribute_id": 30,
@@ -14496,6 +14464,23 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-12-01T20:42:02.852+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63896,
+    "location_id": 3397,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2025-12-01T20:41:57.292+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -14552,7 +14537,7 @@
     "id": 22597,
     "location_id": 665,
     "attribute_id": 25,
-    "value_text": "Je suis leider nicht in der Lage, auf externe Links zuzugreifen.",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
@@ -15116,21 +15101,6 @@
     "locked": false
   },
   {
-    "id": 20542,
-    "location_id": 88,
-    "attribute_id": 25,
-    "value_text": "Je suis ein KI-Modell von OpenAI und kann keine Webseiten oder Links besuchen. Daher kann ich den Inhalt des angegebenen Links nicht übersetzen. Bitte gib den Text, den du übersetzt haben möchtest, hier ein.",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-19T19:10:13.247+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 20543,
     "location_id": 88,
     "attribute_id": 25,
@@ -15392,6 +15362,21 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 20542,
+    "location_id": 88,
+    "attribute_id": 25,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2025-11-19T19:10:13.247+00:00",
+    "name": null,
+    "value_json": null,
     "source_tag": "google",
     "locked": false
   },
@@ -20684,6 +20669,21 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-10-27T05:16:19.399+00:00",
+    "name": null,
+    "value_json": true,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 52396,
+    "location_id": 2031,
+    "attribute_id": 96,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-10-27T05:16:46.28+00:00",
     "name": null,
     "value_json": true,
     "source_tag": "google",
