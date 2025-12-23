@@ -35,6 +35,13 @@
     "active": true
   },
   {
+    "id": 28,
+    "name_fr": "nourriture",
+    "icon": "food",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 188,
     "name_fr": null,
     "icon": "🚨",
@@ -73,13 +80,6 @@
     "id": 26,
     "name_fr": "repère",
     "icon": "landmark",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 28,
-    "name_fr": "nourriture",
-    "icon": "food",
     "sort_order": 9999,
     "active": true
   },
@@ -196,13 +196,6 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_fr": "Restaurant",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 29,
     "name_fr": "Bar",
     "icon": "bar",
@@ -241,6 +234,13 @@
     "id": 190,
     "name_fr": "politique",
     "icon": "political",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name_fr": "Restaurant",
+    "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
