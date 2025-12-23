@@ -35,6 +35,13 @@
     "active": true
   },
   {
+    "id": 28,
+    "name_hr": "hrana",
+    "icon": "food",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
     "id": 188,
     "name_hr": null,
     "icon": "🚨",
@@ -73,13 +80,6 @@
     "id": 26,
     "name_hr": "orijentir",
     "icon": "landmark",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
-    "id": 28,
-    "name_hr": "hrana",
-    "icon": "food",
     "sort_order": 9999,
     "active": true
   },
@@ -196,13 +196,6 @@
     "active": true
   },
   {
-    "id": 27,
-    "name_hr": "Restoran",
-    "icon": "restaurant",
-    "sort_order": 9999,
-    "active": true
-  },
-  {
     "id": 29,
     "name_hr": "Bar",
     "icon": "bar",
@@ -241,6 +234,13 @@
     "id": 190,
     "name_hr": "politički",
     "icon": "political",
+    "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name_hr": "Restoran",
+    "icon": "restaurant",
     "sort_order": 9999,
     "active": true
   },
