@@ -48,6 +48,14 @@
     "description_hr": null
   },
   {
+    "id": 3548,
+    "wind2horizon_id": null,
+    "lat": 47.3185805,
+    "lng": 13.0796866,
+    "name_hr": "VAU Technik",
+    "description_hr": null
+  },
+  {
     "id": 2529,
     "wind2horizon_id": null,
     "lat": 45.5049004,
