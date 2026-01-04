@@ -80,6 +80,14 @@
     "description_it": null
   },
   {
+    "id": 3396,
+    "wind2horizon_id": null,
+    "lat": 47.3180917,
+    "lng": 13.1991778,
+    "name_it": "Gut Berg Naturhotel",
+    "description_it": "Airy rooms in a relaxed venue offering direct ski access, dining, a spa & an indoor pool."
+  },
+  {
     "id": 630,
     "wind2horizon_id": null,
     "lat": 47.3226363,
@@ -672,6 +680,14 @@
     "description_it": null
   },
   {
+    "id": 2030,
+    "wind2horizon_id": null,
+    "lat": 43.99888335973192,
+    "lng": 14.747106919623922,
+    "name_it": null,
+    "description_it": null
+  },
+  {
     "id": 87,
     "wind2horizon_id": null,
     "lat": 47.3475428,
@@ -757,14 +773,6 @@
     "lat": 45.3204658,
     "lng": 13.5637114,
     "name_it": "Marina Nautica Novigrad",
-    "description_it": null
-  },
-  {
-    "id": 2030,
-    "wind2horizon_id": null,
-    "lat": 43.99888335973192,
-    "lng": 14.747106919623922,
-    "name_it": null,
     "description_it": null
   },
   {
@@ -1590,14 +1598,6 @@
     "lng": 14.3113322,
     "name_it": "Susak port",
     "description_it": null
-  },
-  {
-    "id": 3396,
-    "wind2horizon_id": null,
-    "lat": 47.3180917,
-    "lng": 13.1991778,
-    "name_it": "Gut Berg Naturhotel",
-    "description_it": "Hotel rilassante con camere luminose, accesso diretto alle piste, ristorante, spa e piscina coperta."
   },
   {
     "id": 3220,
