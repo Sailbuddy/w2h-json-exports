@@ -7736,105 +7736,6 @@
     "locked": false
   },
   {
-    "id": 63844,
-    "location_id": 3396,
-    "attribute_id": 17,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-29T22:34:08.187+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "width": 4720,
-        "height": 3147,
-        "photo_reference": "AWn5SU6R16scvLLMxw0KwzYcVj7PX2FeQrUW182WebYLc7ZhpeGTTGcrgb1VisXLteHT8h9L23tbtL9iyXyeIJbhRvqfG7S12a2tVcoUb5ZgdX1L3i6tjSauCN35ciS0e24yuca7bMqLe4M_wZod8HmGpi9-eCbMbIn9ag7uZe1zoWS6M8moUiFzT_RfLpsEgrVEScpdoFNLaR9uNUAMDaKzB0gKbzde4_RDSBrXZWq46swiA3yTWlRKYmKDrBBBpBELcMax0XxEeZ5ITts0Al2QRjHvZgc_5sVKgXKVfuj4hVqyzw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1280,
-        "height": 847,
-        "photo_reference": "AWn5SU49eSByvDhgMxQ4uSP9HzXyPCSDIMVMJPJtxNAC2ih1XrZyi0pLD_vOCtZF7IXujhKLmRKR0_XWk-KbfIREZ0kDthah7K6tXwYg6yDETs0nxLVW2Y3ogkR9Ev57JUgDSNuPS91gmxB_YtHme52TX0_4AKVAHhZ55sjz_l2YrGqBryc1Xr8H80rKYUij6f3Deiqx9pnAxbYnGpHbeG0lbzjRvTN1lWOPpxoc-GpULTwB_N-dqu5ZqyzqkVjhcmxYAclNkzBq2Yil9QjiTA8l6F9ckFkxeADJcRGUlkEIP4VF7w",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU4CWRVjDYCr60le7_XY2hyl0MHIbyU0arI8NyG-dd0os7XCRb1-GB8sDJOXJOgb0UpNDp8wJVcWLF99Z9a1RnhkzH-l7ebcv-ouM_woeWW7ygqJxWDZX3csthA1Ekn6BpUqNnv6yiMCtx6sdYmZWHeevKyRRs7kqf-bx_-Q16ElTDusFuXVNzpQIvkqaBlCA3TgJif2wXOCTa7zjSdLpSAw-ehQgd0fZZvfOvV60M-jmqaMsqRku6SbPUaOSlVQO5Lzi8vmwAL5R_7NKo5XMjJpbIJNPPMnQo0u9TIB8TZuGg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 671,
-        "photo_reference": "AWn5SU4bpwXg6NknUal8Su5-zSIfxjJPeT-FVFdTlZ9Gz5hd6IMvz5qI_8wIar8oFebrFMLGHIDPMMf0FTFBc5jGvHa0dDY7_umCrGBsyyWTzL5lMP2dYKcOCqUjJ7izkJGksRW0xBy8H_3tusq9z_1-csB_hKtcmdMvZK7yqT5XwVKTsYBo5rkB0Ar2iB5hYXY62eh1Dr5wi-WInQ9y-0kYcETUUre4avHb49Vo0213xLHM1bdly93XSs_trI36ugC2RVb4Mle--FfB6vwpNveFx5R1XNAZgoyu0RKy9SuvNqpjKg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU50pLALxQneOy5M0BurVnEt0ppqUwh_IOk6hl4h2KAwdPwhbENjN-Z3yDBAEBFaxrh0NJULozzUESGkVdwGemRAngMwEbskq9o8WJiTc7vjyccHrabhXWUcQlCh-0m7Yuizqiie0W_gBPDRxPAmINbZBP-CcUwg3X7mEz1KjNWkcV4sjrOwCZJTpDI5fkvY9GPRIKuPVDm39e8aLZxj1nB26XpNCdryXwFzRPBQ4z_IpRK3XRO2lS2Zi8ZZ81RaLC_yXfwI3EOW49kDxienNCxLLZlrkj0YLnHna1Tg9FOWKw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU7g7Frcm3BfxYrO8r81jUgfYnfy2EVPgd66xpy02QDwjKG5g87yAGACfmXQLwn4TwPSr7gsCNbW6470wnEulAtKcGNc0e2e8og7ldGf9wBG39MUtkVOXnuE-RHJi4h9uKjI8e1kQib1g8LJ8jcPWruqUfjHJ7gH9rc0xbSh-g93RTXzb1yTI3wMEi0Yeu-h3cegTHLO3JN1cYA3ONZUpRjtUx_U9tjAHRF2-6XRhQuZAxK5smAI6YW_fTxYTD1zHLN7OO6mr5T4pCXyKmj5g9JHfiUauvagrWvMnlDLWQr2jQ",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 671,
-        "photo_reference": "AWn5SU5GLElFcHq4UE4-sbrBjCSAJPjtRIMAbKTyCb_gWBtWuAGNLX46FyZw1H8OXpnnXBamESb7YX_qRgUZfTS_ZWC8VcNH8Hn0st_9kkMzi9LxK5LFYZ-AiQQaQ_F0key2iofE9jo3m2M7313YEQW5uOCVf6Znrj-NWWhSu1JixOctibILowr_fYx1st6QXCoRoUpjAw-siVadoDNM7G1L58b0UgwB-goUpAcFXhvc3noOU5j_VC2f8DmXKr3L3uBe6WDc8gIVkV3QPTL_PycY9mNivorqLQVpOT4K_O7bchHzdw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 670,
-        "photo_reference": "AWn5SU74KpOI2SMppgjdU-oLBHYm-fcMwMGdM2BZfSvm2E_RTvHNyInSAg5_vgnAvGfZuakL5oWGk_BNgbLYzVQ8OVUy35j77mrql2Sekq6hhmZ_nCFk2S7C3mHZnzzLKD00FYEC0VBrxqc0mjwEG6Mee8Mh9Lz5DhYwHga2-y5jE75_z2cdfVwrd8Ni-yNDiDQ2GtGE3QbLmZbLbPtKyb8CaLD7gqF9erU-uvcd0fYvNhmVa7z2xZ4KI8bpDRaK4OwjJHWbclC8_biYR4_l93d2TQ8yG31rLCBZk5YH1cZOzqkUsg",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 4800,
-        "height": 3200,
-        "photo_reference": "AWn5SU45HjAAZzZzCjZ5jnVcdOC8zR9yNfw00uNFTpJCjTpmYI60Y1XvhNbHqeRDhV-CtGLQLU7o47mLM89MBtts_tVeMbiZgHWZr_iGGSoulozMz4Ae019_I7e_8jTo91biPsg9wQ_1-WayRvPACn8v27o0lxiTBlCN_FjxN6HY8FW4tGUtpfsvD2iifED9BYPM68HZqACfvXiREvB6Q7pybJ8jVS7jtvNcOXpwq_dTQeZMAN9XGlQZAoilZ65LbKxEk3h38nEXze-oMCv0Kw2KD2Zk1A3Skp8NGCeq5qNEOfWRkw",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "width": 1024,
-        "height": 671,
-        "photo_reference": "AWn5SU4NUKrSsWNJSYELo97UqnSPLJBJhFKjyJauTY1fWGfbmiWTRlcKJLB9svrGJbVR-KwvB4aXx3M5A3auq0i6EyPXlhoOc0B9sPvjbdrhB56oG1vz020HtrRIKlpQaWkwWocVFFKv_fTxPKpZmrl_kk8ryn6S4HCtbWynTyUZMBRZuWH0hu6B1yFNSPYArdes2Zd9C9e7SVwrh-zUKplH1BsSgLCs3RTpNjtRHivDWRNogptqExHfZVjHrG8ZcnCuqtmBWtbbPyRAzZN08hKeyTDQAPMCCmc637dNdZ37aiPy6A",
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-        ]
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5175,
     "location_id": 98,
     "attribute_id": 24,
@@ -8559,6 +8460,108 @@
     "updated_at": "2025-11-19T19:16:04.799+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63844,
+    "location_id": 3396,
+    "attribute_id": 17,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-03T07:41:03.743+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "width": 4720,
+        "height": 3147,
+        "photo_reference": "AZLasHoeAJ2knqwjVHddn-sfLbM36OHTge5dL6UfjcFVMY94ZRDIDNbn4uZ-mvY1K3GcpQLQV8zHaOzqdJvCUToevIGqbGozDXGlKI5EhlAwCvMWkugX09CmuVgbJR_kXQWVI8e9ZaYp5ksdgRplUNc8r-1bMmyCTdbTPnvzoK2nh9C36PcQ1Ch-26EyoLBwWT8e8-sI7N7Mw4i7rwrL_yV4HBTuclZ9MSB14lSn-8WG9Ve1yOjNz-fTxpF0oUic2a1Mzqi8kSvQxLznnb4z3LdUVAW4UGuvLl55E3WdhflTCEGRQQ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1280,
+        "height": 847,
+        "photo_reference": "AZLasHrY2y1wJS0PbWDiohtL1TGxxLqlSDcFNbBfDuPO6c0YrYKFOK1Bb2pWvjS2CuZvpcdOLefq_g5OMRDgB16KxHqbvvETWFFaY2BSRg7eRN48wd3jyadWs9X7ayouHKFM1IOPLtlD4rubUmFgjSM-IE4ATiTvNQkFW951aXA_iE5RwoHEhmF9TpBnCo4pzt3aKhMeTQpQNER9bIMUPatrCQEJGLo_cA-qgLH2JIHY7gVm4cOEpO6WPucuFFqQ5MtXmhxr3uo73iYGLWJMWwUKwqO2er555Y7Dio9o5UTFtspK2w",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AZLasHpk3zxabDpYvZElhhqFInX6KbUeuK3n3684n2GSmm68km4DQ8pBAtvih3t1GXeyYu2FaQH18n5YX1U_Rq0MuPz8-Vpumj7b_01U_207dq3fwJ8UVzbLyaErfKrAN7NPrsClcRO-HV2OAEVGZqsW9U1FferRQR5aARq75zpZ5G_Z3d4F53HqdkwVdSmTMRj0EZYrO-pVTzejuV34Od_vK9XIeV29DKLuzlCdAM-ae6o-7cEGl2kOP2w9Us5FKqerDZUoM972vSicSWBxhb4PODpWXL187E2Ww9q8GNg7vl_q1A",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 671,
+        "photo_reference": "AZLasHo6RAX2IqipIazV16NC7FXj5HWWFliBhXD9wEQH2TniT5PYTAXuRw64bgU_z8pYssDRaD8-jDCuarSlilh18lRi5AUrO87QsVVRlv1CJ2ZC9ZCZOBZ1SXbchHD3GG6IBa6qk5nWeqYkLfAHyf8Stp4yVHiw779WW7nRWnH3I4pOQ2C2x7wlgG63BahSNA_nNhS4YhTxLghmELoFxdxFo6_oFJUnNaPffrXSIUjVKhGnBX-WWnhhs2hmDsNSPzHP1WSjd9DK-GglZhU4QZcxYxXiETArrpYt3p9zCB49d6bzcg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 671,
+        "photo_reference": "AZLasHo4jnjrTG69QYmTnziaxD_RvxLfr0fv1WdkLnH2TuhTH-YvKqb9oW5jdf6mFTQ06zzb9wbjSN33wqc_XQlbAIL3iWfNlCci1JbhQ_m70M7ZX9hTjaQKg7BMSR3IotUhNhFmNmazBH7EkNNUyy6fzMPoHq5xFdAbG6bl7HYsYTi59T0u1CdzMXadK21Q9Le0Bz_kWjlcPq2X_CD_8gpmYRuvLqbprtrHBPQ_bGcWQO3vwISsLJj4bTJjX9YDUz2Xa07yi58tgb_sFYQTM3boJLg1EBAxl-isNvbN3MQLLithcQ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 3200,
+        "photo_reference": "AZLasHpMxKzIEEH-wyX8a1u7AV37TxEJa7JZ5F16B49WzvNdwtM6oYz_ycin-kWuutfMQSISn9U43heg6tb2BtMGpMpkJjs0A74OplSsHFKhKsbmc3-nTy0auUgR9rOZn-mh1LsU-6leSC_N9SYfd-8nmr5sVCzpbkgQNNoy6Pbc5zMYkUhncMrJu3yJDeAAqnIvovwsfm8WzwfZ2b9DcHZrMoNIxES8tSXVKEaoK-aJg7_S73DH2NvsOfVtcx7xE7Gr9YWIMyOVEOYat8KSun6giC0pdlBXOYyNX-Niq1G4Sjh6fA",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AZLasHqaVfhOtW85kwpC_Ocb2-ZFOSqm2-Rx_d2_5d9EHuzBdGixYg68dBROCI-CR7_3tOvT8ld6KGO2ynY4LnYjxWM7cpRnGTNzm0oZsP-MzS15JVlzqraU6ukm_1m1Hlhe9UTwaZ6elKceTIgx0pMlyEH4PBGGByksvxtaX9W1dKuVaohYmFUxUEmGCe1BYZsNhMbeez0WzhtEbq7kpO0qFbQdymtJlUf4bmyA7nkQwTp6diFNEpCnKCbIDMXe5GfEncj646JXkPcCIuOiHTdjdgPOtVb9I5yhbtleDbG3maI5tQ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 670,
+        "photo_reference": "AZLasHoemtnPg0lORni21nqwmoHwONPTA-rbKYlNYkRb4-k9wCo5V5RI9PHsR2oX7rurssXiKh1PkZ15GjWC33AtsRrFlpT4LBfciNM9islUEHEYqgxpWNY_xiSvr74NhsLECj3bpbTSI4b6PN17ekWSBSI_2GSBP6UdehvLHTXBLWwiNH5-Lwn-6NAscMezGlFtO7wihXURtpgfJNVlkKGU6gg0xXoJYSL2-tLdvbl442FLVMPMjfbUIloEny7V3aB3iL02-7g4dRRbyobIj2lLtqSyltOEUuLCKlyun2P2H96a7g",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 3200,
+        "photo_reference": "AZLasHpVZgKbOwKVSjE3M6vvTai_Q8ru5Zg4LxV_RPwDVFjOyrR7b5nA2g9miOLsd11hklfOcsX5Ekq95x4IEX3knJEVhcRLIVT3qd-Eqgh1d4vEHljuD7CrH9ZjsfyJWqcXp-bFa1idxAj_TX29zSReDAHf3MO8F8WFVpaVWlvS67bv59_r4jZnKBPNfrOc0PUDWjOxywksQZYLsDEai55qD4fleH-FEu2EsOBFp9Yb6ewDIGvV8b-FdQeGJgDxD4sLlzlC3-CCi0A76QPF2bT0rctaROzCHIgk0pdzDXjCf-U75Q",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 3200,
+        "photo_reference": "AZLasHqgqr0WqkLZz9m5Vh9-FDMvwblI0V8eUm-2Narw8-qG5c4bmughJXzGDDFYDmHR13KlzxV_Zf_cHqHY2SkNZa7TQeZN2wvKFOPI7OKBusLJJs1LOs6oq35X3NBYoCjxOP_9p4XqJqre4LkFdxxFXLrCPL_N0TwOXrR4Kln7IVAZH8mvm99JHAnghLw-dhEiniU4jc1H7XaKm1vIL6QDwV8cuHyZuAKl1ts6iKmpbnFfY3x7FithXpunGMUGB3e2qM03Tln7vIS4eBb0Szei8Y0WTB2CT5BYoebulpEawn7kRg",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
+        ]
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
