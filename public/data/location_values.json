@@ -1124,10 +1124,22 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-12-03T14:30:27.767+00:00",
+    "updated_at": "2026-01-05T20:02:40.994+00:00",
     "name": null,
     "value_json": [
       "Gut Berg Naturhotel",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
       {
         "ai": false
       },
@@ -1602,10 +1614,22 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-12-03T14:30:27.767+00:00",
+    "updated_at": "2026-01-05T20:02:40.994+00:00",
     "name": null,
     "value_json": [
       "Alpendorfstraße 31, St. Johann im Pongau",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
       {
         "ai": false
       },
@@ -9022,10 +9046,22 @@
     "value_number": null,
     "value_option": null,
     "language_code": "de",
-    "updated_at": "2025-12-03T14:30:27.767+00:00",
+    "updated_at": "2026-01-05T20:02:40.994+00:00",
     "name": null,
     "value_json": [
       "06412 5646",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      },
       {
         "ai": false
       },
