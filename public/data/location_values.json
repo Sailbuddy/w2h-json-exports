@@ -331,23 +331,6 @@
     "locked": false
   },
   {
-    "id": 63790,
-    "location_id": 3396,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:33:08.863+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63794,
     "location_id": 3396,
     "attribute_id": 27,
@@ -1048,23 +1031,6 @@
     "locked": false
   },
   {
-    "id": 63830,
-    "location_id": 3396,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:33:31.311+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63802,
     "location_id": 3396,
     "attribute_id": 22,
@@ -1082,48 +1048,18 @@
     "locked": false
   },
   {
-    "id": 63786,
+    "id": 63814,
     "location_id": 3396,
-    "attribute_id": 13,
+    "attribute_id": 8,
     "value_text": null,
     "value_bool": null,
-    "value_number": null,
+    "value_number": 47.3193560302915,
     "value_option": null,
-    "language_code": "de",
-    "updated_at": "2026-01-05T20:02:40.994+00:00",
+    "language_code": "und",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": [
-      "Gut Berg Naturhotel",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
+      47.3193560302915,
       {
         "ai": false
       },
@@ -1135,18 +1071,18 @@
     "locked": false
   },
   {
-    "id": 63814,
+    "id": 63830,
     "location_id": 3396,
-    "attribute_id": 8,
+    "attribute_id": 28,
     "value_text": null,
     "value_bool": null,
-    "value_number": 47.3193560302915,
+    "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "language_code": "fr",
+    "updated_at": "2026-01-07T19:18:31.627+00:00",
     "name": null,
     "value_json": [
-      47.3193560302915,
+      "Alpendorfstraße 31, St. Johann im Pongau",
       {
         "ai": false
       },
@@ -1166,11 +1102,57 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63786,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2026-01-07T08:34:12.549+00:00",
+    "name": null,
+    "value_json": [
+      "Gut Berg Naturhotel",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63790,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-01-07T08:34:14.22+00:00",
+    "name": null,
+    "value_json": [
+      "Gut Berg Naturhotel",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -1226,15 +1208,15 @@
     "locked": false
   },
   {
-    "id": 63787,
+    "id": 63811,
     "location_id": 3396,
-    "attribute_id": 13,
+    "attribute_id": 4,
     "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "en",
-    "updated_at": "2026-01-06T19:15:50.284+00:00",
+    "language_code": "und",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -1485,23 +1467,6 @@
     "locked": false
   },
   {
-    "id": 63831,
-    "location_id": 3396,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-29T22:33:31.9+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 54044,
     "location_id": 2076,
     "attribute_id": 25,
@@ -1519,55 +1484,19 @@
     "locked": false
   },
   {
-    "id": 63827,
+    "id": 63787,
     "location_id": 3396,
-    "attribute_id": 28,
+    "attribute_id": 13,
     "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "de",
-    "updated_at": "2026-01-05T20:02:40.994+00:00",
+    "language_code": "en",
+    "updated_at": "2026-01-07T08:34:13.085+00:00",
     "name": null,
-    "value_json": [
-      "Alpendorfstraße 31, St. Johann im Pongau",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -1652,19 +1581,48 @@
     "locked": false
   },
   {
-    "id": 63811,
+    "id": 63827,
     "location_id": 3396,
-    "attribute_id": 4,
+    "attribute_id": 28,
     "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "language_code": "de",
+    "updated_at": "2026-01-07T19:18:30.514+00:00",
     "name": null,
-    "value_json": {
-      "ai": false
-    },
+    "value_json": [
+      "Alpendorfstraße 31, St. Johann im Pongau",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63831,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-01-07T19:18:31.942+00:00",
+    "name": null,
+    "value_json": [
+      "Alpendorfstraße 31, St. Johann im Pongau",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -1677,7 +1635,7 @@
     "value_number": 13.2006624802915,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": [
       13.2006624802915,
@@ -1700,7 +1658,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -2174,23 +2132,6 @@
     "locked": false
   },
   {
-    "id": 63788,
-    "location_id": 3396,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:33:06.906+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63796,
     "location_id": 3396,
     "attribute_id": 31,
@@ -2466,23 +2407,6 @@
     "locked": false
   },
   {
-    "id": 63828,
-    "location_id": 3396,
-    "attribute_id": 28,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2026-01-06T19:15:50.284+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63812,
     "location_id": 3396,
     "attribute_id": 6,
@@ -2491,10 +2415,33 @@
     "value_number": 47.3180917,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": [
       47.3180917,
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63788,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-01-07T08:34:13.418+00:00",
+    "name": null,
+    "value_json": [
+      "Gut Berg Naturhotel",
       {
         "ai": false
       },
@@ -2521,6 +2468,23 @@
     "locked": false
   },
   {
+    "id": 63828,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-01-07T19:18:30.906+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63816,
     "location_id": 3396,
     "attribute_id": 10,
@@ -2529,7 +2493,7 @@
     "value_number": 47.3166580697085,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": [
       47.3166580697085,
@@ -2913,6 +2877,29 @@
     "updated_at": "2025-11-19T19:15:37.222+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63789,
+    "location_id": 3396,
+    "attribute_id": 13,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2026-01-07T08:34:13.846+00:00",
+    "name": null,
+    "value_json": [
+      "Gut Berg Naturhotel",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -3784,23 +3771,6 @@
     "value_option": null,
     "language_code": "fr",
     "updated_at": "2025-11-20T18:08:04.083+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63789,
-    "location_id": 3396,
-    "attribute_id": 13,
-    "value_text": "Gut Berg Naturhotel",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-29T22:33:07.824+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -6227,6 +6197,29 @@
     "locked": false
   },
   {
+    "id": 63813,
+    "location_id": 3396,
+    "attribute_id": 7,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.1991778,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
+    "name": null,
+    "value_json": [
+      13.1991778,
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5099,
     "location_id": 95,
     "attribute_id": 27,
@@ -6636,29 +6629,6 @@
     "locked": false
   },
   {
-    "id": 63813,
-    "location_id": 3396,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.1991778,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
-    "name": null,
-    "value_json": [
-      13.1991778,
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63817,
     "location_id": 3396,
     "attribute_id": 11,
@@ -6667,7 +6637,7 @@
     "value_number": 13.1979645197085,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": [
       13.1979645197085,
@@ -7329,6 +7299,29 @@
     "locked": false
   },
   {
+    "id": 63829,
+    "location_id": 3396,
+    "attribute_id": 28,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-01-07T19:18:31.272+00:00",
+    "name": null,
+    "value_json": [
+      "Alpendorfstraße 31, St. Johann im Pongau",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5151,
     "location_id": 95,
     "attribute_id": 30,
@@ -7470,23 +7463,6 @@
     "locked": false
   },
   {
-    "id": 63829,
-    "location_id": 3396,
-    "attribute_id": 28,
-    "value_text": "Alpendorfstraße 31, St. Johann im Pongau",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-29T22:33:30.485+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5120,
     "location_id": 95,
     "attribute_id": 8,
@@ -7525,7 +7501,7 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
     "value_json": {
       "ai": false
@@ -8454,29 +8430,6 @@
     "updated_at": "2025-11-19T19:16:04.799+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63844,
-    "location_id": 3396,
-    "attribute_id": 17,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false,
-      "width": 4720,
-      "height": 3147,
-      "photo_reference": "AZLasHoeAJ2knqwjVHddn-sfLbM36OHTge5dL6UfjcFVMY94ZRDIDNbn4uZ-mvY1K3GcpQLQV8zHaOzqdJvCUToevIGqbGozDXGlKI5EhlAwCvMWkugX09CmuVgbJR_kXQWVI8e9ZaYp5ksdgRplUNc8r-1bMmyCTdbTPnvzoK2nh9C36PcQ1Ch-26EyoLBwWT8e8-sI7N7Mw4i7rwrL_yV4HBTuclZ9MSB14lSn-8WG9Ve1yOjNz-fTxpF0oUic2a1Mzqi8kSvQxLznnb4z3LdUVAW4UGuvLl55E3WdhflTCEGRQQ",
-      "html_attributions": [
-        "<a href=\"https://maps.google.com/maps/contrib/116920511168029943125\">Gut Berg Naturhotel</a>"
-      ]
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -10618,6 +10571,23 @@
     "locked": false
   },
   {
+    "id": 63842,
+    "location_id": 3396,
+    "attribute_id": 5,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 18239,
     "location_id": 517,
     "attribute_id": 12,
@@ -10629,23 +10599,6 @@
     "updated_at": "2025-11-19T19:18:24.948+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63842,
-    "location_id": 3396,
-    "attribute_id": 5,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -10993,11 +10946,17 @@
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-06T20:19:42.271+00:00",
+    "updated_at": "2026-01-07T20:58:33.441+00:00",
     "name": null,
-    "value_json": {
-      "ai": false
-    },
+    "value_json": [
+      "https://www.gut-berg.com/",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -20629,6 +20588,21 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:20:56.29+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 27054,
+    "location_id": 899,
+    "attribute_id": 9,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.6296866357571,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-19T19:20:56.477+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
