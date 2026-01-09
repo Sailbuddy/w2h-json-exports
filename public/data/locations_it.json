@@ -104,6 +104,14 @@
     "description_it": null
   },
   {
+    "id": 3403,
+    "wind2horizon_id": null,
+    "lat": 45.20426519999999,
+    "lng": 13.5892309,
+    "name_it": "Marina Parentium",
+    "description_it": "Piccola marina con carattere privato, protetta da tutti i venti, con un ristorante molto dedicato. Bellissima foresta di pini con un bel accesso al mare."
+  },
+  {
     "id": 586,
     "wind2horizon_id": null,
     "lat": 44.821828,
@@ -1149,14 +1157,6 @@
     "lat": 45.5288905,
     "lng": 13.5656003,
     "name_it": "Restavracija Pavel Piran",
-    "description_it": null
-  },
-  {
-    "id": 3403,
-    "wind2horizon_id": null,
-    "lat": 45.20426519999999,
-    "lng": 13.5892309,
-    "name_it": "Marina Parentium",
     "description_it": null
   },
   {
