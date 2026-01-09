@@ -104,6 +104,14 @@
     "description_hr": null
   },
   {
+    "id": 3403,
+    "wind2horizon_id": null,
+    "lat": 45.20426519999999,
+    "lng": 13.5892309,
+    "name_hr": "Marina Parentium",
+    "description_hr": "Mala marina s privatnim karakterom, zaštićena od svih vjetrova, s vrlo predanim restoranom. Prekrasna borova šuma s lijepim pristupom moru."
+  },
+  {
     "id": 586,
     "wind2horizon_id": null,
     "lat": 44.821828,
@@ -1149,14 +1157,6 @@
     "lat": 45.5288905,
     "lng": 13.5656003,
     "name_hr": "Restavracija Pavel",
-    "description_hr": null
-  },
-  {
-    "id": 3403,
-    "wind2horizon_id": null,
-    "lat": 45.20426519999999,
-    "lng": 13.5892309,
-    "name_hr": "Marina Parentium",
     "description_hr": null
   },
   {
