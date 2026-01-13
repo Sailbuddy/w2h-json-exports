@@ -1049,29 +1049,6 @@
     "locked": false
   },
   {
-    "id": 63814,
-    "location_id": 3396,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 47.3193560302915,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:44.839+00:00",
-    "name": null,
-    "value_json": [
-      47.3193560302915,
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63786,
     "location_id": 3396,
     "attribute_id": 13,
@@ -1118,19 +1095,25 @@
     "locked": false
   },
   {
-    "id": 63818,
+    "id": 63814,
     "location_id": 3396,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "attribute_id": 8,
+    "value_text": null,
     "value_bool": null,
-    "value_number": null,
+    "value_number": 47.3193560302915,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-08T19:15:45.627+00:00",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
     "name": null,
-    "value_json": {
-      "ai": false
-    },
+    "value_json": [
+      47.3193560302915,
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -1152,6 +1135,29 @@
       "lodging",
       "point_of_interest",
       "restaurant",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63818,
+    "location_id": 3396,
+    "attribute_id": 12,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
       {
         "ai": false
       },
@@ -1535,6 +1541,29 @@
     "locked": false
   },
   {
+    "id": 63811,
+    "location_id": 3396,
+    "attribute_id": 4,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      "<span class=\"street-address\">Alpendorfstraße 31</span>, <span class=\"postal-code\">5600</span> <span class=\"locality\">St. Johann im Pongau</span>, <span class=\"country-name\">Austria</span>",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4957,
     "location_id": 87,
     "attribute_id": 30,
@@ -1613,23 +1642,6 @@
     "locked": false
   },
   {
-    "id": 63811,
-    "location_id": 3396,
-    "attribute_id": 4,
-    "value_text": "<span class=\"street-address\">Alpendorfstraße 31</span>, <span class=\"postal-code\">5600</span> <span class=\"locality\">St. Johann im Pongau</span>, <span class=\"country-name\">Austria</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:44.256+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63815,
     "location_id": 3396,
     "attribute_id": 9,
@@ -1638,7 +1650,7 @@
     "value_number": 13.2006624802915,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-08T19:15:45.044+00:00",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
     "name": null,
     "value_json": [
       13.2006624802915,
@@ -1649,23 +1661,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63819,
-    "location_id": 3396,
-    "attribute_id": 18,
-    "value_text": "ChIJlVftuP_XdkcRN6LeBP5cTe4",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:45.823+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   },
@@ -2368,29 +2363,6 @@
     "locked": false
   },
   {
-    "id": 63812,
-    "location_id": 3396,
-    "attribute_id": 6,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 47.3180917,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:44.448+00:00",
-    "name": null,
-    "value_json": [
-      47.3180917,
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 63820,
     "location_id": 3396,
     "attribute_id": 19,
@@ -2420,29 +2392,6 @@
     "name": null,
     "value_json": [
       "Gut Berg Naturhotel",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63816,
-    "location_id": 3396,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 47.3166580697085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:45.238+00:00",
-    "name": null,
-    "value_json": [
-      47.3166580697085,
       {
         "ai": false
       },
@@ -2486,6 +2435,29 @@
     "locked": false
   },
   {
+    "id": 63812,
+    "location_id": 3396,
+    "attribute_id": 6,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 47.3180917,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      47.3180917,
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4896,
     "location_id": 87,
     "attribute_id": 13,
@@ -2518,6 +2490,29 @@
       "lodging",
       "point_of_interest",
       "restaurant",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63816,
+    "location_id": 3396,
+    "attribute_id": 10,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 47.3166580697085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      47.3166580697085,
       {
         "ai": false
       },
@@ -6178,29 +6173,6 @@
     "locked": false
   },
   {
-    "id": 63813,
-    "location_id": 3396,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.1991778,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:44.64+00:00",
-    "name": null,
-    "value_json": [
-      13.1991778,
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 5099,
     "location_id": 95,
     "attribute_id": 27,
@@ -6610,18 +6582,18 @@
     "locked": false
   },
   {
-    "id": 63817,
+    "id": 63813,
     "location_id": 3396,
-    "attribute_id": 11,
+    "attribute_id": 7,
     "value_text": null,
     "value_bool": null,
-    "value_number": 13.1979645197085,
+    "value_number": 13.1991778,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-08T19:15:45.431+00:00",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
     "name": null,
     "value_json": [
-      13.1979645197085,
+      13.1991778,
       {
         "ai": false
       },
@@ -6650,6 +6622,29 @@
       "lodging",
       "point_of_interest",
       "restaurant",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 63817,
+    "location_id": 3396,
+    "attribute_id": 11,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 13.1979645197085,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      13.1979645197085,
       {
         "ai": false
       },
@@ -6996,16 +6991,22 @@
     "id": 63821,
     "location_id": 3396,
     "attribute_id": 20,
-    "value_text": "8FVM859X+6M",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-08T19:15:46.208+00:00",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
     "name": null,
-    "value_json": {
-      "ai": false
-    },
+    "value_json": [
+      "8FVM859X+6M",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -9914,6 +9915,29 @@
     "locked": false
   },
   {
+    "id": 63842,
+    "location_id": 3396,
+    "attribute_id": 5,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
+    "name": null,
+    "value_json": [
+      "Alpendorfstraße 31, 5600 St. Johann im Pongau, Austria",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 54050,
     "location_id": 2076,
     "attribute_id": 30,
@@ -10605,23 +10629,6 @@
     "locked": false
   },
   {
-    "id": 63842,
-    "location_id": 3396,
-    "attribute_id": 5,
-    "value_text": "Alpendorfstraße 31, 5600 St. Johann im Pongau, Austria",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-01-08T19:15:47.588+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 52839,
     "location_id": 2049,
     "attribute_id": 28,
@@ -10960,12 +10967,12 @@
     "id": 63843,
     "location_id": 3396,
     "attribute_id": 29,
-    "value_text": "https://www.gut-berg.com/",
+    "value_text": null,
     "value_bool": null,
     "value_number": null,
     "value_option": null,
     "language_code": "und",
-    "updated_at": "2026-01-08T19:15:47.791+00:00",
+    "updated_at": "2026-01-12T21:27:29.197+00:00",
     "name": null,
     "value_json": [
       "https://www.gut-berg.com/",
@@ -20742,6 +20749,21 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:20:56.857+00:00",
+    "name": null,
+    "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 27057,
+    "location_id": 899,
+    "attribute_id": 12,
+    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2025-11-19T19:20:57.052+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
