@@ -1049,6 +1049,31 @@
     "locked": false
   },
   {
+    "id": 64408,
+    "location_id": 3554,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2026-01-16T12:42:13.529+00:00",
+    "name": null,
+    "value_json": [
+      "Starker Schwell an der kleinen Mole durch die im engen Kanal vorbei fahrende Schiffe.",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-01-16T12:41:39.868Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 63786,
     "location_id": 3396,
     "attribute_id": 13,
@@ -1086,6 +1111,31 @@
       "Gut Berg Naturhotel",
       {
         "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64412,
+    "location_id": 3554,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-01-16T12:42:15.307+00:00",
+    "name": null,
+    "value_json": [
+      "Jak val na malom molu zbog brodova koji prolaze uskim kanalom.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-01-16T12:41:50.803Z"
       },
       {
         "ai": false
@@ -1633,6 +1683,31 @@
       "Alpendorfstraße 31, St. Johann im Pongau",
       {
         "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64409,
+    "location_id": 3554,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-01-16T12:42:13.961+00:00",
+    "name": null,
+    "value_json": [
+      "Strong swell at the small pier due to ships passing through the narrow channel.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-01-16T12:41:50.802Z"
       },
       {
         "ai": false
@@ -2359,6 +2434,31 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64410,
+    "location_id": 3554,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-01-16T12:42:14.435+00:00",
+    "name": null,
+    "value_json": [
+      "Forti onde al piccolo molo a causa delle navi che passano nel canale stretto.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-01-16T12:41:50.803Z"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -20654,116 +20754,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-11-19T19:20:56.477+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27055,
-    "location_id": 899,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0571391713875,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.667+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63989,
-    "location_id": 3426,
-    "attribute_id": 31,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-12-01T20:42:23.696+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "types": [
-          "route"
-        ],
-        "long_name": "Marina Dalmacija",
-        "short_name": "Marina Dalmacija"
-      },
-      {
-        "types": [
-          "locality",
-          "political"
-        ],
-        "long_name": "Sukošan",
-        "short_name": "Sukošan"
-      },
-      {
-        "types": [
-          "administrative_area_level_2",
-          "political"
-        ],
-        "long_name": "Municipalité de Sukošan",
-        "short_name": "Municipalité de Sukošan"
-      },
-      {
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ],
-        "long_name": "Comitat de Zadar",
-        "short_name": "Comitat de Zadar"
-      },
-      {
-        "types": [
-          "country",
-          "political"
-        ],
-        "long_name": "Croatie",
-        "short_name": "HR"
-      },
-      {
-        "types": [
-          "postal_code"
-        ],
-        "long_name": "23206",
-        "short_name": "23206"
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27056,
-    "location_id": 899,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6191320655193,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.857+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27057,
-    "location_id": 899,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:57.052+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
