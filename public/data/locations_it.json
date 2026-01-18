@@ -160,6 +160,14 @@
     "description_it": null
   },
   {
+    "id": 3555,
+    "wind2horizon_id": null,
+    "lat": 45.24801,
+    "lng": 13.6192723,
+    "name_it": "Restoran Dvi Murve",
+    "description_it": null
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -174,6 +182,14 @@
     "lng": 16.378672,
     "name_it": "Plachutta",
     "description_it": "Locale elegante con tavoli all'aperto che serve bollito di manzo Tafelspitz e altri classici della tradizione viennese."
+  },
+  {
+    "id": 3556,
+    "wind2horizon_id": null,
+    "lat": 45.227444,
+    "lng": 13.5905112,
+    "name_it": "Restaurant Sveti Nikola",
+    "description_it": "Piatti tradizionali di carne e pesce in un elegante locale con terrazza e vista sul porto."
   },
   {
     "id": 3394,
@@ -197,6 +213,14 @@
     "lat": 44.0809536,
     "lng": 15.1892214,
     "name_it": "Marina Preko",
+    "description_it": null
+  },
+  {
+    "id": 3557,
+    "wind2horizon_id": null,
+    "lat": 45.2283304,
+    "lng": 13.5941122,
+    "name_it": "Restaurant Casa Manzolin by Sv.Nikola",
     "description_it": null
   },
   {
