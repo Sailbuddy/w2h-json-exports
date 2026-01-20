@@ -482,7 +482,7 @@
   {
     "id": 3396,
     "wind2horizon_id": null,
-    "category_id": 29,
+    "category_id": 25,
     "google_place_id": "ChIJlVftuP_XdkcRN6LeBP5cTe4",
     "plus_code": "8FVM859X+6M",
     "source_type": null,
@@ -522,10 +522,10 @@
     "last_editor": null,
     "last_edited_at": "2026-01-12T13:23:56.359623+00:00",
     "geom": "0101000020E6100000AF2DF2A1FA652A408450943AB7A84740",
-    "category_name_de": "Bar",
-    "category_name_en": "bar",
-    "category_name_it": "Bar",
-    "category_name_hr": "Bar"
+    "category_name_de": "Unterkunft",
+    "category_name_en": "lodging",
+    "category_name_it": "alloggio",
+    "category_name_hr": "smještaj"
   },
   {
     "id": 630,
