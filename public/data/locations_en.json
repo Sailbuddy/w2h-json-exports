@@ -8,6 +8,14 @@
     "description_en": null
   },
   {
+    "id": 3558,
+    "wind2horizon_id": null,
+    "lat": 45.2488152,
+    "lng": 13.9615785,
+    "name_en": "Zarečki Krov Waterfall",
+    "description_en": "Cascade tumbling from a rocky overhang into a spacious pool, popular for swimming & picnics."
+  },
+  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -32,6 +40,14 @@
     "description_en": null
   },
   {
+    "id": 3559,
+    "wind2horizon_id": null,
+    "lat": 45.2402625,
+    "lng": 14.0502574,
+    "name_en": "Gologorički Dol",
+    "description_en": null
+  },
+  {
     "id": 2082,
     "wind2horizon_id": null,
     "lat": 45.1726543,
@@ -53,6 +69,14 @@
     "lat": 47.3185805,
     "lng": 13.0796866,
     "name_en": "VAU Technik",
+    "description_en": null
+  },
+  {
+    "id": 3560,
+    "wind2horizon_id": null,
+    "lat": 45.218882,
+    "lng": 14.044058,
+    "name_en": "Sopot Waterfall",
     "description_en": null
   },
   {
