@@ -8,6 +8,14 @@
     "description_hr": null
   },
   {
+    "id": 3558,
+    "wind2horizon_id": null,
+    "lat": 45.2488152,
+    "lng": 13.9615785,
+    "name_hr": "Zarečki krov",
+    "description_hr": "Vodopad koji se preko kamenog svoda prelijeva u prostrani bazen popularno je mjesto za kupanje i piknik."
+  },
+  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -32,6 +40,14 @@
     "description_hr": null
   },
   {
+    "id": 3559,
+    "wind2horizon_id": null,
+    "lat": 45.2402625,
+    "lng": 14.0502574,
+    "name_hr": "Gologorički Dol",
+    "description_hr": null
+  },
+  {
     "id": 2082,
     "wind2horizon_id": null,
     "lat": 45.1726543,
@@ -53,6 +69,14 @@
     "lat": 47.3185805,
     "lng": 13.0796866,
     "name_hr": "VAU Technik",
+    "description_hr": null
+  },
+  {
+    "id": 3560,
+    "wind2horizon_id": null,
+    "lat": 45.218882,
+    "lng": 14.044058,
+    "name_hr": "Slap Sopot",
     "description_hr": null
   },
   {
