@@ -104,6 +104,14 @@
     "description_hr": null
   },
   {
+    "id": 3561,
+    "wind2horizon_id": null,
+    "lat": 45.0915404,
+    "lng": 14.1235588,
+    "name_hr": "Labin",
+    "description_hr": null
+  },
+  {
     "id": 3396,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -136,6 +144,14 @@
     "description_hr": "Mala marina s privatnim karakterom, zaštićena od svih vjetrova, s vrlo predanim restoranom. Prekrasna borova šuma s lijepim pristupom moru."
   },
   {
+    "id": 3562,
+    "wind2horizon_id": null,
+    "lat": 45.3819854,
+    "lng": 13.8242022,
+    "name_hr": "Oprtalj",
+    "description_hr": null
+  },
+  {
     "id": 586,
     "wind2horizon_id": null,
     "lat": 44.821828,
@@ -157,6 +173,14 @@
     "lat": 43.726889670721285,
     "lng": 15.873975335194839,
     "name_hr": null,
+    "description_hr": null
+  },
+  {
+    "id": 3563,
+    "wind2horizon_id": null,
+    "lat": 45.4083219,
+    "lng": 13.658813,
+    "name_hr": "Buje",
     "description_hr": null
   },
   {
@@ -190,6 +214,14 @@
     "lng": 13.6192723,
     "name_hr": "Restoran Dvi Murve",
     "description_hr": null
+  },
+  {
+    "id": 3564,
+    "wind2horizon_id": null,
+    "lat": 41.5085414,
+    "lng": -81.6953685,
+    "name_hr": "Rock and Roll Hall of Fame",
+    "description_hr": "Znameniti muzej glazbe sa suvenirima pop-kulture, izlošcima, instrumentima i džuboksom."
   },
   {
     "id": 3382,
