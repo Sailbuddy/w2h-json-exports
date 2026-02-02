@@ -104,6 +104,14 @@
     "description_en": null
   },
   {
+    "id": 3561,
+    "wind2horizon_id": null,
+    "lat": 45.0915404,
+    "lng": 14.1235588,
+    "name_en": "Labin",
+    "description_en": null
+  },
+  {
     "id": 3396,
     "wind2horizon_id": null,
     "lat": 47.3180917,
@@ -136,6 +144,14 @@
     "description_en": "Small marina with a private character, sheltered from all winds, with a very dedicated restaurant. Beautiful pine forest with a lovely access to the sea."
   },
   {
+    "id": 3562,
+    "wind2horizon_id": null,
+    "lat": 45.3819854,
+    "lng": 13.8242022,
+    "name_en": "Oprtalj",
+    "description_en": null
+  },
+  {
     "id": 586,
     "wind2horizon_id": null,
     "lat": 44.821828,
@@ -157,6 +173,14 @@
     "lat": 43.726889670721285,
     "lng": 15.873975335194839,
     "name_en": null,
+    "description_en": null
+  },
+  {
+    "id": 3563,
+    "wind2horizon_id": null,
+    "lat": 45.4083219,
+    "lng": 13.658813,
+    "name_en": "Buje",
     "description_en": null
   },
   {
@@ -190,6 +214,14 @@
     "lng": 13.6192723,
     "name_en": "Restoran Dvi Murve",
     "description_en": null
+  },
+  {
+    "id": 3564,
+    "wind2horizon_id": null,
+    "lat": 41.5085414,
+    "lng": -81.6953685,
+    "name_en": "Rock & Roll Hall of Fame",
+    "description_en": "Iconic music-minded museum loaded with pop-culture memorabilia, artifacts, instruments & a jukebox."
   },
   {
     "id": 3382,
