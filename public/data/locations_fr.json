@@ -248,6 +248,14 @@
     "description_fr": "Plats traditionnels de viande, de poisson et de fruits de mer dans un restaurant haut de gamme avec terrasse et vue sur le port."
   },
   {
+    "id": 3565,
+    "wind2horizon_id": null,
+    "lat": 44.9577094,
+    "lng": 14.5294127,
+    "name_fr": "Love Cave",
+    "description_fr": null
+  },
+  {
     "id": 3394,
     "wind2horizon_id": null,
     "lat": 43.66520388068192,
