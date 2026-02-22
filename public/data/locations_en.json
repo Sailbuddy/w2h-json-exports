@@ -248,6 +248,14 @@
     "description_en": "Traditional meat & seafood dishes highlighted in an upscale locale with a terrace & harbor views."
   },
   {
+    "id": 3565,
+    "wind2horizon_id": null,
+    "lat": 44.9577094,
+    "lng": 14.5294127,
+    "name_en": "Love Cave",
+    "description_en": null
+  },
+  {
     "id": 3394,
     "wind2horizon_id": null,
     "lat": 43.66520388068192,
