@@ -248,6 +248,14 @@
     "description_it": "Piatti tradizionali di carne e pesce in un elegante locale con terrazza e vista sul porto."
   },
   {
+    "id": 3565,
+    "wind2horizon_id": null,
+    "lat": 44.9577094,
+    "lng": 14.5294127,
+    "name_it": "Love Cave",
+    "description_it": null
+  },
+  {
     "id": 3394,
     "wind2horizon_id": null,
     "lat": 43.66520388068192,
