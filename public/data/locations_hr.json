@@ -248,6 +248,14 @@
     "description_hr": "Vrhunski restoran s terasom i pogledom na luku čija ponuda uključuje tradicionalne mesne i riblje specijalitete."
   },
   {
+    "id": 3565,
+    "wind2horizon_id": null,
+    "lat": 44.9577094,
+    "lng": 14.5294127,
+    "name_hr": "Plava špilja",
+    "description_hr": null
+  },
+  {
     "id": 3394,
     "wind2horizon_id": null,
     "lat": 43.66520388068192,
