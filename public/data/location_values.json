@@ -3433,6 +3433,29 @@
     "locked": false
   },
   {
+    "id": 64452,
+    "location_id": 3568,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-02-24T20:14:27.15+00:00",
+    "name": null,
+    "value_json": [
+      "Dobar zaštita iza mola. Zbog blago nagnute plaže u području kupanja, također ima malo refleksijskih valova pri zapadnom uzburkanju. U slučaju nadolazećeg lošeg vremena, lučka vlast će rano isprazniti mol. Napajanje nije vrlo stabilno. Duži kablovi su potrebni na vanjskim vezovima.",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4918,
     "location_id": 87,
     "attribute_id": 24,
@@ -5120,6 +5143,29 @@
     "updated_at": "2025-11-19T19:10:57.873+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64449,
+    "location_id": 3568,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-02-24T20:14:25.881+00:00",
+    "name": null,
+    "value_json": [
+      "Good protection behind the quay. Due to the gently sloping beach in the bathing area, there are also few reflection waves with western swell. In the event of impending bad weather, the quay will be cleared early by the port authority. Power supply is not very stable. Longer cables are necessary at the outer berths.",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -7111,6 +7157,43 @@
     "locked": false
   },
   {
+    "id": 64460,
+    "location_id": 865,
+    "attribute_id": 3,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T04:00:24.152+00:00",
+    "name": null,
+    "value_json": [
+      true,
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64461,
+    "location_id": 865,
+    "attribute_id": 107,
+    "value_text": "14308",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T04:00:24.152+00:00",
+    "name": "Pazin",
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5132,
     "location_id": 95,
     "attribute_id": 26,
@@ -8550,6 +8633,23 @@
     "updated_at": "2025-11-19T19:16:04.799+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64462,
+    "location_id": 3572,
+    "attribute_id": 21,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 2,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T04:19:28.061+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -20681,81 +20781,6 @@
     "updated_at": "2025-10-21T06:55:46.819+00:00",
     "name": null,
     "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52395,
-    "location_id": 2031,
-    "attribute_id": 95,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-21T06:55:46.819+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52399,
-    "location_id": 2031,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-27T05:16:19.399+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52396,
-    "location_id": 2031,
-    "attribute_id": 96,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-27T05:16:46.28+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27053,
-    "location_id": 899,
-    "attribute_id": 8,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 45.0602721504387,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.29+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27054,
-    "location_id": 899,
-    "attribute_id": 9,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6296866357571,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.477+00:00",
-    "name": null,
-    "value_json": null,
     "source_tag": "google",
     "locked": false
   }
