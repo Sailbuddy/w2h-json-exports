@@ -288,6 +288,14 @@
     "description_it": null
   },
   {
+    "id": 3566,
+    "wind2horizon_id": null,
+    "lat": 45.05720713541893,
+    "lng": 13.623604123264771,
+    "name_it": null,
+    "description_it": "Bel campo di boe gestito dall'Autorità portuale di Rovinj.\n\nPrenotazioni solo via email.\nCanale VHF 10"
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -320,6 +328,14 @@
     "description_it": null
   },
   {
+    "id": 3567,
+    "wind2horizon_id": null,
+    "lat": 45.057295516045464,
+    "lng": 13.627660979951196,
+    "name_it": null,
+    "description_it": null
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -333,6 +349,14 @@
     "lat": 45.4900956,
     "lng": 13.4910909,
     "name_it": "Faro di Salvore",
+    "description_it": null
+  },
+  {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_it": null,
     "description_it": null
   },
   {
@@ -376,6 +400,14 @@
     "description_it": null
   },
   {
+    "id": 3569,
+    "wind2horizon_id": null,
+    "lat": 45.2116074,
+    "lng": 13.7935756,
+    "name_it": "Poli Banka",
+    "description_it": null
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -389,6 +421,14 @@
     "lat": 44.5191313,
     "lng": 14.5022154,
     "name_it": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
+    "description_it": null
+  },
+  {
+    "id": 3570,
+    "wind2horizon_id": null,
+    "lat": 45.05758698826095,
+    "lng": 13.62605419103072,
+    "name_it": null,
     "description_it": null
   },
   {
@@ -448,6 +488,14 @@
     "description_it": null
   },
   {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_it": "Maistra Select Island Hotel Istra",
+    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
+  },
+  {
     "id": 3207,
     "wind2horizon_id": null,
     "lat": 45.6565347,
@@ -504,6 +552,14 @@
     "description_it": null
   },
   {
+    "id": 899,
+    "wind2horizon_id": null,
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_it": "Sveti Andrija",
+    "description_it": "Isolotto nel Mar Adriatico con hotel, spiaggia e centro per sport acquatici."
+  },
+  {
     "id": 3156,
     "wind2horizon_id": null,
     "lat": 43.17987,
@@ -541,6 +597,14 @@
     "lat": 45.3635043,
     "lng": 14.3265821,
     "name_it": "INA",
+    "description_it": null
+  },
+  {
+    "id": 3571,
+    "wind2horizon_id": null,
+    "lat": 45.05840771975485,
+    "lng": 13.623832569227718,
+    "name_it": null,
     "description_it": null
   },
   {
@@ -974,14 +1038,6 @@
     "lng": 13.7321521,
     "name_it": "Maxen Bencinski servis",
     "description_it": null
-  },
-  {
-    "id": 899,
-    "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_it": "Sveti Andrija",
-    "description_it": "Isolotto nel Mar Adriatico con hotel, spiaggia e centro per sport acquatici."
   },
   {
     "id": 2031,
@@ -1494,14 +1550,6 @@
     "lng": 16.248892,
     "name_it": "ACI Marina Trogir",
     "description_it": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_it": "Maistra Select Island Hotel Istra",
-    "description_it": "Resort raffinato su un'isola tranquilla con cinque ristoranti, una spa moderna e lidi privati"
   },
   {
     "id": 92,
