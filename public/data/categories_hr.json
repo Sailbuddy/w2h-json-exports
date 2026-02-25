@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 194,
-    "name_hr": "Ispostava lučke kapetanije",
-    "icon": "⚓",
-    "sort_order": 51,
-    "active": true
-  },
-  {
     "id": 95,
     "name_hr": "Prirodna značajka",
     "icon": "natural_feature",
@@ -193,6 +186,13 @@
     "name_hr": "smještaj",
     "icon": "lodging",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 197,
+    "name_hr": "Polje bova",
+    "icon": "🛟",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -256,6 +256,13 @@
     "name_hr": "Ruta",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 198,
+    "name_hr": "Sidrište",
+    "icon": "⚓",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -333,6 +340,20 @@
     "name_hr": "Trgovina na uglu",
     "icon": "convenience_store",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 194,
+    "name_hr": "Ispostava lučke kapetanije",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
+    "id": 199,
+    "name_hr": "Mjesto za kupanje",
+    "icon": "🏖️",
+    "sort_order": 999,
     "active": true
   }
 ]
