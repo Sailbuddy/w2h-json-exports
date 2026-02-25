@@ -288,6 +288,14 @@
     "description_hr": null
   },
   {
+    "id": 3566,
+    "wind2horizon_id": null,
+    "lat": 45.05720713541893,
+    "lng": 13.623604123264771,
+    "name_hr": null,
+    "description_hr": "Lijepo polje bova kojim upravlja Lučka uprava Rovinj.\n\nRezervacije samo putem e-maila.\nVHF kanal 10"
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -320,6 +328,14 @@
     "description_hr": null
   },
   {
+    "id": 3567,
+    "wind2horizon_id": null,
+    "lat": 45.057295516045464,
+    "lng": 13.627660979951196,
+    "name_hr": null,
+    "description_hr": null
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -333,6 +349,14 @@
     "lat": 45.4900956,
     "lng": 13.4910909,
     "name_hr": "Svjetionik Savudrija",
+    "description_hr": null
+  },
+  {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_hr": null,
     "description_hr": null
   },
   {
@@ -376,6 +400,14 @@
     "description_hr": null
   },
   {
+    "id": 3569,
+    "wind2horizon_id": null,
+    "lat": 45.2116074,
+    "lng": 13.7935756,
+    "name_hr": "Poli Banka",
+    "description_hr": null
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -389,6 +421,14 @@
     "lat": 44.5191313,
     "lng": 14.5022154,
     "name_hr": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
+    "description_hr": null
+  },
+  {
+    "id": 3570,
+    "wind2horizon_id": null,
+    "lat": 45.05758698826095,
+    "lng": 13.62605419103072,
+    "name_hr": null,
     "description_hr": null
   },
   {
@@ -448,6 +488,14 @@
     "description_hr": null
   },
   {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_hr": "Maistra Select Island Hotel Istra",
+    "description_hr": "Profinjeno odmaralište na skrivenom otoku s pet restorana, modernim spa-centrom i privatnim plažama."
+  },
+  {
     "id": 3207,
     "wind2horizon_id": null,
     "lat": 45.6565347,
@@ -504,6 +552,14 @@
     "description_hr": null
   },
   {
+    "id": 899,
+    "wind2horizon_id": null,
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_hr": "Otočić Sveti Andrija",
+    "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
+  },
+  {
     "id": 3156,
     "wind2horizon_id": null,
     "lat": 43.17987,
@@ -544,6 +600,14 @@
     "description_hr": null
   },
   {
+    "id": 3571,
+    "wind2horizon_id": null,
+    "lat": 45.05840771975485,
+    "lng": 13.623832569227718,
+    "name_hr": null,
+    "description_hr": null
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
@@ -557,6 +621,22 @@
     "lat": 44.929422,
     "lng": 14.9198022,
     "name_hr": "LUČKA KAPETANIJA SENJ, Lučka ispostava SVETI JURAJ",
+    "description_hr": null
+  },
+  {
+    "id": 3572,
+    "wind2horizon_id": null,
+    "lat": 44.7484911,
+    "lng": 14.7848618,
+    "name_hr": "Captain's Club Rab",
+    "description_hr": null
+  },
+  {
+    "id": 3577,
+    "wind2horizon_id": null,
+    "lat": 45.05516900000001,
+    "lng": 13.6218972,
+    "name_hr": "Viewpoint",
     "description_hr": null
   },
   {
@@ -600,6 +680,22 @@
     "description_hr": null
   },
   {
+    "id": 3573,
+    "wind2horizon_id": null,
+    "lat": 45.05953909999999,
+    "lng": 13.6244496,
+    "name_hr": "La Serra, Anno Domini 547",
+    "description_hr": null
+  },
+  {
+    "id": 3578,
+    "wind2horizon_id": null,
+    "lat": 45.055815,
+    "lng": 13.6256273,
+    "name_hr": "Mauzolej obitelji Huetterott",
+    "description_hr": null
+  },
+  {
     "id": 2995,
     "wind2horizon_id": null,
     "lat": 44.19007819999999,
@@ -637,6 +733,22 @@
     "lat": 44.4710417,
     "lng": 14.9550749,
     "name_hr": "ACI Marina Šimuni",
+    "description_hr": null
+  },
+  {
+    "id": 3574,
+    "wind2horizon_id": null,
+    "lat": 45.0585352,
+    "lng": 13.6261821,
+    "name_hr": "Pizzeria Birichino",
+    "description_hr": null
+  },
+  {
+    "id": 3579,
+    "wind2horizon_id": null,
+    "lat": 45.05916999999999,
+    "lng": 13.62617,
+    "name_hr": "All Suite Island Hotel Istra",
     "description_hr": null
   },
   {
@@ -688,6 +800,22 @@
     "description_hr": null
   },
   {
+    "id": 3576,
+    "wind2horizon_id": null,
+    "lat": 45.060064,
+    "lng": 13.6260862,
+    "name_hr": "Razgledna pot otoka",
+    "description_hr": null
+  },
+  {
+    "id": 3581,
+    "wind2horizon_id": null,
+    "lat": 45.0834391,
+    "lng": 13.6310476,
+    "name_hr": "Church tower (panorama viewing platform)",
+    "description_hr": null
+  },
+  {
     "id": 3462,
     "wind2horizon_id": null,
     "lat": 44.13978669999999,
@@ -701,6 +829,14 @@
     "lat": 45.313845,
     "lng": 14.2878059,
     "name_hr": "ACI Marina Opatija",
+    "description_hr": null
+  },
+  {
+    "id": 3580,
+    "wind2horizon_id": null,
+    "lat": 45.0599391,
+    "lng": 13.6240961,
+    "name_hr": "Molo traghetto per Rovigno",
     "description_hr": null
   },
   {
@@ -974,14 +1110,6 @@
     "lng": 13.7321521,
     "name_hr": "Maxen Bencinski servis",
     "description_hr": null
-  },
-  {
-    "id": 899,
-    "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_hr": "Otočić Sveti Andrija",
-    "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
   },
   {
     "id": 2031,
@@ -1494,14 +1622,6 @@
     "lng": 16.248892,
     "name_hr": "ACI Marina Trogir",
     "description_hr": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_hr": "Maistra Select Island Hotel Istra",
-    "description_hr": "Profinjeno odmaralište na skrivenom otoku s pet restorana, modernim spa-centrom i privatnim plažama."
   },
   {
     "id": 92,
