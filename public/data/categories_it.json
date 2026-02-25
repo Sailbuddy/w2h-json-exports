@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 194,
-    "name_it": "Ufficio locale della Capitaneria di porto",
-    "icon": "⚓",
-    "sort_order": 51,
-    "active": true
-  },
-  {
     "id": 95,
     "name_it": "Caratteristica naturale",
     "icon": "natural_feature",
@@ -193,6 +186,13 @@
     "name_it": "alloggio",
     "icon": "lodging",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 197,
+    "name_it": "Campo boe",
+    "icon": "🛟",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -256,6 +256,13 @@
     "name_it": "Percorso",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 198,
+    "name_it": "Ancoraggio",
+    "icon": "⚓",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -333,6 +340,20 @@
     "name_it": "Negozio di convenienza",
     "icon": "convenience_store",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 194,
+    "name_it": "Ufficio locale della Capitaneria di porto",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
+    "id": 199,
+    "name_it": "Area balneare",
+    "icon": "🏖️",
+    "sort_order": 999,
     "active": true
   }
 ]
