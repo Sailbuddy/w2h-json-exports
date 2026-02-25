@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 194,
-    "name_fr": "Capitainerie secondaire",
-    "icon": "⚓",
-    "sort_order": 51,
-    "active": true
-  },
-  {
     "id": 95,
     "name_fr": "Caractéristique naturelle",
     "icon": "natural_feature",
@@ -193,6 +186,13 @@
     "name_fr": "logement",
     "icon": "lodging",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 197,
+    "name_fr": "Champ de bouées",
+    "icon": "🛟",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -256,6 +256,13 @@
     "name_fr": "Itinéraire",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 198,
+    "name_fr": "Mouillage",
+    "icon": "⚓",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -333,6 +340,20 @@
     "name_fr": "Dépanneur",
     "icon": "convenience_store",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 194,
+    "name_fr": "Capitainerie secondaire",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
+    "id": 199,
+    "name_fr": "Zone de baignade",
+    "icon": "🏖️",
+    "sort_order": 999,
     "active": true
   }
 ]
