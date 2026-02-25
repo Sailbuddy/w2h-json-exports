@@ -175,13 +175,6 @@
     "active": true
   },
   {
-    "id": 194,
-    "name_de": "Hafenamt Außenstelle",
-    "icon": "⚓",
-    "sort_order": 51,
-    "active": true
-  },
-  {
     "id": 95,
     "name_de": "Naturmerkmal",
     "icon": "natural_feature",
@@ -193,6 +186,13 @@
     "name_de": "Unterkunft",
     "icon": "lodging",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 197,
+    "name_de": "Bojenfeld",
+    "icon": "🛟",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -256,6 +256,13 @@
     "name_de": "Route",
     "icon": "route",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 198,
+    "name_de": "Ankerplatz",
+    "icon": "⚓",
+    "sort_order": 999,
     "active": true
   },
   {
@@ -333,6 +340,20 @@
     "name_de": "Kiosk",
     "icon": "convenience_store",
     "sort_order": 9999,
+    "active": true
+  },
+  {
+    "id": 194,
+    "name_de": "Hafenamt Außenstelle",
+    "icon": "⚓",
+    "sort_order": 51,
+    "active": true
+  },
+  {
+    "id": 199,
+    "name_de": "Badeplatz",
+    "icon": "🏖️",
+    "sort_order": 999,
     "active": true
   }
 ]
