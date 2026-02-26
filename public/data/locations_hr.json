@@ -292,7 +292,7 @@
     "wind2horizon_id": null,
     "lat": 45.05720713541893,
     "lng": 13.623604123264771,
-    "name_hr": null,
+    "name_hr": "Polje bova Sveti Andrija",
     "description_hr": "Lijepo polje bova kojim upravlja Lučka uprava Rovinj.\n\nRezervacije samo putem e-maila.\nVHF kanal 10"
   },
   {
@@ -352,14 +352,6 @@
     "description_hr": null
   },
   {
-    "id": 3568,
-    "wind2horizon_id": null,
-    "lat": 45.05807320579063,
-    "lng": 13.62412102149439,
-    "name_hr": null,
-    "description_hr": null
-  },
-  {
     "id": 2913,
     "wind2horizon_id": null,
     "lat": 45.43249,
@@ -374,6 +366,14 @@
     "lng": 13.8790314,
     "name_hr": "Petrol",
     "description_hr": null
+  },
+  {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_hr": "Sveti Andrija Gata s vezovima",
+    "description_hr": "Mali mol s veznim mjestima, struja i voda. Upravlja lučka uprava Rovinj.\nSamo su 2 najudaljenija mjesta za jedrilice (zbog dubine vode).\nRezervacija samo putem e-maila. VHF kanal 17"
   },
   {
     "id": 3452,
@@ -605,7 +605,7 @@
     "lat": 45.05840771975485,
     "lng": 13.623832569227718,
     "name_hr": null,
-    "description_hr": null
+    "description_hr": "Mali ured lokalnog lučkog kapetana.\nDolazi gumenjakom do bova.\nPomaže pri pristajanju i naplaćuje naknadu.\nVHF kanal 10\n\nU zapadnoj uvali zabranjeno je sidrenje.\nSamo boje."
   },
   {
     "id": 3398,
@@ -680,19 +680,19 @@
     "description_hr": null
   },
   {
-    "id": 3573,
-    "wind2horizon_id": null,
-    "lat": 45.05953909999999,
-    "lng": 13.6244496,
-    "name_hr": "La Serra, Anno Domini 547",
-    "description_hr": null
-  },
-  {
     "id": 3578,
     "wind2horizon_id": null,
     "lat": 45.055815,
     "lng": 13.6256273,
     "name_hr": "Mauzolej obitelji Huetterott",
+    "description_hr": "Mauzolej Hütterott je povijesna obiteljska grobnica poduzetničke obitelji Hütterott iz kasnog 19. stoljeća. Relikt vremena kada je barun Georg von Hütterott stekao otoke kod Rovinja i uključio ih u svoje planove za klimatsko lječilište.\n\nŠumski park Zlatni rt (poznat i kao \"Zlatni rt\") južno od Rovinja oblikovao je Georg Hütterott kroz ciljano pošumljavanje, izgradnju aleja, šetnica, staza i egzotičnih vrsta drveća, čime je postavio temelje za danas zaštićenu zelenu oazu. Park je jedan od najstarijih prirodnih rezervata u Istri."
+  },
+  {
+    "id": 3573,
+    "wind2horizon_id": null,
+    "lat": 45.05953909999999,
+    "lng": 13.6244496,
+    "name_hr": "La Serra, Anno Domini 547",
     "description_hr": null
   },
   {
@@ -736,19 +736,19 @@
     "description_hr": null
   },
   {
-    "id": 3574,
-    "wind2horizon_id": null,
-    "lat": 45.0585352,
-    "lng": 13.6261821,
-    "name_hr": "Pizzeria Birichino",
-    "description_hr": null
-  },
-  {
     "id": 3579,
     "wind2horizon_id": null,
     "lat": 45.05916999999999,
     "lng": 13.62617,
     "name_hr": "All Suite Island Hotel Istra",
+    "description_hr": null
+  },
+  {
+    "id": 3574,
+    "wind2horizon_id": null,
+    "lat": 45.0585352,
+    "lng": 13.6261821,
+    "name_hr": "Basilico Pizza Pasta",
     "description_hr": null
   },
   {
@@ -832,19 +832,19 @@
     "description_hr": null
   },
   {
-    "id": 3580,
-    "wind2horizon_id": null,
-    "lat": 45.0599391,
-    "lng": 13.6240961,
-    "name_hr": "Molo traghetto per Rovigno",
-    "description_hr": null
-  },
-  {
     "id": 3254,
     "wind2horizon_id": null,
     "lat": 45.3487592,
     "lng": 14.4206559,
     "name_hr": "KRGA-GARDIĆ JADRANKA dr.",
+    "description_hr": null
+  },
+  {
+    "id": 3592,
+    "wind2horizon_id": null,
+    "lat": 45.0584813,
+    "lng": 13.6265331,
+    "name_hr": "Sveti Andrija, Diving Rovinj Island",
     "description_hr": null
   },
   {
@@ -862,6 +862,38 @@
     "lng": 14.4445882,
     "name_hr": "Rogatec Bolnica",
     "description_hr": null
+  },
+  {
+    "id": 3593,
+    "wind2horizon_id": null,
+    "lat": 45.0737495,
+    "lng": 14.1617937,
+    "name_hr": "Plaža Sveti Andrea",
+    "description_hr": "Lijepa mirna plaža s pogledom na Rovinj."
+  },
+  {
+    "id": 3580,
+    "wind2horizon_id": null,
+    "lat": 45.0599391,
+    "lng": 13.6240961,
+    "name_hr": "Transfer brodom do/od Rovinja / Pristanište",
+    "description_hr": "Brod vozi gotovo svake sate od 05:30 do 00:30 prema rasporedu.\n\nOdrasli: 12 EUR\n\nDjeca do 10 godina: 6 EUR\n\nKarte se mogu kupiti na recepciji hotela Maestra.\n\nBrodsku uslugu besplatno mogu koristiti gosti Island Hotels Istra tijekom cijelog boravka.\n\nRovinj-Sv. Andrija   \n05:30*      \n06:30*      \n07:30*      \n08:30      \n09:30      \n10:30      \n11:30      \n12:30      \n13:30      \n14:30      \n15:30      \n16:30      \n17:30      \n18:30      \n19:30      \n20:30*      \n21:30*      \n22:30*      \n23:30*      \n00:30*      \n\nSv. Andrija-Rovinj\n06:00*  \n07:00*  \n08:00*  \n09:00  \n10:00  \n11:00  \n12:00  \n13:00  \n14:00  \n15:00  \n16:00  \n17:00  \n18:00  \n19:00  \n20:00  \n21:00*  \n22:00*  \n23:00*  \n24:00*  \n01:00*  \n\nVremena označena s * također voze do Sv. Katarine."
+  },
+  {
+    "id": 3595,
+    "wind2horizon_id": null,
+    "lat": 45.0594501,
+    "lng": 13.6260764,
+    "name_hr": "Viewpoint",
+    "description_hr": null
+  },
+  {
+    "id": 3596,
+    "wind2horizon_id": null,
+    "lat": 44.5118139,
+    "lng": 14.3075159,
+    "name_hr": "Hotel Sansegus",
+    "description_hr": "Mali, jednostavni butik hotel s dobrom restoranom i lijepom terasom. Tiramisu je vrlo preporučljiv."
   },
   {
     "id": 3378,
