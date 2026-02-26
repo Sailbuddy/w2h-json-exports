@@ -292,7 +292,7 @@
     "wind2horizon_id": null,
     "lat": 45.05720713541893,
     "lng": 13.623604123264771,
-    "name_it": null,
+    "name_it": "Campo boe Sveti Andrija",
     "description_it": "Bel campo di boe gestito dall'Autorità portuale di Rovinj.\n\nPrenotazioni solo via email.\nCanale VHF 10"
   },
   {
@@ -352,14 +352,6 @@
     "description_it": null
   },
   {
-    "id": 3568,
-    "wind2horizon_id": null,
-    "lat": 45.05807320579063,
-    "lng": 13.62412102149439,
-    "name_it": null,
-    "description_it": null
-  },
-  {
     "id": 2913,
     "wind2horizon_id": null,
     "lat": 45.43249,
@@ -374,6 +366,14 @@
     "lng": 13.8790314,
     "name_it": "Petrol",
     "description_it": null
+  },
+  {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_it": "Molo Sveti Andrija con posti barca",
+    "description_it": "Piccolo molo con posti barca, elettricità e acqua. Gestito dall'autorità portuale di Rovinj.\nSolo i 2 posti più esterni sono per yacht a vela (a causa della profondità dell'acqua).\nPrenotazione solo via email. Canale VHF 17"
   },
   {
     "id": 3452,
@@ -605,7 +605,7 @@
     "lat": 45.05840771975485,
     "lng": 13.623832569227718,
     "name_it": null,
-    "description_it": null
+    "description_it": "Piccolo ufficio del marinaio locale.\nViene con il gommone alle boe.\nAiuta all'ormeggio e riscuote la tassa.\nCanale VHF 10\n\nNella baia occidentale è vietato ancorare.\nSolo boe."
   },
   {
     "id": 3398,
@@ -621,6 +621,22 @@
     "lat": 44.929422,
     "lng": 14.9198022,
     "name_it": "LUČKA KAPETANIJA SENJ, Lučka ispostava SVETI JURAJ",
+    "description_it": null
+  },
+  {
+    "id": 3572,
+    "wind2horizon_id": null,
+    "lat": 44.7484911,
+    "lng": 14.7848618,
+    "name_it": "Captain's Club",
+    "description_it": null
+  },
+  {
+    "id": 3577,
+    "wind2horizon_id": null,
+    "lat": 45.05516900000001,
+    "lng": 13.6218972,
+    "name_it": "Viewpoint",
     "description_it": null
   },
   {
@@ -664,6 +680,22 @@
     "description_it": null
   },
   {
+    "id": 3578,
+    "wind2horizon_id": null,
+    "lat": 45.055815,
+    "lng": 13.6256273,
+    "name_it": "Mausoleo della famiglia Hütterott",
+    "description_it": "Il mausoleo Hütterott è una storica tomba di famiglia della famiglia imprenditoriale Hütterott risalente alla fine del XIX secolo. Un relitto dell'epoca in cui il barone Georg von Hütterott acquisì le isole al largo di Rovinj e le integrò nei suoi piani per una località climatica.\n\nIl Parco Forestale Zlatni rt (noto anche come \"Capo d'Oro\") a sud di Rovinj è stato progettato da Georg Hütterott attraverso un rimboschimento mirato, la creazione di viali, passeggiate, sentieri e specie arboree esotiche, creando così le basi per un'oasi verde oggi protetta. Il parco è una delle riserve naturali più antiche dell'Istria."
+  },
+  {
+    "id": 3573,
+    "wind2horizon_id": null,
+    "lat": 45.05953909999999,
+    "lng": 13.6244496,
+    "name_it": "La Serra, Anno Domini 547",
+    "description_it": null
+  },
+  {
     "id": 2995,
     "wind2horizon_id": null,
     "lat": 44.19007819999999,
@@ -701,6 +733,22 @@
     "lat": 44.4710417,
     "lng": 14.9550749,
     "name_it": "ACI Marina Šimuni",
+    "description_it": null
+  },
+  {
+    "id": 3579,
+    "wind2horizon_id": null,
+    "lat": 45.05916999999999,
+    "lng": 13.62617,
+    "name_it": "All Suite Island Hotel Istra",
+    "description_it": null
+  },
+  {
+    "id": 3574,
+    "wind2horizon_id": null,
+    "lat": 45.0585352,
+    "lng": 13.6261821,
+    "name_it": "Basilico Pizza Pasta",
     "description_it": null
   },
   {
@@ -752,6 +800,22 @@
     "description_it": null
   },
   {
+    "id": 3576,
+    "wind2horizon_id": null,
+    "lat": 45.060064,
+    "lng": 13.6260862,
+    "name_it": "Razgledna pot otoka",
+    "description_it": null
+  },
+  {
+    "id": 3581,
+    "wind2horizon_id": null,
+    "lat": 45.0834391,
+    "lng": 13.6310476,
+    "name_it": "Campanile di S.Eufemia - veduta",
+    "description_it": null
+  },
+  {
     "id": 3462,
     "wind2horizon_id": null,
     "lat": 44.13978669999999,
@@ -776,6 +840,14 @@
     "description_it": null
   },
   {
+    "id": 3592,
+    "wind2horizon_id": null,
+    "lat": 45.0584813,
+    "lng": 13.6265331,
+    "name_it": "Sveti Andrija, Diving Rovinj Island",
+    "description_it": null
+  },
+  {
     "id": 3261,
     "wind2horizon_id": null,
     "lat": 45.3270631,
@@ -790,6 +862,38 @@
     "lng": 14.4445882,
     "name_it": "Rogatec Bolnica",
     "description_it": null
+  },
+  {
+    "id": 3593,
+    "wind2horizon_id": null,
+    "lat": 45.0737495,
+    "lng": 14.1617937,
+    "name_it": "Spiaggia Sant'Andrea",
+    "description_it": "Bella spiaggia tranquilla con vista su Rovinj."
+  },
+  {
+    "id": 3580,
+    "wind2horizon_id": null,
+    "lat": 45.0599391,
+    "lng": 13.6240961,
+    "name_it": "Molo traghetto per Rovigno",
+    "description_it": "La barca opera quasi ogni ora dalle 05:30 alle 00:30 secondo il programma.\n\nAdulti: 12 EUR\n\nBambini sotto i 10 anni: 6 EUR\n\nI biglietti possono essere acquistati alla reception dell'Hotel Maestra.\n\nIl trasferimento in barca è gratuito per gli ospiti degli Island Hotels Istra durante tutto il soggiorno.\n\nRovinj-Sv. Andrija   \n05:30*      \n06:30*      \n07:30*      \n08:30      \n09:30      \n10:30      \n11:30      \n12:30      \n13:30      \n14:30      \n15:30      \n16:30      \n17:30      \n18:30      \n19:30      \n20:30*      \n21:30*      \n22:30*      \n23:30*      \n00:30*      \n\nSv. Andrija-Rovinj\n06:00*  \n07:00*  \n08:00*  \n09:00  \n10:00  \n11:00  \n12:00  \n13:00  \n14:00  \n15:00  \n16:00  \n17:00  \n18:00  \n19:00  \n20:00  \n21:00*  \n22:00*  \n23:00*  \n24:00*  \n01:00*  \n\nGli orari contrassegnati con * servono anche Sv. Katarina."
+  },
+  {
+    "id": 3595,
+    "wind2horizon_id": null,
+    "lat": 45.0594501,
+    "lng": 13.6260764,
+    "name_it": "Viewpoint",
+    "description_it": null
+  },
+  {
+    "id": 3596,
+    "wind2horizon_id": null,
+    "lat": 44.5118139,
+    "lng": 14.3075159,
+    "name_it": "Hotel Sansegus",
+    "description_it": "Piccolo e semplice boutique hotel con un buon ristorante e una bella terrazza. Il tiramisù è altamente raccomandato."
   },
   {
     "id": 3378,
