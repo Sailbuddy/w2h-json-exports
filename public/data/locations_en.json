@@ -288,6 +288,14 @@
     "description_en": null
   },
   {
+    "id": 3566,
+    "wind2horizon_id": null,
+    "lat": 45.05720713541893,
+    "lng": 13.623604123264771,
+    "name_en": "Buoy field Sveti Andrija",
+    "description_en": "Beautiful mooring field managed by the Rovinj Harbor Authority.\n\nReservations only by email.\nVHF Channel 10"
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -317,6 +325,14 @@
     "lat": 44.562386,
     "lng": 14.3684609,
     "name_en": "Kurila light house",
+    "description_en": null
+  },
+  {
+    "id": 3567,
+    "wind2horizon_id": null,
+    "lat": 45.057295516045464,
+    "lng": 13.627660979951196,
+    "name_en": null,
     "description_en": null
   },
   {
@@ -352,6 +368,14 @@
     "description_en": null
   },
   {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_en": "Sveti Andrija Quay with mooring places",
+    "description_en": "Small quay with mooring places, electricity, and water. Managed by the port authority of Rovinj.\nOnly the 2 outermost spots are for sailing yachts (due to water depth).\nReservation only via email. VHF channel 17"
+  },
+  {
     "id": 3452,
     "wind2horizon_id": null,
     "lat": 43.1787008,
@@ -376,6 +400,14 @@
     "description_en": null
   },
   {
+    "id": 3569,
+    "wind2horizon_id": null,
+    "lat": 45.2116074,
+    "lng": 13.7935756,
+    "name_en": "Poli Banka",
+    "description_en": null
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -389,6 +421,14 @@
     "lat": 44.5191313,
     "lng": 14.5022154,
     "name_en": "Sanatorium für Asthmakranke Kinder aus der DDR 1968-1990",
+    "description_en": null
+  },
+  {
+    "id": 3570,
+    "wind2horizon_id": null,
+    "lat": 45.05758698826095,
+    "lng": 13.62605419103072,
+    "name_en": null,
     "description_en": null
   },
   {
@@ -448,6 +488,14 @@
     "description_en": null
   },
   {
+    "id": 865,
+    "wind2horizon_id": null,
+    "lat": 45.0592216,
+    "lng": 13.6241761,
+    "name_en": "Maistra Select Island Hotel Istra",
+    "description_en": "Refined resort on a secluded island, plus 5 restaurants, a modern spa & private beaches"
+  },
+  {
     "id": 3207,
     "wind2horizon_id": null,
     "lat": 45.6565347,
@@ -504,6 +552,14 @@
     "description_en": null
   },
   {
+    "id": 899,
+    "wind2horizon_id": null,
+    "lat": 45.0589807,
+    "lng": 13.6237276,
+    "name_en": "Sveti Andrija",
+    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
     "id": 3156,
     "wind2horizon_id": null,
     "lat": 43.17987,
@@ -544,6 +600,14 @@
     "description_en": null
   },
   {
+    "id": 3571,
+    "wind2horizon_id": null,
+    "lat": 45.05840771975485,
+    "lng": 13.623832569227718,
+    "name_en": null,
+    "description_en": "Small office of the local harbor master.\nHe comes with the dinghy to the buoys.\nHelps with docking and collects the fee.\nVHF Channel 10\n\nIn the western bay, anchoring is prohibited.\nOnly buoys."
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
@@ -557,6 +621,22 @@
     "lat": 44.929422,
     "lng": 14.9198022,
     "name_en": "LUČKA KAPETANIJA SENJ, Lučka ispostava SVETI JURAJ",
+    "description_en": null
+  },
+  {
+    "id": 3572,
+    "wind2horizon_id": null,
+    "lat": 44.7484911,
+    "lng": 14.7848618,
+    "name_en": "Captain's Club",
+    "description_en": null
+  },
+  {
+    "id": 3577,
+    "wind2horizon_id": null,
+    "lat": 45.05516900000001,
+    "lng": 13.6218972,
+    "name_en": "Viewpoint",
     "description_en": null
   },
   {
@@ -600,6 +680,22 @@
     "description_en": null
   },
   {
+    "id": 3578,
+    "wind2horizon_id": null,
+    "lat": 45.055815,
+    "lng": 13.6256273,
+    "name_en": "Hütterott Family Mausoleum",
+    "description_en": "The Hütterott Mausoleum is a historic family grave of the Hütterott entrepreneurial family from the late 19th century. A relic of the time when Baron Georg von Hütterott acquired the islands off Rovinj and incorporated them into his plans for a climatic health resort.\n\nThe Zlatni rt Forest Park (also known as \"Golden Cape\") south of Rovinj was designed by Georg Hütterott through targeted afforestation, the creation of avenues, promenades, paths, and exotic tree species, thus establishing the foundation for a now-protected green oasis. The park is one of the oldest nature reserves in Istria."
+  },
+  {
+    "id": 3573,
+    "wind2horizon_id": null,
+    "lat": 45.05953909999999,
+    "lng": 13.6244496,
+    "name_en": "La Serra, Anno Domini 547",
+    "description_en": null
+  },
+  {
     "id": 2995,
     "wind2horizon_id": null,
     "lat": 44.19007819999999,
@@ -637,6 +733,22 @@
     "lat": 44.4710417,
     "lng": 14.9550749,
     "name_en": "ACI Marina Šimuni",
+    "description_en": null
+  },
+  {
+    "id": 3579,
+    "wind2horizon_id": null,
+    "lat": 45.05916999999999,
+    "lng": 13.62617,
+    "name_en": "All Suite Island Hotel Istra",
+    "description_en": null
+  },
+  {
+    "id": 3574,
+    "wind2horizon_id": null,
+    "lat": 45.0585352,
+    "lng": 13.6261821,
+    "name_en": "Basilico Pizza Pasta",
     "description_en": null
   },
   {
@@ -688,6 +800,22 @@
     "description_en": null
   },
   {
+    "id": 3576,
+    "wind2horizon_id": null,
+    "lat": 45.060064,
+    "lng": 13.6260862,
+    "name_en": "Razgledna pot otoka",
+    "description_en": null
+  },
+  {
+    "id": 3581,
+    "wind2horizon_id": null,
+    "lat": 45.0834391,
+    "lng": 13.6310476,
+    "name_en": "Church tower (panorama viewing platform)",
+    "description_en": null
+  },
+  {
     "id": 3462,
     "wind2horizon_id": null,
     "lat": 44.13978669999999,
@@ -712,6 +840,14 @@
     "description_en": null
   },
   {
+    "id": 3592,
+    "wind2horizon_id": null,
+    "lat": 45.0584813,
+    "lng": 13.6265331,
+    "name_en": "Sveti Andrija, Diving Rovinj Island",
+    "description_en": null
+  },
+  {
     "id": 3261,
     "wind2horizon_id": null,
     "lat": 45.3270631,
@@ -726,6 +862,38 @@
     "lng": 14.4445882,
     "name_en": "Rogatec Bolnica",
     "description_en": null
+  },
+  {
+    "id": 3593,
+    "wind2horizon_id": null,
+    "lat": 45.0737495,
+    "lng": 14.1617937,
+    "name_en": "Plaža Sveti Andrea",
+    "description_en": "Beautiful quiet beach with a view of Rovinj."
+  },
+  {
+    "id": 3580,
+    "wind2horizon_id": null,
+    "lat": 45.0599391,
+    "lng": 13.6240961,
+    "name_en": "Boat transfer to/from Rovinj / Dock",
+    "description_en": "The boat operates almost hourly from 05:30 to 00:30 according to the schedule.\n\nAdults: 12 EUR\n\nChildren under 10 years: 6 EUR\n\nTickets can be purchased at the reception of Hotel Maestra.\n\nThe boat transfer is free for guests of the Island Hotels Istra throughout their stay.\n\nRovinj-Sv. Andrija   \n05:30 AM*      \n06:30 AM*      \n07:30 AM*      \n08:30 AM      \n09:30 AM      \n10:30 AM      \n11:30 AM      \n12:30 PM      \n01:30 PM      \n02:30 PM      \n03:30 PM      \n04:30 PM      \n05:30 PM      \n06:30 PM      \n07:30 PM      \n08:30 PM*      \n09:30 PM*      \n10:30 PM*      \n11:30 PM*      \n12:30 AM*      \n\nSv. Andrija-Rovinj\n06:00 AM*  \n07:00 AM*  \n08:00 AM*  \n09:00 AM  \n10:00 AM  \n11:00 AM  \n12:00 PM  \n01:00 PM  \n02:00 PM  \n03:00 PM  \n04:00 PM  \n05:00 PM  \n06:00 PM  \n07:00 PM  \n08:00 PM  \n09:00 PM*  \n10:00 PM*  \n11:00 PM*  \n12:00 AM*  \n01:00 AM*  \n\nTimes marked with * also serve Sv. Katarina."
+  },
+  {
+    "id": 3595,
+    "wind2horizon_id": null,
+    "lat": 45.0594501,
+    "lng": 13.6260764,
+    "name_en": "Viewpoint",
+    "description_en": null
+  },
+  {
+    "id": 3596,
+    "wind2horizon_id": null,
+    "lat": 44.5118139,
+    "lng": 14.3075159,
+    "name_en": "Hotel Sansegus",
+    "description_en": "Small, simple boutique hotel with a good restaurant and a nice terrace. The tiramisu is highly recommended."
   },
   {
     "id": 3378,
@@ -974,14 +1142,6 @@
     "lng": 13.7321521,
     "name_en": "Maxen Bencinski servis",
     "description_en": null
-  },
-  {
-    "id": 899,
-    "wind2horizon_id": null,
-    "lat": 45.0589807,
-    "lng": 13.6237276,
-    "name_en": "Sveti Andrija",
-    "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
   },
   {
     "id": 2031,
@@ -1494,14 +1654,6 @@
     "lng": 16.248892,
     "name_en": "ACI Marina Trogir",
     "description_en": null
-  },
-  {
-    "id": 865,
-    "wind2horizon_id": null,
-    "lat": 45.0592216,
-    "lng": 13.6241761,
-    "name_en": "Maistra Select Island Hotel Istra",
-    "description_en": "Refined resort on a secluded island, plus 5 restaurants, a modern spa & private beaches"
   },
   {
     "id": 92,
