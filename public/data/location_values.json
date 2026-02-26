@@ -3433,29 +3433,6 @@
     "locked": false
   },
   {
-    "id": 64452,
-    "location_id": 3568,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2026-02-24T20:14:27.15+00:00",
-    "name": null,
-    "value_json": [
-      "Dobar zaštita iza mola. Zbog blago nagnute plaže u području kupanja, također ima malo refleksijskih valova pri zapadnom uzburkanju. U slučaju nadolazećeg lošeg vremena, lučka vlast će rano isprazniti mol. Napajanje nije vrlo stabilno. Duži kablovi su potrebni na vanjskim vezovima.",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 4918,
     "location_id": 87,
     "attribute_id": 24,
@@ -3961,6 +3938,29 @@
     "updated_at": "2025-11-19T19:17:46.154+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64452,
+    "location_id": 3568,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-02-25T19:38:43.217+00:00",
+    "name": null,
+    "value_json": [
+      "Dobar zaštita iza mola. Zbog blago nagnute plaže u području kupanja, također ima malo refleksijskih valova pri zapadnom uzburkanju. U slučaju nadolazećeg lošeg vremena, lučka vlast će rano isprazniti mol. Napajanje nije vrlo stabilno. Duži kablovi su potrebni na vanjskim vezovima.",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -5143,29 +5143,6 @@
     "updated_at": "2025-11-19T19:10:57.873+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 64449,
-    "location_id": 3568,
-    "attribute_id": 105,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2026-02-24T20:14:25.881+00:00",
-    "name": null,
-    "value_json": [
-      "Good protection behind the quay. Due to the gently sloping beach in the bathing area, there are also few reflection waves with western swell. In the event of impending bad weather, the quay will be cleared early by the port authority. Power supply is not very stable. Longer cables are necessary at the outer berths.",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   },
@@ -8637,23 +8614,6 @@
     "locked": false
   },
   {
-    "id": 64462,
-    "location_id": 3572,
-    "attribute_id": 21,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 2,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2026-02-25T04:19:28.061+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
     "id": 59702,
     "location_id": 2531,
     "attribute_id": 24,
@@ -8957,6 +8917,23 @@
     "locked": false
   },
   {
+    "id": 64462,
+    "location_id": 3572,
+    "attribute_id": 21,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": 2,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T04:22:04.34+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4961,
     "location_id": 88,
     "attribute_id": 21,
@@ -9151,6 +9128,44 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64464,
+    "location_id": 3593,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": false,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": false,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": false
+      },
+      "wind_relevant": true
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -10583,6 +10598,23 @@
     "locked": false
   },
   {
+    "id": 64465,
+    "location_id": 3593,
+    "attribute_id": 107,
+    "value_text": "14308",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T04:24:42.565+00:00",
+    "name": "Pazin",
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5267,
     "location_id": 99,
     "attribute_id": 25,
@@ -11365,6 +11397,23 @@
     "language_code": "de",
     "updated_at": "2025-11-19T19:23:37.379+00:00",
     "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64466,
+    "location_id": 3573,
+    "attribute_id": 107,
+    "value_text": "14308",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-02-25T08:39:29.734+00:00",
+    "name": "Pazin",
     "value_json": {
       "ai": false
     },
@@ -12204,6 +12253,31 @@
     "value_json": {
       "ai": false
     },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64467,
+    "location_id": 3573,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2026-02-25T08:39:30.403+00:00",
+    "name": null,
+    "value_json": [
+      "Ein gediegenes Restaurant mit einem sehr gepflegten Ambiente und einer sehr schönen Terrasse mit Blick Richtung Rovinj. Reservierung ist in der Saison zu empfehlen. ",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-02-25T08:38:55.134Z"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -14274,6 +14348,31 @@
     "locked": false
   },
   {
+    "id": 64468,
+    "location_id": 3573,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-02-25T08:39:30.997+00:00",
+    "name": null,
+    "value_json": [
+      "A refined restaurant with a well-maintained ambiance and a beautiful terrace overlooking Rovinj. Reservations are recommended during the season.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-02-25T08:39:02.024Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 4998,
     "location_id": 90,
     "attribute_id": 10,
@@ -14660,6 +14759,31 @@
     "updated_at": "2025-11-19T19:20:30.736+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64469,
+    "location_id": 3573,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-02-25T08:39:31.367+00:00",
+    "name": null,
+    "value_json": [
+      "Un ristorante raffinato con un'atmosfera curata e una bellissima terrazza con vista su Rovinj. È consigliata la prenotazione durante la stagione.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-02-25T08:39:02.024Z"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -15528,6 +15652,31 @@
     "locked": false
   },
   {
+    "id": 64470,
+    "location_id": 3573,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2026-02-25T08:39:31.791+00:00",
+    "name": null,
+    "value_json": [
+      "Un restaurant raffiné avec une ambiance soignée et une belle terrasse surplombant Rovinj. Les réservations sont recommandées pendant la saison.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-02-25T08:39:02.024Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5058,
     "location_id": 91,
     "attribute_id": 8,
@@ -15758,6 +15907,31 @@
     "updated_at": "2025-11-19T19:20:27.313+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64471,
+    "location_id": 3573,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-02-25T08:39:32.29+00:00",
+    "name": null,
+    "value_json": [
+      "Ugodan restoran s vrlo njegovanim ambijentom i prekrasnom terasom s pogledom na Rovinj. Preporučuje se rezervacija tijekom sezone.",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-02-25T08:39:02.024Z"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -16671,6 +16845,44 @@
         "ai": false
       }
     ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64472,
+    "location_id": 3571,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "swell": {
+        "N": false,
+        "O": false,
+        "S": false,
+        "W": true,
+        "NO": false,
+        "NW": false,
+        "SO": false,
+        "SW": true
+      },
+      "wind_relevant": true
+    },
     "source_tag": "google",
     "locked": false
   },
@@ -20659,128 +20871,6 @@
     "value_json": {
       "ai": false
     },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20516,
-    "location_id": 88,
-    "attribute_id": 12,
-    "value_text": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:09:59.521+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20517,
-    "location_id": 88,
-    "attribute_id": 18,
-    "value_text": "ChIJ8aGpZXUHbUcR7RhDMQpSArs",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:09:59.725+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20519,
-    "location_id": 88,
-    "attribute_id": 20,
-    "value_text": "8FWR695H+2F",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:00.107+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63751,
-    "location_id": 3149,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2610114711364209058",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-21T05:35:22.65+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27050,
-    "location_id": 899,
-    "attribute_id": 4,
-    "value_text": "Sveti Andrija, <span class=\"country-name\">Croatia</span>",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:55.714+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52410,
-    "location_id": 91,
-    "attribute_id": 96,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-27T05:55:15.968+00:00",
-    "name": null,
-    "value_json": true,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 27052,
-    "location_id": 899,
-    "attribute_id": 7,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 13.6237276,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:20:56.1+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 52394,
-    "location_id": 2031,
-    "attribute_id": 94,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-10-21T06:55:46.819+00:00",
-    "name": null,
-    "value_json": true,
     "source_tag": "google",
     "locked": false
   }
