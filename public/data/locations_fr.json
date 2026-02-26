@@ -292,7 +292,7 @@
     "wind2horizon_id": null,
     "lat": 45.05720713541893,
     "lng": 13.623604123264771,
-    "name_fr": null,
+    "name_fr": "Champ de bouées Sveti Andrija",
     "description_fr": "Beau champ de bouées géré par l'Autorité portuaire de Rovinj.\n\nRéservations uniquement par e-mail.\nCanal VHF 10"
   },
   {
@@ -352,14 +352,6 @@
     "description_fr": null
   },
   {
-    "id": 3568,
-    "wind2horizon_id": null,
-    "lat": 45.05807320579063,
-    "lng": 13.62412102149439,
-    "name_fr": null,
-    "description_fr": null
-  },
-  {
     "id": 2913,
     "wind2horizon_id": null,
     "lat": 45.43249,
@@ -374,6 +366,14 @@
     "lng": 13.8790314,
     "name_fr": "Petrol",
     "description_fr": null
+  },
+  {
+    "id": 3568,
+    "wind2horizon_id": null,
+    "lat": 45.05807320579063,
+    "lng": 13.62412102149439,
+    "name_fr": "Quai Sveti Andrija avec des places de mouillage",
+    "description_fr": "Petit quai avec des places de mouillage, électricité et eau. Géré par l'autorité portuaire de Rovinj.\nSeules les 2 places les plus extérieures sont réservées aux voiliers (en raison de la profondeur de l'eau).\nRéservation uniquement par email. Canal VHF 17"
   },
   {
     "id": 3452,
@@ -605,7 +605,7 @@
     "lat": 45.05840771975485,
     "lng": 13.623832569227718,
     "name_fr": null,
-    "description_fr": null
+    "description_fr": "Petit bureau du maître de port local.\nIl vient avec le canot aux bouées.\nAide à l'amarrage et perçoit les frais.\nCanal VHF 10\n\nDans la baie ouest, l'ancrage est interdit.\nSeulement des bouées."
   },
   {
     "id": 3398,
@@ -680,19 +680,19 @@
     "description_fr": null
   },
   {
-    "id": 3573,
-    "wind2horizon_id": null,
-    "lat": 45.05953909999999,
-    "lng": 13.6244496,
-    "name_fr": "Lanterna",
-    "description_fr": null
-  },
-  {
     "id": 3578,
     "wind2horizon_id": null,
     "lat": 45.055815,
     "lng": 13.6256273,
-    "name_fr": "Mauzolej obitelji Huetterott",
+    "name_fr": "Mausolée de la famille Hütterott",
+    "description_fr": "Le mausolée Hütterott est une sépulture familiale historique de la famille d'entrepreneurs Hütterott datant de la fin du 19e siècle. Un vestige de l'époque où le baron Georg von Hütterott a acquis les îles au large de Rovinj et les a intégrées dans ses projets pour une station climatique.\n\nLe parc forestier Zlatni rt (également connu sous le nom de \"Cap d'Or\") au sud de Rovinj a été conçu par Georg Hütterott grâce à un reboisement ciblé, à la création d'avenues, de promenades, de sentiers et d'espèces d'arbres exotiques, établissant ainsi les bases d'une oasis verte aujourd'hui protégée. Le parc fait partie des plus anciennes réserves naturelles d'Istrie."
+  },
+  {
+    "id": 3573,
+    "wind2horizon_id": null,
+    "lat": 45.05953909999999,
+    "lng": 13.6244496,
+    "name_fr": "La Serra, Anno Domini 547",
     "description_fr": null
   },
   {
@@ -736,19 +736,19 @@
     "description_fr": null
   },
   {
-    "id": 3574,
-    "wind2horizon_id": null,
-    "lat": 45.0585352,
-    "lng": 13.6261821,
-    "name_fr": "Pizzeria Birichino",
-    "description_fr": null
-  },
-  {
     "id": 3579,
     "wind2horizon_id": null,
     "lat": 45.05916999999999,
     "lng": 13.62617,
     "name_fr": "All Suite Island Hotel Istra",
+    "description_fr": null
+  },
+  {
+    "id": 3574,
+    "wind2horizon_id": null,
+    "lat": 45.0585352,
+    "lng": 13.6261821,
+    "name_fr": "Basilico Pizza Pasta",
     "description_fr": null
   },
   {
@@ -832,14 +832,6 @@
     "description_fr": null
   },
   {
-    "id": 3580,
-    "wind2horizon_id": null,
-    "lat": 45.0599391,
-    "lng": 13.6240961,
-    "name_fr": "Molo traghetto per Rovigno",
-    "description_fr": null
-  },
-  {
     "id": 3254,
     "wind2horizon_id": null,
     "lat": 45.3487592,
@@ -877,7 +869,31 @@
     "lat": 45.0737495,
     "lng": 14.1617937,
     "name_fr": "Plaža Sveti Andrea",
+    "description_fr": "Belle plage tranquille avec vue sur Rovinj."
+  },
+  {
+    "id": 3580,
+    "wind2horizon_id": null,
+    "lat": 45.0599391,
+    "lng": 13.6240961,
+    "name_fr": "Transfert en bateau vers/depuis Rovinj / Quai",
+    "description_fr": "Le bateau fonctionne presque toutes les heures de 05h30 à 00h30 selon l'horaire.\n\nAdultes : 12 EUR\n\nEnfants de moins de 10 ans : 6 EUR\n\nLes billets peuvent être achetés à la réception de l'Hôtel Maestra.\n\nLe transfert en bateau est gratuit pour les clients des Island Hotels Istra pendant toute leur séjour.\n\nRovinj-Sv. Andrija   \n05h30*      \n06h30*      \n07h30*      \n08h30      \n09h30      \n10h30      \n11h30      \n12h30      \n13h30      \n14h30      \n15h30      \n16h30      \n17h30      \n18h30      \n19h30      \n20h30*      \n21h30*      \n22h30*      \n23h30*      \n00h30*      \n\nSv. Andrija-Rovinj\n06h00*  \n07h00*  \n08h00*  \n09h00  \n10h00  \n11h00  \n12h00  \n13h00  \n14h00  \n15h00  \n16h00  \n17h00  \n18h00  \n19h00  \n20h00  \n21h00*  \n22h00*  \n23h00*  \n24h00*  \n01h00*  \n\nLes horaires marqués d'un * desservent également Sv. Katarina."
+  },
+  {
+    "id": 3595,
+    "wind2horizon_id": null,
+    "lat": 45.0594501,
+    "lng": 13.6260764,
+    "name_fr": "Viewpoint",
     "description_fr": null
+  },
+  {
+    "id": 3596,
+    "wind2horizon_id": null,
+    "lat": 44.5118139,
+    "lng": 14.3075159,
+    "name_fr": "Hotel Sansegus",
+    "description_fr": "Petit hôtel-boutique simple avec un bon restaurant et une jolie terrasse. Le tiramisu est fortement recommandé."
   },
   {
     "id": 3378,
