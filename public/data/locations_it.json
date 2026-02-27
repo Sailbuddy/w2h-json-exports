@@ -636,8 +636,8 @@
     "wind2horizon_id": null,
     "lat": 45.05516900000001,
     "lng": 13.6218972,
-    "name_it": "Viewpoint",
-    "description_it": null
+    "name_it": "Belvedere con vista su Sveti Ivan",
+    "description_it": "Belvedere con vista su Sveti Ivan"
   },
   {
     "id": 3004,
@@ -894,6 +894,22 @@
     "lng": 14.3075159,
     "name_it": "Hotel Sansegus",
     "description_it": "Piccolo e semplice boutique hotel con un buon ristorante e una bella terrazza. Il tiramisù è altamente raccomandato."
+  },
+  {
+    "id": 3597,
+    "wind2horizon_id": null,
+    "lat": 45.0429612,
+    "lng": 13.6141326,
+    "name_it": "San Giovanni in Pelago",
+    "description_it": null
+  },
+  {
+    "id": 3598,
+    "wind2horizon_id": null,
+    "lat": 45.0153006,
+    "lng": 13.8197893,
+    "name_it": "Church of St. John (remains)",
+    "description_it": "Resti di una vecchia chiesa. Il campanile è ancora ben conservato."
   },
   {
     "id": 3378,
