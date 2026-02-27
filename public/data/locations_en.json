@@ -636,8 +636,8 @@
     "wind2horizon_id": null,
     "lat": 45.05516900000001,
     "lng": 13.6218972,
-    "name_en": "Viewpoint",
-    "description_en": null
+    "name_en": "Viewpoint overlooking Sveti Ivan",
+    "description_en": "Viewpoint overlooking Sveti Ivan"
   },
   {
     "id": 3004,
@@ -894,6 +894,22 @@
     "lng": 14.3075159,
     "name_en": "Hotel Sansegus",
     "description_en": "Small, simple boutique hotel with a good restaurant and a nice terrace. The tiramisu is highly recommended."
+  },
+  {
+    "id": 3597,
+    "wind2horizon_id": null,
+    "lat": 45.0429612,
+    "lng": 13.6141326,
+    "name_en": "Otočić Sveti Ivan na Pučini",
+    "description_en": null
+  },
+  {
+    "id": 3598,
+    "wind2horizon_id": null,
+    "lat": 45.0153006,
+    "lng": 13.8197893,
+    "name_en": "Church of St. John (remains)",
+    "description_en": "Remains of an old church. The tower is still well preserved."
   },
   {
     "id": 3378,
