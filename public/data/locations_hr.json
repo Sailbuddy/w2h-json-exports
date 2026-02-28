@@ -636,8 +636,8 @@
     "wind2horizon_id": null,
     "lat": 45.05516900000001,
     "lng": 13.6218972,
-    "name_hr": "Viewpoint",
-    "description_hr": null
+    "name_hr": "Vidikovac s pogledom na Sveti Ivan",
+    "description_hr": "Vidikovac s pogledom na Sveti Ivan"
   },
   {
     "id": 3004,
@@ -894,6 +894,22 @@
     "lng": 14.3075159,
     "name_hr": "Hotel Sansegus",
     "description_hr": "Mali, jednostavni butik hotel s dobrom restoranom i lijepom terasom. Tiramisu je vrlo preporučljiv."
+  },
+  {
+    "id": 3597,
+    "wind2horizon_id": null,
+    "lat": 45.0429612,
+    "lng": 13.6141326,
+    "name_hr": "Otočić Sveti Ivan na Pučini",
+    "description_hr": null
+  },
+  {
+    "id": 3598,
+    "wind2horizon_id": null,
+    "lat": 45.0153006,
+    "lng": 13.8197893,
+    "name_hr": "Crkva sv. Ivan (ostaci)",
+    "description_hr": "Ostaci stare crkve. Toranj je još dobro očuvan."
   },
   {
     "id": 3378,
