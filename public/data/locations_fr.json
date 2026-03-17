@@ -920,6 +920,14 @@
     "description_fr": null
   },
   {
+    "id": 3600,
+    "wind2horizon_id": null,
+    "lat": 45.5489873,
+    "lng": 13.723678,
+    "name_fr": "FOLPO okusi morja",
+    "description_fr": null
+  },
+  {
     "id": 3378,
     "wind2horizon_id": null,
     "lat": 42.6513486,
