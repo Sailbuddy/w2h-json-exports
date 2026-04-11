@@ -336,20 +336,20 @@
     "description_it": null
   },
   {
+    "id": 2896,
+    "wind2horizon_id": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_it": "Faro di Salvore",
+    "description_it": "Il faro di Salvore è il più antico faro ancora attivo dell’Adriatico e dal 1818 rappresenta un fondamentale punto di riferimento per la navigazione nell’alto Adriatico. Sorge a Capo Lako, vicino a Bašanija, e segna l’ingresso al Golfo di Trieste, una delle rotte nautiche più importanti della regione.\r\n\r\nIl faro fu costruito per ordine dell’imperatore Francesco I su progetto dell’architetto Pietro Nobile. La costruzione richiese meno di un anno e, per la prima volta in questa zona, per l’illuminazione venne utilizzato il gas ricavato dal carbone. In seguito il faro fu dotato di lenti di Fresnel nel 1870 e venne infine elettrificato nel 1938.\r\n\r\nCon i suoi 36 metri di altezza e 151 gradini, il faro ha una portata luminosa di circa 18 miglia nautiche (circa 29 chilometri). In condizioni di buona visibilità il suo segnale può essere visto fino alla zona di Trieste e ancora oggi costituisce un importante aiuto alla navigazione, soprattutto di notte, con la nebbia o in presenza di venti impegnativi come la bora.\r\n\r\nOltre alla sua importanza tecnica, il faro racconta anche un’epoca in cui rotte marittime sicure erano essenziali per il commercio e lo sviluppo della regione. La sua costruzione fu finanziata dalla Borsa di Trieste per rendere più sicuro l’accesso a quello che allora era uno dei porti più importanti dell’area.\r\n\r\nOggi il faro di Salvore unisce in modo unico storia marittima, innovazione tecnica e l’atmosfera speciale della costa istriana: un luogo dove navigazione, natura e storia si incontrano ancora in modo autentico."
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
     "lng": 13.5984581,
     "name_it": "Parco Naturale delle Saline di Sicciole",
     "description_it": "Saline in attività da circa 700 anni, in un parco che ospita aironi, artemie e piante rare."
-  },
-  {
-    "id": 2896,
-    "wind2horizon_id": null,
-    "lat": 45.4900956,
-    "lng": 13.4910909,
-    "name_it": "Faro di Salvore",
-    "description_it": null
   },
   {
     "id": 2913,
