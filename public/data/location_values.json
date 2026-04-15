@@ -7201,6 +7201,44 @@
     "locked": false
   },
   {
+    "id": 64500,
+    "location_id": 2896,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": true,
+        "S": true,
+        "W": true,
+        "NO": false,
+        "NW": true,
+        "SO": true,
+        "SW": true
+      },
+      "swell": {
+        "N": false,
+        "O": true,
+        "S": true,
+        "W": true,
+        "NO": false,
+        "NW": true,
+        "SO": true,
+        "SW": true
+      },
+      "wind_relevant": true
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5131,
     "location_id": 95,
     "attribute_id": 26,
@@ -9015,6 +9053,23 @@
     "locked": false
   },
   {
+    "id": 64501,
+    "location_id": 2896,
+    "attribute_id": 107,
+    "value_text": "13105",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-04-14T05:11:55.248+00:00",
+    "name": null,
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5243,
     "location_id": 99,
     "attribute_id": 7,
@@ -9670,6 +9725,34 @@
           "day": 6,
           "time": "1200"
         }
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64503,
+    "location_id": 2896,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2026-04-14T05:11:56.286+00:00",
+    "name": null,
+    "value_json": [
+      "⚠️🌊 Küstenbereich mit spürbaren Wasserstandsschwankungen. Bei Bora und Scirocco können sich Pegel und Bedingungen rasch ändern. Aufmerksamkeit bei Ein- und Ausfahrten sowie in flachen Bereichen empfohlen.",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-14T05:10:15.485Z"
       },
       {
         "ai": false
@@ -10861,6 +10944,34 @@
     "locked": false
   },
   {
+    "id": 64504,
+    "location_id": 2896,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-04-14T05:11:56.726+00:00",
+    "name": null,
+    "value_json": [
+      "⚠️🌊 Coastal area with more pronounced water level variations. During bora and sirocco conditions, sea level and conditions can change rapidly. Extra caution is recommended when entering or leaving harbours, as well as in shallow areas.",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-14T05:10:51.136Z"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 52839,
     "location_id": 2049,
     "attribute_id": 28,
@@ -11094,6 +11205,34 @@
         ],
         "long_name": "5600",
         "short_name": "5600"
+      },
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64505,
+    "location_id": 2896,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-04-14T05:11:57.198+00:00",
+    "name": null,
+    "value_json": [
+      "⚠️🌊 Area costiera con variazioni del livello del mare più marcate. Durante bora e scirocco, condizioni e livelli possono cambiare rapidamente. Si raccomanda particolare attenzione nelle manovre di entrata e uscita, così come nelle zone poco profonde",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-14T05:11:16.036Z"
       },
       {
         "ai": false
@@ -12273,6 +12412,34 @@
         "ai": false,
         "by": "w2h-admin",
         "ts": "2026-02-25T08:38:55.134Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64506,
+    "location_id": 2896,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2026-04-14T05:11:57.79+00:00",
+    "name": null,
+    "value_json": [
+      "⚠️🌊 Zone côtière avec des variations du niveau de la mer plus marquées. Avec la bora et le sirocco, les conditions peuvent évoluer rapidement. Une attention particulière est recommandée lors des entrées et sorties de ports ainsi que dans les zones peu profondes.",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-14T05:11:37.008Z"
+      },
+      {
+        "ai": false
       },
       {
         "ai": false
@@ -14558,6 +14725,34 @@
       "Friday: Open 24 hours",
       "Saturday: Open 24 hours",
       "Sunday: Open 24 hours",
+      {
+        "ai": false
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64507,
+    "location_id": 2896,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-04-14T05:11:58.153+00:00",
+    "name": null,
+    "value_json": [
+      "⚠️🌊 Obalno područje s izraženijim promjenama razine mora. Tijekom bure i juga uvjeti i razina mora mogu se brzo mijenjati. Preporučuje se poseban oprez pri uplovljavanju i isplovljavanju te u plićim područjima.",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-14T05:11:52.236Z"
+      },
       {
         "ai": false
       },
@@ -20756,121 +20951,6 @@
         "ai": false
       }
     ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 18267,
-    "location_id": 517,
-    "attribute_id": 5,
-    "value_text": "Obala Maršala Tita 11B, 52440, Vrsar, Croatia",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:18:39.646+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 56899,
-    "location_id": 665,
-    "attribute_id": 107,
-    "value_text": "16108",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": null,
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 21168,
-    "location_id": 630,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": true,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:19:59.202+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63747,
-    "location_id": 3149,
-    "attribute_id": 28,
-    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "it",
-    "updated_at": "2025-11-21T05:35:19.871+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63748,
-    "location_id": 3149,
-    "attribute_id": 28,
-    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "fr",
-    "updated_at": "2025-11-21T05:35:20.377+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63749,
-    "location_id": 3149,
-    "attribute_id": 28,
-    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "hr",
-    "updated_at": "2025-11-21T05:35:21.769+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63750,
-    "location_id": 3149,
-    "attribute_id": 25,
-    "value_text": "https://maps.google.com/?cid=2610114711364209058",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "de",
-    "updated_at": "2025-11-21T05:35:22.518+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
     "source_tag": "google",
     "locked": false
   }
