@@ -16,14 +16,6 @@
     "description_fr": "Cascade qui tombe depuis une avancée rocheuse dans un vaste bassin prisé pour la baignade et les pique-niques."
   },
   {
-    "id": 2896,
-    "wind2horizon_id": null,
-    "lat": 45.4900956,
-    "lng": 13.4910909,
-    "name_fr": "Phare de Savudrija",
-    "description_fr": "Le phare de Savudrija est le plus ancien phare encore en activité de l’Adriatique et, depuis 1818, il constitue un repère essentiel pour la navigation dans le nord de l’Adriatique. Il se dresse sur le cap Lako, près de Bašanija, et marque l’entrée du golfe de Trieste, l’une des routes nautiques les plus importantes de la région.\n\nLa tour a été construite sur ordre de l’empereur François Ier, d’après les plans de l’architecte Pietro Nobile. Les travaux ont duré moins d’un an et, pour la première fois dans cette région, on a utilisé pour son éclairage du gaz produit à partir du charbon. Le phare a ensuite été équipé de lentilles de Fresnel en 1870, puis électrifié en 1938.\n\nAvec une hauteur de 36 mètres et 151 marches, le phare offre une portée lumineuse d’environ 18 milles nautiques (soit près de 29 kilomètres). Par temps clair, son signal est visible jusque dans la région de Trieste et il reste aujourd’hui une aide précieuse à la navigation, en particulier de nuit, dans le brouillard ou lors de conditions de vent exigeantes comme la bora.\n\nAu-delà de son importance technique, le phare raconte aussi l’histoire d’une époque où des routes maritimes sûres étaient essentielles pour le commerce et le développement régional. Sa construction a été financée par la Bourse de Trieste afin de sécuriser davantage l’accès à ce qui était alors un port majeur.\n\nUne inscription sur la tour résume encore aujourd’hui parfaitement sa fonction d’origine :\n« Pour guider les navigations nocturnes des marins » (1818, Empereur François Ier).\n\nAujourd’hui, le phare de Savudrija réunit de façon unique histoire maritime, innovation technique et atmosphère particulière de la côte istrienne — un lieu où navigation, nature et histoire se vivent encore de manière directe."
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -54,6 +46,14 @@
     "lng": 14.0502574,
     "name_fr": "Gologorički Dol",
     "description_fr": null
+  },
+  {
+    "id": 2896,
+    "wind2horizon_id": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_fr": "Phare de Savudrija",
+    "description_fr": "📝 Le phare de Savudrija est le plus ancien phare encore en activité de l’Adriatique et, depuis 1818, il constitue un repère essentiel pour la navigation dans le nord de l’Adriatique. Il se dresse sur le cap Lako, près de Bašanija, et marque l’entrée du golfe de Trieste, l’une des routes nautiques les plus importantes de la région.\n\nLa tour a été construite sur ordre de l’empereur François Ier, d’après les plans de l’architecte Pietro Nobile. Les travaux ont duré moins d’un an et, pour la première fois dans cette région, on a utilisé pour son éclairage du gaz produit à partir du charbon. Le phare a ensuite été équipé de lentilles de Fresnel en 1870, puis électrifié en 1938.\n\nAvec une hauteur de 36 mètres et 151 marches, le phare offre une portée lumineuse d’environ 18 milles nautiques (soit près de 29 kilomètres). Par temps clair, son signal est visible jusque dans la région de Trieste et il reste aujourd’hui une aide précieuse à la navigation, en particulier de nuit, dans le brouillard ou lors de conditions de vent exigeantes comme la bora.\n\nAu-delà de son importance technique, le phare raconte aussi l’histoire d’une époque où des routes maritimes sûres étaient essentielles pour le commerce et le développement régional. Sa construction a été financée par la Bourse de Trieste afin de sécuriser davantage l’accès à ce qui était alors un port majeur.\n\nUne inscription sur la tour résume encore aujourd’hui parfaitement sa fonction d’origine :\n« Pour guider les navigations nocturnes des marins » (1818, Empereur François Ier).\n\nAujourd’hui, le phare de Savudrija réunit de façon unique histoire maritime, innovation technique et atmosphère particulière de la côte istrienne — un lieu où navigation, nature et histoire se vivent encore de manière directe."
   },
   {
     "id": 2082,
