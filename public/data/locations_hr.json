@@ -16,14 +16,6 @@
     "description_hr": "Vodopad koji se preko kamenog svoda prelijeva u prostrani bazen popularno je mjesto za kupanje i piknik."
   },
   {
-    "id": 2896,
-    "wind2horizon_id": null,
-    "lat": 45.4900956,
-    "lng": 13.4910909,
-    "name_hr": "Svjetionik Savudrija",
-    "description_hr": "Savudrijski svjetionik najstariji je još uvijek aktivni svjetionik na Jadranu i od 1818. godine važna je orijentacijska točka za plovidbu sjevernim Jadranom. Smješten je na rtu Lako kraj Bašanije i označava ulaz u Tršćanski zaljev, jedan od najvažnijih plovnih pravaca ovoga područja.\n\nIzgrađen je po nalogu cara Franje I. prema nacrtima arhitekta Pietra Nobilea. Gradnja je trajala manje od godinu dana, a prvi put je na ovom području za osvjetljenje korišten plin dobiven iz ugljena. Kasnije je svjetionik 1870. opremljen Fresnelovim lećama, a 1938. godine elektrificiran.\n\nSa svojih 36 metara visine i 151 stepenicom, svjetionik ima domet svjetla od oko 18 nautičkih milja, odnosno približno 29 kilometara. Za vedrog vremena njegov se signal može vidjeti sve do područja Trsta, a i danas služi kao važna pomoć u navigaciji, osobito noću, za magle ili u zahtjevnim vjetrovnim uvjetima poput bure.\n\nOsim tehničke važnosti, svjetionik govori i o vremenu kada su sigurni pomorski putovi bili presudni za trgovinu i razvoj regije. Njegovu je gradnju financirala Tršćanska burza kako bi se plovidba prema tada vrlo važnoj tršćanskoj luci učinila sigurnijom.\n\nNatpis na svjetioniku i danas savršeno opisuje njegovu izvornu namjenu:\n„Za vođenje noćnih plovidbi pomoraca” (1818, car Franjo I).\n\nDanas savudrijski svjetionik na jedinstven način povezuje pomorsku povijest, tehničku inovaciju i posebnu atmosferu istarske obale — mjesto na kojem se navigacija, priroda i povijest i dalje mogu doživjeti neposredno."
-  },
-  {
     "id": 600,
     "wind2horizon_id": null,
     "lat": 44.9495486,
@@ -54,6 +46,14 @@
     "lng": 14.0502574,
     "name_hr": "Gologorički Dol",
     "description_hr": null
+  },
+  {
+    "id": 2896,
+    "wind2horizon_id": null,
+    "lat": 45.4900956,
+    "lng": 13.4910909,
+    "name_hr": "Svjetionik Savudrija",
+    "description_hr": "📝 Savudrijski svjetionik najstariji je još uvijek aktivni svjetionik na Jadranu i od 1818. godine važna je orijentacijska točka za plovidbu sjevernim Jadranom. Smješten je na rtu Lako kraj Bašanije i označava ulaz u Tršćanski zaljev, jedan od najvažnijih plovnih pravaca ovoga područja.\n\nIzgrađen je po nalogu cara Franje I. prema nacrtima arhitekta Pietra Nobilea. Gradnja je trajala manje od godinu dana, a prvi put je na ovom području za osvjetljenje korišten plin dobiven iz ugljena. Kasnije je svjetionik 1870. opremljen Fresnelovim lećama, a 1938. godine elektrificiran.\n\nSa svojih 36 metara visine i 151 stepenicom, svjetionik ima domet svjetla od oko 18 nautičkih milja, odnosno približno 29 kilometara. Za vedrog vremena njegov se signal može vidjeti sve do područja Trsta, a i danas služi kao važna pomoć u navigaciji, osobito noću, za magle ili u zahtjevnim vjetrovnim uvjetima poput bure.\n\nOsim tehničke važnosti, svjetionik govori i o vremenu kada su sigurni pomorski putovi bili presudni za trgovinu i razvoj regije. Njegovu je gradnju financirala Tršćanska burza kako bi se plovidba prema tada vrlo važnoj tršćanskoj luci učinila sigurnijom.\n\nNatpis na svjetioniku i danas savršeno opisuje njegovu izvornu namjenu:\n„Za vođenje noćnih plovidbi pomoraca” (1818, car Franjo I).\n\nDanas savudrijski svjetionik na jedinstven način povezuje pomorsku povijest, tehničku inovaciju i posebnu atmosferu istarske obale — mjesto na kojem se navigacija, priroda i povijest i dalje mogu doživjeti neposredno."
   },
   {
     "id": 2082,
