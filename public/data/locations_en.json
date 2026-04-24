@@ -32,14 +32,6 @@
     "description_en": null
   },
   {
-    "id": 3547,
-    "wind2horizon_id": null,
-    "lat": 44.75813429999999,
-    "lng": 13.8906224,
-    "name_en": "Lighthouse Porer",
-    "description_en": null
-  },
-  {
     "id": 3559,
     "wind2horizon_id": null,
     "lat": 45.2402625,
@@ -54,6 +46,14 @@
     "lng": 13.4910909,
     "name_en": "Savudrija Lighthouse",
     "description_en": "📝 The Savudrija Lighthouse is the oldest still active lighthouse in the Adriatic and has served as a key point of orientation for navigation in the northern Adriatic since 1818. It stands on Cape Lako near Bašanija and marks the entrance to the Gulf of Trieste, one of the region’s most important nautical routes.\n\nThe tower was commissioned by Emperor Francis I and built according to the plans of the architect Pietro Nobile. Construction took less than a year, and for the first time in this region gas produced from coal was used for its light. The lighthouse was later equipped with Fresnel lenses in 1870 and finally electrified in 1938.\n\nWith a height of 36 metres and 151 steps, the lighthouse has a light range of around 18 nautical miles (about 29 kilometres). In clear conditions, its signal can be seen as far as the Trieste area and still serves today as an important aid to navigation, especially at night, in fog, or during demanding wind conditions such as the bora.\n\nBeyond its technical importance, the lighthouse also tells the story of a time when safe sea routes were essential for trade and regional development. Its construction was financed by the Trieste Stock Exchange in order to make access to the once major port of Trieste safer.\n\nAn inscription on the tower still captures its original purpose perfectly to this day:\n“For guiding the nightly journeys of seafarers” (1818, Emperor Francis I).\n\nToday, the Savudrija Lighthouse uniquely combines maritime history, technical innovation, and the distinctive atmosphere of the Istrian coast — a place where navigation, nature, and history can still be experienced directly."
+  },
+  {
+    "id": 3547,
+    "wind2horizon_id": null,
+    "lat": 44.75813429999999,
+    "lng": 13.8906224,
+    "name_en": "Lighthouse Porer",
+    "description_en": null
   },
   {
     "id": 2082,
