@@ -88,6 +88,14 @@
     "description_it": null
   },
   {
+    "id": 3601,
+    "wind2horizon_id": null,
+    "lat": 45.6362375,
+    "lng": 13.0973404,
+    "name_it": "Faro di Punta Tagliamento",
+    "description_it": "Un faro bianco del 1913 situato su una spiaggia tranquilla, con torre in cemento e luce attiva.\n\nIl faro si trova vicino a Bibione / San Michele al Tagliamento, all'imboccatura del fiume Tagliamento. È accessibile a piedi o in bicicletta ed è stato originariamente costruito nel 1913; l'attuale faro è automatizzato ed è assegnato alla Marina Militare."
+  },
+  {
     "id": 2529,
     "wind2horizon_id": null,
     "lat": 45.5049004,
