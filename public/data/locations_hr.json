@@ -88,6 +88,14 @@
     "description_hr": null
   },
   {
+    "id": 3601,
+    "wind2horizon_id": null,
+    "lat": 45.6362375,
+    "lng": 13.0973404,
+    "name_hr": "Punta Tagliamento Lighthouse Bibione",
+    "description_hr": "Bijeli svjetionik iz 1913. godine smješten na mirnoj plaži, s betonskim tornjem i aktivnim svjetlom.\n\nSvjetionik se nalazi blizu Bibione / San Michele al Tagliamento, na ušću rijeke Tagliamento. Dostupan je pješice ili biciklom, a izvorno je izgrađen 1913. godine; današnji svjetionik je automatiziran i pripada Marini Militare."
+  },
+  {
     "id": 2529,
     "wind2horizon_id": null,
     "lat": 45.5049004,
