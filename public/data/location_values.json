@@ -14983,6 +14983,23 @@
     "locked": false
   },
   {
+    "id": 64520,
+    "location_id": 3601,
+    "attribute_id": 107,
+    "value_text": "16107",
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-04-26T10:49:44.789+00:00",
+    "name": "Pontelagoscuro / Stiago",
+    "value_json": {
+      "ai": false
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 27042,
     "location_id": 899,
     "attribute_id": 22,
@@ -14994,6 +15011,31 @@
     "updated_at": "2025-11-19T19:20:50.41+00:00",
     "name": null,
     "value_json": null,
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64523,
+    "location_id": 3601,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "it",
+    "updated_at": "2026-04-26T10:49:46.437+00:00",
+    "name": null,
+    "value_json": [
+      "Attenzione: Possono verificarsi onde incrociate con onde e correnti fluviali",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-04-26T10:49:29.115Z"
+      },
+      {
+        "ai": false
+      }
+    ],
     "source_tag": "google",
     "locked": false
   },
@@ -15872,6 +15914,56 @@
     "locked": false
   },
   {
+    "id": 64521,
+    "location_id": 3601,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "de",
+    "updated_at": "2026-04-26T10:49:45.38+00:00",
+    "name": null,
+    "value_json": [
+      "Achtung bei Welle und Flussströmung Kreuzsee möglich ",
+      {
+        "ai": false,
+        "by": "w2h-admin",
+        "ts": "2026-04-26T10:49:15.121Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64524,
+    "location_id": 3601,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "fr",
+    "updated_at": "2026-04-26T10:49:46.825+00:00",
+    "name": null,
+    "value_json": [
+      "Attention : Des vagues croisées peuvent se produire avec des vagues et des courants de rivière",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-04-26T10:49:29.115Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 5058,
     "location_id": 91,
     "attribute_id": 8,
@@ -16131,6 +16223,31 @@
     "locked": false
   },
   {
+    "id": 64522,
+    "location_id": 3601,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "en",
+    "updated_at": "2026-04-26T10:49:46.038+00:00",
+    "name": null,
+    "value_json": [
+      "Caution: Cross seas may occur with waves and river currents",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-04-26T10:49:29.115Z"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 22580,
     "location_id": 665,
     "attribute_id": 4,
@@ -16298,6 +16415,31 @@
         ],
         "long_name": "21204",
         "short_name": "21204"
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64525,
+    "location_id": 3601,
+    "attribute_id": 105,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "hr",
+    "updated_at": "2026-04-26T10:49:47.196+00:00",
+    "name": null,
+    "value_json": [
+      "Pažnja: Moguće su križne valove s valovima i rijekama",
+      {
+        "ai": true,
+        "by": "w2h-ai",
+        "ts": "2026-04-26T10:49:29.115Z"
       },
       {
         "ai": false
@@ -17074,6 +17216,44 @@
         "NO": false,
         "NW": false,
         "SO": false,
+        "SW": true
+      },
+      "wind_relevant": true
+    },
+    "source_tag": "google",
+    "locked": false
+  },
+  {
+    "id": 64526,
+    "location_id": 3601,
+    "attribute_id": 102,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": null,
+    "name": null,
+    "value_json": {
+      "ai": false,
+      "wind": {
+        "N": false,
+        "O": true,
+        "S": true,
+        "W": false,
+        "NO": true,
+        "NW": false,
+        "SO": true,
+        "SW": true
+      },
+      "swell": {
+        "N": false,
+        "O": true,
+        "S": true,
+        "W": false,
+        "NO": true,
+        "NW": true,
+        "SO": true,
         "SW": true
       },
       "wind_relevant": true
@@ -20753,204 +20933,6 @@
     "updated_at": "2025-11-19T19:10:00.303+00:00",
     "name": null,
     "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20549,
-    "location_id": 88,
-    "attribute_id": 5,
-    "value_text": "Wollzeile 38, 1010 Wien, Austria",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:18.028+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 63746,
-    "location_id": 3149,
-    "attribute_id": 28,
-    "value_text": "Ul. Matice Hrvatske 10, Dugopolje",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "en",
-    "updated_at": "2025-11-21T05:35:19.048+00:00",
-    "name": null,
-    "value_json": {
-      "ai": false
-    },
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20514,
-    "location_id": 88,
-    "attribute_id": 10,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 48.2061999197085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:09:59.13+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20515,
-    "location_id": 88,
-    "attribute_id": 11,
-    "value_text": null,
-    "value_bool": null,
-    "value_number": 16.3774824697085,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:09:59.324+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20521,
-    "location_id": 88,
-    "attribute_id": 15,
-    "value_text": "[{\"close\":{\"day\":0,\"time\":\"2330\"},\"open\":{\"day\":0,\"time\":\"1130\"}},{\"close\":{\"day\":1,\"time\":\"2330\"},\"open\":{\"day\":1,\"time\":\"1130\"}},{\"close\":{\"day\":2,\"time\":\"2330\"},\"open\":{\"day\":2,\"time\":\"1130\"}},{\"close\":{\"day\":3,\"time\":\"2330\"},\"open\":{\"day\":3,\"time\":\"1130\"}},{\"close\":{\"day\":4,\"time\":\"2330\"},\"open\":{\"day\":4,\"time\":\"1130\"}},{\"close\":{\"day\":5,\"time\":\"2330\"},\"open\":{\"day\":5,\"time\":\"1130\"}},{\"close\":{\"day\":6,\"time\":\"2330\"},\"open\":{\"day\":6,\"time\":\"1130\"}}]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:00.49+00:00",
-    "name": null,
-    "value_json": [
-      {
-        "open": {
-          "day": 0,
-          "time": "1130"
-        },
-        "close": {
-          "day": 0,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 1,
-          "time": "1130"
-        },
-        "close": {
-          "day": 1,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 2,
-          "time": "1130"
-        },
-        "close": {
-          "day": 2,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 3,
-          "time": "1130"
-        },
-        "close": {
-          "day": 3,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 4,
-          "time": "1130"
-        },
-        "close": {
-          "day": 4,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 5,
-          "time": "1130"
-        },
-        "close": {
-          "day": 5,
-          "time": "2330"
-        }
-      },
-      {
-        "open": {
-          "day": 6,
-          "time": "1130"
-        },
-        "close": {
-          "day": 6,
-          "time": "2330"
-        }
-      },
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20550,
-    "location_id": 88,
-    "attribute_id": 29,
-    "value_text": "https://www.plachutta.at/de/wollzeile.html",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:18.225+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 5192,
-    "location_id": 98,
-    "attribute_id": 16,
-    "value_text": "[\"Monday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM\",\"Tuesday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM\",\"Wednesday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM\",\"Thursday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM\",\"Friday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM\",\"Saturday: 8:30 AM – 12:00 PM\",\"Sunday: Closed\"]",
-    "value_bool": null,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:14:37.69+00:00",
-    "name": null,
-    "value_json": [
-      "Monday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM",
-      "Tuesday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM",
-      "Wednesday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM",
-      "Thursday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM",
-      "Friday: 8:30 AM – 12:30 PM, 2:00 – 6:00 PM",
-      "Saturday: 8:30 AM – 12:00 PM",
-      "Sunday: Closed",
-      {
-        "ai": false
-      },
-      {
-        "ai": false
-      }
-    ],
     "source_tag": "google",
     "locked": false
   }
