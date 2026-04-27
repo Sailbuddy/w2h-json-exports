@@ -88,6 +88,14 @@
     "description_en": null
   },
   {
+    "id": 3601,
+    "wind2horizon_id": null,
+    "lat": 45.6362375,
+    "lng": 13.0973404,
+    "name_en": "Punta Tagliamento Lighthouse Bibione",
+    "description_en": "A white lighthouse from 1913 located on a quiet beach, featuring a concrete tower and an active light.\n\nThe lighthouse is situated near Bibione / San Michele al Tagliamento, at the mouth of the Tagliamento River. It is accessible by foot or by bicycle and was originally built in 1913; the current lighthouse is automated and is assigned to the Marina Militare."
+  },
+  {
     "id": 2529,
     "wind2horizon_id": null,
     "lat": 45.5049004,
