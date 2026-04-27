@@ -88,6 +88,14 @@
     "description_fr": null
   },
   {
+    "id": 3601,
+    "wind2horizon_id": null,
+    "lat": 45.6362375,
+    "lng": 13.0973404,
+    "name_fr": "Phare de Punta Tagliamento",
+    "description_fr": "Un phare blanc de 1913 situé sur une plage tranquille, avec une tour en béton et un feu actif.\n\nLe phare se trouve près de Bibione / San Michele al Tagliamento, à l'embouchure du Tagliamento. Il est accessible à pied ou à vélo et a été construit à l'origine en 1913 ; le phare actuel est automatisé et est rattaché à la Marina Militare."
+  },
+  {
     "id": 2529,
     "wind2horizon_id": null,
     "lat": 45.5049004,
