@@ -200,6 +200,14 @@
     "description_hr": null
   },
   {
+    "id": 3602,
+    "wind2horizon_id": null,
+    "lat": 44.1521295,
+    "lng": 14.8206536,
+    "name_hr": "Svjetionik Veli Rat",
+    "description_hr": "Svjetionik Veli Rat nalazi se na sjeverozapadnom rtu Dugog otoka, u blizini mjesta Veli Rat. Izgrađen je 1849. godine i visok je oko 42 metra, što ga čini jednim od najupečatljivijih svjetionika na Jadranu. Za nautičare je važna vizualna orijentacijska točka na rutama između otvorenog Jadrana, zadarskog arhipelaga i sjeverne Dalmacije."
+  },
+  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -240,6 +248,14 @@
     "description_hr": "Znameniti muzej glazbe sa suvenirima pop-kulture, izlošcima, instrumentima i džuboksom."
   },
   {
+    "id": 3611,
+    "wind2horizon_id": null,
+    "lat": 42.6516088,
+    "lng": 18.0479411,
+    "name_hr": "Svjetionik Grebeni",
+    "description_hr": "Svjetionik na hridima Grebeni zapadno od Dubrovnika. Označava zapadno prilazno područje Dubrovniku i važan je za plovidbu ispred obale Lapada."
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -270,6 +286,22 @@
     "lng": 14.5294127,
     "name_hr": "Plava špilja",
     "description_hr": null
+  },
+  {
+    "id": 3608,
+    "wind2horizon_id": null,
+    "lat": 43.064569,
+    "lng": 16.2418672,
+    "name_hr": "Svjetionik Stončica",
+    "description_hr": "Svjetionik na sjeveroistočnom rtu otoka Visa. Vrlo je važan orijentir za prilaz Visu i za rute između otvorenog Jadrana, splitskog područja i južne Dalmacije."
+  },
+  {
+    "id": 3612,
+    "wind2horizon_id": null,
+    "lat": 42.3927778,
+    "lng": 18.5330556,
+    "name_hr": "Svjetlo Rt Oštra / Punta Oštro",
+    "description_hr": "Navigacijska točka na najjužnijem kopnenom dijelu Hrvatske, na poluotoku Prevlaka, na ulazu u Bokokotorski zaljev. Strateški i nautički važno područje prilaza."
   },
   {
     "id": 3394,
@@ -312,6 +344,22 @@
     "description_hr": "Lijepo polje bova kojim upravlja Lučka uprava Rovinj.\n\nRezervacije samo putem e-maila.\nVHF kanal 10"
   },
   {
+    "id": 3605,
+    "wind2horizon_id": null,
+    "lat": 43.8264697,
+    "lng": 15.5602607,
+    "name_hr": "Svjetionik Prišnjak",
+    "description_hr": "Svjetionik na otočiću Prišnjak u Murterskom moru. Označava važno područje prilaza i orijentacije zapadno i južno od Murterskog arhipelaga."
+  },
+  {
+    "id": 3613,
+    "wind2horizon_id": null,
+    "lat": 44.52729069999999,
+    "lng": 14.4772802,
+    "name_hr": "Agrotourism - The Lošinj Aromatic Garden",
+    "description_hr": null
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -352,6 +400,14 @@
     "description_hr": null
   },
   {
+    "id": 3614,
+    "wind2horizon_id": null,
+    "lat": 44.885964,
+    "lng": 14.3216047,
+    "name_hr": "Plaža Sveti Ivan / Lubenice",
+    "description_hr": "Spektakularna plaža ispod Lubenica na Cresu. Prekrasna prirodna i orijentacijska točka, ali nije svjetionik."
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -382,6 +438,14 @@
     "lng": 13.62412102149439,
     "name_hr": "Sveti Andrija Gata s vezovima",
     "description_hr": "Mali mol s veznim mjestima, struja i voda. Upravlja lučka uprava Rovinj.\nSamo su 2 najudaljenija mjesta za jedrilice (zbog dubine vode).\nRezervacija samo putem e-maila. VHF kanal 17"
+  },
+  {
+    "id": 3607,
+    "wind2horizon_id": null,
+    "lat": 43.1686,
+    "lng": 16.4433635,
+    "name_hr": "Svjetionik Pločica",
+    "description_hr": "Svjetionik na otočiću Pločica između Hvara, Korčule i područja Pelješca. Važna je oznaka prolaza u Korčulanskom kanalu i na rutama između srednje i južne Dalmacije."
   },
   {
     "id": 3452,
@@ -416,6 +480,14 @@
     "description_hr": null
   },
   {
+    "id": 3604,
+    "wind2horizon_id": null,
+    "lat": 43.853145,
+    "lng": 15.2054305,
+    "name_hr": "Svjetionik Sestrica Vela - Tajer",
+    "description_hr": "Prepoznatljiv svjetionik na otočiću Sestrica Vela na sjeveroistočnom rubu Kornata. Važan je orijentir za plovidbu između Dugog otoka, Telašćice i Kornatskog arhipelaga."
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -438,6 +510,22 @@
     "lng": 13.62605419103072,
     "name_hr": null,
     "description_hr": null
+  },
+  {
+    "id": 3606,
+    "wind2horizon_id": null,
+    "lat": 43.8533801,
+    "lng": 15.2048706,
+    "name_hr": "Duplikat: Svjetionik Sestrica Vela - Tajer",
+    "description_hr": "Prepoznatljiv svjetionik na otočiću Sestrica Vela na sjeveroistočnom rubu Kornata. Važan je orijentir za plovidbu između Dugog otoka, Telašćice i Kornatskog arhipelaga."
+  },
+  {
+    "id": 3609,
+    "wind2horizon_id": null,
+    "lat": 42.7686111,
+    "lng": 16.5147222,
+    "name_hr": "Svjetionik Sušac",
+    "description_hr": "Pučinski svjetionik na udaljenom otoku Sušcu jugozapadno od Korčule i Lastova. Važna je orijentacijska točka za dulje plovidbe otvorenim morem."
   },
   {
     "id": 2533,
@@ -494,6 +582,14 @@
     "lng": 13.8493735,
     "name_hr": "Ina Vodnjan",
     "description_hr": null
+  },
+  {
+    "id": 3603,
+    "wind2horizon_id": null,
+    "lat": 45.6756647,
+    "lng": 13.7569378,
+    "name_hr": "Svjetionik Faro della Vittoria",
+    "description_hr": "Monumentalni svjetionik iznad Trsta na brežuljku Gretta. Služi kao navigacijska oznaka, spomenik i vidljiva orijentacijska točka za prilaz Tršćanskom zaljevu."
   },
   {
     "id": 865,
@@ -566,6 +662,14 @@
     "lng": 13.6237276,
     "name_hr": "Otočić Sveti Andrija",
     "description_hr": "Jadranski otočić s hotelom, plažom i centrom za vodene sportove."
+  },
+  {
+    "id": 3610,
+    "wind2horizon_id": null,
+    "lat": 42.3926813,
+    "lng": 16.2558003,
+    "name_hr": "Svjetionik Palagruža",
+    "description_hr": "Jedan od najprepoznatljivijih pučinskih svjetionika na Jadranu, daleko između hrvatske i talijanske obale. Palagruža je iznimno vrijedan marker za navigaciju, vrijeme i krajolik."
   },
   {
     "id": 3156,
