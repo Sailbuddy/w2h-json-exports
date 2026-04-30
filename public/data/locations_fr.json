@@ -200,6 +200,14 @@
     "description_fr": null
   },
   {
+    "id": 3602,
+    "wind2horizon_id": null,
+    "lat": 44.1521295,
+    "lng": 14.8206536,
+    "name_fr": "Phare de Veli Rat",
+    "description_fr": "Le phare de Veli Rat se trouve à la pointe nord-ouest de Dugi Otok, près du village de Veli Rat. Construit en 1849 et haut d’environ 42 mètres, il est l’un des phares les plus remarquables de l’Adriatique. Pour les navigateurs, il constitue un repère visuel important sur les routes entre l’Adriatique ouverte, l’archipel de Zadar et la Dalmatie du Nord."
+  },
+  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -240,6 +248,14 @@
     "description_fr": "Célèbre musée centré sur la musique, avec expositions sur la culture pop, objets, instruments et jukebox."
   },
   {
+    "id": 3611,
+    "wind2horizon_id": null,
+    "lat": 42.6516088,
+    "lng": 18.0479411,
+    "name_fr": "Phare de Grebeni",
+    "description_fr": "Phare sur les rochers de Grebeni à l’ouest de Dubrovnik. Il marque la zone occidentale d’approche de Dubrovnik et est utile pour la navigation au large de Lapad."
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -270,6 +286,22 @@
     "lng": 14.5294127,
     "name_fr": "Love Cave",
     "description_fr": null
+  },
+  {
+    "id": 3608,
+    "wind2horizon_id": null,
+    "lat": 43.064569,
+    "lng": 16.2418672,
+    "name_fr": "Phare de Stončica",
+    "description_fr": "Phare sur le cap nord-est de l’île de Vis. C’est un repère très important pour l’approche de Vis et pour les routes entre l’Adriatique ouverte, la région de Split et la Dalmatie méridionale."
+  },
+  {
+    "id": 3612,
+    "wind2horizon_id": null,
+    "lat": 42.3927778,
+    "lng": 18.5330556,
+    "name_fr": "Feu de Rt Oštra / Punta Oštro",
+    "description_fr": "Point de navigation à l’extrémité continentale sud de la Croatie, sur la péninsule de Prevlaka, à l’entrée des Bouches de Kotor. Zone d’approche stratégique et nautique importante."
   },
   {
     "id": 3394,
@@ -312,6 +344,22 @@
     "description_fr": "Beau champ de bouées géré par l'Autorité portuaire de Rovinj.\n\nRéservations uniquement par e-mail.\nCanal VHF 10"
   },
   {
+    "id": 3605,
+    "wind2horizon_id": null,
+    "lat": 43.8264697,
+    "lng": 15.5602607,
+    "name_fr": "Phare de Prišnjak",
+    "description_fr": "Phare sur le petit îlot de Prišnjak dans la mer de Murter. Il marque une zone importante d’approche et d’orientation à l’ouest et au sud de l’archipel de Murter."
+  },
+  {
+    "id": 3613,
+    "wind2horizon_id": null,
+    "lat": 44.52729069999999,
+    "lng": 14.4772802,
+    "name_fr": "Agrotourism - The Lošinj Aromatic Garden",
+    "description_fr": null
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -352,6 +400,14 @@
     "description_fr": null
   },
   {
+    "id": 3614,
+    "wind2horizon_id": null,
+    "lat": 44.885964,
+    "lng": 14.3216047,
+    "name_fr": "Plage Sveti Ivan / Lubenice",
+    "description_fr": "Plage spectaculaire sous Lubenice sur l’île de Cres. Très beau point naturel et paysager, mais ce n’est pas un phare."
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -382,6 +438,14 @@
     "lng": 13.62412102149439,
     "name_fr": "Quai Sveti Andrija avec des places de mouillage",
     "description_fr": "Petit quai avec des places de mouillage, électricité et eau. Géré par l'autorité portuaire de Rovinj.\nSeules les 2 places les plus extérieures sont réservées aux voiliers (en raison de la profondeur de l'eau).\nRéservation uniquement par email. Canal VHF 17"
+  },
+  {
+    "id": 3607,
+    "wind2horizon_id": null,
+    "lat": 43.1686,
+    "lng": 16.4433635,
+    "name_fr": "Phare de Pločica",
+    "description_fr": "Phare sur l’île de Pločica entre Hvar, Korčula et la région de Pelješac. C’est un repère important dans le canal de Korčula et sur les routes entre la Dalmatie centrale et méridionale."
   },
   {
     "id": 3452,
@@ -416,6 +480,14 @@
     "description_fr": null
   },
   {
+    "id": 3604,
+    "wind2horizon_id": null,
+    "lat": 43.853145,
+    "lng": 15.2054305,
+    "name_fr": "Phare de Sestrica Vela - Tajer",
+    "description_fr": "Phare caractéristique sur l’îlot de Sestrica Vela, au nord-est des Kornati. C’est un repère important pour les passages entre Dugi Otok, Telašćica et l’archipel des Kornati."
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -438,6 +510,22 @@
     "lng": 13.62605419103072,
     "name_fr": null,
     "description_fr": null
+  },
+  {
+    "id": 3606,
+    "wind2horizon_id": null,
+    "lat": 43.8533801,
+    "lng": 15.2048706,
+    "name_fr": "Doublon : Phare de Sestrica Vela - Tajer",
+    "description_fr": "Phare caractéristique sur l’îlot de Sestrica Vela, au nord-est des Kornati. C’est un repère important pour les passages entre Dugi Otok, Telašćica et l’archipel des Kornati."
+  },
+  {
+    "id": 3609,
+    "wind2horizon_id": null,
+    "lat": 42.7686111,
+    "lng": 16.5147222,
+    "name_fr": "Phare de Sušac",
+    "description_fr": "Phare hauturier sur l’île isolée de Sušac, au sud-ouest de Korčula et de Lastovo. C’est un repère important pour les longues traversées en mer ouverte."
   },
   {
     "id": 2533,
@@ -494,6 +582,14 @@
     "lng": 13.8493735,
     "name_fr": "Pompe à essence Ina",
     "description_fr": null
+  },
+  {
+    "id": 3603,
+    "wind2horizon_id": null,
+    "lat": 45.6756647,
+    "lng": 13.7569378,
+    "name_fr": "Phare de la Victoire de Trieste",
+    "description_fr": "Phare monumental au-dessus de Trieste, sur la colline de Gretta. Il sert à la fois d’aide à la navigation, de monument et de repère visible pour l’approche du golfe de Trieste."
   },
   {
     "id": 865,
@@ -566,6 +662,14 @@
     "lng": 13.6237276,
     "name_fr": "Sveti Andrija",
     "description_fr": "Petite île en Adriatique avec hôtel, plage et centre de sports nautiques."
+  },
+  {
+    "id": 3610,
+    "wind2horizon_id": null,
+    "lat": 42.3926813,
+    "lng": 16.2558003,
+    "name_fr": "Phare de Palagruža",
+    "description_fr": "L’un des phares hauturiers les plus emblématiques de l’Adriatique, loin entre les côtes croate et italienne. Palagruža est un repère exceptionnel pour la navigation, la météo et le paysage."
   },
   {
     "id": 3156,
