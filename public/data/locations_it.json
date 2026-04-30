@@ -200,6 +200,14 @@
     "description_it": null
   },
   {
+    "id": 3602,
+    "wind2horizon_id": null,
+    "lat": 44.1521295,
+    "lng": 14.8206536,
+    "name_it": "Faro di Veli Rat",
+    "description_it": "Il Faro di Veli Rat si trova sulla punta nord-occidentale di Dugi Otok, vicino al paese di Veli Rat. Costruito nel 1849 e alto circa 42 metri, è uno dei fari più caratteristici dell’Adriatico. Per i velisti è un importante punto di riferimento visivo lungo le rotte tra l’Adriatico aperto, l’arcipelago di Zara e la Dalmazia settentrionale."
+  },
+  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -240,6 +248,14 @@
     "description_it": "Museo emblematico sulla musica con cimeli, artefatti e strumenti della cultura pop e un jukebox."
   },
   {
+    "id": 3611,
+    "wind2horizon_id": null,
+    "lat": 42.6516088,
+    "lng": 18.0479411,
+    "name_it": "Faro di Grebeni",
+    "description_it": "Faro sugli scogli Grebeni a ovest di Dubrovnik. Segna l’area occidentale di avvicinamento a Dubrovnik ed è rilevante per la navigazione davanti alla costa di Lapad."
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -270,6 +286,22 @@
     "lng": 14.5294127,
     "name_it": "Love Cave",
     "description_it": null
+  },
+  {
+    "id": 3608,
+    "wind2horizon_id": null,
+    "lat": 43.064569,
+    "lng": 16.2418672,
+    "name_it": "Faro di Stončica",
+    "description_it": "Faro sul capo nord-orientale dell’isola di Vis. È un riferimento molto importante per l’avvicinamento a Vis e per le rotte tra l’Adriatico aperto, l’area di Spalato e la Dalmazia meridionale."
+  },
+  {
+    "id": 3612,
+    "wind2horizon_id": null,
+    "lat": 42.3927778,
+    "lng": 18.5330556,
+    "name_it": "Fanale di Punta Oštro",
+    "description_it": "Punto di navigazione nella zona continentale più meridionale della Croazia, sulla penisola di Prevlaka, all’ingresso delle Bocche di Cattaro. Area strategica e nautica importante."
   },
   {
     "id": 3394,
@@ -312,6 +344,22 @@
     "description_it": "Bel campo di boe gestito dall'Autorità portuale di Rovinj.\n\nPrenotazioni solo via email.\nCanale VHF 10"
   },
   {
+    "id": 3605,
+    "wind2horizon_id": null,
+    "lat": 43.8264697,
+    "lng": 15.5602607,
+    "name_it": "Faro di Prišnjak",
+    "description_it": "Faro sull’isolotto di Prišnjak nel mare di Murter. Segna un’importante zona di avvicinamento e orientamento a ovest e a sud dell’arcipelago di Murter."
+  },
+  {
+    "id": 3613,
+    "wind2horizon_id": null,
+    "lat": 44.52729069999999,
+    "lng": 14.4772802,
+    "name_it": "Agrotourism - The Lošinj Aromatic Garden",
+    "description_it": null
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -352,6 +400,14 @@
     "description_it": null
   },
   {
+    "id": 3614,
+    "wind2horizon_id": null,
+    "lat": 44.885964,
+    "lng": 14.3216047,
+    "name_it": "Spiaggia Sveti Ivan / Lubenice",
+    "description_it": "Spiaggia spettacolare sotto Lubenice sull’isola di Cres. Bellissimo punto naturale e paesaggistico, ma non è un faro."
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -382,6 +438,14 @@
     "lng": 13.62412102149439,
     "name_it": "Molo Sveti Andrija con posti barca",
     "description_it": "Piccolo molo con posti barca, elettricità e acqua. Gestito dall'autorità portuale di Rovinj.\nSolo i 2 posti più esterni sono per yacht a vela (a causa della profondità dell'acqua).\nPrenotazione solo via email. Canale VHF 17"
+  },
+  {
+    "id": 3607,
+    "wind2horizon_id": null,
+    "lat": 43.1686,
+    "lng": 16.4433635,
+    "name_it": "Faro di Pločica",
+    "description_it": "Faro sull’isola di Pločica tra Hvar, Korčula e la zona di Pelješac. È un importante punto di passaggio nel canale di Korčula e sulle rotte tra la Dalmazia centrale e meridionale."
   },
   {
     "id": 3452,
@@ -416,6 +480,14 @@
     "description_it": null
   },
   {
+    "id": 3604,
+    "wind2horizon_id": null,
+    "lat": 43.853145,
+    "lng": 15.2054305,
+    "name_it": "Faro di Sestrica Vela - Tajer",
+    "description_it": "Faro caratteristico sull’isola di Sestrica Vela, al margine nord-orientale delle Kornati. È un importante riferimento per le rotte tra Dugi Otok, Telašćica e l’arcipelago delle Kornati."
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -438,6 +510,22 @@
     "lng": 13.62605419103072,
     "name_it": null,
     "description_it": null
+  },
+  {
+    "id": 3606,
+    "wind2horizon_id": null,
+    "lat": 43.8533801,
+    "lng": 15.2048706,
+    "name_it": "Duplicato: Faro di Sestrica Vela - Tajer",
+    "description_it": "Faro caratteristico sull’isola di Sestrica Vela, al margine nord-orientale delle Kornati. È un importante riferimento per le rotte tra Dugi Otok, Telašćica e l’arcipelago delle Kornati."
+  },
+  {
+    "id": 3609,
+    "wind2horizon_id": null,
+    "lat": 42.7686111,
+    "lng": 16.5147222,
+    "name_it": "Faro di Sušac",
+    "description_it": "Faro d’altura sull’isola remota di Sušac, a sud-ovest di Korčula e Lastovo. È un riferimento importante per traversate più lunghe in mare aperto."
   },
   {
     "id": 2533,
@@ -494,6 +582,14 @@
     "lng": 13.8493735,
     "name_it": "INA",
     "description_it": null
+  },
+  {
+    "id": 3603,
+    "wind2horizon_id": null,
+    "lat": 45.6756647,
+    "lng": 13.7569378,
+    "name_it": "Faro della Vittoria",
+    "description_it": "Faro monumentale sopra Trieste, sul colle di Gretta. È al tempo stesso segnale marittimo, monumento e punto di riferimento visibile per l’accesso al Golfo di Trieste."
   },
   {
     "id": 865,
@@ -566,6 +662,14 @@
     "lng": 13.6237276,
     "name_it": "Sveti Andrija",
     "description_it": "Isolotto nel Mar Adriatico con hotel, spiaggia e centro per sport acquatici."
+  },
+  {
+    "id": 3610,
+    "wind2horizon_id": null,
+    "lat": 42.3926813,
+    "lng": 16.2558003,
+    "name_it": "Faro di Palagruža",
+    "description_it": "Uno dei fari d’altura più iconici dell’Adriatico, lontano tra la costa croata e quella italiana. Palagruža è un marker di grande valore nautico, meteorologico e paesaggistico."
   },
   {
     "id": 3156,
