@@ -200,6 +200,14 @@
     "description_en": null
   },
   {
+    "id": 3602,
+    "wind2horizon_id": null,
+    "lat": 44.1521295,
+    "lng": 14.8206536,
+    "name_en": "Veli Rat Lighthouse",
+    "description_en": "Veli Rat Lighthouse stands on the northwestern tip of Dugi Otok near the village of Veli Rat. Built in 1849 and about 42 metres high, it is one of the most distinctive lighthouses in the Adriatic. For sailors, it is an important visual landmark on routes between the open Adriatic, the Zadar archipelago and northern Dalmatia."
+  },
+  {
     "id": 3392,
     "wind2horizon_id": null,
     "lat": 44.8779324,
@@ -240,6 +248,14 @@
     "description_en": "Iconic music-minded museum loaded with pop-culture memorabilia, artifacts, instruments & a jukebox."
   },
   {
+    "id": 3611,
+    "wind2horizon_id": null,
+    "lat": 42.6516088,
+    "lng": 18.0479411,
+    "name_en": "Grebeni Lighthouse",
+    "description_en": "Lighthouse on the Grebeni rocks west of Dubrovnik. It marks the western approach area to Dubrovnik and is relevant for navigation off the Lapad coast."
+  },
+  {
     "id": 3382,
     "wind2horizon_id": null,
     "lat": 45.31683049999999,
@@ -270,6 +286,22 @@
     "lng": 14.5294127,
     "name_en": "Love Cave",
     "description_en": null
+  },
+  {
+    "id": 3608,
+    "wind2horizon_id": null,
+    "lat": 43.064569,
+    "lng": 16.2418672,
+    "name_en": "Stončica Lighthouse",
+    "description_en": "Lighthouse on the northeastern cape of Vis island. It is a very important landmark for approaches to Vis and for routes between the open Adriatic, the Split area and southern Dalmatia."
+  },
+  {
+    "id": 3612,
+    "wind2horizon_id": null,
+    "lat": 42.3927778,
+    "lng": 18.5330556,
+    "name_en": "Rt Oštra / Punta Oštro Light",
+    "description_en": "Navigation point at Croatia’s southernmost mainland area on the Prevlaka peninsula, at the entrance to the Bay of Kotor. A strategically and nautically important border and approach area."
   },
   {
     "id": 3394,
@@ -312,6 +344,22 @@
     "description_en": "Beautiful mooring field managed by the Rovinj Harbor Authority.\n\nReservations only by email.\nVHF Channel 10"
   },
   {
+    "id": 3605,
+    "wind2horizon_id": null,
+    "lat": 43.8264697,
+    "lng": 15.5602607,
+    "name_en": "Prišnjak Lighthouse",
+    "description_en": "Lighthouse on the small island of Prišnjak in the Murter Sea. It marks an important approach and orientation area west and south of the Murter archipelago."
+  },
+  {
+    "id": 3613,
+    "wind2horizon_id": null,
+    "lat": 44.52729069999999,
+    "lng": 14.4772802,
+    "name_en": "Agrotourism - The Lošinj Aromatic Garden",
+    "description_en": null
+  },
+  {
     "id": 3242,
     "wind2horizon_id": null,
     "lat": 45.32660689999999,
@@ -352,6 +400,14 @@
     "description_en": null
   },
   {
+    "id": 3614,
+    "wind2horizon_id": null,
+    "lat": 44.885964,
+    "lng": 14.3216047,
+    "name_en": "Sveti Ivan Beach / Lubenice",
+    "description_en": "Spectacular beach below Lubenice on Cres. A beautiful nature and landmark point, but not a lighthouse."
+  },
+  {
     "id": 2895,
     "wind2horizon_id": null,
     "lat": 45.486393,
@@ -382,6 +438,14 @@
     "lng": 13.62412102149439,
     "name_en": "Sveti Andrija Quay with mooring places",
     "description_en": "Small quay with mooring places, electricity, and water. Managed by the port authority of Rovinj.\nOnly the 2 outermost spots are for sailing yachts (due to water depth).\nReservation only via email. VHF channel 17"
+  },
+  {
+    "id": 3607,
+    "wind2horizon_id": null,
+    "lat": 43.1686,
+    "lng": 16.4433635,
+    "name_en": "Pločica Lighthouse",
+    "description_en": "Lighthouse on Pločica island between Hvar, Korčula and the Pelješac area. It is an important passage marker in the Korčula Channel and on routes between central and southern Dalmatia."
   },
   {
     "id": 3452,
@@ -416,6 +480,14 @@
     "description_en": null
   },
   {
+    "id": 3604,
+    "wind2horizon_id": null,
+    "lat": 43.853145,
+    "lng": 15.2054305,
+    "name_en": "Sestrica Vela - Tajer Lighthouse",
+    "description_en": "Distinctive lighthouse on Sestrica Vela at the northeastern edge of the Kornati islands. It is an important landmark for passages between Dugi Otok, Telašćica and the Kornati archipelago."
+  },
+  {
     "id": 3226,
     "wind2horizon_id": null,
     "lat": 44.5172791,
@@ -438,6 +510,22 @@
     "lng": 13.62605419103072,
     "name_en": null,
     "description_en": null
+  },
+  {
+    "id": 3606,
+    "wind2horizon_id": null,
+    "lat": 43.8533801,
+    "lng": 15.2048706,
+    "name_en": "Duplicate: Sestrica Vela - Tajer Lighthouse",
+    "description_en": "Distinctive lighthouse on Sestrica Vela at the northeastern edge of the Kornati islands. It is an important landmark for passages between Dugi Otok, Telašćica and the Kornati archipelago."
+  },
+  {
+    "id": 3609,
+    "wind2horizon_id": null,
+    "lat": 42.7686111,
+    "lng": 16.5147222,
+    "name_en": "Sušac Lighthouse",
+    "description_en": "Offshore lighthouse on the remote island of Sušac southwest of Korčula and Lastovo. It is an important fix for longer passages across open sea."
   },
   {
     "id": 2533,
@@ -494,6 +582,14 @@
     "lng": 13.8493735,
     "name_en": "INA",
     "description_en": null
+  },
+  {
+    "id": 3603,
+    "wind2horizon_id": null,
+    "lat": 45.6756647,
+    "lng": 13.7569378,
+    "name_en": "Victory Lighthouse Trieste",
+    "description_en": "Monumental lighthouse above Trieste on Gretta hill. It serves as a navigational aid, memorial and highly visible landmark for approaches to the Gulf of Trieste."
   },
   {
     "id": 865,
@@ -566,6 +662,14 @@
     "lng": 13.6237276,
     "name_en": "Sveti Andrija",
     "description_en": "Tiny island in the Adriatic Sea featuring a hotel, a beach & a water-sports center."
+  },
+  {
+    "id": 3610,
+    "wind2horizon_id": null,
+    "lat": 42.3926813,
+    "lng": 16.2558003,
+    "name_en": "Palagruža Lighthouse",
+    "description_en": "One of the most iconic offshore lighthouses in the Adriatic, far out between the Croatian and Italian coasts. Palagruža is an exceptional high-value marker for navigation, weather and landscape."
   },
   {
     "id": 3156,
