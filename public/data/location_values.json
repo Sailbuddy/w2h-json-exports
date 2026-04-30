@@ -19004,6 +19004,105 @@
     "locked": false
   },
   {
+    "id": 64528,
+    "location_id": 3602,
+    "attribute_id": 17,
+    "value_text": null,
+    "value_bool": null,
+    "value_number": null,
+    "value_option": null,
+    "language_code": "und",
+    "updated_at": "2026-04-29T10:29:52.045+00:00",
+    "name": null,
+    "value_json": [
+      {
+        "width": 4608,
+        "height": 2240,
+        "photo_reference": "Ab43m-v0mYen55JyulDvYvk4K4k4oTE2L951g1naB6mgBm8MznU0ICzdOUsvgEFiACXGyswZ7v3G7WtwVNUzfI3qRVAl8PwQKNaJSA2BqQLFyQHJpj_cUB1G94vf0Prmoql1mb3IxqewAJzNS56oYWCfWQlkPPPPpWUfm28WZyD7rCYpV350OhJF1E9u2WvCUlFs_0BbojHjkikrO6Fno0IZAvbPKBG2YdqhLe10za-IzdtBDefsHKgH0neHKXO1hFu_dBao1f-9HpakuwJ_IzhxnVNF0SluexL84awttbRQDM1DFnQd1WDAILIvPFVY4q1kWzSvXY9FcjDWOWNUl2WjrCxubl4pNN2pzZr-WeziUoX_RKZErfmWMVCWW3AfZYv1iuGgTcyBYNH090SaiYFE0Bcxo3hCa9GzwJGxOOqKiSjz9A",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107718865905363163165\">Cri cri</a>"
+        ]
+      },
+      {
+        "width": 3600,
+        "height": 4800,
+        "photo_reference": "Ab43m-sHGJ_jqxxftQGVL90viQL8kjet5NBB880_LGAsSEEtr5ZX_IZo5OSeJ0UV9bN0RBgMz_mYTRaxQ7PFki-X4RZiFBVw9FNR-KogJEY7pv_Ikp18KGPAVN1aBKRumUyiZPr0HQmiIrTXiiwz97Jb4mEBy6HkBXK8nR2jtrnJoQhGc927WW9N7HgfDKNzVVp0Q5R04S3YC1P4DpwBND1RfCz_jazrDmpKD2-VU1HQ18fi902CplZhU3dm5VOmI7Euq5sEeZMtT82GVubO2xVReBD_qR8peKUuBIQxdtWYgAhw1_fMiXwGfJRNmI5I0vNztQxTcDtJYIV2hWBWFJL_82F3wUnQoCHjHvqsvP8OnYmBw-adgjFHGQXFiHj9Py4Mk51Glco81T5-3DKlM9RJxDeaCapUlMrtQIlKAsZUhdcZ2A",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117885724947834495699\">Matjaž Demšar</a>"
+        ]
+      },
+      {
+        "width": 2240,
+        "height": 4608,
+        "photo_reference": "Ab43m-v14s_w-oEQU4g5Kerpbzv2abn3o0FTNrUlhr7BN8uq55hRjp8y06PSGL_ItC1JF6mrzciJ9TRFZFegRmcrzZbxB3F9sO6WZ7J-w-5ttjglp9JlN1e69T91bU8ndqgJQhAEiA5_4WzSQHzOH_UpRn0KJul9QgPBNmZ90WqgbKY8Uecj9Ok8uyttiyI5Vg_5fzBix4pvAnit8i_nxsfOlpZCc52C1mkkUKT4csznFyWwAEET3sf8FzpwLT3C8aKvyUfkkv-OdduLmAlpv6JOkMpabUbdD04uPEnWHJv-GLFohE3VEV9FqM9PZOIoYSM1d3HMJYd0N4fy9dR7mOUWRvBi7AN__SCQ3tc6mh9lQIjQy_pqIookRaltkWBOeLvgcJXy6nsCMGPM5y64Z126f9rV5xFqxa2G3zppdzGYBO1UF2aR",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107718865905363163165\">Cri cri</a>"
+        ]
+      },
+      {
+        "width": 4608,
+        "height": 2240,
+        "photo_reference": "Ab43m-uWRAogvIZZakAwnnYzQawql_nqbjVXGTHqpw76ZzQ5wAkO8GFz5RYBIjEpDahCjxwMhm4JaczPfe7BucZ6oc_pabjuFGVNT2lAXZCkRiJfINf93RUkSqN-Keldm9pkKPtmOX3r4puJ_AlLnqe4yuoFKWJd1ou3YUYtFI1FxQ1VkJnc3HW4UtS8ah0Cul-XM5DeSW-DEqJkKRAMqvzdVgPQuWmKXj26hgerH7sfMl7W1l_JwcjiD9aq0N9aywogblqk3UOKHrl4ak-soAusTezX1-lBFSY9xsJn-jzVF7t8NJAavGr82PGOCz77Kp8i6odKKRbaG4TXYj1UaF_CLo2pyvLfC0tWbgG67z_3i22egwb0zCbQsn-7MmMz51r7cn0ZFb5tKYDqiXBsYl-7Fco2pjy6DSu-DJfq2VljtqQHdA",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107718865905363163165\">Cri cri</a>"
+        ]
+      },
+      {
+        "width": 4800,
+        "height": 2700,
+        "photo_reference": "Ab43m-sFbrBm6FWUrcRMWxXVaZt3wkdXqdP15KAmbFGTGQzjgKCsGo0tr-JRz1t_htSV8lsZ5RZyveDG3cHtSSPpeTTmEXr4CG8IcKfg0_dB4OsjwUmH4EAQIUTwFINbzpPTFicLR964y0r_iixq7vpo_JEAZ6lqKCr15uOrWmNRZIRxoacvKfowzBQg4lCm9U-MExKtChEVbp1jUV3CJQ-WGJDlHrrSeB3HOkDrKGALi2iUIKePuSOPdo8kqXthfZdHxbXsFfcS0ngsB3CVb52qO81TQ7eUXXqFZEMOWGEi7XTdb6PbBqGHnAN6zaYviKVGfV7pmHcbQeq0USgNlWC8Ao4AvRLlVC2LEKUV3BW0_u3FO3ioHaMezyZiqHAXKNC8uIrXjG1Rjn9wQqNxxtffhOuPoV1HBPQdyVXPu1y2S9khReCJ",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115555598932238133429\">dario duić</a>"
+        ]
+      },
+      {
+        "width": 4320,
+        "height": 3240,
+        "photo_reference": "Ab43m-sbNoBqJjIqy-_essj7v0CHuig5WBweUsblJ4gjRbdGnGt69_uI3QKbFEW88ZZqvgHoieE1KO6Fvp-U12442amt7mSrJvYtUk4sEKCrTk6r7nyhW3N2n08WZ5uX5_fzG1yv9dkGy7UOw96tAUkln6Fc897b7Yq2zoZNCi384azDYup1KGmiBgvQX-oMmE_qSSXwRncZVDWzyhrgZ656j-Upt89SVJQ3bqNYfAxqHK_7FIT7TSoLuv5KeSiMELrGb-CEU-nZ_9wpd6Qslg2ou2D_SUzYaxuKELJH-ElwyB0t_563JFKcnBm50Eg6Wd0lN0yTtRiQjvJAC3D1n1QXN3PHvgY5SmmSx1wmpCAyK2mqCKSVlLSaOIfrCyLpTrBUbwRw37Ald-wHpnRKsFRy29uVovqt6_gcpg0m9C4sbo6976qS",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102131784565528864462\">davorka meister</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "Ab43m-vL6ojRjlK3rvnEPvvDx4SgQSqyXdXu8AYiPmHeuwuTkaZt1J6aO6gjSpyVgxB9IqSnXqEbFjPGadXJz1vnfo0dxm6NlKgFyY-ztS-UzojnZSB90EFmogeEIGvyFTtBe5fl-M8TAH0lByJvrrfp1Lf4WxnUwAY9yGEOdPx0JBXAcy22Ax3rdcMTbSV26mVFT0j8jdtdQSH5ngXUNeqZFEuUdc4OU_QJMj2NDlLT4GWJmCM5eHNqfTZ--oZtXxiDwn3UXo-yjCIQ5LhcUIyTAqP2ub5rDKeLmrWsLoCbclw846IrRD5ggscR_tjQ2d4yVVOXXblvMGJH47in5Y0WSTI7HOCTEUc_BO7iJVrpq4gtPVyUywITyhPn3l3rsn7mezMRWTUarp2P1jTNWtwP7lsMN7jL--oszbi7ATitForglw",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103606812383007033237\">Evgeniya</a>"
+        ]
+      },
+      {
+        "width": 4160,
+        "height": 3120,
+        "photo_reference": "Ab43m-scMIqSjxTYro8xj55XIRVj5ZcYLorGTtRWVlBHPKE8fBr8D2lEnw0L66t7EuzJpsjJDMDX-pNMA6LuGMKKx0PhoCA0Q3PR479g8_DZtiHr73OFpxWTcrqTLTrXhS5wR27yeP3WqYHitvYoA1Ce03oswEZPXHb8PnJYpLJiG40mD-EvM30kYJKdLhnOVFwjz_WhzaBWQwVCJo7zw1aSj8TlPXKdqUuj5x17jBzWI85W64JS3nk5xQEe1mnVaWOJoILHD7LilkawPr4XnlaKVT9oUzKvRFYUyEWI3BblQj7sS2cUpaNXJHSEb5nDdllymeifY7qC7wk3wllmQYWwsScFuF242Qi9V0rLQDZfrcUjlHa5qIRkhuIiPOylHth5uGB4964EC6EfrJf9-_B6Mn35SGHrd4Wvsou3t4u_Y2CWg-Db",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106649071161107360722\">Agnese Zanchettin</a>"
+        ]
+      },
+      {
+        "width": 2240,
+        "height": 4608,
+        "photo_reference": "Ab43m-sep-ww52-s287c91ZMKv4miU85_khb0kxnSAKJEpCngCLWW8gNu8svJaS5Oj4chqCjfPeWb-lxBqLtC1uYQ71ttFTBTJw3ydWkpyKVCaAA4maqn6nfPc60kAeeiWJskkVuvY6jlaNCwFMkWTOAivr0ZKjN8AdmwjTeKq_nWMcwDfJw1CkRjp3O4bhjSKAbGhShCvFEWSvXBVAC22XaIXuiFtv2SckkpY22BdLLC9Z02SYIa09B0H9oneI9pYBpu4ufczj7SsokjSTZus5ZSwy41vFZymPdYEKx56D7HyVjSwd5ssiqg09ldinuTnFWyCAh-iQb0bywSHHa-8g6mkdwne5QniEfnaS2ZWC-XeLoViiM0cnDKaIEl2idk868IPrrm69kJgbt2DmuSo8HubsHsjnTQcVOBrboNnFKx2PTQ_JH",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107718865905363163165\">Cri cri</a>"
+        ]
+      },
+      {
+        "width": 3024,
+        "height": 4032,
+        "photo_reference": "Ab43m-sG-Mqz-wEMNEEpCURn0YaEMVdYqW_izhG-4-CDtFvX_bR0zziZhqj2KsRsg0UT4_UTWhoPZ8R5D_OeyUYZskpQxNwf09odidVsA0SGIU-eJxDchnbKQYYHGqp6CywVZhn3ToQ7ivuj51RVldjxMrQNsVq0cktQIHuSYMxFntkFro8HQHvbmVu7YMgXpcZicV-IB1xTcezGYqje6Z4mI8r5NLOZrmncJPxALoNssaUbgi50ysyXwYvpJBobbqlDPs0BXkaC8xV8WgSOwmCjTEl5Fh4X_1Wrt61H0VMeNkviOmkbmxIfHmDddJ56vOPJWcf3VTrMECsxiy-KhjOFLA1IaM7vnkCUBMlpBMkQ6bjEX2rSks_n3bkUgK3XqLi1gsgOvFezFYSwnPvi5S3UmqlYWbmHpdDQDxapFlvGN5vB",
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103606812383007033237\">Evgeniya</a>"
+        ]
+      },
+      {
+        "ai": false
+      }
+    ],
+    "source_tag": "google",
+    "locked": false
+  },
+  {
     "id": 53579,
     "location_id": 2049,
     "attribute_id": 97,
@@ -20916,21 +21015,6 @@
     "value_option": null,
     "language_code": "und",
     "updated_at": "2025-10-29T16:03:19.472+00:00",
-    "name": null,
-    "value_json": null,
-    "source_tag": "google",
-    "locked": false
-  },
-  {
-    "id": 20520,
-    "location_id": 88,
-    "attribute_id": 14,
-    "value_text": null,
-    "value_bool": true,
-    "value_number": null,
-    "value_option": null,
-    "language_code": "und",
-    "updated_at": "2025-11-19T19:10:00.303+00:00",
     "name": null,
     "value_json": null,
     "source_tag": "google",
