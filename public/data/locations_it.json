@@ -720,6 +720,14 @@
     "description_it": "Piccolo ufficio del marinaio locale.\nViene con il gommone alle boe.\nAiuta all'ormeggio e riscuote la tassa.\nCanale VHF 10\n\nNella baia occidentale è vietato ancorare.\nSolo boe."
   },
   {
+    "id": 3615,
+    "wind2horizon_id": null,
+    "lat": 44.1619469,
+    "lng": 15.8488444,
+    "name_it": "Zermagna",
+    "description_it": null
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
