@@ -720,6 +720,14 @@
     "description_fr": "Petit bureau du maître de port local.\nIl vient avec le canot aux bouées.\nAide à l'amarrage et perçoit les frais.\nCanal VHF 10\n\nDans la baie ouest, l'ancrage est interdit.\nSeulement des bouées."
   },
   {
+    "id": 3615,
+    "wind2horizon_id": null,
+    "lat": 44.1619469,
+    "lng": 15.8488444,
+    "name_fr": "Zrmanja",
+    "description_fr": null
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
