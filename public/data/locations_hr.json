@@ -720,6 +720,14 @@
     "description_hr": "Mali ured lokalnog lučkog kapetana.\nDolazi gumenjakom do bova.\nPomaže pri pristajanju i naplaćuje naknadu.\nVHF kanal 10\n\nU zapadnoj uvali zabranjeno je sidrenje.\nSamo boje."
   },
   {
+    "id": 3615,
+    "wind2horizon_id": null,
+    "lat": 44.1619469,
+    "lng": 15.8488444,
+    "name_hr": "Zrmanja",
+    "description_hr": null
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
