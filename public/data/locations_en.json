@@ -720,6 +720,14 @@
     "description_en": "Small office of the local harbor master.\nHe comes with the dinghy to the buoys.\nHelps with docking and collects the fee.\nVHF Channel 10\n\nIn the western bay, anchoring is prohibited.\nOnly buoys."
   },
   {
+    "id": 3615,
+    "wind2horizon_id": null,
+    "lat": 44.1619469,
+    "lng": 15.8488444,
+    "name_en": "Zrmanja",
+    "description_en": null
+  },
+  {
     "id": 3398,
     "wind2horizon_id": null,
     "lat": 43.9621868,
