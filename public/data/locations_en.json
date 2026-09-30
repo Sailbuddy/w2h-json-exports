@@ -760,6 +760,14 @@
     "description_en": "Viewpoint overlooking Sveti Ivan"
   },
   {
+    "id": 3616,
+    "wind2horizon_id": null,
+    "lat": 44.77625310149728,
+    "lng": 13.916043798773767,
+    "name_en": null,
+    "description_en": null
+  },
+  {
     "id": 3004,
     "wind2horizon_id": null,
     "lat": 44.140518,
